@@ -193,30 +193,22 @@ def build_child_payload(child: dict, parent_payload: dict | None) -> dict:
         parent_ctx["markets"] = mkts
     ntype = child.get("nodetype")
     if ntype in ("category", "subcategory", "group", "groupname", "parttype"):
-        # Accumulate the nav label of EVERY category level, arbitrarily deep, so a
-        # nested tree (Group>Subgroup>Parttype>...) keeps every rung — not just the
-        # last two. Route-independent: each rung appends its own display name to
-        # whatever the parent already accumulated.
+        # category_path is derived from THIS node's OWN identity — its jsn `groupname`
+        # (RockAuto's true immediate parent) plus its display name — NOT by accumulating
+        # the traversal walk. RockAuto re-renders its ENTIRE category tree at every level,
+        # so parse_nav returns sibling/ancestor nodes alongside the real children; the old
+        # "append every rung to whatever the parent accumulated" snowballed 20+ bogus rungs
+        # into the path (a Brake Pad ended up filed under 'Wiper & Washer', ~64% of parts
+        # mis-categorised). Route-independent `groupname>name` is immune to that over-
+        # collection and matches RockAuto's real (2-level) taxonomy.
         name = node_display_name(child)              # 'Brake Pad', 'Disc Brake Pad', ...
-        prev = parent_ctx.get("category_path")
-        # A parttype's jsn names its immediate parent groupname. Use it to SEED the
-        # path only when we reached the parttype without having accumulated a group
-        # (e.g. straight off the carcode page) — so we still get 'Group>Parttype'
-        # rather than a bare 'Parttype'. If a group was already accumulated, prev is
-        # set and this seed is skipped (no duplication).
-        if ntype == "parttype" and not prev:
-            grp = (child.get("jsn") or {}).get("groupname")
-            if grp and str(grp).strip():
-                prev = str(grp).strip()
+        grp = (child.get("jsn") or {}).get("groupname")
+        grp = (str(grp).strip() if grp is not None and str(grp).strip()
+               and not str(grp).strip().isdigit() else None)
         if name:
-            if not prev:
-                parent_ctx["category_path"] = name
-            elif prev.split(">")[-1].strip().lower() != name.strip().lower():
-                parent_ctx["category_path"] = f"{prev}>{name}"
-            else:  # same as parent tail (seed==name, or a repeated node): keep prev
-                parent_ctx["category_path"] = prev
-        elif prev:
-            parent_ctx["category_path"] = prev
+            parent_ctx["category_path"] = (
+                f"{grp}>{name}" if grp and grp.lower() != name.strip().lower() else name)
+        # An unnamed node keeps whatever the parent carried (rare; nothing to add).
     return {
         "jsn": child.get("jsn"),
         "ctx": parent_ctx,
@@ -244,82 +236,66 @@ def stage_listings(conn, listings: list[dict], batch_id: str) -> int:
     """Insert parsed Listing dicts into stg_listings (+ a stg_fitment row per
     listing when the vehicle is known). Returns rows staged. Defensive: one bad
     listing never aborts the batch."""
-    staged = 0
+    # Build all row tuples first, then bulk-insert with executemany. pymysql folds
+    # same-template rows into batched multi-row INSERTs (bounded by max_allowed_packet),
+    # cutting ~10-40x the round trips of the old per-row loop — the dominant cost when
+    # staging tens of millions of rows. A malformed listing is skipped while building;
+    # the DB write is all-or-nothing per call.
+    lsql = (
+        "INSERT INTO stg_listings "
+        "(source, source_url, make_name, model_name, `year`, "
+        " engine_name, liters, cylinders, fuel_type, aspiration, "
+        " trim, market, category_path, brand_name, part_number, name, "
+        " description, price, core_charge, weight, image_urls, "
+        " attributes, warehouse_code, quantity, fitment_note, "
+        " warranty, interchange, doc_urls, variants, moreinfo, batch_id) "
+        "VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,"
+        "%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)")
+    fsql = (
+        "INSERT INTO stg_fitment "
+        "(sku, make_name, model_name, `year`, engine_name, trim, note, batch_id) "
+        "VALUES (%s,%s,%s,%s,%s,%s,%s,%s)")
+    lrows: list[tuple] = []
+    frows: list[tuple] = []
+    for lst in listings:
+        try:
+            lrows.append((
+                lst.get("source", "rockauto"), lst.get("source_url"),
+                lst.get("make_name"), lst.get("model_name"), lst.get("year"),
+                lst.get("engine_name"), lst.get("liters"), lst.get("cylinders"),
+                lst.get("fuel_type"), lst.get("aspiration"), lst.get("trim"),
+                lst.get("market"), lst.get("category_path"), lst.get("brand_name"),
+                lst.get("part_number"), lst.get("name"), lst.get("description"),
+                lst.get("price"), lst.get("core_charge"), lst.get("weight"),
+                _json_or_none(lst.get("image_urls")),
+                _json_or_none(lst.get("attributes")), lst.get("warehouse_code"),
+                lst.get("quantity"), lst.get("fitment_note"), lst.get("warranty"),
+                _json_or_none(lst.get("interchange")),
+                _json_or_none(lst.get("doc_urls")),
+                _json_or_none(lst.get("variants")),
+                _json_or_none(lst.get("moreinfo")), batch_id,
+            ))
+            # Companion fitment row (needs a fully-known vehicle AND a part to attach
+            # to — vehicle-only tree rows have no sku, so skip them or the loader
+            # would chase a junk "brand-part" sku on every run).
+            yr = _as_int(lst.get("year"))
+            if (lst.get("make_name") and lst.get("model_name") and yr
+                    and (lst.get("brand_name") or lst.get("part_number"))):
+                frows.append((
+                    make_sku(lst.get("brand_name"), lst.get("part_number")),
+                    lst.get("make_name"), lst.get("model_name"), yr,
+                    lst.get("engine_name"), lst.get("trim"),
+                    lst.get("fitment_note"), batch_id,
+                ))
+        except Exception as exc:  # noqa: BLE001 - skip the bad row, keep going
+            print(f"    [warn] bad listing skipped: {exc}")
     with conn.cursor() as cur:
-        for lst in listings:
-            try:
-                cur.execute(
-                    "INSERT INTO stg_listings "
-                    "(source, source_url, make_name, model_name, `year`, "
-                    " engine_name, liters, cylinders, fuel_type, aspiration, "
-                    " trim, market, category_path, brand_name, part_number, name, "
-                    " description, price, core_charge, weight, image_urls, "
-                    " attributes, warehouse_code, quantity, fitment_note, "
-                    " warranty, interchange, doc_urls, variants, moreinfo, batch_id) "
-                    "VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,"
-                    "%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)",
-                    (
-                        lst.get("source", "rockauto"),
-                        lst.get("source_url"),
-                        lst.get("make_name"),
-                        lst.get("model_name"),
-                        lst.get("year"),
-                        lst.get("engine_name"),
-                        lst.get("liters"),
-                        lst.get("cylinders"),
-                        lst.get("fuel_type"),
-                        lst.get("aspiration"),
-                        lst.get("trim"),
-                        lst.get("market"),
-                        lst.get("category_path"),
-                        lst.get("brand_name"),
-                        lst.get("part_number"),
-                        lst.get("name"),
-                        lst.get("description"),
-                        lst.get("price"),
-                        lst.get("core_charge"),
-                        lst.get("weight"),
-                        _json_or_none(lst.get("image_urls")),
-                        _json_or_none(lst.get("attributes")),
-                        lst.get("warehouse_code"),
-                        lst.get("quantity"),
-                        lst.get("fitment_note"),
-                        lst.get("warranty"),
-                        _json_or_none(lst.get("interchange")),
-                        _json_or_none(lst.get("doc_urls")),
-                        _json_or_none(lst.get("variants")),
-                        _json_or_none(lst.get("moreinfo")),
-                        batch_id,
-                    ),
-                )
-                # Companion fitment row (needs a fully-known vehicle AND a part to
-                # attach to — vehicle-only tree rows have no sku, so skip them or the
-                # loader would chase a junk "brand-part" sku on every run).
-                yr = _as_int(lst.get("year"))
-                if (lst.get("make_name") and lst.get("model_name") and yr
-                        and (lst.get("brand_name") or lst.get("part_number"))):
-                    cur.execute(
-                        "INSERT INTO stg_fitment "
-                        "(sku, make_name, model_name, `year`, engine_name, "
-                        " trim, note, batch_id) "
-                        "VALUES (%s,%s,%s,%s,%s,%s,%s,%s)",
-                        (
-                            make_sku(lst.get("brand_name"),
-                                     lst.get("part_number")),
-                            lst.get("make_name"),
-                            lst.get("model_name"),
-                            yr,
-                            lst.get("engine_name"),
-                            lst.get("trim"),
-                            lst.get("fitment_note"),
-                            batch_id,
-                        ),
-                    )
-                staged += 1
-            except Exception as exc:  # noqa: BLE001 - skip the bad row, keep going
-                print(f"    [warn] bad listing skipped: {exc}")
+        if lrows:
+            cur.executemany(lsql, lrows)
+        if frows:
+            cur.executemany(fsql, frows)
     conn.commit()
-    return staged
+    return len(lrows)
 
 
 # --------------------------------------------------------------------------- #
@@ -582,38 +558,34 @@ def _selftest() -> bool:
         {"nodetype": "model", "markets": ["MX"]}),
         "should_enqueue drops MX-only node")
 
-    # payload accumulation builds category_path and inherits ctx
+    # category_path is ROUTE-INDEPENDENT: each node derives its path from its OWN jsn
+    # (groupname = true parent) + name, NOT from the accumulated parent walk. This is the
+    # fix for parse_nav's full-tree over-collection, which snowballed bogus rungs and
+    # mis-filed a Brake Pad under 'Wiper & Washer' (~64% of parts affected).
     parent = {"ctx": {"make": "honda", "year": 2015, "model": "accord"}}
     child_cat = {"nodetype": "category", "jsn": {"desc": "Brake & Wheel Hub"}}
     p1 = build_child_payload(child_cat, parent)
     check(p1["ctx"]["category_path"] == "Brake & Wheel Hub",
-          "category_path seeded")
-    child_grp = {"nodetype": "group", "jsn": {"desc": "Brake Pad"}}
-    p2 = build_child_payload(child_grp, p1)
+          f"top category is its own name: {p1['ctx']['category_path']}")
+    # A parttype's jsn names its true parent group -> clean 'Group>Parttype'.
+    child_pt = {"nodetype": "parttype", "label": "Brake Pad",
+                "jsn": {"groupname": "Brake & Wheel Hub"}}
+    p2 = build_child_payload(child_pt, p1)
     check(p2["ctx"]["category_path"] == "Brake & Wheel Hub>Brake Pad",
-          "category_path appended with '>'")
+          f"parttype -> groupname>name: {p2['ctx']['category_path']}")
     check(p2["ctx"]["make"] == "honda" and p2["ctx"]["model"] == "accord",
           "vehicle ctx inherited down the tree")
-
-    # DEEP (3+ level) accumulation: category > group > parttype must keep EVERY
-    # rung, not collapse to groupname>parttype (the bug this build fixes).
-    child_pt = {"nodetype": "parttype", "label": "Disc Brake Pad",
-                "jsn": {"groupname": "Brake & Wheel Hub"}}
-    p3 = build_child_payload(child_pt, p2)
-    check(p3["ctx"]["category_path"] == "Brake & Wheel Hub>Brake Pad>Disc Brake Pad",
-          f"deep 3-level path lost a rung: {p3['ctx']['category_path']}")
-    # A 4th nesting rung still accumulates.
-    child_sub = {"nodetype": "parttype", "label": "Semi-Metallic",
-                 "jsn": {"groupname": "Brake & Wheel Hub"}}
-    p4 = build_child_payload(child_sub, p3)
-    check(p4["ctx"]["category_path"]
-          == "Brake & Wheel Hub>Brake Pad>Disc Brake Pad>Semi-Metallic",
-          f"deep 4-level path lost a rung: {p4['ctx']['category_path']}")
-    # Route-independence: a parttype reached WITHOUT a traversed group still seeds
-    # 'Group>Parttype' from its jsn groupname (no bare parttype, no dupe group).
+    # REGRESSION (the bug): even reached via a GARBAGE accumulated parent path, a parttype
+    # resolves to its own clean groupname>name — the over-collected walk cannot leak in.
+    garbage_parent = {"ctx": {"make": "honda",
+        "category_path": "Suspension>Wiper & Washer>Electrical-Switch & Relay>Wheel"}}
+    p_bug = build_child_payload(child_pt, garbage_parent)
+    check(p_bug["ctx"]["category_path"] == "Brake & Wheel Hub>Brake Pad",
+          f"garbage parent path leaked into leaf: {p_bug['ctx']['category_path']}")
+    # Route-independence off the carcode page (no traversed group) — same clean result.
     p_direct = build_child_payload(child_pt, {"ctx": {"make": "honda"}})
-    check(p_direct["ctx"]["category_path"] == "Brake & Wheel Hub>Disc Brake Pad",
-          f"parttype off carcode page mis-seeded: {p_direct['ctx']['category_path']}")
+    check(p_direct["ctx"]["category_path"] == "Brake & Wheel Hub>Brake Pad",
+          f"parttype off carcode page mis-derived: {p_direct['ctx']['category_path']}")
 
     # "All Engines" AND specific-engine carcode nodes must BOTH enqueue (parts can
     # differ per engine; our carcode encodes the engine). Neither is dropped.
