@@ -31,6 +31,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import random
 import re
 import sys
@@ -55,6 +56,11 @@ LEAF_TYPES = {"group", "parttype", "listing"}
 CLAIM_LIMIT = 25
 # Fields on a TreeNode that describe the vehicle context we accumulate.
 _CTX_FIELDS = ("make", "year", "model", "carcode", "engine")
+# Stage the companion stg_fitment rows? They are redundant on the NDJSON path — the
+# listing pass already writes every part_fitment relation under the same guard (see
+# the note in stage_listings) — and they cost ~36% of all loader statements. Default
+# ON so behaviour is unchanged unless explicitly asked; SP_SKIP_FITMENT=1 = fast path.
+_STAGE_FITMENT = os.getenv("SP_SKIP_FITMENT") != "1"
 
 
 # --------------------------------------------------------------------------- #
@@ -278,8 +284,21 @@ def stage_listings(conn, listings: list[dict], batch_id: str) -> int:
             # Companion fitment row (needs a fully-known vehicle AND a part to attach
             # to — vehicle-only tree rows have no sku, so skip them or the loader
             # would chase a junk "brand-part" sku on every run).
+            #
+            # REDUNDANT for this (NDJSON) path, and it costs ~36% of all loader
+            # statements: loader.load_listing already upserts the IDENTICAL
+            # (part_id, vehicle_id) into part_fitment (bin/loader.py:495) under the
+            # SAME guard — make+model+year for the vehicle (loader.py:354) plus a
+            # real part (it returns early at loader.py:368 when brand and part_number
+            # are both absent) — resolving the SAME vehicle through the same
+            # vehicle_slug(). load_fitment (loader.py:532) then re-upserts that same
+            # unique key, so the second pass writes ZERO new relations. Set
+            # SP_SKIP_FITMENT=1 to drop it. NOTE: this only affects rows staged HERE;
+            # producers that legitimately supply fitment-only rows (bin/ingest_acespies.py)
+            # write stg_fitment directly and are unaffected.
             yr = _as_int(lst.get("year"))
-            if (lst.get("make_name") and lst.get("model_name") and yr
+            if (_STAGE_FITMENT
+                    and lst.get("make_name") and lst.get("model_name") and yr
                     and (lst.get("brand_name") or lst.get("part_number"))):
                 frows.append((
                     make_sku(lst.get("brand_name"), lst.get("part_number")),
