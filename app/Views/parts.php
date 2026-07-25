@@ -3,13 +3,6 @@
 $label = trim($vehicle['year'] . ' ' . $vehicle['make'] . ' ' . $vehicle['model']
     . ($vehicle['engine'] ? ' ' . $vehicle['engine'] : ''));
 ?>
-<nav class="crumbs">
-  <a href="<?= e($_controller->url('/')) ?>">Home</a> &rsaquo;
-  <a href="<?= e($_controller->url('/make/' . $vehicle['make_slug'])) ?>"><?= e($vehicle['make']) ?></a> &rsaquo;
-  <a href="<?= e($_controller->url('/vehicle/' . $vehicle['slug'])) ?>"><?= e($vehicle['model']) ?></a> &rsaquo;
-  <span><?= e($category['name']) ?></span>
-</nav>
-
 <h1 class="page-title"><?= e($category['name']) ?></h1>
 <p class="subtitle">For <?= e($label) ?> &mdash; <?= count($parts) ?> part<?= count($parts) == 1 ? '' : 's' ?></p>
 
@@ -44,9 +37,9 @@ $label = trim($vehicle['year'] . ' ' . $vehicle['make'] . ' ' . $vehicle['model'
         </div>
       </div>
       <div class="part-buy">
-        <div class="price"><?= price_tag($p['price']) ?></div>
+        <div class="price"><?= price_tag($p['price'], (int) $category['id']) ?></div>
         <?php if ($hasRange): ?>
-          <div class="opt-range"><?= $nv ?> options &middot; <?= price_tag($vmin) ?>&ndash;<?= price_tag($vmax) ?></div>
+          <div class="opt-range"><?= $nv ?> options &middot; <?= price_tag($vmin, (int) $category['id']) ?>&ndash;<?= price_tag($vmax, (int) $category['id']) ?></div>
         <?php endif; ?>
         <?php if ((float)$p['core_charge'] > 0): ?>
           <div class="core">+<?= money($p['core_charge']) ?> core</div>

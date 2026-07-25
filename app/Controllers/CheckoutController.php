@@ -9,22 +9,53 @@ use App\Core\Stripe;
 
 class CheckoutController extends Controller
 {
-    /** POST /checkout — create pending order, then Stripe Checkout (or mock). */
+    /** GET /checkout — the on-site checkout form (contact + shipping), Shopify-style. */
+    public function form(): void
+    {
+        $cart = new Cart();
+        if ($cart->isEmpty()) { $this->redirect('/cart'); return; }
+
+        $stripe = new Stripe();
+        $this->render('checkout', [
+            'items'       => $cart->items(),
+            'totals'      => $cart->totals(),
+            'errors'      => [],
+            'old'         => [],
+            'stripeLive'  => $stripe->enabled(),
+            'csrf'        => \App\Core\Auth::token(),
+        ], 'Checkout — Supreme Parts');
+    }
+
+    /** POST /checkout — validate the form, create the order with the customer's
+     *  details, then hand off to Stripe Checkout (or finalize in mock mode). */
     public function start(): void
     {
         $cart = new Cart();
-        if ($cart->isEmpty()) { $this->redirect('/cart'); }
+        if ($cart->isEmpty()) { $this->redirect('/cart'); return; }
 
-        $items = $cart->items();
+        if (!\App\Core\Auth::verify($_POST['_csrf'] ?? null)) { $this->redirect('/checkout'); return; }
+
+        $items  = $cart->items();
         $totals = $cart->totals();
-        [$orderId, $orderNumber] = $this->createPendingOrder($items, $totals);
-
         $stripe = new Stripe();
+
+        [$form, $errors] = $this->validateCheckout($_POST);
+        if ($errors) {
+            $this->render('checkout', [
+                'items' => $items, 'totals' => $totals, 'errors' => $errors, 'old' => $form,
+                'stripeLive' => $stripe->enabled(), 'csrf' => \App\Core\Auth::token(),
+            ], 'Checkout — Supreme Parts');
+            return;
+        }
+
+        [$orderId, $orderNumber] = $this->createPendingOrder($items, $totals, $form);
+
         if (!$stripe->enabled()) {
             // MOCK mode: no keys configured — mark paid immediately (local demo only).
             $this->finalizeOrder($orderId, null, 'mock');
             $cart->clear();
             $this->redirect('/checkout/success?order=' . urlencode($orderNumber) . '&mock=1');
+            return;
         }
 
         $cur = $stripe->currency();
@@ -56,8 +87,8 @@ class CheckoutController extends Controller
                 'success_url' => $this->absoluteUrl('/checkout/success') . '?session_id={CHECKOUT_SESSION_ID}',
                 'cancel_url'  => $this->absoluteUrl('/checkout/cancel'),
                 'payment_method_types' => ['card'],
+                'customer_email' => $form['email'],   // prefilled from our form
                 'billing_address_collection' => 'auto',
-                'shipping_address_collection' => ['allowed_countries' => ['US']],
                 'metadata' => ['order_id' => (string) $orderId, 'order_number' => $orderNumber],
                 'line_items' => $lineItems,
             ]);
@@ -123,14 +154,14 @@ class CheckoutController extends Controller
 
     // ---- internals ----
 
-    private function createPendingOrder(array $items, array $totals): array
+    private function createPendingOrder(array $items, array $totals, array $form = []): array
     {
         $db = $this->db();
         $orderNumber = $this->makeOrderNumber();
         $db->prepare(
             "INSERT INTO orders (order_number, email, `status`, subtotal, shipping_total, tax_total, grand_total, currency)
-             VALUES (?, '', 'pending', ?, ?, 0, ?, 'USD')"
-        )->execute([$orderNumber, $totals['subtotal'], $totals['shipping'], $totals['grand']]);
+             VALUES (?, ?, 'pending', ?, ?, 0, ?, 'USD')"
+        )->execute([$orderNumber, $form['email'] ?? '', $totals['subtotal'], $totals['shipping'], $totals['grand']]);
         $orderId = (int) $db->lastInsertId();
 
         $stmt = $db->prepare(
@@ -141,7 +172,40 @@ class CheckoutController extends Controller
             $stmt->execute([$orderId, (int) $it['part_id'], $it['part_number'], $it['name'],
                 (int) $it['quantity'], $it['unit_price'], $it['line_total']]);
         }
+
+        // Persist the shipping address the customer entered on our form.
+        if (!empty($form['line1'])) {
+            $db->prepare(
+                "INSERT INTO order_addresses (order_id, `type`, name, line1, line2, city, state, postal_code, country)
+                 VALUES (?, 'shipping', ?, ?, ?, ?, ?, ?, ?)"
+            )->execute([$orderId, trim(($form['first'] ?? '') . ' ' . ($form['last'] ?? '')),
+                $form['line1'], $form['line2'] ?? null, $form['city'] ?? '', $form['state'] ?? '',
+                $form['zip'] ?? '', $form['country'] ?? 'US']);
+        }
+
         return [$orderId, $orderNumber];
+    }
+
+    /** Validate the checkout form. Returns [cleaned, errors]. */
+    private function validateCheckout(array $post): array
+    {
+        $f = [];
+        foreach (['email', 'first', 'last', 'line1', 'line2', 'city', 'state', 'zip', 'country', 'phone'] as $k) {
+            $f[$k] = trim((string) ($post[$k] ?? ''));
+        }
+        if ($f['country'] === '') { $f['country'] = 'US'; }
+
+        $e = [];
+        if ($f['email'] === '' || !filter_var($f['email'], FILTER_VALIDATE_EMAIL)) {
+            $e['email'] = 'Enter a valid email for your receipt.';
+        }
+        if ($f['first'] === '') { $e['first'] = 'First name is required.'; }
+        if ($f['last'] === '')  { $e['last']  = 'Last name is required.'; }
+        if ($f['line1'] === '') { $e['line1'] = 'Street address is required.'; }
+        if ($f['city'] === '')  { $e['city']  = 'City is required.'; }
+        if ($f['state'] === '') { $e['state'] = 'State is required.'; }
+        if ($f['zip'] === '')   { $e['zip']   = 'ZIP / postal code is required.'; }
+        return [$f, $e];
     }
 
     /** Idempotently mark an order paid + record payment, address, inventory. */

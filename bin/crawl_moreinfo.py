@@ -22,6 +22,9 @@ from __future__ import annotations
 import argparse
 import os
 import sys
+import time
+
+import pymysql.err
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "scraper"))
@@ -78,6 +81,8 @@ def main() -> int:
     ap.add_argument("--max-gb", default=os.getenv("SP_MAX_GB", ""),
                     help="hard Evomi byte ceiling in GB (blank = unlimited)")
     ap.add_argument("--commit-every", type=int, default=50)
+    ap.add_argument("--shards", type=int, default=1, help="total parallel shards")
+    ap.add_argument("--shard", type=int, default=0, help="this shard index [0..shards)")
     args = ap.parse_args()
 
     if args.max_gb:
@@ -86,8 +91,12 @@ def main() -> int:
 
     conn = db.connect()
     with conn.cursor() as c:
+        # Shards partition by id so N parallel workers touch DISJOINT rows (no
+        # overlap, no cross-worker lock contention). MOD keeps it index-friendly.
+        shardf = (f" AND MOD(id,{int(args.shards)})={int(args.shard)}"
+                  if args.shards > 1 else "")
         q = ("SELECT id, moreinfo_key FROM parts "
-             "WHERE moreinfo_key IS NOT NULL AND moreinfo_done=0 ORDER BY id")
+             f"WHERE moreinfo_key IS NOT NULL AND moreinfo_done=0{shardf} ORDER BY id")
         if args.limit:
             q += f" LIMIT {int(args.limit)}"
         c.execute(q)
@@ -117,11 +126,22 @@ def main() -> int:
             print(f"[warn] part {pid} fetch/parse failed: {type(e).__name__}: {e}", flush=True)
             continue
         mi = parse_moreinfo(html)
-        _store(conn, pid, mi)
+        # Per-part commit + retry: N parallel shards write parts/part_attributes, so
+        # InnoDB can deadlock (1213) or lock-wait (1205). Roll back + retry instead of
+        # letting a shard die (as one did before this guard).
+        for _try in range(6):
+            try:
+                _store(conn, pid, mi)
+                conn.commit()
+                break
+            except pymysql.err.OperationalError as e:
+                conn.rollback()
+                if e.args[0] not in (1205, 1213) or _try == 5:
+                    raise
+                time.sleep(0.5 * (_try + 1))
         done += 1
         specs += len(mi.get("specs", []))
         if i % args.commit_every == 0:
-            conn.commit()
             print(f"  {i}/{len(todo)} enriched={done} specs={specs} "
                   f"spent={BUDGET.spent/1e9:.2f}GB", flush=True)
     conn.commit()

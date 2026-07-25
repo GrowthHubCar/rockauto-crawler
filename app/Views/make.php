@@ -1,9 +1,4 @@
 <?php /** @var array $make @var array $vehicles @var \App\Core\Controller $_controller */ ?>
-<nav class="crumbs">
-  <a href="<?= e($_controller->url('/')) ?>">Home</a> &rsaquo;
-  <span><?= e($make['name']) ?></span>
-</nav>
-
 <h1 class="page-title"><?= e($make['name']) ?> Parts Catalog</h1>
 
 <?php if (!$vehicles): ?>
@@ -18,7 +13,7 @@
           <td><?= e((string)$v['year']) ?></td>
           <td><?= e($v['model']) ?><?= $v['trim'] ? ' <span class="muted">'.e($v['trim']).'</span>' : '' ?></td>
           <td><?= e($v['engine']) ?></td>
-          <td class="right"><a class="btn btn-sm" href="<?= e($_controller->url('/vehicle/' . $v['slug'])) ?>">View parts &rarr;</a></td>
+          <td class="right"><a class="btn btn-sm" href="<?= e($_controller->url('/products?vehicle=' . rawurlencode($v['slug']))) ?>">View parts &rarr;</a></td>
         </tr>
       <?php endforeach; ?>
       </tbody>

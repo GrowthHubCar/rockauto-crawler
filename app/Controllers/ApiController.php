@@ -77,6 +77,130 @@ class ApiController extends Controller
         $this->json($rows);
     }
 
+    /** 8 sellable parts for the homepage grid, optionally inside one category group.
+     *  Starts at a date-seeded random id so the set rotates daily but the query
+     *  still rides the primary key (ORDER BY RAND() would scan ~1M rows). */
+    public function featured(): void
+    {
+        $cat = trim((string) ($_GET['category'] ?? ''));
+        $join = '';
+        $where = ['p.price > 0', 'p.primary_image_path IS NOT NULL'];
+        $args = [];
+        if ($cat !== '') {
+            $join = " JOIN categories c ON c.id = p.category_id
+                      JOIN categories g ON g.id = COALESCE(c.parent_id, c.id) ";
+            $where[] = '(c.slug = :cat OR g.slug = :cat2)';
+            $args[':cat'] = $cat;
+            $args[':cat2'] = $cat;
+        }
+        $base = "SELECT p.slug, p.name, p.price, p.primary_image_path, p.category_id
+                   FROM parts p {$join} WHERE " . implode(' AND ', $where);
+
+        // Cached for the day, per category: the image probe below makes real HTTP
+        // round-trips, so it must not run on every pill click.
+        $ckey = 'featured_cache_' . ($cat !== '' ? substr(md5($cat), 0, 16) : 'all');
+        $cst = $this->db()->prepare("SELECT `value` FROM settings WHERE `key` = ?");
+        $cst->execute([$ckey]);
+        $c = ($raw = $cst->fetchColumn()) ? json_decode((string) $raw, true) : null;
+        if (is_array($c) && (int) ($c['t'] ?? 0) > time() - 86400) {
+            $this->json($c['rows'] ?? []);
+            return;
+        }
+
+        // Over-fetch 32: ~3% of primary images 404 on the CDN and get dropped below.
+        mt_srand((int) date('Ymd') + crc32($cat));
+        [$lo, $hi] = $this->db()->query("SELECT MIN(id), MAX(id) FROM parts")->fetch(\PDO::FETCH_NUM);
+        $rows = [];
+        if ($hi) {
+            $stmt = $this->db()->prepare($base . " AND p.id >= :r ORDER BY p.id LIMIT 32");
+            foreach ($args as $k => $v) { $stmt->bindValue($k, $v); }
+            $stmt->bindValue(':r', mt_rand((int) $lo, (int) $hi), \PDO::PARAM_INT);
+            $stmt->execute();
+            $rows = $stmt->fetchAll();
+        }
+        if (count($rows) < 32) {          // ran off the end of the table — take from the start
+            $stmt = $this->db()->prepare($base . " ORDER BY p.id LIMIT 32");
+            foreach ($args as $k => $v) { $stmt->bindValue($k, $v); }
+            $stmt->execute();
+            $rows = $stmt->fetchAll();
+        }
+        $rows = with_live_images($rows, 8);
+        foreach ($rows as &$r) {
+            $r['img']   = img_url($r['primary_image_path']);
+            $r['price'] = price_tag($r['price'], isset($r['category_id']) ? (int) $r['category_id'] : null); unset($r['category_id']);
+            unset($r['primary_image_path']);
+        }
+        unset($r);
+        $this->db()->prepare("INSERT INTO settings (`key`,`value`) VALUES (?, ?)
+                              ON DUPLICATE KEY UPDATE `value` = VALUES(`value`)")
+             ->execute([$ckey, json_encode(['rows' => $rows, 't' => time()])]);
+        $this->json($rows);
+    }
+
+    /** Product grid as JSON, for the shop-page drill. Mirrors
+     *  CatalogController::products() filtering exactly — EXISTS rather than a
+     *  fitment join, so no DISTINCT and no temp table over the whole catalog. */
+    public function products(): void
+    {
+        $per   = 24;
+        $page  = max(1, (int) ($_GET['page'] ?? 1));
+        $veh   = trim((string) ($_GET['vehicle'] ?? ''));
+        $cat   = trim((string) ($_GET['category'] ?? ''));
+        $brand = trim((string) ($_GET['brand'] ?? ''));
+        $q     = trim((string) ($_GET['q'] ?? ''));
+
+        $joins = '';
+        $where = ['p.price > 0', 'p.primary_image_path IS NOT NULL'];
+        $args  = [];
+        if ($q !== '') {
+            [$sql, $sargs] = part_search_clause($q);
+            $where[] = $sql;
+            $args += $sargs;
+        }
+        if ($veh !== '') {
+            $where[] = 'EXISTS (SELECT 1 FROM part_fitment pf
+                                  JOIN vehicles v ON v.id = pf.vehicle_id
+                                 WHERE pf.part_id = p.id AND v.slug = :veh)';
+            $args[':veh'] = $veh;
+        }
+        if ($cat !== '') {
+            $joins .= " JOIN categories c ON c.id = p.category_id
+                        JOIN categories g ON g.id = COALESCE(c.parent_id, c.id) ";
+            $where[] = '(c.slug = :cat OR g.slug = :cat2)';
+            $args[':cat'] = $cat;
+            $args[':cat2'] = $cat;
+        }
+        if ($brand !== '') {
+            $where[] = 'b.slug = :brand';
+            $args[':brand'] = $brand;
+        }
+
+        $stmt = $this->db()->prepare(
+            "SELECT p.slug, p.name, p.price, p.primary_image_path, p.category_id
+               FROM parts p
+          LEFT JOIN brands b ON b.id = p.brand_id
+              {$joins}
+              WHERE " . implode(' AND ', $where) . "
+           ORDER BY p.id
+              LIMIT :lim OFFSET :off"
+        );
+        foreach ($args as $k => $v) { $stmt->bindValue($k, $v); }
+        $stmt->bindValue(':lim', $per + 1, \PDO::PARAM_INT);
+        $stmt->bindValue(':off', ($page - 1) * $per, \PDO::PARAM_INT);
+        $stmt->execute();
+        $rows = $stmt->fetchAll();
+
+        $more = count($rows) > $per;
+        if ($more) { array_pop($rows); }
+        foreach ($rows as &$r) {
+            $r['img']   = img_url($r['primary_image_path']);
+            $r['price'] = price_tag($r['price'], isset($r['category_id']) ? (int) $r['category_id'] : null); unset($r['category_id']);
+            unset($r['primary_image_path']);
+        }
+        unset($r);
+        $this->json(['rows' => $rows, 'more' => $more, 'page' => $page]);
+    }
+
     // ---- Catalog tree (RockAuto-style expandable navigation) ----
 
     /** Level 1: every make that has vehicles, alphabetical, with vehicle counts. */
@@ -104,15 +228,21 @@ class ApiController extends Controller
         return $r;
     }
 
-    /** Level 2: years for a make (newest first). */
+    /** Level 2: years for a make, optionally narrowed to one model (newest first).
+     *  The catalog drills Make -> Model -> Year, so `model` filters this list. */
     public function treeYears(): void
     {
+        $make  = (string) ($_GET['make'] ?? '');
+        $model = (string) ($_GET['model'] ?? '');
         $stmt = $this->db()->prepare(
             "SELECT DISTINCT v.`year`
-               FROM vehicles v JOIN makes m ON m.id = v.make_id
-              WHERE m.slug = ? ORDER BY v.`year` DESC"
+               FROM vehicles v
+               JOIN makes m   ON m.id = v.make_id
+          LEFT JOIN models mo ON mo.id = v.model_id
+              WHERE m.slug = :make AND (:m0 = '' OR mo.slug = :m1)
+              ORDER BY v.`year` DESC"
         );
-        $stmt->execute([(string) ($_GET['make'] ?? '')]);
+        $stmt->execute([':make' => $make, ':m0' => $model, ':m1' => $model]);
         $this->json(array_map('intval', $stmt->fetchAll(\PDO::FETCH_COLUMN)));
     }
 
@@ -129,6 +259,8 @@ class ApiController extends Controller
                JOIN categories c    ON c.id = p.category_id
                JOIN categories g    ON g.id = COALESCE(c.parent_id, c.id)
               WHERE v.slug = ?
+                AND NOT EXISTS (SELECT 1 FROM vehicle_group_suppressed s
+                                WHERE s.vehicle_id = v.id AND s.group_id = g.id)
               GROUP BY g.id ORDER BY g.name"
         );
         $stmt->execute([(string) ($_GET['vehicle'] ?? '')]);
@@ -146,6 +278,8 @@ class ApiController extends Controller
                JOIN categories c    ON c.id = p.category_id
                JOIN categories g    ON g.id = COALESCE(c.parent_id, c.id)
               WHERE v.slug = :veh AND g.slug = :grp
+                AND NOT EXISTS (SELECT 1 FROM vehicle_group_suppressed s
+                                WHERE s.vehicle_id = v.id AND s.group_id = g.id)
               GROUP BY c.id ORDER BY c.name"
         );
         $stmt->execute([':veh' => (string) ($_GET['vehicle'] ?? ''),
@@ -166,6 +300,10 @@ class ApiController extends Controller
           LEFT JOIN brands b        ON b.id = p.brand_id
               WHERE v.slug = :veh AND p.category_id =
                     (SELECT id FROM categories WHERE slug = :cat)
+                AND NOT EXISTS (SELECT 1 FROM vehicle_group_suppressed s
+                                JOIN categories cc ON cc.slug = :cat
+                                WHERE s.vehicle_id = v.id
+                                  AND s.group_id = COALESCE(cc.parent_id, cc.id))
               ORDER BY (p.price IS NULL), b.name, p.price"
         );
         $stmt->execute([':veh' => (string) ($_GET['vehicle'] ?? ''),

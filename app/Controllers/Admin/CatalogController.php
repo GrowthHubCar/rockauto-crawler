@@ -25,10 +25,12 @@ class CatalogController extends AdminController
                    JOIN makes m   ON m.id = v.make_id
                    JOIN models mo ON mo.id = v.model_id
               LEFT JOIN engines e ON e.id = v.engine_id
-                  WHERE m.name LIKE :q OR mo.name LIKE :q OR v.slug LIKE :q
+                  WHERE m.name LIKE :q1 OR mo.name LIKE :q2 OR v.slug LIKE :q3
                   ORDER BY m.name, mo.name, v.`year` DESC LIMIT 100"
             );
-            $stmt->execute([':q' => '%' . $q . '%']);
+            // PDO can't reuse a named placeholder; give each LIKE its own (HY093 fix).
+            $like = '%' . $q . '%';
+            $stmt->execute([':q1' => $like, ':q2' => $like, ':q3' => $like]);
             $vehicles = $stmt->fetchAll();
         }
 

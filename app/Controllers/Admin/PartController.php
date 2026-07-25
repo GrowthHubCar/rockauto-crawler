@@ -20,9 +20,25 @@ class PartController extends AdminController
             $params[':q'] = '%' . $q . '%';
         }
 
-        $cntStmt = $db->prepare("SELECT COUNT(*) AS n FROM parts p $where");
-        $cntStmt->execute($params);
-        $total = (int) $cntStmt->fetch()['n'];
+        // Exact COUNT(*) over ~1M parts costs ~4.7s. Only pay it when a search
+        // actually narrows the set; unfiltered, use InnoDB's instant row estimate
+        // (the pager never needs an exact last-page boundary on the full catalog).
+        if ($q !== '') {
+            $cntStmt = $db->prepare("SELECT COUNT(*) AS n FROM parts p $where");
+            $cntStmt->execute($params);
+            $total = (int) $cntStmt->fetch()['n'];
+        } else {
+            $total = (int) $db->query(
+                "SELECT TABLE_ROWS FROM information_schema.TABLES
+                  WHERE TABLE_SCHEMA = DATABASE() AND TABLE_NAME = 'parts'"
+            )->fetchColumn();
+        }
+
+        // Whitelisted sort — column key never reaches SQL directly.
+        $sortCols = ['name' => 'p.name', 'price' => 'p.price', 'status' => 'p.status', 'updated' => 'p.updated_at'];
+        $sort = array_key_exists((string) ($_GET['sort'] ?? ''), $sortCols) ? (string) $_GET['sort'] : 'updated';
+        $dir  = strtolower((string) ($_GET['dir'] ?? 'desc')) === 'asc' ? 'ASC' : 'DESC';
+        $orderBy = $sortCols[$sort] . ' ' . $dir;
 
         $sql = "SELECT p.id, p.sku, p.part_number, p.name, p.price, p.status,
                        p.primary_image_path,
@@ -32,14 +48,15 @@ class PartController extends AdminController
              LEFT JOIN brands b     ON b.id = p.brand_id
              LEFT JOIN categories c ON c.id = p.category_id
                   $where
-              ORDER BY p.updated_at DESC
+              ORDER BY $orderBy
                  LIMIT $limit OFFSET $offset";
         $stmt = $db->prepare($sql);
         $stmt->execute($params);
         $parts = $stmt->fetchAll();
 
         $this->adminRender('parts/index',
-            ['parts' => $parts, 'q' => $q, 'page' => $page, 'total' => $total, 'perPage' => $limit, '_active' => 'parts'],
+            ['parts' => $parts, 'q' => $q, 'page' => $page, 'total' => $total, 'perPage' => $limit,
+             'sort' => $sort, 'dir' => strtolower($dir), '_active' => 'parts'],
             'Parts');
     }
 

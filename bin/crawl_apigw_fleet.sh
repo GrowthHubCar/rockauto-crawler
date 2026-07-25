@@ -44,6 +44,20 @@ if [ ! -s "$UNITS" ]; then
   echo "[fleet] building unit plan -> $UNITS ..."
   $PY bin/crawl_apigw.py --gen-units "$UNITS" --regions "$REGIONS" 2>&1 | tee logs/fleet_units.log
 fi
+# MULTI-BOX SHARDING: when several EC2 boxes crawl in parallel, each takes a disjoint
+# slice of the unit plan so they never crawl the same make×band. Box b of T keeps every
+# T-th unit (units[b::T]) — the same round-robin the offline selftest proves disjoint+
+# complete. Default SHARD_TOTAL=1 => one box does everything (unchanged behaviour). Each
+# box still has its OWN frontier/done markers, so pre-seed a box with the others' done_*
+# markers to avoid re-crawling units a sibling already finished (dedup makes overlap safe
+# regardless, just wasteful).
+SHARD_INDEX="${SHARD_INDEX:-0}"
+SHARD_TOTAL="${SHARD_TOTAL:-1}"
+if [ "$SHARD_TOTAL" -gt 1 ]; then
+  awk -v b="$SHARD_INDEX" -v t="$SHARD_TOTAL" '(NR-1) % t == b' "$UNITS" > "${UNITS}.s${SHARD_INDEX}of${SHARD_TOTAL}"
+  UNITS="${UNITS}.s${SHARD_INDEX}of${SHARD_TOTAL}"
+  echo "[fleet] SHARD ${SHARD_INDEX}/${SHARD_TOTAL}: this box owns $(wc -l < "$UNITS") of the units"
+fi
 TOTAL=$(wc -l < "$UNITS")
 echo "[fleet] $TOTAL units across $N lanes (~$(( (TOTAL + N - 1) / N )) units/lane)"
 

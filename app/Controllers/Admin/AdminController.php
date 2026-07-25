@@ -59,9 +59,15 @@ abstract class AdminController extends Controller
     }
 
     /** Small pagination helper: returns [limit, offset, page]. */
+    /** @return array{0:int,1:int,2:int} [limit, offset, page]. Honors ?per= (rows/page). */
     protected function pageWindow(int $perPage = 25): array
     {
+        $allowed = [25, 50, 100];
+        $per = (int) ($_GET['per'] ?? $perPage);
+        if (!in_array($per, $allowed, true)) {
+            $per = $perPage;
+        }
         $page = max(1, (int) ($_GET['page'] ?? 1));
-        return [$perPage, ($page - 1) * $perPage, $page];
+        return [$per, ($page - 1) * $per, $page];
     }
 }

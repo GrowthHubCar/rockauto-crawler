@@ -20,7 +20,10 @@ import argparse
 import os
 import sys
 import threading
+import time
 from concurrent.futures import ThreadPoolExecutor
+
+import pymysql.err  # noqa: E402  (lock-timeout retry vs the concurrent moreinfo pass)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "scraper"))
@@ -61,22 +64,36 @@ def main() -> int:
     def work(url):  # runs in worker threads — download only, no DB
         return url, images.download(_session(), url, ASSETS)
 
+    def relink(url, web):
+        # Two carousel-variant URLs can crop to ONE local file; with the unique
+        # (part_id, path) index the 2nd relink collides. UPDATE IGNORE relinks the
+        # non-colliding rows, then DELETE drops the leftover raw rows whose local
+        # path already exists for that part (a true dup).
+        # Commit each relink on its own so `parts` row locks are held for ~ms — the
+        # concurrent moreinfo pass also UPDATEs `parts`, and a fat transaction here
+        # would block it past innodb_lock_wait_timeout. Retry the rare 1205 collision.
+        for attempt in range(6):
+            try:
+                cur.execute("UPDATE IGNORE part_images SET path=%s WHERE path=%s", (web, url))
+                cur.execute("DELETE FROM part_images WHERE path=%s", (url,))
+                cur.execute("UPDATE parts SET primary_image_path=%s WHERE primary_image_path=%s",
+                            (web, url))
+                conn.commit()
+                return
+            except pymysql.err.OperationalError as e:
+                conn.rollback()
+                if e.args[0] != 1205 or attempt == 5:
+                    raise
+                time.sleep(1 + attempt)
+
     done = ok = 0
     with ThreadPoolExecutor(max_workers=args.workers) as ex:
         for url, web in ex.map(work, urls):   # DB writes stay in the main thread
             done += 1
             if web:
                 ok += 1
-                # Two carousel-variant URLs can crop to ONE local file; with the
-                # unique (part_id, path) index the 2nd relink collides. UPDATE IGNORE
-                # relinks the non-colliding rows, then DELETE drops the leftover raw
-                # rows whose local path already exists for that part (a true dup).
-                cur.execute("UPDATE IGNORE part_images SET path=%s WHERE path=%s", (web, url))
-                cur.execute("DELETE FROM part_images WHERE path=%s", (url,))
-                cur.execute("UPDATE parts SET primary_image_path=%s WHERE primary_image_path=%s",
-                            (web, url))
+                relink(url, web)
             if done % 100 == 0:
-                conn.commit()
                 print(f"  {done}/{len(urls)}  ok={ok}", flush=True)
     conn.commit()
     print(f"DONE: fetched+cropped+relinked {ok}/{len(urls)} images -> assets/parts/", flush=True)

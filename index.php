@@ -9,6 +9,12 @@ $router = new Router($config['app']['base_path']);
 
 // Storefront
 $router->get('/', 'HomeController@index');
+$router->get('/products', 'CatalogController@products');
+$router->get('/brands', 'CatalogController@brands');
+$router->get('/about', 'PageController@about');
+$router->get('/contact', 'PageController@contact');
+$router->post('/contact', 'PageController@contactSubmit');
+$router->post('/newsletter', 'NewsletterController@subscribe');
 $router->get('/search', 'CatalogController@search');
 
 // JSON API for the cascading vehicle picker
@@ -16,6 +22,8 @@ $router->get('/api/years', 'ApiController@years');
 $router->get('/api/makes', 'ApiController@makes');
 $router->get('/api/models', 'ApiController@models');
 $router->get('/api/vehicles', 'ApiController@vehicles');
+$router->get('/api/featured', 'ApiController@featured');
+$router->get('/api/products', 'ApiController@products');
 
 // JSON API for the expandable catalog tree
 $router->get('/api/tree/makes', 'ApiController@treeMakes');
@@ -31,12 +39,15 @@ $router->get('/make/{makeSlug}', 'CatalogController@make');
 $router->get('/vehicle/{slug}', 'CatalogController@vehicle');
 $router->get('/vehicle/{slug}/c/{catSlug}', 'CatalogController@vehicleCategory');
 $router->get('/part/{sku}', 'PartController@show');
+$router->get('/part/{sku}/fitment', 'PartController@fitment');
 
 // ---- Cart + checkout ----
 $router->get('/cart', 'CartController@view');
+$router->get('/cart/data', 'CartController@data');
 $router->post('/cart/add', 'CartController@add');
 $router->post('/cart/update', 'CartController@update');
 $router->post('/cart/remove', 'CartController@remove');
+$router->get('/checkout', 'CheckoutController@form');
 $router->post('/checkout', 'CheckoutController@start');
 $router->get('/checkout/success', 'CheckoutController@success');
 $router->get('/checkout/cancel', 'CheckoutController@cancel');
@@ -48,6 +59,10 @@ $router->post('/admin/login', 'Admin\AuthController@login');
 $router->post('/admin/logout', 'Admin\AuthController@logout');
 
 $router->get('/admin', 'Admin\DashboardController@index');
+
+$router->get('/admin/orders', 'Admin\OrderController@index');
+$router->get('/admin/orders/{id}', 'Admin\OrderController@show');
+$router->post('/admin/orders/{id}/status', 'Admin\OrderController@status');
 
 $router->get('/admin/parts', 'Admin\PartController@index');
 $router->get('/admin/parts/create', 'Admin\PartController@create');
@@ -72,6 +87,10 @@ $router->get('/admin/imports', 'Admin\ImportController@index');
 $router->post('/admin/imports/vpic', 'Admin\ImportController@runVpic');
 $router->post('/admin/imports/acespies', 'Admin\ImportController@runAcesPies');
 
+$router->get('/admin/subscribers', 'Admin\SubscriberController@index');
+$router->get('/admin/messages', 'Admin\MessageController@index');
+$router->post('/admin/messages/{id}/status', 'Admin\MessageController@status');
+$router->post('/admin/messages/{id}/delete', 'Admin\MessageController@delete');
 $router->get('/admin/settings', 'Admin\SettingsController@index');
 $router->post('/admin/settings', 'Admin\SettingsController@save');
 

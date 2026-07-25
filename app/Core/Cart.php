@@ -73,7 +73,7 @@ class Cart
     public function addBySku(string $sku, int $qty = 1, int $variantId = 0): bool
     {
         $qty = max(1, $qty);
-        $stmt = $this->db->prepare("SELECT id, price FROM parts WHERE sku = ? AND status = 'active'");
+        $stmt = $this->db->prepare("SELECT id, price, category_id FROM parts WHERE sku = ? AND status = 'active'");
         $stmt->execute([$sku]);
         $part = $stmt->fetch();
         if (!$part) return false;
@@ -99,7 +99,7 @@ class Cart
         // Capture the CUSTOMER price (RockAuto cost * reseller markup) so the cart,
         // Stripe charge and stored order all bill the marked-up amount. The base cost
         // stays in parts.price; markup lives only in the settings table.
-        $sell = \sell_price($price);
+        $sell = \sell_price($price, isset($part['category_id']) ? (int) $part['category_id'] : null);
 
         $cartId = $this->id();
         $this->db->prepare(
@@ -168,7 +168,11 @@ class Cart
         $subtotal = 0.0;
         foreach ($this->items() as $it) { $subtotal += (float) $it['line_total']; }
         $ship = (require BASE_DIR . '/config/config.php')['shipping'];
-        $shipping = ($subtotal <= 0 || $subtotal >= (float) $ship['free_over']) ? 0.0 : (float) $ship['flat'];
+        // Admin-set delivery (settings) overrides the config defaults. free_over of
+        // 0 disables the free-shipping threshold (flat charge always applies).
+        $flat = ($v = \setting('delivery_flat', null))     !== null && $v !== '' ? (float) $v : (float) $ship['flat'];
+        $free = ($v = \setting('delivery_free_over', null)) !== null && $v !== '' ? (float) $v : (float) $ship['free_over'];
+        $shipping = ($subtotal <= 0 || ($free > 0 && $subtotal >= $free)) ? 0.0 : $flat;
         return ['subtotal' => $subtotal, 'shipping' => $shipping, 'grand' => $subtotal + $shipping];
     }
 

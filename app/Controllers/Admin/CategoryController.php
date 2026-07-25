@@ -10,17 +10,37 @@ class CategoryController extends AdminController
     public function index(): void
     {
         $db = $this->db();
-        $categories = $db->query(
-            "SELECT c.id, c.parent_id, c.name, c.slug, c.position, c.is_active,
+        [$limit, $offset, $page] = $this->pageWindow(50);
+        $q = trim((string) ($_GET['q'] ?? ''));
+        $where = '';
+        $params = [];
+        if ($q !== '') {
+            $where = "WHERE c.name LIKE :q OR c.slug LIKE :q";
+            $params[':q'] = '%' . $q . '%';
+        }
+
+        $cnt = $db->prepare("SELECT COUNT(*) AS n FROM categories c $where");
+        $cnt->execute($params);
+        $total = (int) $cnt->fetch()['n'];
+
+        $stmt = $db->prepare(
+            "SELECT c.id, c.parent_id, c.name, c.slug, c.position, c.is_active, c.commission_pct,
                     pc.name AS parent_name,
                     (SELECT COUNT(*) FROM parts p WHERE p.category_id = c.id) AS parts
                FROM categories c
           LEFT JOIN categories pc ON pc.id = c.parent_id
-              ORDER BY c.slug"
-        )->fetchAll();
+               $where
+              ORDER BY c.slug LIMIT $limit OFFSET $offset"
+        );
+        $stmt->execute($params);
+        $categories = $stmt->fetchAll();
+
+        // Full list (unpaginated) for the parent dropdowns.
         $parents = $db->query("SELECT id, name, slug FROM categories ORDER BY slug")->fetchAll();
         $this->adminRender('categories/index',
-            ['categories' => $categories, 'parents' => $parents, 'csrf' => Auth::token(), '_active' => 'categories'],
+            ['categories' => $categories, 'parents' => $parents, 'q' => $q, 'page' => $page,
+             'total' => $total, 'perPage' => $limit, 'csrf' => Auth::token(), '_active' => 'categories',
+             'defaultPct' => (string) (setting('reseller_markup_pct', '0') ?? '0')],
             'Categories');
     }
 
@@ -48,10 +68,14 @@ class CategoryController extends AdminController
         $parent = ($_POST['parent_id'] ?? '') !== '' ? (int) $_POST['parent_id'] : null;
         if ($parent === (int) $id) { $parent = null; } // can't be its own parent
         $active = isset($_POST['is_active']) ? 1 : 0;
+        // Commission: blank = inherit the store default; a number (incl. 0) is this
+        // category's own rate. Clamp negatives so we never sell below cost.
+        $craw = str_replace([',', '%', ' '], '', (string) ($_POST['commission_pct'] ?? ''));
+        $commission = ($craw === '' || !is_numeric($craw)) ? null : max(0.0, (float) $craw);
         if ($name === '') { $this->flash('error', 'Category name required.'); $this->redirect('/admin/categories'); }
         $this->db()->prepare(
-            "UPDATE categories SET parent_id = ?, name = ?, position = ?, is_active = ? WHERE id = ?"
-        )->execute([$parent, $name, (int) ($_POST['position'] ?? 0), $active, (int) $id]);
+            "UPDATE categories SET parent_id = ?, name = ?, position = ?, is_active = ?, commission_pct = ? WHERE id = ?"
+        )->execute([$parent, $name, (int) ($_POST['position'] ?? 0), $active, $commission, (int) $id]);
         $this->flash('ok', 'Category updated.');
         $this->redirect('/admin/categories');
     }

@@ -1,3 +1,18 @@
 # Secrets — never commit
 .bunny.env
 .evomi.env
+
+# Generated / scraped data — never commit (huge, and RockAuto-owned images)
+assets/parts/
+artifacts/
+ingest_ec2/out/
+out/
+coverage/
+__pycache__/
+*.pyc
+
+# Local run state
+.auto_sync_state.json
+.brand_load_state.json
+.bunny_upload_state.json
+*_state.json

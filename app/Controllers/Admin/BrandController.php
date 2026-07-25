@@ -9,13 +9,31 @@ class BrandController extends AdminController
 {
     public function index(): void
     {
-        $brands = $this->db()->query(
+        $db = $this->db();
+        [$limit, $offset, $page] = $this->pageWindow(50);
+        $q = trim((string) ($_GET['q'] ?? ''));
+        $where = '';
+        $params = [];
+        if ($q !== '') {
+            $where = "WHERE b.name LIKE :q OR b.slug LIKE :q";
+            $params[':q'] = '%' . $q . '%';
+        }
+
+        $cnt = $db->prepare("SELECT COUNT(*) AS n FROM brands b $where");
+        $cnt->execute($params);
+        $total = (int) $cnt->fetch()['n'];
+
+        $stmt = $db->prepare(
             "SELECT b.id, b.name, b.slug, b.is_active,
                     (SELECT COUNT(*) FROM parts p WHERE p.brand_id = b.id) AS parts
-               FROM brands b ORDER BY b.name"
-        )->fetchAll();
+               FROM brands b $where ORDER BY b.name LIMIT $limit OFFSET $offset"
+        );
+        $stmt->execute($params);
+        $brands = $stmt->fetchAll();
+
         $this->adminRender('brands/index',
-            ['brands' => $brands, 'csrf' => Auth::token(), '_active' => 'brands'], 'Brands');
+            ['brands' => $brands, 'q' => $q, 'page' => $page, 'total' => $total, 'perPage' => $limit,
+             'csrf' => Auth::token(), '_active' => 'brands'], 'Brands');
     }
 
     public function store(): void

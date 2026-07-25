@@ -1,8 +1,4 @@
 <?php /** @var string $q @var array $parts @var \App\Core\Controller $_controller */ ?>
-<nav class="crumbs">
-  <a href="<?= e($_controller->url('/')) ?>">Home</a> &rsaquo; <span>Search</span>
-</nav>
-
 <h1 class="page-title">Search<?= $q !== '' ? ': &ldquo;' . e($q) . '&rdquo;' : '' ?></h1>
 
 <?php if ($q === ''): ?>

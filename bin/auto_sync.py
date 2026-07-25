@@ -29,11 +29,11 @@ import db  # noqa: E402
 
 # The 9-account free fleet. auto_sync pulls artifacts from EVERY account's fork
 # (each crawls a disjoint slice, ACCOUNT_OFFSET 0..8). Override with SP_SYNC_REPOS.
+# 2026-07-17: GitHub SUSPENDED 7 of the 9 accounts (multi-account continuous-Actions
+# abuse detection — profiles + repos now 404). Only these two survived; ingesting the
+# dead ones just 404-errors. Restore the full list only if the accounts are reinstated.
 DEFAULT_REPOS = [
-    "ahmerfr/rockauto-crawler", "ahmerfraizada/rockauto-crawler",
-    "ahmerfraizadas/rockauto-crawler", "ahmerfrr/rockauto-crawler",
-    "ahmerfrsa/rockauto-crawler", "ahmerfrz/rockauto-crawler",
-    "ahmerfrzz/rockauto-crawler", "ahmerfrzzz/rockauto-crawler",
+    "ahmerfr/rockauto-crawler",
     "haseeb-shoukat2029/rockauto-crawler",
 ]
 REPOS = [r.strip() for r in os.getenv("SP_SYNC_REPOS", ",".join(DEFAULT_REPOS)).split(",") if r.strip()]
@@ -53,6 +53,9 @@ WORKFLOW = os.getenv("SP_SYNC_WORKFLOW", "crawl.yml")
 STATE_FILE = os.path.join(ROOT, ".auto_sync_state.json")
 LOG_FILE = os.path.join(ROOT, "logs", "auto_sync.log")
 DL_DIR = os.path.join(ROOT, "artifacts", "_autosync")
+# Pace between artifact downloads (seconds) so ingestion doesn't spike network load /
+# compete with the crawl. Raise via SP_SYNC_DL_PACE to be even gentler.
+DL_PACE = float(os.getenv("SP_SYNC_DL_PACE", "3"))
 GH = r"C:\Program Files\GitHub CLI\gh.exe"
 MYSQLD = r"C:\xampp\mysql\bin\mysqld.exe"
 MYSQL_INI = r"C:\xampp\mysql\bin\my.ini"
@@ -215,17 +218,25 @@ def process_run(repo: str, run_id: str) -> bool:
         sub = os.path.join(dest, name)
         if _shard_in(sub):
             continue                       # already have it (resumable)
-        os.makedirs(sub, exist_ok=True)
         ok = False
         for attempt in range(3):
-            r = subprocess.run([GH, "run", "download", run_id, "--repo", repo,
-                                "-n", name, "-D", sub],
-                               capture_output=True, text=True, cwd=ROOT)
-            if r.returncode == 0 and _shard_in(sub):
+            shutil.rmtree(sub, ignore_errors=True)   # clean so a retry can't self-collide
+            os.makedirs(sub, exist_ok=True)
+            subprocess.run([GH, "run", "download", run_id, "--repo", repo,
+                            "-n", name, "-D", sub],
+                           capture_output=True, text=True, cwd=ROOT)
+            # gh ABORTS zip extraction on a duplicate image path inside the artifact
+            # (the same shared part-photo is archived twice) and returns non-zero — but
+            # the shard NDJSON we actually need is archived FIRST and lands before the
+            # collision. Trust the NDJSON's presence, not gh's exit code. (Was: this
+            # made ~40-60% of shards look "failed" and stall the whole run.)
+            if _shard_in(sub):
                 ok = True
                 break
+            time.sleep(3)
         if not ok:
             missing.append(name)
+        time.sleep(DL_PACE)   # pace: spread downloads so they don't spike network load
     if missing:
         log(f"run {run_id}: {len(missing)}/{len(names)} artifact(s) failed to download "
             f"({missing[:3]}) — will retry next cycle")

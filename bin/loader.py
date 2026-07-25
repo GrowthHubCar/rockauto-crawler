@@ -40,6 +40,12 @@ sys.path.insert(0, os.path.join(ROOT, "scraper"))
 import db  # noqa: E402  (scraper/db.py)
 
 
+class TransactionLost(RuntimeError):
+    """InnoDB rolled our whole transaction back (lock wait timeout / deadlock victim),
+    discarding every savepoint. Everything applied in this batch is gone, so the caller
+    must retry the batch rather than treat its files as loaded."""
+
+
 # ---------------------------------------------------------------------------
 # Slug / normalization helpers — MUST match app/Core + *Controller.php slugify.
 # ---------------------------------------------------------------------------
@@ -195,6 +201,26 @@ class Loader:
         self._part.clear()
         self._part_done.clear()
 
+    # -- rollback that tolerates the server having killed our transaction ---
+    def _rollback_to(self, name: str) -> None:
+        """ROLLBACK TO SAVEPOINT, converting "savepoint is gone" into TransactionLost.
+
+        InnoDB discards every savepoint when it rolls the whole transaction back (lock
+        wait timeout / deadlock victim), so the ROLLBACK we issue in the error path can
+        itself fail with 1305. Continuing after that would be silent data loss: the rows
+        already applied in this transaction are gone, but the caller would still mark
+        their files done. So we surface it and let the batch be retried instead.
+        """
+        try:
+            self.cur.execute(f"ROLLBACK TO SAVEPOINT {name}")
+        except Exception as exc:  # noqa: BLE001
+            msg = str(exc).lower()
+            if "1305" in msg or "does not exist" in msg:
+                raise TransactionLost(
+                    f"server rolled back the transaction (savepoint {name} gone) — "
+                    "batch must be retried") from exc
+            raise
+
     # -- apply a staged table with CHUNK-level savepoints ------------------
     def _load_chunked(self, rows: list, load_one, label: str, counts: dict,
                       ok_key: str, fail_key: str, chunk: int = 1000) -> list[int]:
@@ -214,8 +240,10 @@ class Loader:
             try:
                 for row in block:
                     load_one(row)
+            except TransactionLost:
+                raise
             except Exception:  # noqa: BLE001 — replay this block with per-row isolation
-                self.cur.execute("ROLLBACK TO SAVEPOINT sp_chunk")
+                self._rollback_to("sp_chunk")
                 self._drop_caches()          # the rollback undid rows these point at
                 for row in block:
                     self.cur.execute("SAVEPOINT sp_row")
@@ -224,8 +252,10 @@ class Loader:
                         self.cur.execute("RELEASE SAVEPOINT sp_row")
                         counts[ok_key] += 1
                         done.append(row["raw_id"])
+                    except TransactionLost:
+                        raise
                     except Exception as exc:  # noqa: BLE001
-                        self.cur.execute("ROLLBACK TO SAVEPOINT sp_row")
+                        self._rollback_to("sp_row")
                         self._drop_caches()
                         counts[fail_key] += 1
                         print(f"[loader] {label} raw_id={row.get('raw_id')} failed: {exc}",

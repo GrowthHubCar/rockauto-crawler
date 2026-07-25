@@ -18,6 +18,11 @@ import os
 import re
 from urllib.parse import urlparse
 
+try:  # sibling on sys.path (script mode) or package import (fallback)
+    import imgclean
+except ImportError:  # pragma: no cover
+    from scraper import imgclean  # type: ignore
+
 WEB_PREFIX = "/RockAuto/assets/parts/"
 _INFO_RE = re.compile(r"/info/(.+)$")
 
@@ -54,10 +59,11 @@ def download(session, url: str, dest_root: str, timeout: int = 20) -> str | None
     try:
         resp = session.get(url, timeout=timeout)
         if resp.status_code == 200 and resp.content:
+            data = imgclean.clean_bytes(resp.content)  # strip RockAuto watermark
             os.makedirs(os.path.dirname(dest), exist_ok=True)
             tmp = dest + ".part"
             with open(tmp, "wb") as fh:
-                fh.write(resp.content)
+                fh.write(data)
             os.replace(tmp, dest)
             return web_path(rel)
     except Exception:  # noqa: BLE001 - a single bad image never breaks the crawl

@@ -503,8 +503,12 @@ def _variant_type(opt) -> str | None:
     t = re.sub(r"\(\s*\$\s*[0-9][0-9,]*\.\d{2}[^)]*\)", "", _text(opt))  # ($1.28) / ($6.15/Each)
     t = re.sub(r"\{\d+\}\+?", "", t)                                     # {6}+ pack marker
     t = _PRICE_RE.sub("", t)                                             # any leftover $ amount
-    t = t.replace("^", "").strip().strip("[]").strip()
-    return re.sub(r"\s+", " ", t) or None
+    # RockAuto wraps inventory tiers in grouping brackets and appends a caret and
+    # a stock marker: "[ Wholesaler Closeout ] (Only 1 Remaining) ^". The ']' sits
+    # BEFORE "(Only N Remaining)", so end-anchored strip("[]") leaves it behind —
+    # drop brackets/caret wherever they land.
+    t = re.sub(r"[\[\]^]", " ", t)
+    return re.sub(r"\s+", " ", t).strip() or None
 
 
 def _extract_variants(soup, idx: str) -> list[dict] | None:
@@ -564,16 +568,27 @@ def _extract_variants(soup, idx: str) -> list[dict] | None:
     return out or None
 
 
+def is_transient_tier(v: dict) -> bool:
+    """A transient clearance unit — 'Wholesaler Closeout' / 'Only N Remaining'.
+    These are single/low-count units that sell out fast, so they must never drive
+    our headline price or default option: RockAuto shows the stable Regular price
+    once the unit is gone, and we'd otherwise be pricing off dead stock (30240)."""
+    t = v.get("type") or ""
+    return "Closeout" in t or "Remaining" in t
+
+
 def _price_from_variants(variants: list[dict]) -> tuple[float | None, float | None]:
-    """Headline price = the `selected` option (what RockAuto renders). Falls back
-    to the cheapest in-stock option when nothing is preselected."""
-    sel = next((v for v in variants if v.get("selected") and v.get("price") is not None), None)
-    if sel:
-        return sel["price"], sel.get("core")
-    live = [v for v in variants if v.get("price") is not None and not v.get("oos")]
-    if live:
-        best = min(live, key=lambda v: v["price"])
-        return best["price"], best.get("core")
+    """Headline price = the STABLE option RockAuto renders: a non-closeout `selected`
+    tier, else the cheapest live non-closeout tier. Falls back to a transient closeout
+    ONLY for closeout-only parts (no stable tier exists)."""
+    for pool in ([v for v in variants if not is_transient_tier(v)], variants):
+        sel = next((v for v in pool if v.get("selected") and v.get("price") is not None), None)
+        if sel:
+            return sel["price"], sel.get("core")
+        live = [v for v in pool if v.get("price") is not None and not v.get("oos")]
+        if live:
+            best = min(live, key=lambda v: v["price"])
+            return best["price"], best.get("core")
     return None, None
 
 
@@ -1143,7 +1158,7 @@ if __name__ == "__main__":
       <td id="listingtd[8][price]"><span id="dprice[8][td]"><span id="dprice[8][v]">$1.28</span></span></td>
       <select id="optionchoice[8]" name="optionchoice[8]">
         <option value="">&nbsp;</option>
-        <option value="0-0-1-1" selected> [<a href="/x">Wholesaler Closeout</a> -- 30 Day Warranty] <b>($1.28)</b> ^</option>
+        <option value="0-0-1-1" selected> [<a href="/x">Wholesaler Closeout</a> -- 30 Day Warranty] <b>($1.28)</b> (Only 1 Remaining) ^</option>
         <option value="0-0-0-1"> [<a href="/y">Regular Inventory</a>] <b>($4.44)</b> ^</option>
       </select>
       <input type="hidden" id="pricebreakdown[8][0-0-1-1]" value='{"oos":false,"v":"$1.28","n":"1.28"}'>
@@ -1154,8 +1169,9 @@ if __name__ == "__main__":
     check(len(inv) == 1, f"inventory-tier: expected 1 part, got {len(inv)}")
     if inv:
         t = inv[0]
-        # RockAuto's headline is the SELECTED option ($1.28), not min, not $4.44.
-        check(t["price"] == 1.28, f"headline price must be selected option 1.28, got {t['price']}")
+        # Headline is the STABLE tier ($4.44 Regular), NEVER the transient closeout
+        # ($1.28 "Only 1 Remaining") even though RockAuto pre-selects it — it sells out.
+        check(t["price"] == 4.44, f"headline must be the stable Regular 4.44, got {t['price']}")
         iv = t["variants"]
         check(isinstance(iv, list) and len(iv) == 2,
               f"expected 2 inventory tiers, got {iv}")
@@ -1164,7 +1180,9 @@ if __name__ == "__main__":
             reg = next((v for v in iv if v["price"] == 4.44), None)
             check(close is not None and close["selected"] is True
                   and close["code"] == "0-0-1-1"
-                  and "Wholesaler Closeout" in (close["type"] or ""),
+                  and "Wholesaler Closeout" in (close["type"] or "")
+                  and "]" not in (close["type"] or "")          # no stray grouping bracket
+                  and "[" not in (close["type"] or ""),
                   f"closeout tier wrong: {close}")
             check(reg is not None and reg["selected"] is False
                   and reg["code"] == "0-0-0-1"

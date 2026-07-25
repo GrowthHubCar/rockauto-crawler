@@ -15,7 +15,17 @@ class Stripe
 
     public function __construct()
     {
-        $this->cfg = (require BASE_DIR . '/config/config.php')['stripe'];
+        $cfg = (require BASE_DIR . '/config/config.php')['stripe'];
+        // Admin-entered keys (settings table) override env/config, so the store
+        // owner can paste their keys in Admin > Settings without touching files.
+        if (function_exists('setting')) {
+            foreach (['secret' => 'stripe_secret', 'publishable' => 'stripe_publishable',
+                      'webhook_secret' => 'stripe_webhook_secret'] as $k => $skey) {
+                $v = trim((string) (setting($skey, '') ?? ''));
+                if ($v !== '') { $cfg[$k] = $v; }
+            }
+        }
+        $this->cfg = $cfg;
     }
 
     public function enabled(): bool
