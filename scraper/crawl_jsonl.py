@@ -29,6 +29,7 @@ import argparse
 import json
 import os
 import re
+import signal
 import sys
 import time
 from collections import deque
@@ -169,7 +170,9 @@ def process(client, node: dict, tree_only: bool = False) -> tuple[list[dict], li
     children = parsers.parse_nav(html)
     rows, kids = [], []
     for child in children:
-        if not C.should_enqueue(child):
+        # ctx = the parent's accumulated vehicle coords — without it a parttype node
+        # (whose jsn is just a numeric id) cannot be matched against the skip-set.
+        if not C.should_enqueue(child, ctx=payload.get("ctx")):
             continue
         if tree_only and child.get("nodetype") == "carcode":
             rows.append(_vehicle_record(child))   # emit vehicle, don't descend
@@ -220,17 +223,54 @@ def _load_frontier(path: str | None) -> list[dict] | None:
 
 def _save_frontier(path: str | None, frontier) -> None:
     """Persist the un-expanded frontier so the next run resumes here. Called at EVERY
-    exit (budget/time/blocked/drained) — whatever is left in the deque is exactly the
-    work still to do. Nodes are already JSON (jsn/ctx/href), so one line each."""
+    exit (budget/time/blocked/drained/signal) AND periodically mid-crawl — whatever is
+    left in the deque is exactly the work still to do. Nodes are already JSON
+    (jsn/ctx/href), so one line each.
+
+    tmp + os.replace, not a bare "w": every launcher passes the SAME path as
+    --frontier-file and --frontier-out (bin/fleet_v2.sh:89-90, bin/relaunch_safe.sh:75-76),
+    so this file is the ONLY copy of the resume state. A "w" interrupted mid-write (kill,
+    box stop, full disk) truncates it. os.replace is atomic on POSIX and Windows: a reader
+    sees the whole old file or the whole new one, never half."""
     if not path:
         return
+    tmp = path + ".tmp"
     try:
         os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
-        with open(path, "w", encoding="utf-8") as fh:
+        with open(tmp, "w", encoding="utf-8") as fh:
             for node in frontier:
                 fh.write(json.dumps(node, ensure_ascii=False) + "\n")
+            fh.flush()
+            os.fsync(fh.fileno())     # so the rename can't land ahead of the bytes
+        os.replace(tmp, path)
     except OSError as exc:
         print(f"[warn] could not write frontier_out: {exc}", flush=True)
+
+
+# SIGTERM/SIGINT must not kill a lane outright: the frontier lives in memory and is only
+# written by _save_frontier AFTER the crawl loop returns, so the default die-now
+# disposition threw away hours of tree-walking per lane on any pkill. The handler only
+# sets a flag; the loop notices it at the next node boundary and breaks through the normal
+# exit path, which saves the frontier.
+_STOP: dict = {"why": None}
+
+
+def _install_stop_handlers() -> None:
+    def _flag(signum, _frame):
+        if _STOP["why"]:
+            # Second signal: the node is wedged (a hung fetch). Give the operator the
+            # default disposition back rather than leaving `kill -9` as the only exit —
+            # -9 is precisely the frontier-losing action this handler exists to avoid.
+            signal.signal(signum, signal.SIG_DFL)
+            os.kill(os.getpid(), signum)
+        _STOP["why"] = "signal"
+        print(f"[stop] signal {signum} — finishing current node, then saving frontier",
+              flush=True)
+    for sig in (signal.SIGINT, signal.SIGTERM):
+        try:
+            signal.signal(sig, _flag)
+        except (ValueError, OSError, AttributeError):
+            pass   # not the main thread, or signal missing on this platform
 
 
 def run(shard_index: int, shard_total: int, out_path: str,
@@ -243,6 +283,13 @@ def run(shard_index: int, shard_total: int, out_path: str,
     """Crawl this shard, writing Listing rows (or vehicle rows in tree_only) as
     NDJSON to `out_path`."""
     started = time.monotonic()
+    _STOP["why"] = None            # a fresh run re-arms the flag (module-level, survives reruns)
+    _install_stop_handlers()
+    # How stale the on-disk frontier may get. The whole deque is rewritten each time:
+    # measured 521 bytes/node and a max observed frontier of 330 nodes (~170KB), so a
+    # checkpoint is a sub-10ms write against a lane that spends ~1s per node.
+    ckpt_secs = float(os.getenv("SP_CKPT_SECS", "60"))
+    last_ckpt = started
     stats = {"nodes": 0, "listings": 0, "captchas": 0, "blocked": 0, "requests": 0,
              "images": 0, "skipped": 0, "capped": 0}
     img_root = os.path.join(os.path.dirname(out_path) or ".", "images")
@@ -279,8 +326,16 @@ def run(shard_index: int, shard_total: int, out_path: str,
     # whose persisted counter already meets the cap) — catch it so the shard exits
     # cleanly (0 new work) instead of crashing the job.
     pre_exhausted = False
+    # Load the persisted/pre-seeded frontier FIRST: when there is one, make discovery
+    # is dead weight. It was costing one /en/catalog/ fetch per CHUNK per lane — with
+    # MAXCHUNKS=40 over 1,668 units that is up to ~66k requests spent re-reading a make
+    # list we then throw away.
+    resumed = _load_frontier(frontier_file)
+    seeds: list[dict] = []
     try:
-        if makes_override:
+        if resumed:
+            pass                       # frontier already knows the work; discover nothing
+        elif makes_override:
             seeds = make_seed_nodes([{"make": m, "href": C.seed_href(m)} for m in makes_override])
         else:
             all_makes = discover_makes(client)
@@ -288,8 +343,14 @@ def run(shard_index: int, shard_total: int, out_path: str,
                 # Balanced plan: keep only this shard's assigned makes, matched by
                 # name against RockAuto's OWN discovered nodes (so we reuse their
                 # exact hrefs — no name->URL reconstruction to get wrong).
-                want = {m.strip().lower() for m in only_makes}
-                mine = [n for n in all_makes if (n.get("make") or "").strip().lower() in want]
+                # Unit files spell multi-word makes in URL form ("land+rover",
+                # "mercedes-benz") but RockAuto's nav says "LAND ROVER". Without this
+                # the match returned NOTHING for all 19 space-makes -> empty frontier ->
+                # "drained" -> unit marked done with zero rows, permanently.
+                def _nm(s: str) -> str:
+                    return (s or "").strip().lower().replace("+", " ")
+                want = {_nm(m) for m in only_makes}
+                mine = [n for n in all_makes if _nm(n.get("make")) in want]
                 print(f"[plan] {len(mine)}/{len(all_makes)} makes for this shard", flush=True)
             else:
                 mine = shard(all_makes, shard_index, shard_total)
@@ -306,14 +367,15 @@ def run(shard_index: int, shard_total: int, out_path: str,
     if tree_only:
         print("[tree-only] emitting a vehicle row per carcode; not crawling leaves", flush=True)
 
-    # Resume the persisted frontier if this shard ran before; else seed from makes.
-    # THE efficiency lever: continue the DFS where the last run stopped rather than
-    # re-walking every branch from the make root each run (the old ~2.4% leaf yield).
-    resumed = _load_frontier(frontier_file)
+    # Resume the persisted (or pre-seeded, see bin/plan_targets.py) frontier if there is
+    # one; else seed from makes. THE efficiency lever: continue the DFS where the last
+    # run stopped rather than re-walking every branch from the make root each run (the
+    # old ~2.4% leaf yield). The frontier is popped from the RIGHT, so the LAST line of
+    # a pre-seeded file is the first target crawled — plan_targets writes best-last.
     frontier: deque = deque(resumed if resumed else seeds)
     if resumed:
         print(f"[resume] continuing persisted frontier: {len(resumed)} pending nodes "
-              f"(skipped re-seeding from {len(seeds)} makes)", flush=True)
+              f"(no make discovery, no re-seed)", flush=True)
     prior = _load_visited(visited_file)   # LEAF keys crawled in earlier runs (from cache)
     seen_this_run: set[str] = set()       # in-run dedup (all node types)
     new_keys: set[str] = set()            # leaf keys first crawled in THIS run (merged into cache)
@@ -324,8 +386,18 @@ def run(shard_index: int, shard_total: int, out_path: str,
         os.makedirs(out_dir, exist_ok=True)
 
     exit_reason = "byte_budget" if pre_exhausted else "drained"   # 'drained' iff the frontier empties naturally
+    if not frontier and not pre_exhausted:
+        # No seeds AND nothing resumed: only_makes matched no make at all. That is a
+        # config error, NOT a completed unit — reporting 'drained' here is how units
+        # got marked done holding zero rows. Never signal complete without real work.
+        exit_reason = "no_seeds"
+        print(f"[stop] no seeds matched only_makes={only_makes} — NOT a drain", flush=True)
     with open(out_path, "w", encoding="utf-8") as out:
         while frontier:
+            if _STOP["why"]:
+                exit_reason = "signal"
+                print("[stop] signalled — clean exit, frontier is being saved", flush=True)
+                break
             if stats["requests"] >= budget:
                 exit_reason = "budget"
                 print(f"[stop] request budget {budget} reached", flush=True)
@@ -389,7 +461,11 @@ def run(shard_index: int, shard_total: int, out_path: str,
                 continue
 
             seen_this_run.add(key)
-            if is_leaf:
+            if is_leaf and listings:
+                # ONLY cache a leaf that actually yielded rows. A 200 that parsed to
+                # nothing is usually a truncated or soft-blocked response, not an empty
+                # leaf — caching it made the skip at :385 suppress that leaf PERMANENTLY,
+                # so a single bad fetch silently cost us every part on that page.
                 new_keys.add(key)     # record this leaf as crawled (for the shared cache)
             stats["blocked"] = 0  # reset the consecutive-block counter on success
             stats["nodes"] += 1
@@ -409,7 +485,12 @@ def run(shard_index: int, shard_total: int, out_path: str,
                     lst["image_urls"] = locals_
                 out.write(json.dumps(lst, ensure_ascii=False) + "\n")
                 stats["listings"] += 1
-            for kid in kids:
+            # Fat categories first. The frontier is a DFS stack popped from the RIGHT,
+            # so sorting ASCENDING by measured rows-per-leaf puts the richest leaf on
+            # top. A budget/block that truncates the run then loses the 2-row tail
+            # instead of the 43-row brake pads. No-op unless SP_CAT_YIELD is set.
+            for kid in sorted(kids, key=lambda k: C.cat_yield(
+                    (k.get("payload") or {}).get("ctx", {}).get("category_path"))):
                 kkey = kid.get("href") or json.dumps(kid.get("payload", {}).get("jsn"), sort_keys=True)
                 if kkey not in seen_this_run:
                     frontier.append(kid)
@@ -420,6 +501,18 @@ def run(shard_index: int, shard_total: int, out_path: str,
                       f"new_leaves={len(new_keys)} skipped={stats['skipped']} "
                       f"frontier={len(frontier)} reqs={stats['requests']} "
                       f"captchas={stats['captchas']}", flush=True)
+
+            # Periodic checkpoint: the on-disk resume state is never more than
+            # SP_CKPT_SECS stale, so even SIGKILL / box loss costs a minute of walking,
+            # not the run. Flush `out` FIRST — this node is already gone from the
+            # frontier, so its rows must be on disk before the frontier says so.
+            # ponytail: frontier only — `visited_out` is a whole-set rewrite (can be tens
+            # of MB) so it stays an exit-time write; losing it to a SIGKILL costs re-crawls,
+            # not rows. Checkpoint it too only if lanes start dying by -9.
+            if frontier_out and time.monotonic() - last_ckpt >= ckpt_secs:
+                out.flush()
+                _save_frontier(frontier_out, frontier)
+                last_ckpt = time.monotonic()
             time.sleep(_polite_delay())
 
     # Structured completeness signal for the loop-until-complete driver: this window
@@ -441,8 +534,13 @@ def run(shard_index: int, shard_total: int, out_path: str,
     if visited_out:
         try:
             os.makedirs(os.path.dirname(visited_out) or ".", exist_ok=True)
+            # MERGE with `prior`, never just `new_keys`. The file is opened "w", so
+            # writing only this run's keys TRUNCATED every earlier run's cache — chunk
+            # N+1 destroyed chunk N's record, and those leaves got re-crawled forever
+            # while `skipped` stayed at 0. When visited_out == visited_file (the normal
+            # case) this is a read-modify-write of a shared cache.
             with open(visited_out, "w", encoding="utf-8") as fh:
-                fh.write("\n".join(sorted(new_keys)))
+                fh.write("\n".join(sorted(prior | new_keys)))
         except OSError as exc:
             print(f"[warn] could not write visited_out: {exc}", flush=True)
 

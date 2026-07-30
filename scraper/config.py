@@ -32,9 +32,29 @@ RATE = {
     "min_delay_s": float(os.getenv("SP_MIN_DELAY", "1.5")),   # per-IP base delay
     "max_delay_s": float(os.getenv("SP_MAX_DELAY", "4.0")),   # jittered upper bound
     "concurrency": int(os.getenv("SP_CONCURRENCY", "6")),     # parallel workers (each on its own proxy)
-    "request_timeout_s": 15,    # fail a blocked/slow request fast so shards turn over
+    # requests' timeout is (connect, read) — read is "gap between bytes", NOT total —
+    # so a low value only kills STALLED sockets, never a slow-but-streaming 2MB leaf.
+    # Behind the API Gateway a stalled socket is pure dead lane-time (measured: ~1/3 of
+    # attempts hang to this value while the gateway's own p50 is 0.25s).
+    "request_timeout_s": float(os.getenv("SP_REQUEST_TIMEOUT", "15")),
+    # Connect and read are budgeted SEPARATELY. RockAuto blackholes a burned source IP
+    # at L3 — it DROPS the SYN rather than refusing it — so a request to a spent gateway
+    # IP does not fail, it hangs for the whole timeout. With one 15 s scalar covering
+    # both phases, a dead IP cost 15 s and lanes sat at 98% idle CPU logging one progress
+    # line per ~5 min (measured 2026-07-27). A short connect budget fails a blackholed IP
+    # fast so the next attempt draws a different IP from the gateway pool, while the read
+    # budget stays generous because a live RockAuto leaf page is genuinely slow to render.
+    "connect_timeout_s": float(os.getenv("SP_CONNECT_TIMEOUT", "4")),
     "max_attempts": 4,          # per-node retry budget before marking 'failed'
-    "captcha_backoff_s": 90,    # cool-down for an IP that hit a CAPTCHA
+    # Cool-down after a CAPTCHA. This is a PER-IP idea: on a proxy fleet the exit IP
+    # is sticky, so hitting the wall means THAT IP is hot and must rest — 90 s is right.
+    # Behind API Gateway it is actively harmful: every request already draws a fresh
+    # egress IP (measured — 60 requests over one connection gave 60 distinct IPs), so
+    # the cooldown rests an IP we will never touch again. Measured 2026-07-27: a lane
+    # managed 7 requests in 120 s (17 s/request) because 2 captchas cost 180 s of sleep,
+    # while the same fetch through the same gateway takes ~1 s. Set SP_CAPTCHA_BACKOFF=1
+    # in gateway mode; keep 90 for proxy mode.
+    "captcha_backoff_s": float(os.getenv("SP_CAPTCHA_BACKOFF", "90")),
 }
 
 # ---- CAPTCHA SOLVING -----------------------------------------------------

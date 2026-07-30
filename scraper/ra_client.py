@@ -197,7 +197,17 @@ class RAClient:
         """Retry budget per request. DIRECT (no proxy to rotate to): a burned IP
         will keep failing, and each retry re-warms a fresh session (minutes of
         thrash) — so fail FAST (1 attempt) and let the crawl loop abort the job so
-        a fresh CI runner IP takes over. PROXIED: full retries (each gets a new IP)."""
+        a fresh CI runner IP takes over. PROXIED: full retries (each gets a new IP).
+
+        SP_MAX_ATTEMPTS overrides both. Behind the API Gateway there is no proxy in
+        the pool (self._proxy is None) yet EVERY request already exits from a fresh
+        AWS IP — so the fail-fast assumption is wrong there, and a transient 504
+        from the gateway throws the page away after a single try. Set it to 3 when
+        running through the gateway.
+        """
+        env = os.getenv("SP_MAX_ATTEMPTS")
+        if env and env.isdigit() and int(env) > 0:
+            return int(env)
         return 1 if self._proxy is None else int(RATE["max_attempts"])
 
     def _exit_country(self) -> str | None:
@@ -472,7 +482,35 @@ class RAClient:
         raise Blocked(f"fetch_buyers_guide blocked after {attempts} attempts ({last_err})")
 
     def rotate(self) -> None:
-        """Quarantine the current proxy (captcha cool-down) and start fresh."""
+        """Quarantine the current proxy (captcha cool-down) and start fresh.
+
+        GATEWAY MODE (self._proxies is None but every request still exits a fresh
+        AWS IP): there is nothing to rotate TO. ApiGateway.send() already picks a
+        new endpoint and a new egress IP on every single request, so the session was
+        never the thing that failed — a 504 means one egress IP is blackholed and the
+        next request will not use it. The old behaviour threw the session away and
+        then spent up to RATE["max_attempts"]=4 warm-up GETs of the 41KB catalog root
+        rebuilding cookies + _nck that were never invalid. Those warm-ups are the
+        measured 1.54x gateway:crawler request amplification — ~35% of the per-IP
+        request budget (~780 catalog requests before RockAuto blackholes the IP)
+        spent on pages carrying zero listing rows.
+        ponytail: keep the session; ceiling is that we no longer refresh cookies at
+        all in gateway mode — if RockAuto ever starts binding sessions, drop the
+        `and self._nck` and let it warm up again.
+
+        THE GUARD WAS DEAD CODE. It tested `self._proxies is None`, but crawl_jsonl.run()
+        ALWAYS constructs `RAClient(ProxyManager())` — the manager object exists even
+        when SP_USE_PROXIES=0 (crawl_apigw.py sets that), so the condition was False on
+        every lane in the fleet and the whole optimisation above never once ran. Measured
+        consequence: 0.44 req/s per lane against the 1.32-1.84 this same file records for
+        a clean gateway lane. The real predicate is "can rotating give me a different exit
+        IP?" — with no proxy pool it cannot (API Gateway already picks a fresh egress IP
+        per request), so tearing down a working session buys nothing and costs up to
+        RATE["max_attempts"] warm GETs plus, on a captcha during warm-up, a 90 s
+        _sleep_captcha_backoff. Proxy mode is untouched.
+        """
+        if not config.PROXY.get("enabled", True) and self._nck:
+            return
         self._quarantine_current()
         self.new_session()
 
@@ -490,7 +528,15 @@ class RAClient:
                 ),
                 "Accept-Language": "en-US,en;q=0.9",
                 "Accept-Encoding": "gzip, deflate, br",
-                "Connection": "keep-alive",
+                # KEEP-ALIVE. Do not "improve" this to Connection: close to chase egress-IP
+                # diversity — measured 2026-07-27, that premise is false. API Gateway picks
+                # its egress IP PER REQUEST, not per TCP connection: 60 requests over ONE
+                # client connection returned 60 DISTINCT egress IPs (identical distinct count
+                # in close mode). The client TLS terminates at the APIGW regional frontend and
+                # the origin call is made by AWS's regional NAT fleet, so the client socket has
+                # no bearing on it. Closing per request bought zero IPs and cost 2.2-2.7x
+                # throughput (0.68 req/s vs 1.32-1.84 keep-alive through a live endpoint).
+                "Connection": "keep-alive" if os.getenv("SP_CONN_CLOSE", "0") != "1" else "close",
                 "Upgrade-Insecure-Requests": "1",
             }
         )
@@ -517,12 +563,22 @@ class RAClient:
         assert self._session is not None  # new_session() always runs first
         if url.startswith("/"):
             url = config.BASE + url
-        kw.setdefault("timeout", RATE["request_timeout_s"])
+        # (connect, read) — a blackholed gateway IP must fail on the connect budget, not
+        # burn the full read budget. See RATE["connect_timeout_s"] in scraper/config.py.
+        kw.setdefault("timeout", (RATE["connect_timeout_s"], RATE["request_timeout_s"]))
         kw.setdefault("allow_redirects", True)
         resp = self._session.request(method, url, **kw)
         # Meter billed proxy bytes; raises BudgetExceeded at the hard cap.
         up = len(url) + len(str(kw.get("data") or kw.get("params") or "")) + 500
         BUDGET.record(resp, up)
+        # An HTTP error body is NOT a page. Without this, a 429/503/WAF interstitial
+        # parses to zero children and zero listings, the frontier "drains", and the
+        # unit gets a permanent done-marker — banking nothing while reporting success
+        # (the mechanism behind the zero-part vehicles). Raise so the caller's existing
+        # RequestException handling rotates the IP and retries instead.
+        # 404/410 pass through: a genuinely missing page must not be retried forever.
+        if resp.status_code >= 400 and resp.status_code not in (404, 410):
+            raise RequestException(f"HTTP {resp.status_code} for {url}")
         return resp
 
     # -- proxy pool helpers (duck-typed; tolerate a minimal fake) ----------
@@ -696,20 +752,23 @@ class RAClient:
 
     @staticmethod
     def _extract_catalog_fragment(data: object) -> str | None:
-        """Pull the catalog HTML fragment out of the tab_fetch JSON response.
+        """Pull the catalog HTML out of a catalogapi JSON response.
 
-        Returns None only when the response has no html_fill_sections at all
-        (caller decides how to treat that). Prefers the section whose key
-        mentions 'catalog'; otherwise concatenates every string section.
+        `html_fill_sections` is a {dom_id: innerHTML} map and a response routinely
+        fills SEVERAL ids at once. This used to early-return the first section whose
+        key contained 'catalog' and throw the rest away — a silent partial drop: on a
+        parttype the rows arrive under `navchildren[<groupindex>]` (verified against
+        the live DOM chain in scratch_leaf.html: tbody#listingcontainer[8] ->
+        table.nobmp -> div#listings[7] -> div#navchildren[6]), so any co-filled
+        'catalog'-keyed section won the preference and the listings were discarded.
+        Concatenate everything instead — a strict superset, and both parse_listings
+        and parse_nav already de-dup. Returns None only when there are no sections.
         """
         if not isinstance(data, dict):
             return None
         sections = data.get("html_fill_sections")
         if not isinstance(sections, dict):
             return None
-        for key, val in sections.items():
-            if isinstance(val, str) and "catalog" in str(key).lower():
-                return val
         parts = [v for v in sections.values() if isinstance(v, str)]
         return "".join(parts) if parts else ""
 

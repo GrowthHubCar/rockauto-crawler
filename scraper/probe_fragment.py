@@ -24,6 +24,29 @@ def gz(s: str) -> int:
     return len(gzip.compress((s or "").encode("utf-8", "replace")))
 
 
+# Fields that legitimately differ between the two fetch shapes: source_url is set by
+# the caller from the href (the fragment has none), and image URLs get rewritten to
+# local paths downstream. Everything else must match part-for-part.
+_SKIP = {"source_url"}
+
+
+def parity(full_rows, frag_rows) -> list[str]:
+    """Field-by-field diff keyed by (brand, part number). Empty list == the fragment
+    is lossless for this node and may be used in place of the full page."""
+    key = lambda r: (r.get("brand_name"), r.get("part_number"))  # noqa: E731
+    a = {key(r): r for r in full_rows}
+    b = {key(r): r for r in frag_rows}
+    bad = [f"MISSING from fragment: {k}" for k in a.keys() - b.keys()]
+    bad += [f"EXTRA in fragment: {k}" for k in b.keys() - a.keys()]
+    for k in a.keys() & b.keys():
+        for f in set(a[k]) | set(b[k]):
+            if f in _SKIP:
+                continue
+            if a[k].get(f) != b[k].get(f):
+                bad.append(f"{k} field {f!r}: full={a[k].get(f)!r} frag={b[k].get(f)!r}")
+    return bad
+
+
 def main() -> int:
     os.environ.setdefault("SP_USE_PROXIES", "0")
     client = RAClient(ProxyManager())
@@ -50,7 +73,7 @@ def main() -> int:
     parttypes = parttypes[:15]
     print(f"[2] measuring {len(parttypes)} parttypes both ways\n")
 
-    tot_full = tot_frag = n_ok = 0
+    tot_full = tot_frag = n_ok = n_diff = 0
     print(f"    {'parttype':10} {'full_gz':>8} {'frag_gz':>8} {'pf':>3} {'pg':>3}")
     for pt in parttypes:
         jsn = pt.get("jsn") or {}
@@ -64,9 +87,19 @@ def main() -> int:
         except Exception as exc:  # noqa: BLE001
             frag = f"(err {type(exc).__name__})"
         gf, gg = gz(full), gz(frag)
-        pf = len(parsers.parse_listings(full, ctx)) if full else -1
-        pg = len(parsers.parse_listings(frag, ctx)) if frag and not frag.startswith("(err") else -1
+        lf = parsers.parse_listings(full, ctx) if full else []
+        lg = (parsers.parse_listings(frag, ctx)
+              if frag and not frag.startswith("(err") else [])
+        pf, pg = (len(lf) if full else -1), (len(lg) if frag else -1)
         print(f"    {jsn.get('parttype','?'):10} {gf:8d} {gg:8d} {pf:3d} {pg:3d}")
+        # THE decider: identical rows AND identical fields, or the fragment is lossy.
+        if full and frag and not frag.startswith("(err"):
+            bad = parity(lf, lg)
+            n_diff += len(bad)
+            for line in bad[:6]:
+                print(f"      DIFF {line}")
+            if len(bad) > 6:
+                print(f"      DIFF ... +{len(bad)-6} more")
         if gf:
             tot_full += gf; tot_frag += gg; n_ok += 1
 
@@ -78,7 +111,9 @@ def main() -> int:
             gb = 12_698_470 * per / 1e9
             print(f"  full mirror via {label:10}: {gb:6.1f} GB = ${gb*1.15:5.0f}")
         print(f"\n  $30 budget = 26GB -> need <= {26e9/12_698_470:.0f} B/parttype gzipped")
-    return 0
+    print(f"\n  PARITY: {n_diff} field/row differences across {n_ok} parttypes -> "
+          f"{'fragment is LOSSLESS, safe to enable SP_USE_FRAGMENT=1' if n_diff == 0 else 'fragment is LOSSY, keep full pages'}")
+    return 0 if n_diff == 0 else 1
 
 
 if __name__ == "__main__":

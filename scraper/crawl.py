@@ -166,10 +166,101 @@ def node_key_for(node: dict) -> str:
     return f"{node.get('nodetype', '?')}:{coords}:{node.get('gip', '')}"
 
 
-def should_enqueue(node: dict, scope=None) -> bool:
+def category_path_for(child: dict) -> str | None:
+    """'Group>Part Type' for a category-ish node, from THIS node's own identity
+    (jsn `groupname` + display name) — route-independent, see build_child_payload."""
+    name = node_display_name(child)                  # 'Brake Pad', 'Disc Brake Pad', ...
+    if not name:
+        return None
+    grp = (child.get("jsn") or {}).get("groupname")
+    grp = (str(grp).strip() if grp is not None and str(grp).strip()
+           and not str(grp).strip().isdigit() else None)
+    return f"{grp}>{name}" if grp and grp.lower() != name.strip().lower() else name
+
+
+# --------------------------------------------------------------------------- #
+# coverage skip-set  (rows we ALREADY hold — never spend a request on them)
+# --------------------------------------------------------------------------- #
+# One flat file of keys, built by bin/plan_targets.py straight from the DB:
+#   v:<vehicle-slug>                  -> this vehicle is covered; prune the whole subtree
+#   l:<vehicle-slug>|<category-slug>  -> this leaf is covered; skip the 2 MB fetch
+# Absent SP_SKIP_FILE = empty set = today's behaviour exactly.
+# ponytail: a plain str set. Chevrolet's whole make is ~194k keys (~40 MB resident);
+# per-UNIT files keep it ~11k. If a lane ever needs the whole catalog (2.9M keys),
+# swap the set for `{hash(k) & 0xFFFFFFFFFFFF}` ints — 8 B each, same one-line check.
+_SKIP: set[str] | None = None
+
+
+def skip_set() -> set[str]:
+    """Covered-node keys from SP_SKIP_FILE, loaded once per process."""
+    global _SKIP
+    if _SKIP is None:
+        path = os.getenv("SP_SKIP_FILE") or ""
+        try:
+            with open(path, encoding="utf-8") as fh:
+                _SKIP = {ln.strip() for ln in fh if ln.strip()}
+        except OSError:
+            _SKIP = set()
+        if path:
+            print(f"[skip] {len(_SKIP)} covered keys from {path}", flush=True)
+    return _SKIP
+
+
+def vehicle_slug_for(node: dict, ctx: dict | None = None) -> str:
+    """The DB's vehicles.slug for this node: slugify('<year> <make> <model> <engine>').
+    Identical to bin/loader.vehicle_slug (same regex, trim is NULL on all 30,721 rows).
+    A carcode node carries the coords itself; deeper nodes inherit them via ctx."""
+    d = ctx or {}
+    vals = [node.get(f) or d.get(f) for f in ("year", "make", "model", "engine")]
+    return slugify(" ".join(str(v) for v in vals if v))
+
+
+def coverage_key(node: dict, ctx: dict | None = None) -> str | None:
+    """The skip-set key for a node, or None when the node isn't skippable."""
+    ntype = node.get("nodetype")
+    if ntype == "carcode":
+        return "v:" + vehicle_slug_for(node, ctx)
+    if ntype in ("group", "parttype"):
+        cat = category_path_for(node)
+        # slugify('A>B') == slugify('A B') == categories.slug the loader wrote.
+        return f"l:{vehicle_slug_for(node, ctx)}|{slugify(cat)}" if cat else None
+    return None
+
+
+# Measured rows-per-leaf by category (SP_CAT_YIELD, written by bin/plan_targets.py).
+# Catalog-wide the top 20 of 3,970 categories are 4.1% of leaves but 21.5% of all
+# rows; the top 100 are 17.2% of leaves and 46.8% of rows. Draining them first is
+# the single biggest rows-per-request lever we have.
+_YIELD: dict[str, float] | None = None
+
+
+def cat_yield(path: str | None) -> float:
+    """Expected rows for a leaf in category `path` ('Group>Part Type'), from the
+    measured per-category average. 0.0 when unknown -> unknown categories sort
+    last but are still crawled (never dropped)."""
+    global _YIELD
+    if _YIELD is None:
+        _YIELD = {}
+        try:
+            with open(os.getenv("SP_CAT_YIELD") or "", encoding="utf-8") as fh:
+                for ln in fh:
+                    slug, _, avg = ln.strip().partition("\t")
+                    if slug and avg:
+                        _YIELD[slug] = float(avg)
+        except (OSError, ValueError):
+            pass
+    # slugify('A>B') == slugify('A B') == the categories.slug the loader wrote.
+    return _YIELD.get(slugify(path), 0.0) if (path and _YIELD) else 0.0
+
+
+def should_enqueue(node: dict, scope=None, ctx: dict | None = None) -> bool:
     """Apply SCOPE filters (market always; year for year nodes; category for
-    category/group nodes). Returns False only when a node is provably out of
-    scope — unknowns are kept."""
+    category/group nodes) plus the coverage skip-set. Returns False only when a
+    node is provably out of scope or already banked — unknowns are kept.
+
+    `ctx` is the PARENT's accumulated context (make/year/model/engine); it is what
+    lets a parttype node — whose own jsn carries only a numeric id — know which
+    vehicle it belongs to."""
     scope = scope or config.SCOPE
     if not in_scope_market(node.get("markets"), scope):
         return False
@@ -178,6 +269,13 @@ def should_enqueue(node: dict, scope=None) -> bool:
         return False
     if ntype in ("category", "group", "parttype"):
         if not in_scope_category(node_display_name(node), scope):
+            return False
+    # Already banked: pruning a carcode kills ~283 requests (1 vehicle page + 23
+    # group pages + ~259 leaves); pruning a leaf kills one 2 MB fetch.
+    skip = skip_set()
+    if skip:
+        key = coverage_key(node, ctx)
+        if key and key in skip:
             return False
     return True
 
@@ -207,13 +305,9 @@ def build_child_payload(child: dict, parent_payload: dict | None) -> dict:
         # into the path (a Brake Pad ended up filed under 'Wiper & Washer', ~64% of parts
         # mis-categorised). Route-independent `groupname>name` is immune to that over-
         # collection and matches RockAuto's real (2-level) taxonomy.
-        name = node_display_name(child)              # 'Brake Pad', 'Disc Brake Pad', ...
-        grp = (child.get("jsn") or {}).get("groupname")
-        grp = (str(grp).strip() if grp is not None and str(grp).strip()
-               and not str(grp).strip().isdigit() else None)
-        if name:
-            parent_ctx["category_path"] = (
-                f"{grp}>{name}" if grp and grp.lower() != name.strip().lower() else name)
+        path = category_path_for(child)
+        if path:
+            parent_ctx["category_path"] = path
         # An unnamed node keeps whatever the parent carried (rare; nothing to add).
     return {
         "jsn": child.get("jsn"),
@@ -359,7 +453,7 @@ def _process_node(conn, client, parsers, node: dict, batch_id: str,
     else:
         children = parsers.parse_nav(html)
         for child in children:
-            if not should_enqueue(child):
+            if not should_enqueue(child, ctx=(payload or {}).get("ctx")):
                 continue
             frontier.enqueue(
                 conn,
@@ -614,6 +708,42 @@ def _selftest() -> bool:
     check(should_enqueue({"nodetype": "carcode", "carcode": "3309958",
                           "engine": "2.4L L4", "markets": ["US"]}),
           "should_enqueue keeps a specific-engine carcode node")
+
+    # ---- coverage skip-set: prune what we already hold, keep everything else ----
+    # The vehicle key MUST equal bin/loader.vehicle_slug(make, model, year, engine,
+    # None) or the skip-set silently matches nothing (or, worse, the wrong vehicle).
+    global _SKIP, _YIELD
+    carcode = {"nodetype": "carcode", "make": "Honda", "model": "Accord",
+               "year": 2015, "engine": "2.4L L4", "markets": ["US"]}
+    check(vehicle_slug_for(carcode) == "2015-honda-accord-2-4l-l4",
+          f"vehicle_slug_for != loader.vehicle_slug: {vehicle_slug_for(carcode)}")
+    pad = {"nodetype": "parttype", "label": "Brake Pad",
+           "jsn": {"groupname": "Brake & Wheel Hub"}, "markets": ["US"]}
+    vctx = {"make": "Honda", "model": "Accord", "year": 2015, "engine": "2.4L L4"}
+    check(coverage_key(pad, vctx)
+          == "l:2015-honda-accord-2-4l-l4|brake-wheel-hub-brake-pad",
+          f"leaf coverage key wrong: {coverage_key(pad, vctx)}")
+    _SKIP = set()
+    check(should_enqueue(carcode) and should_enqueue(pad, ctx=vctx),
+          "empty skip-set changes nothing (default behaviour preserved)")
+    _SKIP = {"v:2015-honda-accord-2-4l-l4"}
+    check(not should_enqueue(carcode), "covered carcode pruned (whole subtree)")
+    check(should_enqueue({**carcode, "year": 2016}),
+          "a DIFFERENT year is still crawled (no over-pruning)")
+    _SKIP = {"l:2015-honda-accord-2-4l-l4|brake-wheel-hub-brake-pad"}
+    check(not should_enqueue(pad, ctx=vctx), "covered leaf pruned")
+    check(should_enqueue(pad, ctx={**vctx, "engine": "3.5L V6"}),
+          "same part type on an UNcovered engine is still crawled")
+    check(should_enqueue({**pad, "label": "Rotor"}, ctx=vctx),
+          "uncovered part type on a covered vehicle is still crawled")
+    check(should_enqueue(pad, ctx=None), "no ctx -> never prunes (fail open)")
+    _SKIP = None
+
+    # cat_yield: ordering knob only — unknown/absent table must never drop work.
+    _YIELD = {"brake-wheel-hub-brake-pad": 43.55, "wheel-lug-nut": 12.2}
+    check(cat_yield("Brake & Wheel Hub>Brake Pad") == 43.55, "cat_yield lookup")
+    check(cat_yield("Nope>Nothing") == 0.0, "cat_yield unknown -> 0 (sorts last)")
+    _YIELD = None
 
     # listing_ctx exposes category_path
     lc = listing_ctx(p2)

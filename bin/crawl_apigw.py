@@ -16,6 +16,7 @@ see which regime you're in; if RAW, the gzip binaryMediaTypes patch is needed (s
 import argparse
 import os
 import sys
+import time
 
 os.environ.setdefault("SP_USE_PROXIES", "0")      # gateway handles IPs; no proxy rotation
 os.environ.setdefault("SP_DOWNLOAD_IMAGES", "0")  # images fetched separately (not IP-walled)
@@ -53,6 +54,56 @@ def _shard_units(units: list, index: int, total: int) -> list:
     if total <= 1:
         return units
     return units[index::total]
+
+
+def _live_endpoints(gw, path="gw_endpoints.txt", ttl=20.0):
+    """Re-read the weighted endpoint list from disk whenever it changes.
+
+    ApiGateway.send() does `choice(self.endpoints)` — uniform — so repeating an
+    endpoint N times in the list gives that region N/total of the traffic. That is
+    both the capacity weighting (a region's sustainable rate is proportional to its
+    egress-IP pool: 110 IPs for ap-southeast-1 vs 454 for eu-west-2) AND the
+    eviction mechanism (weight 0 = the endpoint simply is not in the list).
+
+    Endpoints are otherwise fixed at process start, and a lane can hold one chunk
+    for up to SECS=3600 — far too slow, since a region poisons in 1-2 minutes and
+    stays poisoned for over an hour. bin/gw_health.py rewrites this file every 30 s;
+    this makes every lane on every box honour an eviction within ~20 s, no restart.
+
+    An eviction loop WITHOUT volume control is actively harmful: dropping a region
+    from the list does not reduce the fleet's request rate, it redistributes that
+    rate onto the survivors, which pushes them over their own line — cascading
+    collapse. So the list length is also the throttle. Weights converge (AIMD) on
+    each region's real capacity, so `sum(weights) = len(list)` IS the fleet's
+    capacity estimate; ALPHA converts one weight unit to gateway req/s (calibrated:
+    345 seed weight units == 3,444 measured egress IPs == 258 req/s at the measured
+    0.075 req/s per IP, so 1 unit ~= 0.75 req/s). Each of SP_FLEET_LANES lanes takes
+    an equal share. Evict a region and every lane slows down within ~20 s.
+    """
+    ALPHA = float(os.getenv("SP_GW_RPS_PER_WEIGHT", "0.75"))
+    lanes = max(1, int(os.getenv("SP_FLEET_LANES", "1")))
+    state = {"mtime": 0.0, "checked": 0.0, "next": 0.0, "gap": 0.0}
+    orig_send = gw.send
+
+    def send(request, *a, **kw):
+        now = time.monotonic()
+        if now - state["checked"] > ttl:
+            state["checked"] = now
+            try:
+                m = os.path.getmtime(path)
+                if m != state["mtime"]:
+                    eps = [e.strip() for e in open(path, encoding="utf-8").read().split(",") if e.strip()]
+                    if eps:                      # never let a truncated write blank us
+                        gw.endpoints, state["mtime"] = eps, m
+                        state["gap"] = lanes / (ALPHA * len(eps))
+            except OSError:
+                pass                             # file momentarily absent → keep last good list
+        if now < state["next"]:
+            time.sleep(state["next"] - now)
+        state["next"] = time.monotonic() + state["gap"]
+        return orig_send(request, *a, **kw)
+
+    gw.send = send
 
 
 def _mount_gateway(gw):
@@ -117,15 +168,41 @@ def main() -> int:
     os.environ["SP_MIN_DELAY"] = a.min_delay
     os.environ["SP_MAX_DELAY"] = a.max_delay
 
-    gw = ApiGateway(SITE, regions=EXTRA_REGIONS[:a.regions])
-    print(f"[apigw] starting {a.regions} region(s) (reuse if present)...", flush=True)
-    gw.start(force=False)
-    if a.setup_only:
-        print("[apigw] setup-only: shared endpoints live. Launch workers with --no-teardown. "
-              "Not deleting.", flush=True)
-        return 0
-    _mount_gateway(gw)
-    print("[apigw] gateway mounted on crawler session.", flush=True)
+    # DIRECT MODE: crawl from this machine's own public IP, no gateway at all.
+    #
+    # Measured 2026-07-26: RockAuto does NOT block AWS EC2 ranges (20/20 HTTP 200 from
+    # five fleet boxes, 0.26-0.68 s each), and a direct lane sustains ~3.3 req/s against
+    # ~0.17 through the gateway — roughly 20x. The catch is a PER-IP budget: about 700
+    # requests, then a TCP blackhole (not a captcha) lasting >= 11.4 min. Blocking is
+    # per-IP, proven by two boxes in the SAME /24 behaving independently, so throughput
+    # scales with the number of distinct source IPs — never with lanes piled on one IP.
+    #
+    # Therefore: run FEW lanes per IP. On a one-IP box that means LANES=1. Piling 24
+    # lanes on a single public IP blackholes it within ~2 minutes and yields nothing.
+    DIRECT = os.environ.get("SP_DIRECT") == "1"
+    gw = None
+    if DIRECT:
+        print("[direct] no gateway — crawling from this host's own public IP", flush=True)
+    else:
+        gw = ApiGateway(SITE, regions=EXTRA_REGIONS[:a.regions])
+    # SP_GW_ENDPOINTS lets a machine with NO AWS credentials crawl through gateways
+    # created elsewhere: ApiGateway.send() only rewrites the URL/Host (it does not
+    # sign requests), so the endpoint list is the only thing a worker actually needs.
+    if not DIRECT:
+        preset = os.environ.get("SP_GW_ENDPOINTS", "").strip()
+        if preset:
+            gw.endpoints = [e.strip() for e in preset.split(",") if e.strip()]
+            print(f"[apigw] using {len(gw.endpoints)} preset endpoint(s) — no AWS calls", flush=True)
+        else:
+            print(f"[apigw] starting {a.regions} region(s) (reuse if present)...", flush=True)
+            gw.start(force=False)
+        if a.setup_only:
+            print("[apigw] setup-only: shared endpoints live. Launch workers with --no-teardown. "
+                  "Not deleting.", flush=True)
+            return 0
+        _live_endpoints(gw)
+        _mount_gateway(gw)
+        print("[apigw] gateway mounted on crawler session.", flush=True)
 
     if a.gen_units:
         import crawl_jsonl
@@ -163,8 +240,17 @@ def main() -> int:
         import crawl_jsonl
         only = [m.strip().lower() for m in a.only_makes.split(",")] if a.only_makes else None
         print(f"[apigw] crawling only_makes={only} budget={a.budget}...", flush=True)
+        # VISITED_FILE / VISITED_OUT: the cross-run leaf skip-set. crawl_jsonl's argparse
+        # already defaults these from the env, but this wrapper calls run() directly and
+        # was silently dropping them — so `prior` stayed empty, every log line read
+        # "loaded 0 previously-crawled leaves", and lanes re-walked ground already in the
+        # DB (measured: only 0.68% of 520,229 crawled rows were new SKUs).
+        visited = os.getenv("VISITED_FILE") or None
         stats = crawl_jsonl.run(a.shard_index, a.shard_total, a.out, budget=a.budget,
                                 max_seconds=a.max_seconds, only_makes=only,
+                                tree_only=os.getenv("TREE_ONLY") == "1",
+                                visited_file=visited,
+                                visited_out=os.getenv("VISITED_OUT") or visited,
                                 frontier_file=a.frontier_file, frontier_out=a.frontier_out)
         print(f"[apigw] done: {stats}", flush=True)
         # Exit 42 = this unit's frontier drained (nothing left) so the lane driver
@@ -176,7 +262,9 @@ def main() -> int:
         # the try's `return 42` completion signal, so every lane saw rc=0 even when a
         # unit drained → it re-crawled each unit up to MAXCHUNKS times (the churn bug:
         # 28k drains for 5.4k units, DONE=0, ~5× wasted RockAuto load).
-        if a.no_teardown:
+        if gw is None:
+            pass                       # direct mode: nothing was created, nothing to delete
+        elif a.no_teardown:
             print("[apigw] --no-teardown: leaving shared endpoints up for other workers.", flush=True)
         else:
             print("[apigw] shutdown (deleting endpoints)...", flush=True)

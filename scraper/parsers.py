@@ -114,6 +114,32 @@ def _first_class(node, *keywords) -> object | None:
     return None
 
 
+class _ById:
+    """One id -> tags map per page, passed where a soup is expected.
+
+    bs4's soup.find(id=...) walks every tag in the document, and the by-index
+    extractors do ~8 of those PER PART — so parsing cost grows as parts x tags.
+    Indexing the ids once turns each lookup into a dict hit. Measured on a real
+    2 MB leaf (107 parts): parse_listings 26.6s -> well under 2s, same rows.
+
+    Values are lists so a duplicate id keeps bs4's semantics: the first tag in
+    document order that ALSO matches the requested tag name.
+    """
+    __slots__ = ("_m",)
+
+    def __init__(self, soup):
+        m: dict = {}
+        for t in soup.find_all(id=True):
+            m.setdefault(t["id"], []).append(t)
+        self._m = m
+
+    def find(self, name=None, *, id=None):   # no **kw: an unexpected kwarg must raise
+        for t in self._m.get(id, ()):
+            if name is None or t.name == name:
+                return t
+        return None
+
+
 # --------------------------------------------------------------------------- #
 # _nck nonce
 # --------------------------------------------------------------------------- #
@@ -382,6 +408,26 @@ def _extract_product_images(soup, idx: str) -> list[str]:
 
 
 _MOREINFO_RE = re.compile(r"moreinfo\.php\?pk=(\d+)&(?:amp;)?cc=(\d+)&(?:amp;)?pt=(\d+)")
+
+
+def _blob(ids, name: str, idx: str) -> dict:
+    """One row's hidden JSON input — `listing_data_essential[N]` (partkey/carcode/
+    parttype/opts) or `listing_data_supplemental[N]` (sortgrouptext/partnumber).
+
+    RockAuto's own JS needs these to build the cart and the buyers-guide popup, so
+    they ride along on BOTH the full page and the compact navnode_fetch fragment,
+    keyed by the same row index. Anything read from here therefore survives the
+    fragment — unlike the document-order `listing-sortgroupheader` scan and the
+    "Info" anchor, which the fragment does not reliably carry. {} when absent.
+    """
+    el = ids.find("input", id=f"{name}[{idx}]")
+    if el is None:
+        return {}
+    try:
+        d = json.loads(el.get("value") or "{}")
+    except (ValueError, TypeError):
+        return {}
+    return d if isinstance(d, dict) else {}
 
 
 def _extract_moreinfo_key(cont) -> dict | None:
@@ -830,6 +876,7 @@ def parse_listings(html: str, ctx: dict) -> list[dict]:
     """
     ctx = ctx or {}
     soup = _soup(html)
+    ids = _ById(soup)          # index ids once — see _ById (was O(parts x tags))
     base = _base_listing(ctx)
     idx_style = _style_by_index(html)
     listings: list[dict] = []
@@ -884,18 +931,29 @@ def parse_listings(html: str, ctx: dict) -> list[dict]:
             if m_idx:
                 idx = m_idx.group(1)
 
-            # Style sub-group, looked up by this row's index from the RAW source
-            # order (see _style_by_index): a reserved "Style" attribute so the
-            # storefront can sub-section listings ("Beam (Standard)", "Winter"...)
-            # exactly like RockAuto.
-            style = idx_style.get(idx) if idx else None
+            # Per-row hidden JSON (see _blob) — the fragment-safe source for the
+            # fields the navnode_fetch fragment otherwise loses.
+            ess = _blob(ids, "listing_data_essential", idx) if idx else {}
+            sup = _blob(ids, "listing_data_supplemental", idx) if idx else {}
+
+            # Style sub-group: a reserved "Style" attribute so the storefront can
+            # sub-section listings ("Beam (Standard)", "Winter"...) like RockAuto.
+            # `sortgrouptext` is authoritative and index-keyed; the _style_by_index
+            # document-order scan is the drift fallback for rows with no blob at all.
+            # Measured on the 107-part scratch_leaf.html: 105/107 identical, and on
+            # the 2 that differ the blob is RIGHT — those rows sit in RockAuto's
+            # unnamed trailing sortgroup and the scan carried the previous header's
+            # label ("Beam (Extended Life)") into them.
+            # ponytail: keep the scan as a drift net; delete it once a fleet run
+            # shows listing_data_supplemental present on 100% of rows.
+            style = sup.get("sortgrouptext") if sup else (idx_style.get(idx) if idx else None)
             if style:
                 attributes = [{"name": "Style", "value": style}] + attributes
 
             # Price + core: index-keyed cells first, container fallback second.
             price = core_charge = None
             if idx:
-                price, core_charge = _extract_price_by_index(soup, idx)
+                price, core_charge = _extract_price_by_index(ids, idx)
             if price is None:
                 p2, c2 = _extract_price_and_core(cont)
                 price = p2
@@ -905,14 +963,14 @@ def parse_listings(html: str, ctx: dict) -> list[dict]:
             # Dropdown parts (inventory tiers or "Choose Type"): capture EVERY
             # option. The scalar price is the SELECTED one — RockAuto's headline —
             # already resolved by _extract_price_by_index; only fill a gap here.
-            variants = _extract_variants(soup, idx) if idx else None
+            variants = _extract_variants(ids, idx) if idx else None
             if variants and price is None:
                 price, vcore = _price_from_variants(variants)
                 if core_charge is None:
                     core_charge = vcore
 
             # Product photo (index-keyed structure), else container-scoped images.
-            image_urls = _extract_product_images(soup, idx) if idx else []
+            image_urls = _extract_product_images(ids, idx) if idx else []
             if not image_urls:
                 image_urls = _extract_images(cont)
             warranty = _extract_warranty(cont)
@@ -920,7 +978,18 @@ def parse_listings(html: str, ctx: dict) -> list[dict]:
             doc_urls = _extract_docs(cont)
             weight = _extract_weight(cont)
             fitment_note = _extract_fitment_note(cont)
+            # moreinfo key {pk,cc,pt}: the "Info" anchor first, else the essential
+            # blob — pk/cc/pt ARE partkey/carcode/parttype (verified 107/107 on
+            # scratch_leaf.html). Without this fallback a fragment-crawled row lands
+            # with moreinfo_key NULL and its specs/description pass never runs.
             moreinfo = _extract_moreinfo_key(cont)
+            if moreinfo is None and ess.get("partkey"):
+                moreinfo = {"pk": str(ess["partkey"]), "cc": str(ess.get("carcode")),
+                            "pt": str(ess.get("parttype"))}
+            # Real stocking warehouse, free with the row (107/107 carry it). Without
+            # it bin/loader.py:640 writes every part to a fabricated 'MAIN'.
+            opt = next(iter((ess.get("opts") or {}).values()), None)
+            warehouse = (opt or {}).get("warehouse") if isinstance(opt, dict) else None
 
             # A row with neither brand nor part number is noise — skip it.
             if not brand_name and not part_number:
@@ -946,6 +1015,8 @@ def parse_listings(html: str, ctx: dict) -> list[dict]:
                     "moreinfo": moreinfo,
                 }
             )
+            if warehouse:
+                listing["warehouse_code"] = warehouse
             listings.append(listing)
         except Exception:
             # Never let one broken row abort the page.
@@ -1291,6 +1362,39 @@ if __name__ == "__main__":
           f"9717 Style should be 'Improved Frame Style', got {impr and _style(impr)}")
     check(wint is not None and _style(wint) == "Winter & Ice",
           f"35170 Style should be 'Winter & Ice' (entity unescaped), got {wint and _style(wint)}")
+
+    # ---- FRAGMENT SHAPE: navnode_fetch rows keyed by __GIP__ placeholders ------
+    # The compact catalogapi fragment differs from the full page in exactly three
+    # ways that used to cost fields: row ids are unresolved `__GIP__N__`
+    # placeholders (so the digits-only _style_by_index scan matches nothing), there
+    # are no `.listing-sortgroupheader` divs, and the "Info" anchor is absent. The
+    # per-row hidden JSON blobs ARE present (RockAuto's JS needs them), so Style,
+    # the moreinfo key and the warehouse must all still come out. Regression for
+    # the ~45%-loss / key-NULL fragment crawl.
+    FRAG_HTML = """
+    <table class="nobmp">
+      <tbody class="listing-inner" id="listingcontainer[__GIP__2__]"><tr><td>
+        <span class="listing-final-manufacturer">TRICO</span>
+        <span class="listing-final-partnumber" id="vew_partnumber[__GIP__2__]">30190</span>
+        <input type="hidden" id="listing_data_essential[__GIP__2__]"
+          value='{"groupindex":"__GIP__2__","carcode":"1001046","parttype":"8852","partkey":"18165373","opts":{"0-0-1-1":{"warehouse":"77481","whpartnum":"AAC AC1019"}}}'>
+        <input type="hidden" id="listing_data_supplemental[__GIP__2__]"
+          value='{"partnumber":"30190","catalogname":"TRICO","sortgroup":0,"sortgrouptext":"Economy"}'>
+      </td>
+      <td id="listingtd[__GIP__2__][price]"><span id="dprice[__GIP__2__][v]">$4.19</span></td>
+      </tr></tbody>
+    </table>
+    """
+    fr = parse_listings(FRAG_HTML, CTX)
+    check(len(fr) == 1, f"fragment: expected 1 part, got {len(fr)}")
+    if fr:
+        f0 = fr[0]
+        check(f0["price"] == 4.19, f"fragment price lost: {f0['price']}")
+        check(_style(f0) == "Economy", f"fragment Style lost: {_style(f0)}")
+        check(f0["moreinfo"] == {"pk": "18165373", "cc": "1001046", "pt": "8852"},
+              f"fragment moreinfo key lost: {f0['moreinfo']}")
+        check(f0["warehouse_code"] == "77481",
+              f"fragment warehouse lost: {f0['warehouse_code']}")
 
     # ---- multi-image gallery (jsninlineimg blob) ----
     # RockAuto keeps a part's FULL photo gallery in a hidden #jsninlineimg[N] JSON

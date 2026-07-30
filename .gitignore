@@ -16,3 +16,18 @@ __pycache__/
 .brand_load_state.json
 .bunny_upload_state.json
 *_state.json
+
+# Ingest work queues + shards (transient, multi-GB). ingest_ec2/out/ above was too narrow —
+# the solo/shard dirs held 6.1 GB of NDJSON and would otherwise be committable.
+ingest_ec2/solo/
+ingest_ec2/sh*/
+ingest_ec2/p[0-9]*/
+ingest_ec2/bunny_out/
+ingest_ec2/*state*/
+# Seeded frontiers + skip-sets are regenerable from the DB (bin/plan_targets.py), ~192 MB
+plan/fr/
+plan/fr_old/
+plan/skip/
+visited*.txt
+gw_endpoints*.txt
+.awstmp/

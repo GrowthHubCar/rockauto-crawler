@@ -38,8 +38,11 @@ def rel_path_for(url: str) -> str | None:
         return None
     tail = m.group(1)
     # Sanitise to a safe on-disk path (keep the /<n>/ sharding).
-    tail = re.sub(r"[^A-Za-z0-9._/-]", "_", tail)
-    return tail.lstrip("/")
+    tail = re.sub(r"[^A-Za-z0-9._/-]", "_", tail).lstrip("/")
+    # Never allow a traversal segment to escape the images root.
+    if any(seg in ("", "..") for seg in tail.split("/")):
+        return None
+    return tail
 
 
 def web_path(rel: str) -> str:
