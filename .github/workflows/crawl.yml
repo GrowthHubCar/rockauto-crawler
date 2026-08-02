@@ -189,6 +189,27 @@ jobs:
           key: rockauto-visited-${{ github.run_id }}
           restore-keys: rockauto-visited-
 
+      # Seed the skip-set with leaves the DB can PROVE were crawled.
+      #
+      # Nothing in this project ever recorded which leaves had been visited: vehicles has
+      # no carcode, categories has no RockAuto parttype id, crawl_frontier is empty, and
+      # vehicle_coverage is vehicle-level. So the Actions fleet started blind and spent 91%
+      # of its requests re-fetching leaves already in the DB (measured: 95,777 rows ->
+      # 8,923 new fitments).
+      #
+      # parts.source_url IS such a record for 413,345 leaves — every one of them demonstrably
+      # returned a part. Only the 8-field carcode form is included; a nav URL in here would
+      # permanently suppress ground that was never crawled (crawl_jsonl caches a leaf ONLY
+      # when it yielded rows, for exactly this reason).
+      - name: Seed skip-set from DB-proven leaves
+        run: |
+          mkdir -p coverage
+          touch coverage/visited.txt
+          before=$(wc -l < coverage/visited.txt)
+          gunzip -c coverage/visited_seed.txt.gz >> coverage/visited.txt
+          sort -u coverage/visited.txt -o coverage/visited.txt
+          echo "skip-set: cache=$before  +seed  ->  $(wc -l < coverage/visited.txt)"
+
       - name: Crawl ${{ env.UNIT }} (idx ${{ matrix.index }})
         env:
           SP_USE_PROXIES: "0"        # each runner already has its own fresh IP
