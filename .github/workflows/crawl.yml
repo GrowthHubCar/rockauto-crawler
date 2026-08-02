@@ -27,11 +27,11 @@ on:
         type: choice
         options: ["full", "tree"]
       budget:
-        description: "Requests per job. 1000 sits just under the LOWEST wall measured on a GitHub runner (1,111); two of eight runners reached 1,998 with no wall at all."
-        default: "1000"
+        description: "Requests per job. 1800 aims at the measured wall band (1,111-1,998) instead of stopping short of it. A job that walls early still uploads what it got, so overshooting costs nothing."
+        default: "1800"
       max_seconds:
-        description: "Max runtime per job (s). 180 = the ~80s productive window plus slack. The old 19000 left a job sitting on a blackholed IP for over five hours."
-        default: "180"
+        description: "Max runtime per job (s). Must exceed budget/rate or the budget is never reached; SP_MAX_BLOCKED=3 already aborts a walled job in seconds."
+        default: "300"
       priority_makes:
         description: "Optional comma-separated makes to crawl first (passed as PRIORITY_MAKES)"
         default: ""
@@ -167,6 +167,11 @@ jobs:
       - name: Crawl unit ${{ env.GLOBAL_INDEX }} (idx ${{ matrix.index }} @ offset ${{ env.OFFSET_USED }})
         env:
           SP_USE_PROXIES: "0"        # each runner already has its own fresh IP
+          # Run 1 measured 1,000 requests in 148 s = 6.8 req/s, stopping on BUDGET having
+          # never reached the 1,111-request wall — so the runner IP had capacity left and
+          # the limiter was our own fetch rate. bin/qualify.sh sustained 12-24 req/s on the
+          # same runners at 6 connections, so concurrency is the lever, not the budget.
+          SP_CONCURRENCY: "12"
           SP_SOLVE_CAPTCHA: "0"      # NEVER solve CAPTCHAs — rotate to a fresh runner IP instead
           SP_MIN_DELAY: ${{ github.event.inputs.min_delay || '0.4' }}   # aggressive default; measure per-IP survival at this pace
           SP_MAX_DELAY: ${{ github.event.inputs.max_delay || '0.9' }}
