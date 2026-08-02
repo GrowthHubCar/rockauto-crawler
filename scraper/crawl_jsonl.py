@@ -169,7 +169,20 @@ def process(client, node: dict, tree_only: bool = False) -> tuple[list[dict], li
 
     children = parsers.parse_nav(html)
     rows, kids = [], []
+    # RockAuto re-emits the OPEN ANCESTOR CHAIN as nav nodes on every page: a model page
+    # lists its own make, year and model alongside the real carcode children (measured: 8
+    # "children", only 5 genuine). Within one run `seen_this_run` hides them, but on RESUME
+    # that set is empty, so the ancestors re-enter the frontier and the whole make is
+    # re-walked from the root. That is the mechanism behind the frontier growing faster than
+    # it drained, the ~59% "nav overhead", the 0.68%-new-SKU rate and the 0.050 fitments/row
+    # ingest yield — one bug, not four.
+    # A genuine child is always parent.idepth + 1, so idepth <= parent is an echo and can
+    # never be a child: dropping it CANNOT lose coverage. Regression: tests/test_ancestor_rewalk.py
+    _pdep = ((payload.get("jsn") or {}) or {}).get("idepth")
     for child in children:
+        _cdep = (child.get("jsn") or {}).get("idepth")
+        if _pdep is not None and _cdep is not None and int(_cdep) <= int(_pdep):
+            continue
         # ctx = the parent's accumulated vehicle coords — without it a parttype node
         # (whose jsn is just a numeric id) cannot be matched against the skip-set.
         if not C.should_enqueue(child, ctx=payload.get("ctx")):
