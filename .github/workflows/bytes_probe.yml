@@ -1,0 +1,37 @@
+name: Billed-bytes probe
+
+# Answers ONE question before any money is spent: how many GB does the remaining
+# crawl actually cost on a metered residential proxy?
+#
+# Residential proxies bill gzipped WIRE bytes, and those bytes are identical whether
+# the page is fetched from a free GitHub Azure IP or a paid residential exit — so the
+# whole figure can be pinned for $0 from here, then exactly that much bought.
+#
+# This matters because the estimates in play disagree by 20x: one report assumed
+# 6.6 KB/request (-> 41 GB for the job), while measured page bodies today were ~38 KB
+# decompressed. At 100 GB the difference decides whether the budget covers the catalog
+# or a third of it. Measure, do not extrapolate from a guess.
+
+# No inputs: bytes_probe.py samples a fixed 18 leaves internally (see its `n >= 18`
+# guard). Exposing a "sample" knob the script ignores would be a lie in the UI.
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: 'pip'
+      - run: pip install -r requirements.txt
+
+      - name: Measure billed bytes per request
+        env:
+          SP_USE_PROXIES: "0"        # the runner's own IP is the unblocked exit
+          SP_SOLVE_CAPTCHA: "0"
+          SP_DOWNLOAD_IMAGES: "0"
+        run: python scraper/bytes_probe.py
