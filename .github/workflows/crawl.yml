@@ -212,6 +212,29 @@ jobs:
           path: frontier/out.ndjson
           key: rockauto-frontier-${{ env.GLOBAL_INDEX }}-${{ github.run_id }}
 
+      # Upload only the leaves crawled THIS run, not the whole cache.
+      #
+      # crawl_jsonl writes visited_out as `prior | new_keys` — a full-set rewrite. That is
+      # correct on a box where visited_out IS visited_file (writing only new keys there
+      # truncated every earlier run's cache), but here visited_out is a separate artifact
+      # path, so all 120 shards were each uploading an identical copy of the cumulative
+      # cache: measured run 1 at 3.19 GB of visited-*.txt against 199 MB of actual crawl
+      # data. `aggregate` cats every shard onto the restored cache and sort -u's it, so the
+      # delta carries exactly the same information.
+      - name: Reduce visited to this run's NEW keys
+        if: ${{ always() && (github.event.inputs.mode || 'full') != 'tree' }}
+        run: |
+          mkdir -p coverage artifacts
+          touch coverage/visited.txt
+          V="artifacts/visited-${{ matrix.index }}.txt"
+          if [ -s "$V" ]; then
+            sort -u coverage/visited.txt -o coverage/visited.txt
+            sort -u "$V" -o "$V"
+            comm -13 coverage/visited.txt "$V" > "$V.new"
+            echo "visited: cache=$(wc -l < coverage/visited.txt) total=$(wc -l < "$V") new=$(wc -l < "$V.new")"
+            mv "$V.new" "$V"
+          fi
+
       - name: Upload shard artifact (NDJSON + thumbnails + new-leaves list)
         if: always()
         uses: actions/upload-artifact@v4
