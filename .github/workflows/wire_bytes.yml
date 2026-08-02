@@ -1,0 +1,66 @@
+name: Wire-bytes probe
+
+# How many GZIPPED bytes does one leaf cost on the wire? That is the unit a metered
+# residential proxy (Evomi et al) bills in, and it decides whether a 100 GB purchase
+# covers the remaining 6,183,851 requests or a fraction of them.
+#
+# Deliberately does NOT use curl --compressed: that transparently DECODES the body and
+# reports the decoded size, which is the number that produced the ~38 KB figure and would
+# overstate the bill ~4x. Sending Accept-Encoding: gzip WITHOUT --compressed leaves the
+# body encoded, so size_download is the real billed wire size.
+#
+# scraper/bytes_probe.py was meant to do this but exits "no non-empty leaves measured" —
+# it derives its own leaf URLs by walking the tree. These URLs come from the DB, so they
+# are known-good leaves that really returned parts.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  bytes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Measure gzipped wire bytes per leaf
+        run: |
+          UA='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36'
+          total=0; n=0
+          while IFS= read -r u; do
+            [ -z "$u" ] && continue
+            read code wire <<EOF
+          $(curl -s -o /dev/null -A "$UA" -H 'Accept-Encoding: gzip' --max-time 20 -w '%{http_code} %{size_download}' "$u")
+          EOF
+            echo "  $code  ${wire}B  ${u:38:70}"
+            if [ "$code" = "200" ] && [ "$wire" -gt 0 ]; then
+              total=$((total + wire)); n=$((n + 1))
+            fi
+            sleep 1
+          done <<'URLS'
+https://www.rockauto.com/en/catalog/ram,2021,1500,6.2l+v8+supercharged,3447035,interior,seat+frame,11485
+https://www.rockauto.com/en/catalog/mercury,2000,cougar,2.5l+v6,1363968,exhaust+&+emission,vapor+canister+vent+valve+/+solenoid,16992
+https://www.rockauto.com/en/catalog/porsche,1988,911,3.2l+h6,1262810,brake+&+wheel+hub,rotor,1896
+https://www.rockauto.com/en/catalog/toyota,1995,4runner,3.0l+v6,1272529,electrical-switch+&+relay,oil+pressure+sender+/+switch,4588
+https://www.rockauto.com/en/catalog/porsche,1988,928,5.0l+v8,1263439,engine,timing+belt,5716
+https://www.rockauto.com/en/catalog/bmw,2016,535i,3.0l+l6+turbocharged,3353449,body+&+lamp+assembly,headlamp+assembly,10762
+https://www.rockauto.com/en/catalog/kia,2017,soul,1.6l+l4,3436878,body+&+lamp+assembly,license+plate+bracket,830
+https://www.rockauto.com/en/catalog/porsche,2001,911,3.4l+h6,1374814,transmission-manual,clutch+kit,1993
+https://www.rockauto.com/en/catalog/mitsubishi,1994,precis,1.5l+l4,1419678,cooling+system,thermostat+housing+/+water+outlet,10337
+https://www.rockauto.com/en/catalog/jeep,2009,grand+cherokee,6.1l+v8,1443403,engine,valve+spring,5792
+https://www.rockauto.com/en/catalog/fiat,2019,500x,1.3l+l4+turbocharged,3444708,engine,intake+manifold,5536
+https://www.rockauto.com/en/catalog/jeep,2025,wagoneer,electric,3458628,body+&+lamp+assembly,grille+air+intake+/+shutter,17089
+URLS
+          echo ""
+          if [ "$n" -eq 0 ]; then echo "!! nothing measured"; exit 1; fi
+          avg=$((total / n))
+          echo "leaves measured : $n"
+          echo "avg wire bytes  : $avg"
+          python3 - "$avg" <<'PY'
+          import sys
+          avg = int(sys.argv[1]); REQ = 6_183_851
+          gb = avg * REQ / 1e9
+          print(f"avg/request     : {avg/1024:.1f} KB gzipped")
+          print(f"remaining reqs  : {REQ:,}")
+          print(f"TOTAL NEEDED    : {gb:.1f} GB")
+          print(f"100 GB covers   : {100/gb*100:.0f}% of the remaining crawl"
+                if gb > 100 else f"100 GB covers   : ALL of it ({gb:.1f} GB needed, {100-gb:.1f} GB spare)")
+          PY
