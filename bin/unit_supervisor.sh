@@ -42,10 +42,25 @@ launch () {
   local FR="plan/fr/f_${U}.ndjson"
   [ -s "fr/f_${U}.ndjson" ] && FR="fr/f_${U}.ndjson"
   [ -s "$FR" ] || return 1                     # no frontier for this unit — skip it
+  # ---- TUNING (measured 2026-08-01, do NOT revert) ---------------------------------
+  # Every constant below was sized when a CAPTCHA COST A 90s SLEEP. Behind the API Gateway a
+  # captcha costs ~1s (every request already egresses from a fresh AWS IP), so each of these
+  # rails fired constantly and strangled the fleet. All four are abort/idle thresholds ONLY —
+  # a Blocked node is re-queued by crawl_jsonl.py:447 without being marked seen, so raising
+  # them skips nothing and loses nothing.
+  #   SP_CAPTCHA_BACKOFF 90 -> 1    proxy-quarantine sleep; pure idle here. A/B: 3.61x per lane.
+  #   SP_MAX_ATTEMPTS     4 -> 2    ra_client.py:199 says fail fast behind a gateway.
+  #   SP_REQUEST_TIMEOUT 15 -> 4    ~1/3 of attempts hung the full 15s on blackholed IPs. A/B: 4.32x.
+  #   SP_MAX_CAPTCHAS   500 -> 200k lanes hit 500 in MINUTES at 1s backoff -> abort/relaunch churn;
+  #                                 crawl output collapsed 13,432 -> 735 MB/hour until raised.
+  #   SP_MAX_BLOCKED     60 -> 100k CONSECUTIVE-block breaker; units 1-11 nodes from done aborted
+  #                                 with nodes=0 and could never write fr/done_, freezing progress.
   (
     setsid sudo -u ubuntu env HOME=/home/ubuntu AWS_DEFAULT_REGION=us-east-1 \
       SP_DOWNLOAD_IMAGES=0 SP_SOLVE_CAPTCHA=0 SP_USE_PROXIES=0 \
-      SP_MIN_DELAY=0.05 SP_MAX_DELAY=0.15 SP_MAX_ATTEMPTS=4 \
+      SP_MIN_DELAY=0.05 SP_MAX_DELAY=0.15 SP_MAX_ATTEMPTS=2 \
+      SP_CAPTCHA_BACKOFF=1 SP_REQUEST_TIMEOUT=4 \
+      SP_MAX_CAPTCHAS=200000 SP_MAX_BLOCKED=100000 \
       SP_YEAR_MIN="$LO" SP_YEAR_MAX="$HI" \
       ${EPS:+SP_GW_ENDPOINTS="$EPS"} \
       "$D/venv/bin/python" "$D/bin/crawl_apigw.py" --only-makes "$M" \

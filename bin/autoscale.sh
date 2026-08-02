@@ -24,7 +24,11 @@ INTERVAL="${INTERVAL:-180}"        # ~38k requests of sample at 210 req/s — pl
 UP="${UP:-8}"                      # additive increase while clean
 DOWN="${DOWN:-4}"                  # decrease when past the knee
 CLEAN="${CLEAN:-0.03}"             # <3% captcha  -> climb
-KNEE="${KNEE:-0.08}"               # >8% captcha  -> cut
+KNEE="${KNEE:-0.97}"               # captcha rail. 0.08 was sized when a captcha cost a 90s sleep,
+                                   # so a high captcha rate really meant wasted lane-time. At
+                                   # SP_CAPTCHA_BACKOFF=1 captcha runs 74-84% WHILE output is
+                                   # 3.6-4.3x higher — the rail read success as failure and walked
+                                   # the fleet 4,163 -> 2,387 lanes. Judge by OUTPUT, not captcha.
 MIN_LANES="${MIN_LANES:-16}"
 MIN_SAMPLE="${MIN_SAMPLE:-300}"    # too few requests -> no opinion, do not move
 
@@ -33,7 +37,10 @@ MIN_SAMPLE="${MIN_SAMPLE:-300}"    # too few requests -> no opinion, do not move
 # but thrashing is not throughput.
 MEM=$(awk '/MemTotal/{print int($2/1024)}' /proc/meminfo)
 SWP=$(awk '/SwapTotal/{print int($2/1024)}' /proc/meminfo)
-MAX_LANES="${MAX_LANES:-$(( (MEM + SWP/2 - 1200) / 190 ))}"
+MAX_LANES="${MAX_LANES:-195}"      # was (MEM + SWP/2 - 1200)/190, i.e. 190MB/lane. MEASURED across
+                                   # 21 boxes: 62-68MB/lane, so the formula capped every box at ~1/3
+                                   # of its real ceiling. 195 with target 185 leaves ~1.8GB headroom;
+                                   # above ~230 lanes the boxes swap (us-west-2 hit so=7529 at 252).
 [ "$MAX_LANES" -lt "$MIN_LANES" ] && MAX_LANES="$MIN_LANES"
 
 log () { echo "$(date -u '+%F %T') $*" >> "$D/logs/autoscale.log"; }
