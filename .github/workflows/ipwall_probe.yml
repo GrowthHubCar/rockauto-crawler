@@ -1,0 +1,53 @@
+name: IP wall probe
+
+# Measures the ONE number that sets this crawl's finish time: how many requests a
+# fresh GitHub runner IP serves before RockAuto blackholes it.
+#
+# WHY: crawl.yml's budget default (170) carries the comment "just under the ~180
+# fresh-IP wall". Measured 2026-08-03 on GCP the same wall was 700-1,600 requests.
+# If GitHub runners also sustain ~900, the budget is 5x too low and every job pays
+# ~60 s of setup to do 17 s of work. Guessing this number wrong costs days, and
+# measuring it costs five minutes.
+#
+# Runs bin/qualify.sh unchanged — it already reports the wall in BOTH dimensions
+# (request number and elapsed seconds), which is what separates a COUNT wall from a
+# RATE wall. Each matrix job is a distinct runner = a distinct egress IP, so the
+# spread across jobs also measures how many fresh IPs actually reach RockAuto.
+
+on:
+  workflow_dispatch:
+    inputs:
+      n:
+        description: "Requests per job (upper bound). 2000 is deliberately far past the suspected wall so the wall lands INSIDE the run."
+        default: "2000"
+      c:
+        description: "Concurrent connections per job."
+        default: "6"
+      pace:
+        description: "Seconds between requests within a lane. 0 = flat out. Set 2 for the slow pass that classifies count-vs-rate."
+        default: "0"
+      deadline:
+        description: "Hard stop per job (s)."
+        default: "300"
+
+jobs:
+  probe:
+    strategy:
+      fail-fast: false
+      matrix:
+        n: [1, 2, 3, 4, 5, 6, 7, 8]
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Probe this runner's IP
+        run: |
+          echo "=== probe ${{ matrix.n }} ==="
+          N="${{ github.event.inputs.n || '2000' }}" \
+          C="${{ github.event.inputs.c || '6' }}" \
+          PACE="${{ github.event.inputs.pace || '0' }}" \
+          DEADLINE="${{ github.event.inputs.deadline || '300' }}" \
+            sh bin/qualify.sh || true
+          # `|| true`: qualify.sh exits 1 on WALLED, which is a RESULT here, not a
+          # failure. A red matrix would hide the number we came for.
