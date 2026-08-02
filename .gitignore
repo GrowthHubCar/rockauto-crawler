@@ -24,10 +24,17 @@ ingest_ec2/sh*/
 ingest_ec2/p[0-9]*/
 ingest_ec2/bunny_out/
 ingest_ec2/*state*/
-# Seeded frontiers + skip-sets are regenerable from the DB (bin/plan_targets.py), ~192 MB
-plan/fr/
+# Seeded frontiers + skip-sets are regenerable from the DB (bin/plan_targets.py), ~192 MB.
+#
+# EXCEPT plan/fr/ — it MUST ship. It is only 6.3 MB and it is the ONLY thing that tells
+# the GitHub Actions fleet which work is left. While it was ignored, Actions could not see
+# it, silently fell back to a whole-catalog sweep, and spent 105,000 requests to gain
+# 13,342 new fitments (1.09 rows/request against the 4.445 these frontiers deliver).
+# "Regenerable from the DB" is true on this laptop and false on a runner.
+!plan/fr/
 plan/fr_old/
 plan/skip/
 visited*.txt
 gw_endpoints*.txt
 .awstmp/
+.gcp/
