@@ -8,6 +8,17 @@ import os
 
 BASE = "https://www.rockauto.com"
 CATALOG_ROOT = f"{BASE}/en/catalog/"
+
+# Where requests are actually SENT. Defaults to BASE; set SP_FETCH_BASE to a CDN/proxy front
+# (e.g. https://ra-crawl-zone.b-cdn.net) to egress through it.
+#
+# DELIBERATELY SEPARATE FROM BASE. `BASE` is the CANONICAL IDENTITY of a page: it builds
+# `source_url` (scraper/crawl_jsonl.py:145), which is stored on every part row and is the join
+# key back to RockAuto. If the fetch front leaked into BASE, every row crawled through the CDN
+# would be written with a b-cdn.net source_url — silently corrupting the parts table and
+# splitting each part into two identities across crawls. Keeping them separate means the CDN is
+# purely a transport detail and the data is byte-identical to a direct crawl.
+FETCH_BASE = (os.getenv("SP_FETCH_BASE", "") or "").rstrip("/") or BASE
 CATALOG_API = f"{BASE}/catalog/catalogapi.php"
 CAPTCHA_PATH = "/captcha/"  # redirect target when anti-bot fires
 
@@ -80,8 +91,27 @@ PROXY = {
         "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt",
         "https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt",
         "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt",
+        "https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt",
+        "https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt",
+        "https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt",
+        "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt",
+        "https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/http/data.txt",
+        "https://raw.githubusercontent.com/zloi-user/hideip.me/main/http.txt",
+        "https://raw.githubusercontent.com/MuRongPIG/Proxy-Master/main/http.txt",
+        "https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/http.txt",
+        "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all",
+        "https://proxyspace.pro/http.txt",
+        "https://raw.githubusercontent.com/prxchk/proxy-list/main/http.txt",
+        "https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/generated/http_proxies.txt",
     ],
-    "health_check_url": "https://www.rockauto.com/en/catalog/",
+    # MUST be a LEAF, never a nav page. RockAuto keeps serving nav pages (/en/catalog/,
+    # /en/catalog/acura) with HTTP 200 to an exit IP that is already walled — only leaf
+    # pages 302 to /captcha/. Health-checking on a nav page therefore marks every burned
+    # proxy "healthy", and the pool silently fills with exits that return nothing.
+    # (bin/qualify.sh P2 exists for the same reason: "nav pages lie; leaves do not".)
+    "health_check_url": "https://www.rockauto.com/en/catalog/"
+                        "ac,1947,two-litre,2.0l+122cid+l6,1486554,"
+                        "cooling+system,coolant+/+antifreeze,11393",
     "health_timeout_s": 8,
     "min_pool": 10,             # refill when healthy pool drops below this
     "pool_cache": "scraper/.proxy_pool.json",

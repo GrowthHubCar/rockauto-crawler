@@ -28,6 +28,7 @@ import re
 import threading
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import TimeoutError as FuturesTimeout
 
 import requests
 
@@ -40,13 +41,30 @@ except ImportError:  # pragma: no cover
     import config  # type: ignore
 
 
-# A line is a valid proxy candidate iff it looks like host:port. We accept bare
-# ip:port and also strip a leading scheme if a source happens to include one.
+# A line is a valid proxy candidate iff it looks like host:port, optionally with
+# credentials. We accept bare ip:port and also strip a leading scheme if a source
+# happens to include one.
+#
+# CREDENTIALS ARE NOT OPTIONAL TO SUPPORT. Free proxy LISTS are anonymous, but every
+# free-TIER and TRIAL provider (Webshare, IPRoyal, Rayobyte, ProxyScrape, Smartproxy)
+# issues AUTHENTICATED endpoints. Dropping user:pass here makes every one of them fail
+# the health check with 407, and a pool of "0 healthy" is indistinguishable from
+# "this provider is blocked" — the exact misread that wasted a night on this project.
 _PROXY_RE = re.compile(
     r"^(?:https?://)?"                       # optional scheme (stripped below)
+    r"(?:([^:@/\s]+):([^:@/\s]+)@)?"         # optional user:pass@ (URL form)
     r"((?:\d{1,3}\.){3}\d{1,3}"              # IPv4 host ...
     r"|[a-zA-Z0-9._-]+)"                     # ... or a hostname
     r":(\d{1,5})$"                            # :port
+)
+
+# Webshare/IPRoyal "Download list" default format: host:port:user:pass — no @, no scheme.
+# Must be tried BEFORE _PROXY_RE, which would otherwise reject it outright.
+_PROXY_DL_RE = re.compile(
+    r"^(?:https?://)?"
+    r"((?:\d{1,3}\.){3}\d{1,3}|[a-zA-Z0-9._-]+)"   # host
+    r":(\d{1,5})"                                  # port
+    r":([^:@/\s]+):([^:@/\s]+)$"                   # user:pass
 )
 
 
@@ -64,9 +82,14 @@ class ProxyManager:
 
     # Drop a proxy after this many *consecutive* failures (report_ok resets it).
     MAX_FAILS = 3
-    # Cap the concurrent health-check fan-out so we don't open thousands of
-    # sockets at once when a source returns a huge list.
-    HEALTH_WORKERS = 40
+    # Health checks are pure socket-wait, so the fan-out wants to be wide: at 40
+    # a 105k-candidate refill needs ~3 h of wall time and looks like a hang.
+    # Measured 2026-08-02: 50 workers = 10.9 checks/s, so this scales linearly
+    # until the box runs out of sockets. Knob, because "how many threads fit"
+    # depends on the machine (e2-standard-4 takes 500 fine).
+    HEALTH_WORKERS = int(os.getenv("SP_HEALTH_WORKERS", "500"))
+    # Fixed slack in the health-check phase's wall-clock cap (see _health_check_many).
+    HEALTH_WALL_BASE_S = 60.0
 
     def __init__(self, cfg: dict = None) -> None:  # cfg defaults to config.PROXY
         self.cfg = cfg if cfg is not None else config.PROXY
@@ -171,7 +194,21 @@ class ProxyManager:
     # ---- overridable network seams (monkeypatched by the offline self-test) --
 
     def _fetch_source(self, url: str) -> str:
-        """Fetch one raw proxy-list URL. Returns text ("" on any failure)."""
+        """Fetch one raw proxy-list source. Returns text ("" on any failure).
+
+        Accepts an http(s) URL, a file:// URL, or a bare local path. The local forms
+        exist because trial providers hand you a DOWNLOADED list (Webshare/IPRoyal
+        "Download list" button) rather than a stable fetch URL — without this the only
+        way to load a paid pool would be to stand up a web server to serve a text file.
+        """
+        if url.startswith("file://"):
+            url = url[len("file://"):]
+        if not url.startswith(("http://", "https://")):
+            try:
+                with open(url, "r", encoding="utf-8", errors="replace") as fh:
+                    return fh.read()
+            except Exception:  # noqa: BLE001 — missing/unreadable file is just a dead source
+                return ""
         try:
             resp = requests.get(url, timeout=self.cfg.get("health_timeout_s", 8))
             if resp.status_code == 200:
@@ -185,13 +222,29 @@ class ProxyManager:
         proxy = "http://" + key
         proxies = {"http": proxy, "https": proxy}
         try:
-            resp = requests.get(
+            # stream=True is the whole fix. We only need the status line, but the
+            # old code drained the body — and requests' timeout is a per-socket-read
+            # GAP, never a total (same trap RATE documents in config.py). A proxy
+            # trickling RockAuto's catalog page (measured 576,921 bytes) at 1 byte / 2 s
+            # never trips an 8 s read timeout and pins a worker for minutes.
+            # Measured 2026-08-02 against a 45-byte trickle server: 88.04 s drained,
+            # 0.01 s with stream=True.
+            # Tuple timeout: the CONNECT budget covers the tunnel too, so a proxy
+            # that accepts TCP then goes silent dies in connect_timeout_s (measured
+            # 3.01 s), not read. Default it to the READ budget, not to RATE's 4 s —
+            # free proxies are slow to connect and 4 s measurably threw away good
+            # ones (512-proxy sample: 21.3% healthy at 8 s vs 13.3% at 4 s, for a
+            # 79 s -> 47 s wall win that is not worth 8 points of pool). Knob stays
+            # for anyone crawling through a fast gateway.
+            read_s = self.cfg.get("health_timeout_s", 8)
+            with requests.get(
                 self.cfg["health_check_url"],
                 proxies=proxies,
-                timeout=self.cfg.get("health_timeout_s", 8),
+                timeout=(self.cfg.get("connect_timeout_s", read_s), read_s),
                 allow_redirects=False,
-            )
-            return resp.status_code == 200
+                stream=True,
+            ) as resp:
+                return resp.status_code == 200
         except Exception:  # noqa: BLE001 — dead proxy; not healthy
             return False
 
@@ -219,33 +272,57 @@ class ProxyManager:
         if not candidates:
             return healthy
         workers = min(self.HEALTH_WORKERS, len(candidates))
-        with ThreadPoolExecutor(max_workers=workers) as pool:
-            futs = {pool.submit(self._check_one, k): k for k in candidates}
-            for fut in as_completed(futs):
+        # Expected depth is len/workers checks; 8 s each + 60 s slack. Needed
+        # because a proxy that trickles the response HEADERS one byte at a time
+        # evades both timeouts even with stream=True (measured: 37 s, unbounded in
+        # principle). Bounding the phase is cheaper than chasing every bad socket.
+        wall = self.HEALTH_WALL_BASE_S + 8.0 * len(candidates) / workers
+        pool = ThreadPoolExecutor(max_workers=workers)
+        futs = {pool.submit(self._check_one, k): k for k in candidates}
+        try:
+            for fut in as_completed(futs, timeout=wall):
                 key = futs[fut]
                 try:
                     if fut.result():
                         healthy.add(key)
                 except Exception:  # noqa: BLE001 — treat as unhealthy
                     pass
+        except FuturesTimeout:
+            pass
+        finally:
+            # ponytail: stragglers are abandoned, not killed — their threads run to
+            # completion and their verdict is discarded. Cost is a delayed process
+            # exit in the worst case; switch to a raw-socket check with a real
+            # deadline if that ever bites.
+            pool.shutdown(wait=False, cancel_futures=True)
         return healthy
 
     @staticmethod
     def _parse_line(line: str) -> str | None:
-        """Return a normalized "ip:port" for a valid line, else None."""
+        """Return a normalized key for a valid line, else None.
+
+        Key is "host:port" when anonymous and "user:pass@host:port" when the source
+        carries credentials — both forms are what `_check_one` prefixes with "http://",
+        so an authenticated trial proxy works with no other change.
+        """
         line = line.strip()
         if not line or line.startswith("#"):
             return None
-        m = _PROXY_RE.match(line)
-        if not m:
-            return None
-        host, port = m.group(1), m.group(2)
+        # Download form (host:port:user:pass) first — _PROXY_RE cannot match it.
+        m = _PROXY_DL_RE.match(line)
+        if m:
+            host, port, user, pw = m.group(1), m.group(2), m.group(3), m.group(4)
+        else:
+            m = _PROXY_RE.match(line)
+            if not m:
+                return None
+            user, pw, host, port = m.group(1), m.group(2), m.group(3), m.group(4)
         try:
             if not (0 < int(port) < 65536):
                 return None
         except ValueError:
             return None
-        return f"{host}:{port}"
+        return f"{user}:{pw}@{host}:{port}" if user else f"{host}:{port}"
 
     @staticmethod
     def _norm(proxy: str) -> str:
@@ -542,6 +619,27 @@ if __name__ == "__main__":
         crashed = True
         print("    refill crashed:", exc)
     check("refill survives a throwing source", not crashed and bn == 1)
+
+    # 10) One wedged check must not wedge refill() -------------------------
+    # Regression guard for the actual production symptom: a proxy that accepts
+    # the socket and then trickles forever used to pin a worker, and the old
+    # `with ThreadPoolExecutor(...)` block waited for it, so refill() never
+    # returned. The wall cap must abandon it and keep the verdicts we do have.
+    class WedgePM(ProxyManager):
+        HEALTH_WORKERS = 4
+        HEALTH_WALL_BASE_S = 2.0
+        def _fetch_source(self, url: str) -> str:
+            return "1.1.1.1:80\n2.2.2.2:80\n3.3.3.3:80\n4.4.4.4:80\n"
+        def _check_one(self, key: str) -> bool:
+            if key == "4.4.4.4:80":
+                time.sleep(60)      # the wedged proxy
+            return True
+    wedge_cfg = dict(fake_cfg, pool_cache=os.path.join(tmpdir, "wedge.json"))
+    t0 = time.time()
+    wn = WedgePM(wedge_cfg).refill()
+    elapsed = time.time() - t0
+    check("refill returns despite a wedged check", elapsed < 20)
+    check("refill keeps the healthy proxies it did resolve", wn == 3)
 
     print()
     if failures:

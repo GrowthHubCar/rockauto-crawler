@@ -32,7 +32,11 @@ if ! up 'bin/unit_supervisor.sh'; then
 fi
 
 # --- autoscaler: probes the captcha ceiling, owns target.txt ---
-if ! up 'bin/autoscale.sh'; then
+# `touch NO_AUTOSCALE` to keep it off. Without this guard keepalive resurrects autoscale within
+# 60 s of any manual kill, and autoscale then rewrites target.txt — measured 2026-08-03: a fleet
+# deliberately set to 6 lanes/box was back at 16 (392 lanes) one minute later. Autoscale judges by
+# CAPTCHA RATE, which is the wrong signal in direct mode where the wall is a silent TCP blackhole.
+if [ ! -f "$D/NO_AUTOSCALE" ] && ! up 'bin/autoscale.sh'; then
   setsid sudo -u ubuntu env HOME=/home/ubuntu \
     bash "$D/bin/autoscale.sh" </dev/null >/dev/null 2>&1 &
   echo "$(date -u '+%F %T') restarted autoscale" >> "$D/logs/keepalive.log"
