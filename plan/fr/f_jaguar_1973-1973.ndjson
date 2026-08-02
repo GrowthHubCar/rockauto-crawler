@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/jaguar,1973,xke", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1973, "model": "XKE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1973,xj12", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1973, "model": "XJ12"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1973,xj6", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1973, "model": "XJ6"}}}

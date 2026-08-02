@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,1984,panel", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1984, "model": "PANEL"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1984,rabbit+convertible", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1984, "model": "RABBIT CONVERTIBLE"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1984,quantum", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1984, "model": "QUANTUM"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1984,rabbit+pickup", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1984, "model": "RABBIT PICKUP"}}}

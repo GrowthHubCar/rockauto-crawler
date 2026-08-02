@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/land+rover,2016,discovery", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2016, "model": "DISCOVERY"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2016,defender", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2016, "model": "DEFENDER"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2016,lr4", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2016, "model": "LR4"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2016,range+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2016, "model": "RANGE ROVER"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2016,range+rover+sport", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2016, "model": "RANGE ROVER SPORT"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2016,range+rover+evoque", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2016, "model": "RANGE ROVER EVOQUE"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2016,discovery+sport", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2016, "model": "DISCOVERY SPORT"}}}

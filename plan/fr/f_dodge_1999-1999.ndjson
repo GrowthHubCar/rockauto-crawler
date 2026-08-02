@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/dodge,1999,ram+4000", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1999, "model": "RAM 4000"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1999,ramcharger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1999, "model": "RAMCHARGER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1999,stratus", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1999, "model": "STRATUS"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1999,viper", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1999, "model": "VIPER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1999,ram+1500+van", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1999, "model": "RAM 1500 VAN"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1999,ram+2500+van", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1999, "model": "RAM 2500 VAN"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1999,ram+3500+van", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1999, "model": "RAM 3500 VAN"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1999,ram+3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1999, "model": "RAM 3500 PICKUP"}}}

@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/jaguar,2023,f-type", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2023, "model": "F-TYPE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2023,f-pace", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2023, "model": "F-PACE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2023,xf", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2023, "model": "XF"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2023,e-pace", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2023, "model": "E-PACE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2023,i-pace", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2023, "model": "I-PACE"}}}

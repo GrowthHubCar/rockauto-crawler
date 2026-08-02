@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,1999,derby", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1999, "model": "DERBY"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1999,pointer", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1999, "model": "POINTER"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1999,pointer+truck", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1999, "model": "POINTER TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1999,combi", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1999, "model": "COMBI"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1999,panel", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1999, "model": "PANEL"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1999,beetle", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1999, "model": "BEETLE"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1999,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1999, "model": "JETTA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1999,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1999, "model": "GOLF"}}}

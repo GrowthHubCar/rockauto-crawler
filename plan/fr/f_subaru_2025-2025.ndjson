@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/subaru,2025,solterra", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2025, "model": "SOLTERRA"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,2025,wrx", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2025, "model": "WRX"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,2025,outback", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2025, "model": "OUTBACK"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,2025,legacy", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2025, "model": "LEGACY"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,2025,crosstrek", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2025, "model": "CROSSTREK"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,2025,impreza", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2025, "model": "IMPREZA"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,2025,forester", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2025, "model": "FORESTER"}}}

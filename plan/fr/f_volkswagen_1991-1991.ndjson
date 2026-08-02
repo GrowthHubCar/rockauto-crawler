@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,1991,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1991, "model": "TRANSPORTER"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1991,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1991, "model": "PASSAT"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1991,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1991, "model": "JETTA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1991,vanagon", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1991, "model": "VANAGON"}}}

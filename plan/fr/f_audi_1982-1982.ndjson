@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/audi,1982,5000", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1982, "model": "5000"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1982,4000", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1982, "model": "4000"}}}

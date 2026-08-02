@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/subaru,1990,justy", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1990, "model": "JUSTY"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,1990,xt", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1990, "model": "XT"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,1990,legacy", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1990, "model": "LEGACY"}}}

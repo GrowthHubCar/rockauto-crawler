@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,1992,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1992, "model": "TRANSPORTER"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1992,combi", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1992, "model": "COMBI"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1992,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1992, "model": "JETTA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1992,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1992, "model": "PASSAT"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1992,fox", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1992, "model": "FOX"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1992,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1992, "model": "GOLF"}}}

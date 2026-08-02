@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,1995,scoupe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 1995, "model": "SCOUPE"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,1995,accent", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 1995, "model": "ACCENT"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,1995,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 1995, "model": "SONATA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,1995,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 1995, "model": "ELANTRA"}}}

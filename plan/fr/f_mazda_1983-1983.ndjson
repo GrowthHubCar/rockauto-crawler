@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/mazda,1983,rx-7", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1983, "model": "RX-7"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1983,b2000", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1983, "model": "B2000"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1983,626", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1983, "model": "626"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1983,b2200", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1983, "model": "B2200"}}}

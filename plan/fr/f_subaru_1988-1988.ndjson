@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/subaru,1988,xt", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1988, "model": "XT"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,1988,justy", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1988, "model": "JUSTY"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,1988,xt6", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1988, "model": "XT6"}}}

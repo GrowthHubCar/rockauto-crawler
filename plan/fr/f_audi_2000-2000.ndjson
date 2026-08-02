@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/audi,2000,a8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2000, "model": "A8"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2000,a3", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2000, "model": "A3"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2000,s3", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2000, "model": "S3"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2000,a6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2000, "model": "A6"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2000,s4", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2000, "model": "S4"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2000,a4", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2000, "model": "A4"}}}

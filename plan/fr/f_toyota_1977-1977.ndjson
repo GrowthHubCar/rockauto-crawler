@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/toyota,1977,celica", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1977, "model": "CELICA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1977,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1977, "model": "LAND CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1977,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1977, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1977,pickup", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1977, "model": "PICKUP"}}}

@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,1995,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1995, "model": "PASSAT"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1995,corrado", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1995, "model": "CORRADO"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1995,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1995, "model": "GOLF"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1995,panel", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1995, "model": "PANEL"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1995,combi", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1995, "model": "COMBI"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1995,derby", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1995, "model": "DERBY"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1995,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1995, "model": "JETTA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1995,eurovan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1995, "model": "EUROVAN"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1995,cabrio", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1995, "model": "CABRIO"}}}

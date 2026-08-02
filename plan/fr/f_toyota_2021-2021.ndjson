@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2021,yaris", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2021, "model": "YARIS"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2021,venza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2021, "model": "VENZA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2021,tundra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2021, "model": "TUNDRA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2021,tacoma", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2021, "model": "TACOMA"}}}

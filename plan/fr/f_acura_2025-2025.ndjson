@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/acura,2025,adx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2025, "model": "ADX"}}}
+{"node_type": "model", "href": "/en/catalog/acura,2025,tlx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2025, "model": "TLX"}}}
+{"node_type": "model", "href": "/en/catalog/acura,2025,rdx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2025, "model": "RDX"}}}
+{"node_type": "model", "href": "/en/catalog/acura,2025,integra", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2025, "model": "INTEGRA"}}}
+{"node_type": "model", "href": "/en/catalog/acura,2025,mdx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2025, "model": "MDX"}}}

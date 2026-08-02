@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/jeep,2008,grand+cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2008, "model": "GRAND CHEROKEE"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2008,compass", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2008, "model": "COMPASS"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2008,commander", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2008, "model": "COMMANDER"}}}

@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/audi,2005,a6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2005, "model": "A6"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2005,a8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2005, "model": "A8"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2005,allroad", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2005, "model": "ALLROAD"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2005,a4", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2005, "model": "A4"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2005,tt", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2005, "model": "TT"}}}

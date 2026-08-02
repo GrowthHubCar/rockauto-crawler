@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/porsche,2003,boxster", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2003, "model": "BOXSTER"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2003,cayenne", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2003, "model": "CAYENNE"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2003,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2003, "model": "911"}}}

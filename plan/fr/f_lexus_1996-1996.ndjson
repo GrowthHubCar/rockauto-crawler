@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/lexus,1996,sc300", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 1996, "model": "SC300"}}}
+{"node_type": "model", "href": "/en/catalog/lexus,1996,sc400", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 1996, "model": "SC400"}}}
+{"node_type": "model", "href": "/en/catalog/lexus,1996,lx450", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 1996, "model": "LX450"}}}
+{"node_type": "model", "href": "/en/catalog/lexus,1996,es300", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 1996, "model": "ES300"}}}

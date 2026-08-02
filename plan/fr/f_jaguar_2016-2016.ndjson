@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/jaguar,2016,xe", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2016, "model": "XE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2016,xf", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2016, "model": "XF"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2016,f-type", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2016, "model": "F-TYPE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2016,xj", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2016, "model": "XJ"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2016,xjr", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2016, "model": "XJR"}}}

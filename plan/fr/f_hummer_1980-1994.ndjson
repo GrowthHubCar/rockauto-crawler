@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/hummer,1994,h1", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 1994, "model": "H1"}}}
+{"node_type": "model", "href": "/en/catalog/hummer,1993,h1", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 1993, "model": "H1"}}}
+{"node_type": "model", "href": "/en/catalog/hummer,1992,h1", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 1992, "model": "H1"}}}
+{"node_type": "model", "href": "/en/catalog/hummer,1994,hummer+2+door+recruit", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 1994, "model": "HUMMER 2 DOOR RECRUIT"}}}
+{"node_type": "model", "href": "/en/catalog/hummer,1994,hummer+2+passenger+hardtop", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 1994, "model": "HUMMER 2 PASSENGER HARDTOP"}}}
+{"node_type": "model", "href": "/en/catalog/hummer,1994,hummer+2+passenger+hardtop+enlarged", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 1994, "model": "HUMMER 2 PASSENGER HARDTOP ENLARGED"}}}
+{"node_type": "model", "href": "/en/catalog/hummer,1994,hummer+4+passenger+open+top", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 1994, "model": "HUMMER 4 PASSENGER OPEN TOP"}}}
+{"node_type": "model", "href": "/en/catalog/hummer,1994,hummer+4+passenger+wagon", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 1994, "model": "HUMMER 4 PASSENGER WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/hummer,1994,hummer+open+body+recruit", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 1994, "model": "HUMMER OPEN BODY RECRUIT"}}}

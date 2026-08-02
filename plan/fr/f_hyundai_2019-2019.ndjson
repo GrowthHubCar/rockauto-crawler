@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2019,starex", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "STAREX"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2019,tucson", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "TUCSON"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2019,veloster", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "VELOSTER"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2019,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "SONATA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2019,santa+fe+xl", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "SANTA FE XL"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2019,nexo", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "NEXO"}}}

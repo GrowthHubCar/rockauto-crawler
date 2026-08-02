@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,1985,seville", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1985, "model": "SEVILLE"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1985,fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1985, "model": "FLEETWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1985,eldorado", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1985, "model": "ELDORADO"}}}

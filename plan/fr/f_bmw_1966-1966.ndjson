@@ -1,0 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1966,2000", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1966, "model": "2000"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1966,2000cs", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1966, "model": "2000CS"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1966,2000ti", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1966, "model": "2000TI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1966,1600", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1966, "model": "1600"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1966,2000c", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1966, "model": "2000C"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1966,1800", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1966, "model": "1800"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1966,1600-2", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1966, "model": "1600-2"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1966,1600ti", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1966, "model": "1600TI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1966,1800ti", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1966, "model": "1800TI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1966,2002", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1966, "model": "2002"}}}

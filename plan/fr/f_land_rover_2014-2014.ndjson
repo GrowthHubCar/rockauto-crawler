@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/land+rover,2014,range+rover+sport", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2014, "model": "RANGE ROVER SPORT"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2014,range+rover+evoque", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2014, "model": "RANGE ROVER EVOQUE"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2014,range+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2014, "model": "RANGE ROVER"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2014,lr4", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2014, "model": "LR4"}}}

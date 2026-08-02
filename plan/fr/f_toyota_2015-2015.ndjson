@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2015,hilux", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2015, "model": "HILUX"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2015,yaris", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2015, "model": "YARIS"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2015,highlander", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2015, "model": "HIGHLANDER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2015,tundra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2015, "model": "TUNDRA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2015,tacoma", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2015, "model": "TACOMA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2015,venza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2015, "model": "VENZA"}}}

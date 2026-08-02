@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,malibu", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MALIBU"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "P30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,stepvan", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "STEPVAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,p20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "P20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,p10", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "P10"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,monza", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MONZA"}}}

@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/porsche,2012,cayenne", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2012, "model": "CAYENNE"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2012,panamera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2012, "model": "PANAMERA"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2012,boxster", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2012, "model": "BOXSTER"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2012,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2012, "model": "911"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2012,cayman", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2012, "model": "CAYMAN"}}}

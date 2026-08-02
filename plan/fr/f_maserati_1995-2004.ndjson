@@ -1,0 +1,17 @@
+{"node_type": "model", "href": "/en/catalog/maserati,2004,quattroporte", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2004, "model": "QUATTROPORTE"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2001,3200+gt", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2001, "model": "3200 GT"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2003,3200+gt", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2003, "model": "3200 GT"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2003,quattroporte", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2003, "model": "QUATTROPORTE"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2004,4200", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2004, "model": "4200"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2002,3200+gt", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2002, "model": "3200 GT"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2000,3200+gt", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2000, "model": "3200 GT"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,1999,3200+gt", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 1999, "model": "3200 GT"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2002,quattroporte", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2002, "model": "QUATTROPORTE"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,1999,quattroporte", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 1999, "model": "QUATTROPORTE"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2001,quattroporte", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2001, "model": "QUATTROPORTE"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2000,quattroporte", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2000, "model": "QUATTROPORTE"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2004,spyder", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2004, "model": "SPYDER"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2002,spyder", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2002, "model": "SPYDER"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2003,spyder", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2003, "model": "SPYDER"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2004,coupe", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2004, "model": "COUPE"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2003,coupe", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2003, "model": "COUPE"}}}

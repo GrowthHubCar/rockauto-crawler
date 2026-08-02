@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/mazda,1991,rx-7", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1991, "model": "RX-7"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1991,mpv", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1991, "model": "MPV"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1991,mx-6", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1991, "model": "MX-6"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1991,b2600", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1991, "model": "B2600"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1991,b2200", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1991, "model": "B2200"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1991,protege", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1991, "model": "PROTEGE"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1991,929", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1991, "model": "929"}}}

@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/toyota,1978,cressida", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1978, "model": "CRESSIDA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1978,celica", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1978, "model": "CELICA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1978,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1978, "model": "LAND CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1978,pickup", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1978, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1978,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1978, "model": "COROLLA"}}}

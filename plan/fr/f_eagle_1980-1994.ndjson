@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/eagle,1988,vista", "payload": {"nodetype": "model", "ctx": {"make": "EAGLE", "year": 1988, "model": "VISTA"}}}
+{"node_type": "model", "href": "/en/catalog/eagle,1992,2000+gtx", "payload": {"nodetype": "model", "ctx": {"make": "EAGLE", "year": 1992, "model": "2000 GTX"}}}
+{"node_type": "model", "href": "/en/catalog/eagle,1988,medallion", "payload": {"nodetype": "model", "ctx": {"make": "EAGLE", "year": 1988, "model": "MEDALLION"}}}
+{"node_type": "model", "href": "/en/catalog/eagle,1989,vista", "payload": {"nodetype": "model", "ctx": {"make": "EAGLE", "year": 1989, "model": "VISTA"}}}
+{"node_type": "model", "href": "/en/catalog/eagle,1989,premier", "payload": {"nodetype": "model", "ctx": {"make": "EAGLE", "year": 1989, "model": "PREMIER"}}}
+{"node_type": "model", "href": "/en/catalog/eagle,1992,summit", "payload": {"nodetype": "model", "ctx": {"make": "EAGLE", "year": 1992, "model": "SUMMIT"}}}
+{"node_type": "model", "href": "/en/catalog/eagle,1992,premier", "payload": {"nodetype": "model", "ctx": {"make": "EAGLE", "year": 1992, "model": "PREMIER"}}}

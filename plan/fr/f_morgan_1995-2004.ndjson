@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/morgan,1995,plus+8", "payload": {"nodetype": "model", "ctx": {"make": "MORGAN", "year": 1995, "model": "PLUS 8"}}}
+{"node_type": "model", "href": "/en/catalog/morgan,2003,plus+8", "payload": {"nodetype": "model", "ctx": {"make": "MORGAN", "year": 2003, "model": "PLUS 8"}}}
+{"node_type": "model", "href": "/en/catalog/morgan,2002,plus+8", "payload": {"nodetype": "model", "ctx": {"make": "MORGAN", "year": 2002, "model": "PLUS 8"}}}
+{"node_type": "model", "href": "/en/catalog/morgan,2004,aero+8", "payload": {"nodetype": "model", "ctx": {"make": "MORGAN", "year": 2004, "model": "AERO 8"}}}
+{"node_type": "model", "href": "/en/catalog/morgan,1996,plus+8", "payload": {"nodetype": "model", "ctx": {"make": "MORGAN", "year": 1996, "model": "PLUS 8"}}}

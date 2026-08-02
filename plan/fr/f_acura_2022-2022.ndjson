@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/acura,2022,tlx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2022, "model": "TLX"}}}
+{"node_type": "model", "href": "/en/catalog/acura,2022,ilx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2022, "model": "ILX"}}}
+{"node_type": "model", "href": "/en/catalog/acura,2022,rdx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2022, "model": "RDX"}}}
+{"node_type": "model", "href": "/en/catalog/acura,2022,nsx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2022, "model": "NSX"}}}
+{"node_type": "model", "href": "/en/catalog/acura,2022,mdx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2022, "model": "MDX"}}}

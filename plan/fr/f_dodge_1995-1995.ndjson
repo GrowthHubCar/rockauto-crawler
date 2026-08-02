@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/dodge,1995,ram+4000", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1995, "model": "RAM 4000"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1995,ramcharger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1995, "model": "RAMCHARGER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1995,stratus", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1995, "model": "STRATUS"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1995,viper", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1995, "model": "VIPER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1995,ram+3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1995, "model": "RAM 3500 PICKUP"}}}

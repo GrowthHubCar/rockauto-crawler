@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1972,bavaria", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1972, "model": "BAVARIA"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1972,3.0csi", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1972, "model": "3.0CSI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1972,2800", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1972, "model": "2800"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1972,2000", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1972, "model": "2000"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1972,2000tii", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1972, "model": "2000TII"}}}

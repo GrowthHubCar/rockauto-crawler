@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/acura,2021,tlx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2021, "model": "TLX"}}}
+{"node_type": "model", "href": "/en/catalog/acura,2021,ilx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2021, "model": "ILX"}}}
+{"node_type": "model", "href": "/en/catalog/acura,2021,rdx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2021, "model": "RDX"}}}
+{"node_type": "model", "href": "/en/catalog/acura,2021,nsx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2021, "model": "NSX"}}}

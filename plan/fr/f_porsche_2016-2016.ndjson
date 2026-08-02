@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/porsche,2016,cayenne", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2016, "model": "CAYENNE"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2016,macan", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2016, "model": "MACAN"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2016,panamera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2016, "model": "PANAMERA"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2016,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2016, "model": "911"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2016,cayman", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2016, "model": "CAYMAN"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2016,boxster", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2016, "model": "BOXSTER"}}}

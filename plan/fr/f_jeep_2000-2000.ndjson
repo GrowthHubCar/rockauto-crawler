@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/jeep,2000,cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2000, "model": "CHEROKEE"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2000,grand+cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2000, "model": "GRAND CHEROKEE"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2000,wrangler", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2000, "model": "WRANGLER"}}}

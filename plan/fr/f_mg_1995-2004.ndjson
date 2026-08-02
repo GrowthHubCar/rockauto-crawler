@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/mg,2003,tf", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 2003, "model": "TF"}}}
+{"node_type": "model", "href": "/en/catalog/mg,2004,tf", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 2004, "model": "TF"}}}
+{"node_type": "model", "href": "/en/catalog/mg,2003,zt", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 2003, "model": "ZT"}}}
+{"node_type": "model", "href": "/en/catalog/mg,2004,zr", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 2004, "model": "ZR"}}}
+{"node_type": "model", "href": "/en/catalog/mg,2004,zt", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 2004, "model": "ZT"}}}

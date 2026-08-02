@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/tesla,2014,s", "payload": {"nodetype": "model", "ctx": {"make": "TESLA", "year": 2014, "model": "S"}}}
+{"node_type": "model", "href": "/en/catalog/tesla,2013,s", "payload": {"nodetype": "model", "ctx": {"make": "TESLA", "year": 2013, "model": "S"}}}
+{"node_type": "model", "href": "/en/catalog/tesla,2012,s", "payload": {"nodetype": "model", "ctx": {"make": "TESLA", "year": 2012, "model": "S"}}}
+{"node_type": "model", "href": "/en/catalog/tesla,2010,roadster", "payload": {"nodetype": "model", "ctx": {"make": "TESLA", "year": 2010, "model": "ROADSTER"}}}
+{"node_type": "model", "href": "/en/catalog/tesla,2008,roadster", "payload": {"nodetype": "model", "ctx": {"make": "TESLA", "year": 2008, "model": "ROADSTER"}}}
+{"node_type": "model", "href": "/en/catalog/tesla,2011,roadster", "payload": {"nodetype": "model", "ctx": {"make": "TESLA", "year": 2011, "model": "ROADSTER"}}}
+{"node_type": "model", "href": "/en/catalog/tesla,2009,roadster", "payload": {"nodetype": "model", "ctx": {"make": "TESLA", "year": 2009, "model": "ROADSTER"}}}

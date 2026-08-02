@@ -1,0 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2002,e500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2002, "model": "E500"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2002,e55+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2002, "model": "E55 AMG"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2002,c32+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2002, "model": "C32 AMG"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2002,c240", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2002, "model": "C240"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2002,cl600", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2002, "model": "CL600"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2002,clk55+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2002, "model": "CLK55 AMG"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2002,c230", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2002, "model": "C230"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2002,e430", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2002, "model": "E430"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2002,clk430", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2002, "model": "CLK430"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2002,e320", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2002, "model": "E320"}}}

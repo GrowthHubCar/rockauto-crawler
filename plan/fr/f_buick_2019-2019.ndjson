@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/buick,2019,encore", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2019, "model": "ENCORE"}}}
+{"node_type": "model", "href": "/en/catalog/buick,2019,lacrosse", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2019, "model": "LACROSSE"}}}
+{"node_type": "model", "href": "/en/catalog/buick,2019,regal+sportback", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2019, "model": "REGAL SPORTBACK"}}}

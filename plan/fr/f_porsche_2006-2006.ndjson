@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/porsche,2006,carrera+gt", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2006, "model": "CARRERA GT"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2006,cayenne", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2006, "model": "CAYENNE"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2006,cayman", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2006, "model": "CAYMAN"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2006,boxster", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2006, "model": "BOXSTER"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2006,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2006, "model": "911"}}}

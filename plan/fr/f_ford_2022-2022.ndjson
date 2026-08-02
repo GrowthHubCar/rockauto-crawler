@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/ford,2022,transit", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2022, "model": "TRANSIT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2022,transit+custom", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2022, "model": "TRANSIT CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2022,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2022, "model": "RANGER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2022,police+suv", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2022, "model": "POLICE SUV"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2022,transit+connect", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2022, "model": "TRANSIT CONNECT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2022,transit+150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2022, "model": "TRANSIT 150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2022,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2022, "model": "MUSTANG"}}}

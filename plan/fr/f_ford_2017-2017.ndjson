@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/ford,2017,transit", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "TRANSIT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2017,transit+350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "TRANSIT 350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2017,taurus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "TAURUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2017,transit+250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "TRANSIT 250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2017,transit+connect", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "TRANSIT CONNECT"}}}

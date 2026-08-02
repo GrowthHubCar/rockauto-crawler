@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/lamborghini,1983,jalpa", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1983, "model": "JALPA"}}}
+{"node_type": "model", "href": "/en/catalog/lamborghini,1985,jalpa", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1985, "model": "JALPA"}}}
+{"node_type": "model", "href": "/en/catalog/lamborghini,1986,lm002", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1986, "model": "LM002"}}}
+{"node_type": "model", "href": "/en/catalog/lamborghini,1989,lm002", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1989, "model": "LM002"}}}
+{"node_type": "model", "href": "/en/catalog/lamborghini,1981,countach", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1981, "model": "COUNTACH"}}}
+{"node_type": "model", "href": "/en/catalog/lamborghini,1994,diablo", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1994, "model": "DIABLO"}}}
+{"node_type": "model", "href": "/en/catalog/lamborghini,1993,lm+american", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1993, "model": "LM AMERICAN"}}}
+{"node_type": "model", "href": "/en/catalog/lamborghini,1992,lm+american", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1992, "model": "LM AMERICAN"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,1993,fox", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1993, "model": "FOX"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1993,cabrio", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1993, "model": "CABRIO"}}}

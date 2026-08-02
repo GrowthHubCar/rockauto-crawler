@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1995,s600l", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "S600L"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1995,c280", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "C280"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1995,s350", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "S350"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1995,c220", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "C220"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1995,s500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "S500"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1995,e300", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "E300"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1995,e420", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "E420"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1995,s320", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "S320"}}}

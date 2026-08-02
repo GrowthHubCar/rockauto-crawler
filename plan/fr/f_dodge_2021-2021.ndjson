@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/dodge,2021,attitude", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2021, "model": "ATTITUDE"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2021,challenger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2021, "model": "CHALLENGER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2021,durango", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2021, "model": "DURANGO"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2021,charger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2021, "model": "CHARGER"}}}

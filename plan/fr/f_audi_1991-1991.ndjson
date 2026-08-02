@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/audi,1991,coupe", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1991, "model": "COUPE"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1991,v8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1991, "model": "V8"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1991,90", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1991, "model": "90"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1991,200", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1991, "model": "200"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1991,100", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1991, "model": "100"}}}

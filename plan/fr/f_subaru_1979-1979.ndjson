@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/subaru,1979,gf", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1979, "model": "GF"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,1979,standard", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1979, "model": "STANDARD"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,1979,brat", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1979, "model": "BRAT"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,1979,dl", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1979, "model": "DL"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,1979,gl", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1979, "model": "GL"}}}

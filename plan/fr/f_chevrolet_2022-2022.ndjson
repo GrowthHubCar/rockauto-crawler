@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2022,tornado+van", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2022, "model": "TORNADO VAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2022,tracker", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2022, "model": "TRACKER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2022,trax", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2022, "model": "TRAX"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2022,traverse", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2022, "model": "TRAVERSE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2022,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2022, "model": "SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2022,silverado+3500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2022, "model": "SILVERADO 3500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2022,trailblazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2022, "model": "TRAILBLAZER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2022,tahoe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2022, "model": "TAHOE"}}}

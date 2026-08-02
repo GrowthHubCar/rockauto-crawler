@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/lincoln,1960,premier", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1960, "model": "PREMIER"}}}
+{"node_type": "model", "href": "/en/catalog/lincoln,1960,lincoln+series", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1960, "model": "LINCOLN SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/lincoln,1960,continental", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1960, "model": "CONTINENTAL"}}}

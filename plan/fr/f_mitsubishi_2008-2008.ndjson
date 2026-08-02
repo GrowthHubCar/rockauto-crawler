@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2008,outlander", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2008, "model": "OUTLANDER"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2008,grandis", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2008, "model": "GRANDIS"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2008,l200", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2008, "model": "L200"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2008,montero", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2008, "model": "MONTERO"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2008,montero+sport", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2008, "model": "MONTERO SPORT"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2008,lancer", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2008, "model": "LANCER"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2008,galant", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2008, "model": "GALANT"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2008,eclipse", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2008, "model": "ECLIPSE"}}}

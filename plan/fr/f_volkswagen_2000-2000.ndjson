@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2000,pointer", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2000, "model": "POINTER"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2000,pointer+truck", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2000, "model": "POINTER TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2000,panel", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2000, "model": "PANEL"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2000,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2000, "model": "PASSAT"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2000,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2000, "model": "GOLF"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2000,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2000, "model": "JETTA"}}}

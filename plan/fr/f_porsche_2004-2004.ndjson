@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/porsche,2004,carrera+gt", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2004, "model": "CARRERA GT"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2004,cayenne", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2004, "model": "CAYENNE"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2004,boxster", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2004, "model": "BOXSTER"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2004,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2004, "model": "911"}}}

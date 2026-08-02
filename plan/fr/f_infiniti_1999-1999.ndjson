@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/infiniti,1999,g20", "payload": {"nodetype": "model", "ctx": {"make": "INFINITI", "year": 1999, "model": "G20"}}}
+{"node_type": "model", "href": "/en/catalog/infiniti,1999,q45", "payload": {"nodetype": "model", "ctx": {"make": "INFINITI", "year": 1999, "model": "Q45"}}}
+{"node_type": "model", "href": "/en/catalog/infiniti,1999,i30", "payload": {"nodetype": "model", "ctx": {"make": "INFINITI", "year": 1999, "model": "I30"}}}

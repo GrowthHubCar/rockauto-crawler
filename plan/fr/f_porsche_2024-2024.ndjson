@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/porsche,2024,panamera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2024, "model": "PANAMERA"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2024,macan", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2024, "model": "MACAN"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2024,taycan", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2024, "model": "TAYCAN"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2024,cayenne", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2024, "model": "CAYENNE"}}}

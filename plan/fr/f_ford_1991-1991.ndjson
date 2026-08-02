@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/ford,1991,topaz", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1991, "model": "TOPAZ"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1991,tempo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1991, "model": "TEMPO"}}}

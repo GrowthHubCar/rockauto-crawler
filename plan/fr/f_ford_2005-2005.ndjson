@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/ford,2005,taurus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "TAURUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "THUNDERBIRD"}}}

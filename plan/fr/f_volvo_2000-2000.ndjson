@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/volvo,2000,s70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2000, "model": "S70"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2000,v40", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2000, "model": "V40"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2000,c70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2000, "model": "C70"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2000,v70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2000, "model": "V70"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2000,s80", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2000, "model": "S80"}}}

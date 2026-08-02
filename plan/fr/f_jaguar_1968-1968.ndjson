@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/jaguar,1968,240", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1968, "model": "240"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1968,340", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1968, "model": "340"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1968,420", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1968, "model": "420"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1968,xke", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1968, "model": "XKE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1968,3.8", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1968, "model": "3.8"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1968,3.4", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1968, "model": "3.4"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1968,xj", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1968, "model": "XJ"}}}

@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/buick,2007,allure", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2007, "model": "ALLURE"}}}
+{"node_type": "model", "href": "/en/catalog/buick,2007,rendezvous", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2007, "model": "RENDEZVOUS"}}}
+{"node_type": "model", "href": "/en/catalog/buick,2007,lucerne", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2007, "model": "LUCERNE"}}}
+{"node_type": "model", "href": "/en/catalog/buick,2007,lacrosse", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2007, "model": "LACROSSE"}}}

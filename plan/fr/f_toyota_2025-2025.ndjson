@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2025,yaris", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2025, "model": "YARIS"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2025,sienna", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2025, "model": "SIENNA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2025,tundra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2025, "model": "TUNDRA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2025,tacoma", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2025, "model": "TACOMA"}}}

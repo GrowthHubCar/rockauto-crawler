@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1997,c230", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "C230"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1997,slk230", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "SLK230"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1997,cl500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "CL500"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1997,cl600", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "CL600"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1997,clk320", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "CLK320"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1997,sl60+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "SL60 AMG"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1997,s500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "S500"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1997,c36+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "C36 AMG"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1997,e300", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "E300"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1997,c280", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "C280"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1997,s420", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "S420"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1997,s-class", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "S-CLASS"}}}

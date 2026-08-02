@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/ford,1967,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1967, "model": "P-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1967,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1967, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1967,ranchero", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1967, "model": "RANCHERO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1967,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1967, "model": "THUNDERBIRD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1967,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1967, "model": "MUSTANG"}}}

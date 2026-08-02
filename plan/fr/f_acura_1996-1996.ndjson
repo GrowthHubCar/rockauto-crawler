@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/acura,1996,nsx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 1996, "model": "NSX"}}}
+{"node_type": "model", "href": "/en/catalog/acura,1996,tl", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 1996, "model": "TL"}}}

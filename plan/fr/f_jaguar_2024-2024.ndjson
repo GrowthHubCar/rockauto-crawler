@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/jaguar,2024,f-pace", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2024, "model": "F-PACE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2024,f-type", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2024, "model": "F-TYPE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2024,xf", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2024, "model": "XF"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2024,e-pace", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2024, "model": "E-PACE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2024,i-pace", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2024, "model": "I-PACE"}}}

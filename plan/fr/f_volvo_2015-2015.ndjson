@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/volvo,2015,v40", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2015, "model": "V40"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2015,s60", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2015, "model": "S60"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2015,xc70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2015, "model": "XC70"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2015,v60", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2015, "model": "V60"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2015,s80", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2015, "model": "S80"}}}

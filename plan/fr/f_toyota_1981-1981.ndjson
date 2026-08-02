@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/toyota,1981,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1981, "model": "LAND CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1981,cressida", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1981, "model": "CRESSIDA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1981,pickup", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1981, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1981,celica", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1981, "model": "CELICA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1981,tercel", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1981, "model": "TERCEL"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1981,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1981, "model": "COROLLA"}}}

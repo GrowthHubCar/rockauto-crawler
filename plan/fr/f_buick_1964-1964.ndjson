@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/buick,1964,wildcat", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1964, "model": "WILDCAT"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1964,sportwagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1964, "model": "SPORTWAGON"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1964,special", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1964, "model": "SPECIAL"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1964,electra", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1964, "model": "ELECTRA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1964,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1964, "model": "ESTATE WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1964,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1964, "model": "RIVIERA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1964,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1964, "model": "LESABRE"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1964,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1964, "model": "SKYLARK"}}}

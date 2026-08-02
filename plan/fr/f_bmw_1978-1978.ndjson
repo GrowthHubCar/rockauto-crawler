@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1978,733i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1978, "model": "733I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1978,630csi", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1978, "model": "630CSI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1978,633csi", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1978, "model": "633CSI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1978,530i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1978, "model": "530I"}}}

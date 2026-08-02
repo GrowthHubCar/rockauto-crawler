@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/audi,1981,coupe", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1981, "model": "COUPE"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1981,4000", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1981, "model": "4000"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1981,5000", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1981, "model": "5000"}}}

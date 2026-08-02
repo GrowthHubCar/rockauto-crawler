@@ -1,0 +1,11 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1995,320i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1995, "model": "320I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1995,840i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1995, "model": "840I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1995,850csi", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1995, "model": "850CSI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1995,740i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1995, "model": "740I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1995,325is", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1995, "model": "325IS"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1995,740il", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1995, "model": "740IL"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1995,525i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1995, "model": "525I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1995,318ti", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1995, "model": "318TI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1995,530i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1995, "model": "530I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1995,8", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1995, "model": "8"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1995,750il", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1995, "model": "750IL"}}}

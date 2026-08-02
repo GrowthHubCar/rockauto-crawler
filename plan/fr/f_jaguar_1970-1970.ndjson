@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/jaguar,1970,340", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1970, "model": "340"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1970,xke", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1970, "model": "XKE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1970,xj", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1970, "model": "XJ"}}}

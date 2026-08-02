@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/jeep,1996,cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1996, "model": "CHEROKEE"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1996,grand+cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1996, "model": "GRAND CHEROKEE"}}}

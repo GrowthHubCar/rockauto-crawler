@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/faw,2009,f1", "payload": {"nodetype": "model", "ctx": {"make": "FAW", "year": 2009, "model": "F1"}}}
+{"node_type": "model", "href": "/en/catalog/faw,2009,f5", "payload": {"nodetype": "model", "ctx": {"make": "FAW", "year": 2009, "model": "F5"}}}
+{"node_type": "model", "href": "/en/catalog/faw,2008,f1", "payload": {"nodetype": "model", "ctx": {"make": "FAW", "year": 2008, "model": "F1"}}}
+{"node_type": "model", "href": "/en/catalog/faw,2008,f4", "payload": {"nodetype": "model", "ctx": {"make": "FAW", "year": 2008, "model": "F4"}}}

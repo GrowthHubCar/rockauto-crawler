@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/toyota,1972,crown", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1972, "model": "CROWN"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1972,mark+ii", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1972, "model": "MARK II"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1972,corona", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1972, "model": "CORONA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1972,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1972, "model": "LAND CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1972,celica", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1972, "model": "CELICA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1972,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1972, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1972,pickup", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1972, "model": "PICKUP"}}}

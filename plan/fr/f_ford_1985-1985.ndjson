@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/ford,1985,topaz", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1985, "model": "TOPAZ"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1985,tempo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1985, "model": "TEMPO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1985,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1985, "model": "THUNDERBIRD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1985,ltd+crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1985, "model": "LTD CROWN VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1985,ltd", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1985, "model": "LTD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1985,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1985, "model": "RANGER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1985,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1985, "model": "MUSTANG"}}}

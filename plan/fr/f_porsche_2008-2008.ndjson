@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/porsche,2008,cayman", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2008, "model": "CAYMAN"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2008,boxster", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2008, "model": "BOXSTER"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2008,cayenne", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2008, "model": "CAYENNE"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2008,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2008, "model": "911"}}}

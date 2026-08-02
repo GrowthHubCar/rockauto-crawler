@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/honda,1982,prelude", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1982, "model": "PRELUDE"}}}
+{"node_type": "model", "href": "/en/catalog/honda,1982,accord", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1982, "model": "ACCORD"}}}
+{"node_type": "model", "href": "/en/catalog/honda,1982,civic", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1982, "model": "CIVIC"}}}

@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/uaz,2020,pickup", "payload": {"nodetype": "model", "ctx": {"make": "UAZ", "year": 2020, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/uaz,2020,hunter", "payload": {"nodetype": "model", "ctx": {"make": "UAZ", "year": 2020, "model": "HUNTER"}}}
+{"node_type": "model", "href": "/en/catalog/uaz,2019,hunter", "payload": {"nodetype": "model", "ctx": {"make": "UAZ", "year": 2019, "model": "HUNTER"}}}
+{"node_type": "model", "href": "/en/catalog/uaz,2020,profi", "payload": {"nodetype": "model", "ctx": {"make": "UAZ", "year": 2020, "model": "PROFI"}}}
+{"node_type": "model", "href": "/en/catalog/uaz,2022,hunter", "payload": {"nodetype": "model", "ctx": {"make": "UAZ", "year": 2022, "model": "HUNTER"}}}

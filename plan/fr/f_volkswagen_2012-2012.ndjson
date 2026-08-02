@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2012,passat+cc", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "PASSAT CC"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2012,touareg", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "TOUAREG"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2012,saveiro", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "SAVEIRO"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2012,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "TRANSPORTER"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2012,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "PASSAT"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2012,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "JETTA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2012,routan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "ROUTAN"}}}

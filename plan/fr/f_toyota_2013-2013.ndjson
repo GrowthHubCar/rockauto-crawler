@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2013,sienna", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2013, "model": "SIENNA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2013,tundra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2013, "model": "TUNDRA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2013,matrix", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2013, "model": "MATRIX"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2013,tacoma", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2013, "model": "TACOMA"}}}

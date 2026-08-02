@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/toyota,1987,pickup", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1987, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1987,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1987, "model": "LAND CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1987,mr2", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1987, "model": "MR2"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1987,celica", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1987, "model": "CELICA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1987,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1987, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1987,tercel", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1987, "model": "TERCEL"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1987,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1987, "model": "CAMRY"}}}

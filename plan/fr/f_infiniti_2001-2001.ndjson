@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/infiniti,2001,q45", "payload": {"nodetype": "model", "ctx": {"make": "INFINITI", "year": 2001, "model": "Q45"}}}
+{"node_type": "model", "href": "/en/catalog/infiniti,2001,qx4", "payload": {"nodetype": "model", "ctx": {"make": "INFINITI", "year": 2001, "model": "QX4"}}}
+{"node_type": "model", "href": "/en/catalog/infiniti,2001,g20", "payload": {"nodetype": "model", "ctx": {"make": "INFINITI", "year": 2001, "model": "G20"}}}
+{"node_type": "model", "href": "/en/catalog/infiniti,2001,i30", "payload": {"nodetype": "model", "ctx": {"make": "INFINITI", "year": 2001, "model": "I30"}}}

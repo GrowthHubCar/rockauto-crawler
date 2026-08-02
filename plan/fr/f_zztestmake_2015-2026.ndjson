@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/zztestmake,2016,zzmodel2", "payload": {"nodetype": "model", "ctx": {"make": "ZZTESTMAKE", "year": 2016, "model": "ZZMODEL2"}}}
+{"node_type": "model", "href": "/en/catalog/zztestmake,2016,zzmodel", "payload": {"nodetype": "model", "ctx": {"make": "ZZTESTMAKE", "year": 2016, "model": "ZZMODEL"}}}
+{"node_type": "model", "href": "/en/catalog/zztestmake,2015,zzmodel", "payload": {"nodetype": "model", "ctx": {"make": "ZZTESTMAKE", "year": 2015, "model": "ZZMODEL"}}}

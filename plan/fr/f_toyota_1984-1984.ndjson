@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/toyota,1984,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1984, "model": "LAND CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1984,tercel", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1984, "model": "TERCEL"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1984,pickup", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1984, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1984,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1984, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1984,celica", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1984, "model": "CELICA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1984,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1984, "model": "4RUNNER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1984,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1984, "model": "CAMRY"}}}

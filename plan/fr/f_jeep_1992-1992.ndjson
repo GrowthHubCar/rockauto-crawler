@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/jeep,1992,comanche", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1992, "model": "COMANCHE"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1992,wagoneer", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1992, "model": "WAGONEER"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1992,cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1992, "model": "CHEROKEE"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1992,wrangler", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1992, "model": "WRANGLER"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/subaru,2011,forester", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2011, "model": "FORESTER"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,2011,outback", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2011, "model": "OUTBACK"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,2011,legacy", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2011, "model": "LEGACY"}}}

@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,1969,eldorado", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1969, "model": "ELDORADO"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1969,commercial+chassis", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1969, "model": "COMMERCIAL CHASSIS"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1969,deville", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1969, "model": "DEVILLE"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1969,fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1969, "model": "FLEETWOOD"}}}

@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/dodge,2023,journey", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2023, "model": "JOURNEY"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2023,durango", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2023, "model": "DURANGO"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2023,charger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2023, "model": "CHARGER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2023,challenger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2023, "model": "CHALLENGER"}}}

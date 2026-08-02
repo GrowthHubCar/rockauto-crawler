@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/gmc,2014,yukon+xl+1500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2014, "model": "YUKON XL 1500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2014,yukon", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2014, "model": "YUKON"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2014,sierra+3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2014, "model": "SIERRA 3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2014,sierra+1500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2014, "model": "SIERRA 1500"}}}

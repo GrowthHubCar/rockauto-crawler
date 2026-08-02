@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/kia,2000,sportage", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2000, "model": "SPORTAGE"}}}
+{"node_type": "model", "href": "/en/catalog/kia,2000,spectra", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2000, "model": "SPECTRA"}}}

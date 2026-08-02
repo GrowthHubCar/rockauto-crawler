@@ -119,28 +119,53 @@ jobs:
       # consecutive runs (0..2) cover all 360 units, so one account reaches the whole
       # catalog over time rather than needing nine accounts at once. An explicit
       # `offset` dispatch input overrides it when a specific slice needs re-running.
-      - name: Resolve work-unit from fleet plan
+      # Pick THIS job's UNIT from the committed targeted frontiers (plan/fr/f_<unit>.ndjson).
+      #
+      # WHY NOT fleet_plan.json ANY MORE: that plan is a make-group x year-band sweep of the
+      # WHOLE catalog, so Actions kept re-walking ground already banked. Measured on run 2:
+      # 105,000 requests -> 114,103 rows -> 13,342 NEW fitments = 1.09 rows/request and
+      # 0.127 new fitments/request, against the 4.445 rows/request plan/targets.tsv promises.
+      # Extrapolated that is ~24 days. The 1,698 unit frontiers encode exactly the work that
+      # is LEFT (5,603,939 todo leaves / 6,183,851 requests) and are only 6.3 MB, so they now
+      # ship in the repo and every request lands on uncrawled ground.
+      #
+      # ACCOUNT_SLOT / ACCOUNT_COUNT keep two accounts strictly disjoint: unit indices are
+      # interleaved (slot 0 takes even, slot 1 odd), so neither can ever crawl the other's
+      # unit no matter how far their run_numbers drift apart. Unset = one account, all units.
+      - name: Resolve unit from targeted frontier
+        env:
+          ACCOUNT_SLOT:  ${{ vars.ACCOUNT_SLOT  || '0' }}
+          ACCOUNT_COUNT: ${{ vars.ACCOUNT_COUNT || '1' }}
+          RUN_NUMBER:    ${{ github.run_number }}
+          MATRIX_INDEX:  ${{ matrix.index }}
+          MATRIX_SIZE:   "120"
         run: |
-          # GitHub expressions have no arithmetic — compute GLOBAL in the shell.
-          OFFSET="${{ github.event.inputs.offset }}"
-          if [ -z "$OFFSET" ]; then OFFSET=$(( ${{ github.run_number }} % 3 )); fi
-          IDX="${{ matrix.index }}"
-          GLOBAL=$(( OFFSET * 120 + IDX ))
-          echo "OFFSET_USED=$OFFSET" >> "$GITHUB_ENV"
-          echo "GLOBAL_INDEX=$GLOBAL" >> "$GITHUB_ENV"
-          python - "$GLOBAL" >> "$GITHUB_ENV" <<'PY'
-          import json, sys
-          g = int(sys.argv[1])
-          try:
-              plan = json.load(open("fleet_plan.json"))
-          except FileNotFoundError:
-              plan = []
-          u = plan[g] if 0 <= g < len(plan) else {"makes": [], "year_min": 1900, "year_max": 2036}
-          print("SHARD_MAKES=" + ",".join(u["makes"]))
-          print("SP_YEAR_MIN=" + str(u["year_min"]))
-          print("SP_YEAR_MAX=" + str(u["year_max"]))
-          PY
-          echo "[unit] GLOBAL=$GLOBAL offset=$OFFSET idx=${{ matrix.index }}"
+          python - >> "$GITHUB_ENV" <<'PYEOF'
+          import glob, math, os
+          units = sorted(os.path.basename(f)[2:-len(".ndjson")]
+                         for f in glob.glob("plan/fr/f_*.ndjson"))
+          if not units:
+              raise SystemExit("FATAL: no plan/fr/f_*.ndjson in the repo")
+          slot  = int(os.environ.get("ACCOUNT_SLOT") or 0)
+          count = int(os.environ.get("ACCOUNT_COUNT") or 1)
+          run   = int(os.environ["RUN_NUMBER"])
+          idx   = int(os.environ["MATRIX_INDEX"])
+          jobs  = int(os.environ["MATRIX_SIZE"])
+          mine  = units[slot::count]
+          cycle = max(1, math.ceil(len(mine) / jobs))
+          unit  = mine[((run % cycle) * jobs + idx) % len(mine)]
+          make, band = unit.rsplit("_", 1)
+          lo, hi = band.split("-")
+          print("UNIT=" + unit)
+          print("SHARD_MAKES=" + make)
+          print("SP_YEAR_MIN=" + lo)
+          print("SP_YEAR_MAX=" + hi)
+          print("UNITS_MINE=" + str(len(mine)))
+          print("CYCLE=" + str(cycle))
+          PYEOF
+
+      - name: Show unit
+        run: echo "[unit] $UNIT (slot ${{ vars.ACCOUNT_SLOT || '0' }}/${{ vars.ACCOUNT_COUNT || '1' }}, $UNITS_MINE units, cycle $CYCLE)"
 
       # Resume: this shard's un-expanded frontier from its previous run (per-GLOBAL
       # cache). Continuing the DFS here instead of re-seeding from makes is the core
@@ -150,8 +175,8 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: frontier/in.ndjson
-          key: rockauto-frontier-${{ env.GLOBAL_INDEX }}-${{ github.run_id }}
-          restore-keys: rockauto-frontier-${{ env.GLOBAL_INDEX }}-
+          key: rockauto-frontier-${{ env.UNIT }}-${{ github.run_id }}
+          restore-keys: rockauto-frontier-${{ env.UNIT }}-
 
       # Shared cross-run memory of which LEAF pages are already crawled, so this
       # run skips them and reaches NEW ground (cumulative full-catalog coverage).
@@ -164,7 +189,7 @@ jobs:
           key: rockauto-visited-${{ github.run_id }}
           restore-keys: rockauto-visited-
 
-      - name: Crawl unit ${{ env.GLOBAL_INDEX }} (idx ${{ matrix.index }} @ offset ${{ env.OFFSET_USED }})
+      - name: Crawl ${{ env.UNIT }} (idx ${{ matrix.index }})
         env:
           SP_USE_PROXIES: "0"        # each runner already has its own fresh IP
           # Run 1 measured 1,000 requests in 148 s = 6.8 req/s, stopping on BUDGET having
@@ -191,11 +216,19 @@ jobs:
           EXTRA=""
           if [ "$MODE" = "tree" ]; then EXTRA="--tree-only"; fi
           mkdir -p frontier
+          # Seed from the committed targeted frontier on this unit's FIRST run. The
+          # cache restore above wins on every later run, so the DFS resumes rather
+          # than restarting from the unit root.
+          if [ ! -s frontier/in.ndjson ]; then
+            cp "plan/fr/f_${UNIT}.ndjson" frontier/in.ndjson
+            echo "[frontier] seeded plan/fr/f_${UNIT}.ndjson ($(wc -l < frontier/in.ndjson) nodes)"
+          else
+            echo "[frontier] resumed from cache ($(wc -l < frontier/in.ndjson) nodes)"
+          fi
           # --only-makes "$SHARD_MAKES" scopes to this unit's make-group; SP_YEAR_MIN/MAX
           # (from the fleet plan) scope the year-band. --frontier-file resumes the DFS.
           python scraper/crawl_jsonl.py \
-            --shard-index "${{ env.GLOBAL_INDEX }}" \
-            --shard-total "${{ env.SHARD_TOTAL }}" \
+            --shard-index 0 --shard-total 1 \
             --only-makes "$SHARD_MAKES" \
             --frontier-file "frontier/in.ndjson" \
             --frontier-out "frontier/out.ndjson" \
@@ -210,7 +243,7 @@ jobs:
         uses: actions/cache/save@v4
         with:
           path: frontier/out.ndjson
-          key: rockauto-frontier-${{ env.GLOBAL_INDEX }}-${{ github.run_id }}
+          key: rockauto-frontier-${{ env.UNIT }}-${{ github.run_id }}
 
       # Upload only the leaves crawled THIS run, not the whole cache.
       #

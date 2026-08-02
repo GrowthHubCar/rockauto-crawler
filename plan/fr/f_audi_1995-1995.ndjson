@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/audi,1995,s6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1995, "model": "S6"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1995,a6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1995, "model": "A6"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1995,90", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1995, "model": "90"}}}

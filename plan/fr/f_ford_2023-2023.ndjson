@@ -1,0 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/ford,2023,transit", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2023, "model": "TRANSIT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2023,transit+custom", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2023, "model": "TRANSIT CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2023,territory", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2023, "model": "TERRITORY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2023,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2023, "model": "RANGER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2023,transit+350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2023, "model": "TRANSIT 350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2023,transit+150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2023, "model": "TRANSIT 150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2023,police+suv", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2023, "model": "POLICE SUV"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2023,transit+connect", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2023, "model": "TRANSIT CONNECT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2023,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2023, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2023,transit+250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2023, "model": "TRANSIT 250"}}}

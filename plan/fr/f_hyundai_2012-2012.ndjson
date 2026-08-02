@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2012,genesis", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "GENESIS"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2012,tucson", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "TUCSON"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2012,azera", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "AZERA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2012,santa+fe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "SANTA FE"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2012,accent", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "ACCENT"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2012,veracruz", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "VERACRUZ"}}}

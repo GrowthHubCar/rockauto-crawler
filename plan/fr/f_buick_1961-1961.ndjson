@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/buick,1961,electra", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1961, "model": "ELECTRA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1961,special", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1961, "model": "SPECIAL"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1961,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1961, "model": "ESTATE WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1961,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1961, "model": "SKYLARK"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1961,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1961, "model": "LESABRE"}}}

@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/volvo,2012,c30", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2012, "model": "C30"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2012,xc60", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2012, "model": "XC60"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2012,xc90", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2012, "model": "XC90"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2012,s60", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2012, "model": "S60"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2012,s40", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2012, "model": "S40"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2012,s80", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2012, "model": "S80"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2012,c70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2012, "model": "C70"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2012,xc70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2012, "model": "XC70"}}}

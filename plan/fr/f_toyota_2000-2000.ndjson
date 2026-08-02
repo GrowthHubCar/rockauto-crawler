@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2000,rav4", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2000, "model": "RAV4"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2000,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2000, "model": "4RUNNER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2000,tacoma", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2000, "model": "TACOMA"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/jeep,2003,liberty", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2003, "model": "LIBERTY"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2003,grand+cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2003, "model": "GRAND CHEROKEE"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2003,wrangler", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2003, "model": "WRANGLER"}}}

@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1998,318is", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1998, "model": "318IS"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1998,850ci", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1998, "model": "850CI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1998,z3", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1998, "model": "Z3"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1998,318i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1998, "model": "318I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1998,540i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1998, "model": "540I"}}}

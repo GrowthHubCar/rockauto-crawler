@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ineos,2024,grenadier", "payload": {"nodetype": "model", "ctx": {"make": "INEOS", "year": 2024, "model": "GRENADIER"}}}
+{"node_type": "model", "href": "/en/catalog/ineos,2025,grenadier", "payload": {"nodetype": "model", "ctx": {"make": "INEOS", "year": 2025, "model": "GRENADIER"}}}
+{"node_type": "model", "href": "/en/catalog/ineos,2025,grenadier+quartermaster", "payload": {"nodetype": "model", "ctx": {"make": "INEOS", "year": 2025, "model": "GRENADIER QUARTERMASTER"}}}
+{"node_type": "model", "href": "/en/catalog/ineos,2026,grenadier", "payload": {"nodetype": "model", "ctx": {"make": "INEOS", "year": 2026, "model": "GRENADIER"}}}

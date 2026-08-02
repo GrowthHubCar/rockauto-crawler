@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/dodge,2018,vision", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2018, "model": "VISION"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2018,attitude", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2018, "model": "ATTITUDE"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2018,durango", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2018, "model": "DURANGO"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2018,charger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2018, "model": "CHARGER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2018,challenger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2018, "model": "CHALLENGER"}}}

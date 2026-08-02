@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1984,500sel", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1984, "model": "500SEL"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1984,190e", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1984, "model": "190E"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1984,300", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1984, "model": "300"}}}

@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1964,1600", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1964, "model": "1600"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1964,1800ti", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1964, "model": "1800TI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1964,1800", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1964, "model": "1800"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1964,1500", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1964, "model": "1500"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1964,isetta", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1964, "model": "ISETTA"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1964,3200cs", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1964, "model": "3200CS"}}}

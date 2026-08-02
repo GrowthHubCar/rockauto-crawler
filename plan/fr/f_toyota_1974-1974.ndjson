@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/toyota,1974,corona", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1974, "model": "CORONA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1974,celica", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1974, "model": "CELICA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1974,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1974, "model": "LAND CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1974,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1974, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1974,pickup", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1974, "model": "PICKUP"}}}

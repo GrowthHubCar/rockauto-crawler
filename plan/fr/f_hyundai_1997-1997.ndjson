@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,1997,tiburon", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 1997, "model": "TIBURON"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,1997,accent", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 1997, "model": "ACCENT"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,1997,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 1997, "model": "ELANTRA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,1997,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 1997, "model": "SONATA"}}}

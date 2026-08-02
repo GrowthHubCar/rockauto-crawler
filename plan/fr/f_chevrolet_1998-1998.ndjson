@@ -1,0 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "TILTMASTER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,prizm", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "PRIZM"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,metro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "METRO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,t+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "T SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,w3500+tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "W3500 TILTMASTER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,w4500+tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "W4500 TILTMASTER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,lumina", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "LUMINA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "P30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,s10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "S10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,tahoe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "TAHOE"}}}

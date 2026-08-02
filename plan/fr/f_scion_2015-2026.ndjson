@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/scion,2015,xb", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2015, "model": "XB"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2016,ia", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2016, "model": "IA"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2016,im", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2016, "model": "IM"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2016,fr-s", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2016, "model": "FR-S"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2015,fr-s", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2015, "model": "FR-S"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2015,iq", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2015, "model": "IQ"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2016,tc", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2016, "model": "TC"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2015,tc", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2015, "model": "TC"}}}

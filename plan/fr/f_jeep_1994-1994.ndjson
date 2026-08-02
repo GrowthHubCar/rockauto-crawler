@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/jeep,1994,grand+cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1994, "model": "GRAND CHEROKEE"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1994,wagoneer", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1994, "model": "WAGONEER"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1994,cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1994, "model": "CHEROKEE"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1994,wrangler", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1994, "model": "WRANGLER"}}}

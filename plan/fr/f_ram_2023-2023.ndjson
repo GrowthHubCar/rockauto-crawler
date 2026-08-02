@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/ram,2023,promaster+rapid", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2023, "model": "PROMASTER RAPID"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2023,promaster+3500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2023, "model": "PROMASTER 3500"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2023,promaster+2500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2023, "model": "PROMASTER 2500"}}}

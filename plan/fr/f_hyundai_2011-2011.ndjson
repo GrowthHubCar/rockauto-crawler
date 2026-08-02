@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2011,veracruz", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "VERACRUZ"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2011,tucson", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "TUCSON"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2011,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "SONATA"}}}

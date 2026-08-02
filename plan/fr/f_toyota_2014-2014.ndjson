@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2014,yaris", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2014, "model": "YARIS"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2014,tacoma", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2014, "model": "TACOMA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2014,venza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2014, "model": "VENZA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2014,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2014, "model": "LAND CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2014,tundra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2014, "model": "TUNDRA"}}}

@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/ford,1980,fiesta", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1980, "model": "FIESTA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1980,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1980, "model": "L SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1980,fairmont", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1980, "model": "FAIRMONT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1980,f-800", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1980, "model": "F-800"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1980,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1980, "model": "THUNDERBIRD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1980,ltd", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1980, "model": "LTD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1980,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1980, "model": "MUSTANG"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/buick,2025,envista", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2025, "model": "ENVISTA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,2025,envision", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2025, "model": "ENVISION"}}}
+{"node_type": "model", "href": "/en/catalog/buick,2025,encore", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2025, "model": "ENCORE"}}}

@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1963,1800", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1963, "model": "1800"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1963,1500", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1963, "model": "1500"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1963,isetta", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1963, "model": "ISETTA"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1963,3200", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1963, "model": "3200"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1963,2600", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1963, "model": "2600"}}}

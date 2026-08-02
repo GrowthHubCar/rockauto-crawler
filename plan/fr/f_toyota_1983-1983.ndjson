@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/toyota,1983,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1983, "model": "LAND CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1983,tercel", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1983, "model": "TERCEL"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1983,celica", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1983, "model": "CELICA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1983,pickup", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1983, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1983,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1983, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1983,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1983, "model": "CAMRY"}}}

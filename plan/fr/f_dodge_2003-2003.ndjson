@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/dodge,2003,stratus", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2003, "model": "STRATUS"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2003,ram+3500+van", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2003, "model": "RAM 3500 VAN"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2003,sprinter+2500", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2003, "model": "SPRINTER 2500"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2003,sprinter+3500", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2003, "model": "SPRINTER 3500"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2003,viper", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2003, "model": "VIPER"}}}

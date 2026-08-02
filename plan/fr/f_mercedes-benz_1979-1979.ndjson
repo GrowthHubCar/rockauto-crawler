@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1979,300td", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1979, "model": "300TD"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1979,300d", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1979, "model": "300D"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1979,450sel", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1979, "model": "450SEL"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1979,300sd", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1979, "model": "300SD"}}}

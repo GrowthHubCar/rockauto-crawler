@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/audi,2008,q7", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2008, "model": "Q7"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2008,s3", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2008, "model": "S3"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2008,a4", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2008, "model": "A4"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2008,a6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2008, "model": "A6"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2008,a3", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2008, "model": "A3"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2008,s8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2008, "model": "S8"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2008,s6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2008, "model": "S6"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2008,s5", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2008, "model": "S5"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2008,r8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2008, "model": "R8"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2008,a5", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2008, "model": "A5"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2008,tt", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2008, "model": "TT"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2008,a8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2008, "model": "A8"}}}

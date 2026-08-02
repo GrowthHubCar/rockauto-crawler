@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volvo,2006,s80", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2006, "model": "S80"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2006,xc90", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2006, "model": "XC90"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,1990,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 1990, "model": "SONATA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,1990,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 1990, "model": "ELANTRA"}}}
