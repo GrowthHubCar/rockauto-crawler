@@ -7,7 +7,12 @@ assets/parts/
 artifacts/
 ingest_ec2/out/
 out/
-coverage/
+# coverage/   <- was hiding the skip-set seed from Actions
+coverage/*
+# EXCEPT the seed: it is the ONLY record of which leaves were already
+# crawled, and without it the Actions fleet re-fetches known ground
+# (measured: 91% of requests wasted). 3.4 MB gzipped. Ships deliberately.
+!coverage/visited_seed.txt.gz
 __pycache__/
 *.pyc
 
