@@ -33,6 +33,7 @@ import shutil
 import subprocess
 import sys
 import time
+from itertools import zip_longest
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STATE = os.path.join(ROOT, ".gha_drained.json")
@@ -84,6 +85,7 @@ def finished_runs() -> list[str]:
     a run where some shards failed still uploaded every shard that succeeded, and
     those artifacts are real data."""
     ids: list[str] = []
+    per_repo: list[list[str]] = []
     for repo in REPOS:
         rc, out = _sh(["gh", "run", "list", "--repo", repo, "--workflow", WORKFLOW,
                        "--limit", "30", "--json", "databaseId,status", "-q",
@@ -92,7 +94,14 @@ def finished_runs() -> list[str]:
             log(f"[warn] gh run list {repo} failed: {out.strip()[:160]}")
             continue
         got = [ln.strip() for ln in out.splitlines() if ln.strip().isdigit()]
-        ids += [f"{repo}#{i}" for i in reversed(got)]
+        per_repo.append([f"{repo}#{i}" for i in reversed(got)])
+
+    # INTERLEAVE the shards. Appending repo-by-repo meant the first repo's whole queue
+    # drained before the second was touched, and the second shard starved: measured
+    # ahmerfr 28 pending vs haseeb-shoukat2029 49. Each shard owns a DISJOINT half of the
+    # catalog, so starving one is not a delay — it is half the catalog missing from the DB.
+    for group in zip_longest(*per_repo):
+        ids += [x for x in group if x]
     return ids
 
 
