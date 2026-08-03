@@ -693,6 +693,30 @@ class Loader:
         if self._fit_immediate:
             self._flush_fitment()
 
+    def _warm_part_done(self, chunk: int = 2000) -> None:
+        """Mark cached parts that DEMONSTRABLY already have their children materialised.
+
+        Deliberately gated on part_images rather than on mere existence in `parts`: a part
+        row can exist while its children do not (a crash between the part INSERT and the
+        child INSERTs), and marking that sku done would leave the gap permanently. A part
+        that already has an image was materialised by the run that created it, so redoing
+        its children is pure redundancy — the writes are idempotent, so skipping them
+        changes nothing. Parts with no images simply take the original full path.
+        """
+        ids = [pid for sku, pid in self._part.items() if sku not in self._part_done]
+        if not ids:
+            return
+        by_id = {pid: sku for sku, pid in self._part.items()}
+        for i in range(0, len(ids), chunk):
+            block = ids[i:i + chunk]
+            ph = ",".join(["%s"] * len(block))
+            self.cur.execute(
+                f"SELECT DISTINCT part_id FROM part_images WHERE part_id IN ({ph})", block)
+            for r in self.cur.fetchall():
+                sku = by_id.get(r["part_id"])
+                if sku:
+                    self._part_done.add(sku)
+
     # -- drain one batch (does NOT commit; caller owns the transaction) -----
     def process_batch(self, batch_id: str, limit: int | None = None) -> dict:
         counts = {"listings_seen": 0, "listings_ok": 0, "listings_failed": 0,
@@ -707,6 +731,15 @@ class Loader:
         self.cur.execute(sql, params)
         rows = self.cur.fetchall()
         counts["listings_seen"] = len(rows)
+        # Warm BOTH caches before the listing pass. _load_chunked -> load_listing checks
+        # `sku in self._part_done` (loader.py:529) to skip re-materialising a part's brand,
+        # category, images, attributes, variants and interchange — redundancy this file
+        # already calls "~75% of loader work". But _part_done is per PROCESS and nothing
+        # warmed it for LISTINGS (only fitment, line 721), so every known sku paid full
+        # materialisation again on every loader invocation: measured as a per-part
+        # `SELECT id FROM part_images WHERE part_id<=>N` round trip in SHOW PROCESSLIST.
+        self._warm_part_cache(rows)
+        self._warm_part_done()
         done = self._load_chunked(rows, self.load_listing, "listing", counts,
                                   "listings_ok", "listings_failed")
         if done:
