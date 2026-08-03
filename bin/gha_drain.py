@@ -139,25 +139,33 @@ def drain(tagged: str, keep: bool = False) -> bool:
             rows += sum(1 for ln in fh if ln.strip())
     log(f"run {tagged}: {len(files)} artifacts, {rows:,} rows — staging")
 
-    # CHUNKED, because the whole list does not fit in a command line. A 462-artifact run
-    # produced ~55,000 characters of paths against Windows' 32,768 limit, and the drain
-    # died mid-staging — silently, leaving 1.95M rows in staging while the DB sat flat and
-    # the crawl kept happily producing more. (Same trap as `cat out/*` blowing ARG_MAX.)
+    # STAGE THEN LOAD, PER CHUNK. Two separate reasons, both measured:
+    #
+    # 1. ARG_MAX — a 462-artifact run produced ~55,000 characters of paths against
+    #    Windows' 32,768 limit and the drain died mid-staging, silently, leaving 1.95M
+    #    rows in staging while the DB sat flat.
+    # 2. BIG BATCHES WEDGE THE LOADER — staging all 30 chunks and then loading 516,407
+    #    rows in one go produced repeated
+    #    "TransactionLost: server rolled back the transaction (savepoint sp_chunk gone)".
+    #    Small staging batches are the known-good shape for this loader.
+    #
+    # Loading after each chunk also means a failure costs one chunk, not the whole run.
     CHUNK = 40
+    loaded = 0
     for i in range(0, len(files), CHUNK):
         part = files[i:i + CHUNK]
         rc, out = _sh([sys.executable, "bin/ingest_artifacts.py"] + part)
         if rc != 0:
-            log(f"run {tagged}: STAGING FAILED at {i}/{len(files)} rc={rc} :: {out.strip()[-260:]}")
-            shutil.rmtree(d, ignore_errors=True)   # reclaim; a retry re-downloads anyway
+            log(f"run {tagged}: STAGING FAILED at {i}/{len(files)} rc={rc} :: {out.strip()[-220:]}")
+            shutil.rmtree(d, ignore_errors=True)
             return False
-
-    rc, out = _sh([sys.executable, "bin/loader.py"])
-    if rc != 0:
-        log(f"run {tagged}: LOADER FAILED rc={rc} :: {out.strip()[-300:]}")
-        shutil.rmtree(d, ignore_errors=True)
-        return False
-    log(f"run {tagged}: loaded :: {out.strip().splitlines()[-1][:160] if out.strip() else 'ok'}")
+        rc, out = _sh([sys.executable, "bin/loader.py"])
+        if rc != 0:
+            log(f"run {tagged}: LOADER FAILED at {i}/{len(files)} rc={rc} :: {out.strip()[-220:]}")
+            shutil.rmtree(d, ignore_errors=True)
+            return False
+        loaded += len(part)
+    log(f"run {tagged}: loaded {loaded}/{len(files)} artifacts in {(len(files)+CHUNK-1)//CHUNK} batches")
 
     _mark(tagged)                          # only after the loader succeeded
     if not keep:
