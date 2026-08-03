@@ -229,6 +229,23 @@ jobs:
       - name: Crawl ${{ env.UNIT }} (idx ${{ matrix.index }})
         env:
           SP_USE_PROXIES: "0"        # each runner already has its own fresh IP
+          # THE ABORT RAILS. Measured on run 30776903933: 120 jobs made only 24,225
+          # requests total (~202 each) against a 1,800 budget, exit_reason='blocked', with
+          # 299 captchas and 293 blocks across the fleet. The defaults are SP_MAX_BLOCKED=3
+          # and SP_MAX_CAPTCHAS=12 (crawl_jsonl.py:422,430), so a job quit after three
+          # consecutive soft blocks while its runner IP still had ~1,000 requests of budget
+          # left (measured: runners wall at 1,111-1,998).
+          #
+          # These are ABORT thresholds only — crawl_jsonl.py:447 re-queues a Blocked node
+          # without marking it seen, so raising them skips nothing and loses nothing. The
+          # AWS/GCP fleet runs 100000/200000 (bin/unit_supervisor.sh:70) after the same
+          # defaults collapsed its output from 13,432 to 735 MB/hour.
+          SP_MAX_BLOCKED: "100000"
+          SP_MAX_CAPTCHAS: "200000"
+          SP_MAX_ATTEMPTS: "2"       # fail fast; a fourth retry on a hot IP is dead time
+          SP_REQUEST_TIMEOUT: "4"
+          SP_CONNECT_TIMEOUT: "4"
+          SP_CAPTCHA_BACKOFF: "1"    # 90s is the proxy-era value; here it is pure idle
           # Run 1 measured 1,000 requests in 148 s = 6.8 req/s, stopping on BUDGET having
           # never reached the 1,111-request wall — so the runner IP had capacity left and
           # the limiter was our own fetch rate. bin/qualify.sh sustained 12-24 req/s on the
