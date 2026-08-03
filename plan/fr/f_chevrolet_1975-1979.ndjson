@@ -48,3 +48,116 @@
 {"node_type": "model", "href": "/en/catalog/chevrolet,1979,c10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "C10 SUBURBAN"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1975,c10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "C10 PICKUP"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1979,c10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "C10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,k10+pickup,7.4l+454cid+v8,1295535", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "K10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,nova,5.7l+350cid+v8,1057430", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "NOVA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,g30,7.4l+454cid+v8,1047316", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "G30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1977,k5+blazer,5.0l+305cid+v8,1029439", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "K5 BLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,medium+duty+truck,4.8l+292cid+l6,3442567", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,p10,7.4l+454cid+v8,167", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "P10"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1977,k5+blazer,6.6l+400cid+v8,1050185", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "K5 BLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,p30,5.7l+350cid+v8,1058846", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,medium+duty+truck,10.4l+636cid+v8+diesel+turbocharged,3442677", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,malibu,3.3l+200cid+v6,1055045", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,monza,2.5l+151cid+l4,1056631", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "MONZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,medium+duty+truck,5.7l+350cid+v8,3442568", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1977,monte+carlo,5.7l+350cid+v8,1055898", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,g20,5.7l+350cid+v8,1045370", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "G20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,medium+duty+truck,4.1l+250cid+l6,3442576", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,p10,5.7l+350cid+v8,168", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "P10"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1977,camaro,5.7l+350cid+v8,1035122", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "CAMARO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1977,c30+pickup,6.6l+400cid+v8,1033861", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "C30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1977,k20+pickup,6.6l+400cid+v8,1051704", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "K20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,c10+pickup,4.1l+250cid+l6,1030420", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "C10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1975,p30,7.4l+454cid+v8,1058813", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,c10+pickup,5.7l+350cid+v8+diesel,1030464", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "C10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,k20+suburban,5.7l+350cid+v8,1295669", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "K20 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,k30+pickup,4.8l+292cid+l6,1295692", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "K30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1977,k10+pickup,4.1l+250cid+l6,1296109", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "K10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1975,camaro,5.7l+350cid+v8,1035032", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "CAMARO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,c10+suburban,7.4l+454cid+v8,1296457", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "C10 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,monza,3.8l+231cid+v6,1056664", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "MONZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,g30,5.0l+305cid+v8,1047530", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "G30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,p10,5.0l+305cid+v8,1057766", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "P10"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,malibu,4.4l+267cid+v8,1384130", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,el+camino,5.7l+350cid+v8,1042490", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "EL CAMINO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1977,c10+pickup,7.4l+454cid+v8,1030240", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "C10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1975,corvette,5.7l+350cid+v8,1307618", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "CORVETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,monza,2.3l+140cid+l4,1056518", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "MONZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,k30+pickup,6.6l+400cid+v8,1052839", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "K30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,nova,5.0l+305cid+v8,1057429", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "NOVA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,monza,2.5l+151cid+l4,1056743", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "MONZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1975,k5+blazer,4.1l+250cid+l6,1029350", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "K5 BLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1975,vega,2.3l+140cid+l4,1062087", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "VEGA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1977,k20+pickup,5.7l+350cid+v8,1051681", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "K20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,monza,3.2l+196cid+v6,1056653", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "MONZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,stepvan,4.8l+292cid+l6,3295162", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "STEPVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1977,nova,4.1l+250cid+l6,1057351", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "NOVA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,g30,4.1l+250cid+l6,1047260", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "G30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1977,c10+pickup,6.6l+400cid+v8,1030239", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "C10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,k5+blazer,5.7l+350cid+v8,1029451", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "K5 BLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,medium+duty+truck,8.2l+501cid+v8+diesel+turbocharged,3442586", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,monte+carlo,3.3l+200cid+v6,1055900", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,p20,7.4l+454cid+v8,1058150", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "P20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,c30+pickup,4.1l+250cid+l6,3310469", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "C30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1975,g30,4.8l+292cid+l6,1047181", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "G30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1977,c10+suburban,5.0l+305cid+v8,1295962", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "C10 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1975,impala,7.4l+454cid+v8,1049138", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,k5+blazer,4.1l+250cid+l6,1029383", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "K5 BLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,k10+pickup,5.7l+350cid+v8,1295490", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "K10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,vega,2.3l+140cid+l4,1062100", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "VEGA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,medium+duty+truck,7.0l+427cid+v8,3442584", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1977,vega,2.3l+140cid+l4,1062133", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "VEGA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,k20+suburban,6.6l+400cid+v8,1296749", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "K20 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1975,nova,5.7l+350cid+v8,1057249", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "NOVA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1977,impala,5.7l+350cid+v8,1049240", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1975,luv,1.8l+111cid+l4,1054291", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "LUV"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,corvette,5.7l+350cid+v8,1041118", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "CORVETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1977,c20+pickup,7.4l+454cid+v8,1032095", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "C20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,k5+blazer,5.0l+305cid+v8,1029495", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "K5 BLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,p30,7.4l+454cid+v8,1058970", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,k10+suburban,6.6l+400cid+v8,1295591", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "K10 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1977,p30,5.7l+350cid+v8,1058891", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,monte+carlo,6.6l+400cid+v8,1308282", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1977,k20+pickup,5.0l+305cid+v8,1051692", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "K20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,p30,5.7l+350cid+v8,1058969", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1975,laguna,7.4l+454cid+v8,1440718", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "LAGUNA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,p20,5.7l+350cid+v8,1058127", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "P20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,c30+pickup,4.1l+250cid+l6,1033883", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "C30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1975,p30,4.8l+292cid+l6,1058789", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,p20,7.4l+454cid+v8,1058082", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "P20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,medium+duty+truck,4.1l+250cid+l6,3442566", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1975,camaro,4.1l+250cid+l6,1035010", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "CAMARO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,c10+pickup,5.7l+350cid+v8,1030442", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "C10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1975,g20,4.8l+292cid+l6,1045000", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "G20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,g10,5.7l+350cid+v8,1043581", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "G10"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,c10+pickup,4.8l+292cid+l6,1030138", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "C10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,p20,7.4l+454cid+v8,176", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "P20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,p20,4.1l+250cid+l6,470", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "P20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,medium+duty+truck,6.0l+366cid+v8,3442569", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,p30,4.8l+292cid+l6,1058958", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,g30,5.7l+350cid+v8,1047529", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "G30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,caprice,6.6l+400cid+v8,1307584", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "CAPRICE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,c10+pickup,7.4l+454cid+v8,1030486", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "C10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,monza,5.0l+305cid+v8,1056675", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "MONZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1975,medium+duty+truck,7.0l+427cid+v8,3442565", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,g20,4.1l+250cid+l6,1045246", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "G20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,malibu,3.8l+231cid+v6,1055067", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1975,k20+pickup,4.1l+250cid+l6,1051568", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "K20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,k10+pickup,5.0l+305cid+v8,1296604", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "K10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1977,p30,7.4l+454cid+v8,1058903", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,k10+pickup,4.1l+250cid+l6,1399697", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "K10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,p10,4.8l+292cid+l6,1057711", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "P10"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,p20,5.7l+350cid+v8,1058071", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "P20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,g30,4.1l+250cid+l6,1047417", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "G30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,k5+blazer,7.4l+454cid+v8,1050264", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "K5 BLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,p10,5.7l+350cid+v8,465", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "P10"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1979,p30,4.1l+250cid+l6,1058947", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1975,c10+pickup,7.4l+454cid+v8,1030116", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "C10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,k20+suburban,5.7l+350cid+v8,1296738", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "K20 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1975,caprice,7.4l+454cid+v8,1036358", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "CAPRICE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,el+camino,5.0l+305cid+v8,1042434", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "EL CAMINO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1975,c10+pickup,4.1l+250cid+l6,1030071", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "C10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1976,k10+pickup,6.6l+400cid+v8,1307966", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "K10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,p30,7.4l+454cid+v8,1058936", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1975,vega,2.0l+122cid+l4,1434211", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "VEGA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1978,g10,4.1l+250cid+l6,1043480", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "G10"}}}

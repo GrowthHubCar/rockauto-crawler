@@ -1,1 +1,12 @@
 {"node_type": "model", "href": "/en/catalog/daewoo,2001,lanos", "payload": {"nodetype": "model", "ctx": {"make": "DAEWOO", "year": 2001, "model": "LANOS"}}}
+{"node_type": "carcode", "href": "/en/catalog/daewoo,2000,nubira,2.0l+l4,1361720", "payload": {"nodetype": "carcode", "ctx": {"make": "DAEWOO", "year": 2000, "model": "NUBIRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/daewoo,2000,lanos,1.6l+l4,1432656", "payload": {"nodetype": "carcode", "ctx": {"make": "DAEWOO", "year": 2000, "model": "LANOS"}}}
+{"node_type": "carcode", "href": "/en/catalog/daewoo,2001,leganza,2.2l+l4,1371822", "payload": {"nodetype": "carcode", "ctx": {"make": "DAEWOO", "year": 2001, "model": "LEGANZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/daewoo,2001,lanos,1.6l+l4,1432655", "payload": {"nodetype": "carcode", "ctx": {"make": "DAEWOO", "year": 2001, "model": "LANOS"}}}
+{"node_type": "carcode", "href": "/en/catalog/daewoo,2001,nubira,2.0l+l4,1371833", "payload": {"nodetype": "carcode", "ctx": {"make": "DAEWOO", "year": 2001, "model": "NUBIRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/daewoo,2002,leganza,2.2l+l4,1384545", "payload": {"nodetype": "carcode", "ctx": {"make": "DAEWOO", "year": 2002, "model": "LEGANZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/daewoo,2000,lanos,1.5l+l4,1438558", "payload": {"nodetype": "carcode", "ctx": {"make": "DAEWOO", "year": 2000, "model": "LANOS"}}}
+{"node_type": "carcode", "href": "/en/catalog/daewoo,2002,nubira,2.0l+l4,1384556", "payload": {"nodetype": "carcode", "ctx": {"make": "DAEWOO", "year": 2002, "model": "NUBIRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/daewoo,2002,lanos,1.5l+l4,1438556", "payload": {"nodetype": "carcode", "ctx": {"make": "DAEWOO", "year": 2002, "model": "LANOS"}}}
+{"node_type": "carcode", "href": "/en/catalog/daewoo,2000,leganza,2.2l+l4,1361719", "payload": {"nodetype": "carcode", "ctx": {"make": "DAEWOO", "year": 2000, "model": "LEGANZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/daewoo,2002,lanos,1.6l+l4,1432654", "payload": {"nodetype": "carcode", "ctx": {"make": "DAEWOO", "year": 2002, "model": "LANOS"}}}

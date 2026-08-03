@@ -1,2 +1,4 @@
 {"node_type": "model", "href": "/en/catalog/simca,1970,1204", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1970, "model": "1204"}}}
 {"node_type": "model", "href": "/en/catalog/simca,1970,1118", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1970, "model": "1118"}}}
+{"node_type": "carcode", "href": "/en/catalog/simca,1971,1204,1.2l+l4,1439019", "payload": {"nodetype": "carcode", "ctx": {"make": "SIMCA", "year": 1971, "model": "1204"}}}
+{"node_type": "carcode", "href": "/en/catalog/simca,1971,1118,1.1l+l4,1497746", "payload": {"nodetype": "carcode", "ctx": {"make": "SIMCA", "year": 1971, "model": "1118"}}}

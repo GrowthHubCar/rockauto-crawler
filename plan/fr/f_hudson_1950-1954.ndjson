@@ -16,3 +16,11 @@
 {"node_type": "model", "href": "/en/catalog/hudson,1954,jet", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1954, "model": "JET"}}}
 {"node_type": "model", "href": "/en/catalog/hudson,1954,jetliner", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1954, "model": "JETLINER"}}}
 {"node_type": "model", "href": "/en/catalog/hudson,1954,italia", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1954, "model": "ITALIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hudson,1954,hornet,5.0l+308cid+l6,1435676", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1954, "model": "HORNET"}}}
+{"node_type": "carcode", "href": "/en/catalog/hudson,1951,hornet,5.0l+308cid+l6,1435679", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1951, "model": "HORNET"}}}
+{"node_type": "carcode", "href": "/en/catalog/hudson,1951,super+custom,4.3l+262cid+l6,1435608", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1951, "model": "SUPER CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/hudson,1950,pacemaker,3.8l+232cid+l6,1435547", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1950, "model": "PACEMAKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/hudson,1952,wasp,4.3l+262cid+l6,1435604", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1952, "model": "WASP"}}}
+{"node_type": "carcode", "href": "/en/catalog/hudson,1950,super+series,4.3l+262cid+l6,1435607", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1950, "model": "SUPER SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/hudson,1954,wasp,4.3l+262cid+l6,1487850", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1954, "model": "WASP"}}}
+{"node_type": "carcode", "href": "/en/catalog/hudson,1953,super+jet,3.3l+202cid+l6,1435484", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1953, "model": "SUPER JET"}}}

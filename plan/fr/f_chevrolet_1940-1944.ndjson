@@ -3,3 +3,19 @@
 {"node_type": "model", "href": "/en/catalog/chevrolet,1942,master+deluxe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1942, "model": "MASTER DELUXE"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1940,master+85", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1940, "model": "MASTER 85"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1940,kp", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1940, "model": "KP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1940,special+deluxe,3.5l+217cid+l6,124044", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1940, "model": "SPECIAL DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1941,fleetmaster,3.5l+217cid+l6,1486093", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1941, "model": "FLEETMASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1944,truck,3.5l+217cid+l6,1486355", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1944, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1941,fleetline,3.5l+217cid+l6,123975", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1941, "model": "FLEETLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1942,special+deluxe,3.5l+217cid+l6,1486211", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1942, "model": "SPECIAL DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1942,truck,3.5l+217cid+l6,1486212", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1942, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1941,truck,3.5l+217cid+l6,953013", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1941, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1941,truck,3.8l+235cid+l6,124067", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1941, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1940,truck,3.8l+235cid+l6,1485995", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1940, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1942,fleetline,3.5l+217cid+l6,1486207", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1942, "model": "FLEETLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1944,truck,3.8l+235cid+l6,1486356", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1944, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1942,truck,3.8l+235cid+l6,1486213", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1942, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1941,special+deluxe,3.5l+217cid+l6,124045", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1941, "model": "SPECIAL DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1942,fleetmaster,3.5l+217cid+l6,1486208", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1942, "model": "FLEETMASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1940,truck,3.5l+217cid+l6,952963", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1940, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1940,master+deluxe,3.5l+217cid+l6,123999", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1940, "model": "MASTER DELUXE"}}}

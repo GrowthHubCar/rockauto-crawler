@@ -6,3 +6,5 @@
 {"node_type": "model", "href": "/en/catalog/ford,1917,model+tt", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1917, "model": "MODEL TT"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1918,model+tt", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1918, "model": "MODEL TT"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1919,model+tt", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1919, "model": "MODEL TT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1919,model+t,2.9l+177cid+l4,951988", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1919, "model": "MODEL T"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1916,model+t,2.9l+177cid+l4,951948", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1916, "model": "MODEL T"}}}

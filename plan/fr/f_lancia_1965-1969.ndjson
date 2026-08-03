@@ -7,3 +7,15 @@
 {"node_type": "model", "href": "/en/catalog/lancia,1965,fulvia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1965, "model": "FULVIA"}}}
 {"node_type": "model", "href": "/en/catalog/lancia,1967,fulvia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1967, "model": "FULVIA"}}}
 {"node_type": "model", "href": "/en/catalog/lancia,1969,fulvia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1969, "model": "FULVIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lancia,1967,fulvia,1.3l+v4,1436820", "payload": {"nodetype": "carcode", "ctx": {"make": "LANCIA", "year": 1967, "model": "FULVIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lancia,1966,flaminia,2.8l+v6,1436951", "payload": {"nodetype": "carcode", "ctx": {"make": "LANCIA", "year": 1966, "model": "FLAMINIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lancia,1968,flavia,1.8l+h4,1436866", "payload": {"nodetype": "carcode", "ctx": {"make": "LANCIA", "year": 1968, "model": "FLAVIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lancia,1969,fulvia,1.6l+v4,1436834", "payload": {"nodetype": "carcode", "ctx": {"make": "LANCIA", "year": 1969, "model": "FULVIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lancia,1966,fulvia,1.2l+v4,1436788", "payload": {"nodetype": "carcode", "ctx": {"make": "LANCIA", "year": 1966, "model": "FULVIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lancia,1968,flaminia,2.8l+v6,1436949", "payload": {"nodetype": "carcode", "ctx": {"make": "LANCIA", "year": 1968, "model": "FLAMINIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lancia,1966,flavia,1.8l+h4,1436868", "payload": {"nodetype": "carcode", "ctx": {"make": "LANCIA", "year": 1966, "model": "FLAVIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lancia,1966,fulvia,1.1l+v4,1436785", "payload": {"nodetype": "carcode", "ctx": {"make": "LANCIA", "year": 1966, "model": "FULVIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lancia,1966,flaminia,2.5l+v6,1493259", "payload": {"nodetype": "carcode", "ctx": {"make": "LANCIA", "year": 1966, "model": "FLAMINIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lancia,1968,fulvia,1.3l+v4,1436819", "payload": {"nodetype": "carcode", "ctx": {"make": "LANCIA", "year": 1968, "model": "FULVIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lancia,1968,flaminia,2.5l+v6,1436926", "payload": {"nodetype": "carcode", "ctx": {"make": "LANCIA", "year": 1968, "model": "FLAMINIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lancia,1968,fulvia,1.1l+v4,1436783", "payload": {"nodetype": "carcode", "ctx": {"make": "LANCIA", "year": 1968, "model": "FULVIA"}}}

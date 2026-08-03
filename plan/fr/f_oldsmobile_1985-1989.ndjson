@@ -40,3 +40,25 @@
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1985,calais", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1985, "model": "CALAIS"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1986,calais", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1986, "model": "CALAIS"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1987,calais", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1987, "model": "CALAIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1988,cutlass+cruiser,3.8l+231cid+v6,1220623", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1988, "model": "CUTLASS CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1985,delta+88,5.7l+350cid+v8+diesel,1215098", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1985, "model": "DELTA 88"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1989,cutlass+supreme,3.1l+189cid+v6,1223053", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1989, "model": "CUTLASS SUPREME"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1985,cutlass+supreme,3.8l+231cid+v6,1222816", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1985, "model": "CUTLASS SUPREME"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1986,cutlass+supreme,5.0l+305cid+v8,1222894", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1986, "model": "CUTLASS SUPREME"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1985,firenza,2.8l+173cid+v6,1224010", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1985, "model": "FIRENZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1988,cutlass+supreme,5.0l+307cid+v8,1223008", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1988, "model": "CUTLASS SUPREME"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1986,cutlass+supreme,5.0l+307cid+v8,1222906", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1986, "model": "CUTLASS SUPREME"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1986,98,3.8l+231cid+v6,1216246", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1986, "model": "98"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1985,toronado,5.7l+350cid+v8+diesel,1226023", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1985, "model": "TORONADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1988,cutlass+calais,3.0l+181cid+v6,1219294", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1988, "model": "CUTLASS CALAIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1988,cutlass+supreme,2.8l+173cid+v6,1222995", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1988, "model": "CUTLASS SUPREME"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1985,delta+88,3.8l+231cid+v6,1215076", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1985, "model": "DELTA 88"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1989,cutlass+supreme,2.8l+173cid+v6,1223042", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1989, "model": "CUTLASS SUPREME"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1988,cutlass+calais,2.3l+138cid+l4,1219272", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1988, "model": "CUTLASS CALAIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1989,toronado,3.8l+231cid+v6,1226078", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1989, "model": "TORONADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1989,cutlass+ciera,2.8l+173cid+v6,1220713", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1989, "model": "CUTLASS CIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1987,cutlass+cruiser,3.8l+231cid+v6,1220476", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1987, "model": "CUTLASS CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1987,cutlass+salon,3.8l+231cid+v6,1218844", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1987, "model": "CUTLASS SALON"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1986,calais,3.0l+181cid+v6,1217102", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1986, "model": "CALAIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1986,cutlass+ciera,2.5l+151cid+l4,1220230", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1986, "model": "CUTLASS CIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1989,cutlass+ciera,2.5l+151cid+l4,1220702", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1989, "model": "CUTLASS CIERA"}}}

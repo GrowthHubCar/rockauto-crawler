@@ -1,2 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/essex,1928,super+six", "payload": {"nodetype": "model", "ctx": {"make": "ESSEX", "year": 1928, "model": "SUPER SIX"}}}
 {"node_type": "model", "href": "/en/catalog/essex,1929,challenger", "payload": {"nodetype": "model", "ctx": {"make": "ESSEX", "year": 1929, "model": "CHALLENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/essex,1927,super+six,l6,2001416", "payload": {"nodetype": "carcode", "ctx": {"make": "ESSEX", "year": 1927, "model": "SUPER SIX"}}}

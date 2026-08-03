@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2019,rvr", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2019, "model": "RVR"}}}
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2019,l200", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2019, "model": "L200"}}}
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2019,montero", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2019, "model": "MONTERO"}}}
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2019,outlander", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2019, "model": "OUTLANDER"}}}
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2019,montero+sport", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2019, "model": "MONTERO SPORT"}}}
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2019,outlander+sport", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2019, "model": "OUTLANDER SPORT"}}}
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2019,mirage+g4", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2019, "model": "MIRAGE G4"}}}
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2019,mirage", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2019, "model": "MIRAGE"}}}

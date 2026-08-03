@@ -3,3 +3,7 @@
 {"node_type": "model", "href": "/en/catalog/ud,1989,2300", "payload": {"nodetype": "model", "ctx": {"make": "UD", "year": 1989, "model": "2300"}}}
 {"node_type": "model", "href": "/en/catalog/ud,1989,2000", "payload": {"nodetype": "model", "ctx": {"make": "UD", "year": 1989, "model": "2000"}}}
 {"node_type": "model", "href": "/en/catalog/ud,1989,1800", "payload": {"nodetype": "model", "ctx": {"make": "UD", "year": 1989, "model": "1800"}}}
+{"node_type": "carcode", "href": "/en/catalog/ud,1989,1100,3.5l+l4+diesel+turbocharged,3297530", "payload": {"nodetype": "carcode", "ctx": {"make": "UD", "year": 1989, "model": "1100"}}}
+{"node_type": "carcode", "href": "/en/catalog/ud,1989,550t,7.4l+l6+diesel+turbocharged,3297532", "payload": {"nodetype": "carcode", "ctx": {"make": "UD", "year": 1989, "model": "550T"}}}
+{"node_type": "carcode", "href": "/en/catalog/ud,1989,2600,6.9l+l6+diesel+turbocharged,3294569", "payload": {"nodetype": "carcode", "ctx": {"make": "UD", "year": 1989, "model": "2600"}}}
+{"node_type": "carcode", "href": "/en/catalog/ud,1989,2800,6.9l+l6+diesel+turbocharged,3295869", "payload": {"nodetype": "carcode", "ctx": {"make": "UD", "year": 1989, "model": "2800"}}}

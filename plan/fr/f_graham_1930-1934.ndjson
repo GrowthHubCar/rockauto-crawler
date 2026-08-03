@@ -18,3 +18,6 @@
 {"node_type": "model", "href": "/en/catalog/graham,1934,model+69", "payload": {"nodetype": "model", "ctx": {"make": "GRAHAM", "year": 1934, "model": "MODEL 69"}}}
 {"node_type": "model", "href": "/en/catalog/graham,1934,model+68", "payload": {"nodetype": "model", "ctx": {"make": "GRAHAM", "year": 1934, "model": "MODEL 68"}}}
 {"node_type": "model", "href": "/en/catalog/graham,1934,model+67", "payload": {"nodetype": "model", "ctx": {"make": "GRAHAM", "year": 1934, "model": "MODEL 67"}}}
+{"node_type": "carcode", "href": "/en/catalog/graham,1931,standard,all+engines,2001841", "payload": {"nodetype": "carcode", "ctx": {"make": "GRAHAM", "year": 1931, "model": "STANDARD"}}}
+{"node_type": "carcode", "href": "/en/catalog/graham,1932,standard,all+engines,2001918", "payload": {"nodetype": "carcode", "ctx": {"make": "GRAHAM", "year": 1932, "model": "STANDARD"}}}
+{"node_type": "carcode", "href": "/en/catalog/graham,1930,standard,all+engines,2001733", "payload": {"nodetype": "carcode", "ctx": {"make": "GRAHAM", "year": 1930, "model": "STANDARD"}}}

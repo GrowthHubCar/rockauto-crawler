@@ -1,2 +1,6 @@
 {"node_type": "model", "href": "/en/catalog/lasalle,1935,series+50", "payload": {"nodetype": "model", "ctx": {"make": "LASALLE", "year": 1935, "model": "SERIES 50"}}}
 {"node_type": "model", "href": "/en/catalog/lasalle,1936,series+50", "payload": {"nodetype": "model", "ctx": {"make": "LASALLE", "year": 1936, "model": "SERIES 50"}}}
+{"node_type": "carcode", "href": "/en/catalog/lasalle,1937,series+50,5.3l+322cid+v8,952850", "payload": {"nodetype": "carcode", "ctx": {"make": "LASALLE", "year": 1937, "model": "SERIES 50"}}}
+{"node_type": "carcode", "href": "/en/catalog/lasalle,1935,series+50,4.1l+248cid+l8,952748", "payload": {"nodetype": "carcode", "ctx": {"make": "LASALLE", "year": 1935, "model": "SERIES 50"}}}
+{"node_type": "carcode", "href": "/en/catalog/lasalle,1939,series+50,5.3l+322cid+v8,952941", "payload": {"nodetype": "carcode", "ctx": {"make": "LASALLE", "year": 1939, "model": "SERIES 50"}}}
+{"node_type": "carcode", "href": "/en/catalog/lasalle,1938,series+50,5.3l+322cid+v8,952894", "payload": {"nodetype": "carcode", "ctx": {"make": "LASALLE", "year": 1938, "model": "SERIES 50"}}}

@@ -1,1 +1,8 @@
 {"node_type": "model", "href": "/en/catalog/kenworth,1989,13-210", "payload": {"nodetype": "model", "ctx": {"make": "KENWORTH", "year": 1989, "model": "13-210"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1989,22-210,8.3l+l6+diesel+turbocharged,3295711", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1989, "model": "22-210"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1987,k130,8.3l+l6+diesel+turbocharged,3296576", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1987, "model": "K130"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1989,k220,8.3l+l6+diesel+turbocharged,3295039", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1989, "model": "K220"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1988,k130,8.3l+l6+diesel+turbocharged,3296577", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1988, "model": "K130"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1988,13-210,8.3l+l6+diesel+turbocharged,3295941", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1988, "model": "13-210"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1989,k130,8.3l+l6+diesel+turbocharged,3295032", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1989, "model": "K130"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1988,k220,8.3l+l6+diesel+turbocharged,3296260", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1988, "model": "K220"}}}

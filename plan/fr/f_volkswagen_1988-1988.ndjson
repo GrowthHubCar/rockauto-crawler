@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,1988,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1988, "model": "TRANSPORTER"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1988,corsar", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1988, "model": "CORSAR"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1988,combi", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1988, "model": "COMBI"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1988,panel", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1988, "model": "PANEL"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1988,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1988, "model": "JETTA"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1988,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1988, "model": "GOLF"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1988,quantum", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1988, "model": "QUANTUM"}}}

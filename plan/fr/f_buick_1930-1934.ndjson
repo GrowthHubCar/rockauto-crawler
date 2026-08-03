@@ -12,3 +12,10 @@
 {"node_type": "model", "href": "/en/catalog/buick,1932,series+80", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1932, "model": "SERIES 80"}}}
 {"node_type": "model", "href": "/en/catalog/buick,1933,series+80", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1933, "model": "SERIES 80"}}}
 {"node_type": "model", "href": "/en/catalog/buick,1933,series+90", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1933, "model": "SERIES 90"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1934,series+90,5.6l+345cid+l8,952639", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1934, "model": "SERIES 90"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1933,series+60,4.5l+273cid+l8,952559", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1933, "model": "SERIES 60"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1930,series+40,4.2l+257cid+l6,3309904", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1930, "model": "SERIES 40"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1931,series+90,5.6l+345cid+l8,952406", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1931, "model": "SERIES 90"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1934,series+40,3.8l+233cid+l8,952636", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1934, "model": "SERIES 40"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1932,series+90,5.6l+345cid+l8,952478", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1932, "model": "SERIES 90"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1933,series+50,3.8l+230cid+l8,952558", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1933, "model": "SERIES 50"}}}

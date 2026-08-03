@@ -1,3 +1,4 @@
 {"node_type": "model", "href": "/en/catalog/mclaren,2013,mp4-12c", "payload": {"nodetype": "model", "ctx": {"make": "MCLAREN", "year": 2013, "model": "MP4-12C"}}}
 {"node_type": "model", "href": "/en/catalog/mclaren,2014,mp4-12c", "payload": {"nodetype": "model", "ctx": {"make": "MCLAREN", "year": 2014, "model": "MP4-12C"}}}
 {"node_type": "model", "href": "/en/catalog/mclaren,2014,p1", "payload": {"nodetype": "model", "ctx": {"make": "MCLAREN", "year": 2014, "model": "P1"}}}
+{"node_type": "carcode", "href": "/en/catalog/mclaren,2012,mp4-12c,3.8l+v8+turbocharged,1503884", "payload": {"nodetype": "carcode", "ctx": {"make": "MCLAREN", "year": 2012, "model": "MP4-12C"}}}

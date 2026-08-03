@@ -8,3 +8,73 @@
 {"node_type": "model", "href": "/en/catalog/hyundai,2011,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "ELANTRA"}}}
 {"node_type": "model", "href": "/en/catalog/hyundai,2014,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "ELANTRA"}}}
 {"node_type": "model", "href": "/en/catalog/hyundai,2014,genesis+coupe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "GENESIS COUPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2012,elantra,1.8l+l4,1501995", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2014,sonata,2.4l+l4+electric/gas,3307602", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2014,equus,5.0l+v8,3300388", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "EQUUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2011,santa+fe,2.4l+l4,1447529", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2012,santa+fe,3.5l+v6,1502567", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2010,genesis,3.8l+v6,1445654", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2010, "model": "GENESIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2013,genesis+coupe,3.8l+v6,1503914", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "GENESIS COUPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2013,equus,5.0l+v8,1504670", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "EQUUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2011,sonata,2.4l+l4,1446207", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2014,santa+fe,2.0l+l4+turbocharged,3300345", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2013,elantra,1.8l+l4,1503917", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2013,genesis,5.0l+v8,1505939", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "GENESIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2011,veracruz,3.8l+v6,1447258", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "VERACRUZ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2011,sonata,2.0l+l4+turbocharged,1500962", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2010,genesis+coupe,2.0l+l4+turbocharged,1444335", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2010, "model": "GENESIS COUPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2011,tucson,2.4l+l4,1447112", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2012,genesis,3.8l+v6,1501641", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "GENESIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2011,azera,3.8l+v6,1446396", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "AZERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2011,tucson,2.0l+l4,1447117", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2012,azera,3.3l+v6,1503907", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "AZERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2011,genesis,4.6l+v8,1447116", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "GENESIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2010,veracruz,3.8l+v6,1444977", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2010, "model": "VERACRUZ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2013,tucson,2.0l+l4,1504677", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2012,accent,1.6l+l4,1501643", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2012,veracruz,3.8l+v6,1502992", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "VERACRUZ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2012,tucson,2.0l+l4,1502202", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2011,sonata,2.4l+l4+electric/gas,1500964", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2012,genesis+coupe,3.8l+v6,1502789", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "GENESIS COUPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2010,accent,1.6l+l4,1444682", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2010, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2010,elantra,2.0l+l4,1444686", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2010, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2013,sonata,2.4l+l4+electric/gas,1505559", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2010,sonata,3.3l+v6,1444974", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2010, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2013,genesis+coupe,2.0l+l4+turbocharged,1503908", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "GENESIS COUPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2013,elantra+gt,1.8l+l4,3449605", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "ELANTRA GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2010,genesis+coupe,3.8l+v6,1444338", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2010, "model": "GENESIS COUPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2013,sonata,2.0l+l4+turbocharged,1504673", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2011,santa+fe,3.5l+v6,1447528", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2011,equus,4.6l+v8,1447118", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "EQUUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2013,sonata,2.4l+l4,1504672", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2012,sonata,2.4l+l4,1502000", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2013,santa+fe,3.3l+v6,3294221", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2012,elantra,2.0l+l4,1502866", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2012,tucson,2.4l+l4,1502204", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2011,azera,3.3l+v6,1446395", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "AZERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2014,veloster,1.6l+l4,3300347", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "VELOSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2010,sonata,2.4l+l4,1444971", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2010, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2012,equus,5.0l+v8,1501638", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "EQUUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2012,santa+fe,2.4l+l4,1502568", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2012,sonata,2.4l+l4+electric/gas,1504297", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2013,veloster,1.6l+l4+turbocharged,3000989", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "VELOSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2013,genesis,3.8l+v6,1505938", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "GENESIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2010,genesis,4.6l+v8,1445655", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2010, "model": "GENESIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2012,sonata,2.0l+l4+turbocharged,1501999", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2010,tucson,2.4l+l4,1445660", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2010, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2012,veloster,1.6l+l4,1502868", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "VELOSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2010,entourage,3.8l+v6,1504314", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2010, "model": "ENTOURAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2013,santa+fe,2.4l+l4,3015778", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2013,tucson,2.4l+l4,1504678", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2012,genesis+coupe,2.0l+l4+turbocharged,1502561", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "GENESIS COUPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2012,genesis,4.6l+v8,1501635", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "GENESIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2010,santa+fe,3.5l+v6,1446021", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2010, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2011,genesis+coupe,2.0l+l4+turbocharged,1447119", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "GENESIS COUPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2010,santa+fe,2.4l+l4,1446022", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2010, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2013,santa+fe,2.0l+l4+turbocharged,3015501", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2014,veloster,1.6l+l4+turbocharged,3300440", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "VELOSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2014,accent,1.6l+l4,3300415", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2012,genesis,5.0l+v8,1501640", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "GENESIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2013,veloster,1.6l+l4,3000988", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "VELOSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2011,genesis+coupe,3.8l+v6,1447122", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "GENESIS COUPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2013,azera,3.3l+v6,1505453", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "AZERA"}}}

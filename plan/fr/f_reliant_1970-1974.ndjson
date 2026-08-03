@@ -1,2 +1,9 @@
 {"node_type": "model", "href": "/en/catalog/reliant,1971,scimitar", "payload": {"nodetype": "model", "ctx": {"make": "RELIANT", "year": 1971, "model": "SCIMITAR"}}}
 {"node_type": "model", "href": "/en/catalog/reliant,1972,scimitar", "payload": {"nodetype": "model", "ctx": {"make": "RELIANT", "year": 1972, "model": "SCIMITAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/reliant,1973,scimitar,3.0l+v6,1439668", "payload": {"nodetype": "carcode", "ctx": {"make": "RELIANT", "year": 1973, "model": "SCIMITAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/reliant,1970,scimitar,2.8l+v6,1439599", "payload": {"nodetype": "carcode", "ctx": {"make": "RELIANT", "year": 1970, "model": "SCIMITAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/reliant,1974,scimitar,2.8l+v6,1439594", "payload": {"nodetype": "carcode", "ctx": {"make": "RELIANT", "year": 1974, "model": "SCIMITAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/reliant,1970,scimitar,2.5l+v6,1439538", "payload": {"nodetype": "carcode", "ctx": {"make": "RELIANT", "year": 1970, "model": "SCIMITAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/reliant,1974,scimitar,3.0l+v6,1439667", "payload": {"nodetype": "carcode", "ctx": {"make": "RELIANT", "year": 1974, "model": "SCIMITAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/reliant,1970,scimitar,3.0l+v6,1439672", "payload": {"nodetype": "carcode", "ctx": {"make": "RELIANT", "year": 1970, "model": "SCIMITAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/reliant,1973,scimitar,2.8l+v6,1439595", "payload": {"nodetype": "carcode", "ctx": {"make": "RELIANT", "year": 1973, "model": "SCIMITAR"}}}

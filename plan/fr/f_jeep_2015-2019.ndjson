@@ -1,2 +1,70 @@
 {"node_type": "model", "href": "/en/catalog/jeep,2017,grand+cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2017, "model": "GRAND CHEROKEE"}}}
 {"node_type": "model", "href": "/en/catalog/jeep,2015,cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2015, "model": "CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2015,grand+cherokee,6.4l+v8,3309743", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2015, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2015,wrangler,3.6l+v6,3309817", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2015, "model": "WRANGLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2018,wrangler,2.0l+l4+turbocharged,3442238", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2018, "model": "WRANGLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2019,wrangler,3.6l+v6,3443725", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2019, "model": "WRANGLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2019,renegade,2.4l+l4,3443723", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2019, "model": "RENEGADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2016,grand+cherokee,3.6l+v6,3359747", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2016, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2016,grand+cherokee,5.7l+v8,3359745", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2016, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2016,cherokee,3.2l+v6,3353582", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2016, "model": "CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2017,grand+cherokee,3.6l+v6,3435257", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2017, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2018,wrangler,3.6l+v6,3441645", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2018, "model": "WRANGLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2016,renegade,2.4l+l4+sohc,3359750", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2016, "model": "RENEGADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2019,renegade,1.8l+l4,3443721", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2019, "model": "RENEGADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2015,patriot,2.4l+l4,3309745", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2015, "model": "PATRIOT"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2018,grand+cherokee,6.4l+v8,3440038", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2018, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2017,grand+cherokee,6.4l+v8,3435258", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2017, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2016,patriot,2.4l+l4,3342435", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2016, "model": "PATRIOT"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2016,renegade,2.4l+l4+dohc,3353584", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2016, "model": "RENEGADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2017,renegade,2.4l+l4,3435262", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2017, "model": "RENEGADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2016,renegade,1.4l+l4+turbocharged,3353583", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2016, "model": "RENEGADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2019,cherokee,3.2l+v6,3442236", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2019, "model": "CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2017,compass,2.0l+l4,3435253", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2017, "model": "COMPASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2018,grand+cherokee,3.6l+v6,3440037", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2018, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2018,grand+cherokee,3.0l+v6+diesel+turbocharged,3441942", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2018, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2017,renegade,1.4l+l4+turbocharged,3435261", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2017, "model": "RENEGADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2016,cherokee,2.4l+l4,3353581", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2016, "model": "CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2015,renegade,1.4l+l4+turbocharged,3310299", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2015, "model": "RENEGADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2017,grand+cherokee,3.0l+v6+diesel+turbocharged,3435256", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2017, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2019,renegade,1.3l+l4+turbocharged,3443722", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2019, "model": "RENEGADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2016,wrangler,3.6l+v6,3353585", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2016, "model": "WRANGLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2016,grand+cherokee,6.4l+v8,3359748", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2016, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2016,patriot,2.0l+l4,3342434", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2016, "model": "PATRIOT"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2018,grand+cherokee,5.7l+v8,3441330", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2018, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2019,cherokee,2.4l+l4,3442235", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2019, "model": "CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2019,compass,2.4l+l4,3442827", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2019, "model": "COMPASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2018,grand+cherokee,6.2l+v8+supercharged,3441943", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2018, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2019,grand+cherokee,3.0l+v6+diesel+turbocharged,3446678", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2019, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2017,compass,2.4l+l4+sohc,3440034", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2017, "model": "COMPASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2018,cherokee,3.2l+v6,3440025", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2018, "model": "CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2015,grand+cherokee,5.7l+v8,3309740", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2015, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2018,renegade,1.4l+l4+turbocharged,3441332", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2018, "model": "RENEGADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2019,grand+cherokee,3.6l+v6,3443442", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2019, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2015,compass,2.0l+l4,3309815", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2015, "model": "COMPASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2015,renegade,2.4l+l4,3359749", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2015, "model": "RENEGADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2019,grand+cherokee,6.2l+v8+supercharged,3443443", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2019, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2018,renegade,1.8l+l4,3441644", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2018, "model": "RENEGADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2017,renegade,1.8l+l4,3440049", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2017, "model": "RENEGADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2019,wrangler,2.0l+l4+turbocharged,3450763", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2019, "model": "WRANGLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2017,cherokee,2.4l+l4,3435251", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2017, "model": "CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2019,grand+cherokee,5.7l+v8,3443440", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2019, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2017,wrangler,3.6l+v6,3436872", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2017, "model": "WRANGLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2015,cherokee,2.4l+l4,3308798", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2015, "model": "CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2017,patriot,2.0l+l4,3435259", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2017, "model": "PATRIOT"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2018,compass,2.4l+l4,3441329", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2018, "model": "COMPASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2015,grand+cherokee,3.6l+v6,3309742", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2015, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2017,cherokee,3.2l+v6,3435252", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2017, "model": "CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2017,compass,2.4l+l4+dohc,3435254", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2017, "model": "COMPASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2017,patriot,2.4l+l4,3435260", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2017, "model": "PATRIOT"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2016,compass,2.4l+l4,3342433", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2016, "model": "COMPASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2015,patriot,2.0l+l4,3309744", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2015, "model": "PATRIOT"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2018,renegade,2.4l+l4,3441333", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2018, "model": "RENEGADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2015,grand+cherokee,3.0l+v6+diesel+turbocharged,3309741", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2015, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2018,cherokee,2.4l+l4,3440024", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2018, "model": "CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2016,compass,2.0l+l4,3342432", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2016, "model": "COMPASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2015,compass,2.4l+l4,3309816", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2015, "model": "COMPASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2018,wrangler+jk,3.6l+v6,3441944", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2018, "model": "WRANGLER JK"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2019,cherokee,2.0l+l4+turbocharged,3442234", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2019, "model": "CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2016,grand+cherokee,3.0l+v6+diesel+turbocharged,3359746", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2016, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2019,grand+cherokee,6.4l+v8,3443444", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2019, "model": "GRAND CHEROKEE"}}}

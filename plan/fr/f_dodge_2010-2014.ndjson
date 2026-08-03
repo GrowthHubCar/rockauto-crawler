@@ -4,3 +4,98 @@
 {"node_type": "model", "href": "/en/catalog/dodge,2014,challenger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2014, "model": "CHALLENGER"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,2010,caliber", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2010, "model": "CALIBER"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,2011,avenger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2011, "model": "AVENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2013,charger,3.6l+v6,1505052", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2013, "model": "CHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,grand+caravan,3.8l+v6,1445010", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "GRAND CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,challenger,3.6l+v6,1502177", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "CHALLENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,h100,2.5l+l4+diesel+turbocharged,2002732", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "H100"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2014,attitude,1.4l+l4,3305716", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2014, "model": "ATTITUDE"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2011,challenger,3.6l+v6,1447819", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2011, "model": "CHALLENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,dakota,4.7l+v8,1445487", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "DAKOTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2013,dart,2.0l+l4,1504426", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2013, "model": "DART"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,charger,5.7l+v8,1502178", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "CHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,viper,8.4l+v10,1445014", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "VIPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2011,journey,3.6l+v6,3015205", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2011, "model": "JOURNEY"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2014,journey,3.6l+v6,3300354", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2014, "model": "JOURNEY"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2011,grand+caravan,3.6l+v6,1504648", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2011, "model": "GRAND CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2011,challenger,6.4l+v8,1447820", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2011, "model": "CHALLENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,charger,2.7l+v6,1444641", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "CHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,journey,2.4l+l4,1502335", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "JOURNEY"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,ram+4000,5.7l+v8,3043567", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "RAM 4000"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,caliber,2.0l+l4,1502172", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "CALIBER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2013,journey,3.6l+v6,1505070", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2013, "model": "JOURNEY"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,nitro,3.7l+v6,3015213", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "NITRO"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2013,attitude,1.4l+l4,3015570", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2013, "model": "ATTITUDE"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,ram+4000,6.7l+l6+diesel+turbocharged,3450578", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "RAM 4000"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2011,charger,3.6l+v6,1504635", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2011, "model": "CHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,h100,2.5l+l4+diesel+turbocharged,3015211", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "H100"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,charger,3.6l+v6,1504640", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "CHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,atos,1.1l+l4,2002730", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "ATOS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,nitro,4.0l+v6,1445012", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "NITRO"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,i10,1.1l+l4,3015212", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "I10"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2014,dart,2.4l+l4,3306003", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2014, "model": "DART"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2014,journey,2.4l+l4,3038628", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2014, "model": "JOURNEY"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2013,dart,2.4l+l4,1504436", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2013, "model": "DART"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2013,charger,6.4l+v8,1505053", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2013, "model": "CHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2011,durango,3.6l+v6,1447822", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2011, "model": "DURANGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2013,avenger,3.6l+v6,1505036", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2013, "model": "AVENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2014,challenger,6.4l+v8,3305720", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2014, "model": "CHALLENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,attitude,1.4l+l4,3015207", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "ATTITUDE"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2014,charger,6.4l+v8,3305723", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2014, "model": "CHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2011,durango,5.7l+v8,1447826", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2011, "model": "DURANGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,journey,3.6l+v6,3015568", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "JOURNEY"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,charger,6.1l+v8,1444642", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "CHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2013,charger,5.7l+v8,1505047", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2013, "model": "CHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2011,nitro,3.7l+v6,1447243", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2011, "model": "NITRO"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,h100,2.4l+l4,3015210", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "H100"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2014,dart,1.4l+l4+turbocharged,3306001", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2014, "model": "DART"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,challenger,6.1l+v8,1444634", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "CHALLENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2011,journey,2.4l+l4,1447563", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2011, "model": "JOURNEY"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,journey,2.4l+l4,1444631", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "JOURNEY"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,ram+3500+pickup,6.7l+l6+diesel+turbocharged,1445040", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "RAM 3500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,charger,3.5l+v6,1444639", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "CHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2014,dart,2.0l+l4,3306002", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2014, "model": "DART"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,attitude,1.6l+l4,3015206", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "ATTITUDE"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,challenger,6.4l+v8,1502176", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "CHALLENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2011,h100+van,2.5l+l4+diesel+turbocharged,3444696", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2011, "model": "H100 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,challenger,5.7l+v8,1444637", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "CHALLENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,caliber,2.4l+l4,3015208", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "CALIBER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2011,challenger,5.7l+v8,1447812", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2011, "model": "CHALLENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,ram+2500+pickup,6.7l+l6+diesel+turbocharged,1445029", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "RAM 2500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2014,grand+caravan,3.6l+v6,3300338", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2014, "model": "GRAND CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,nitro,3.7l+v6,1445011", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "NITRO"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,charger,5.7l+v8,1444638", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "CHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2013,journey,2.4l+l4,1505072", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2013, "model": "JOURNEY"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2013,durango,5.7l+v8,1505056", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2013, "model": "DURANGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,charger,6.4l+v8,1502199", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "CHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2014,durango,3.6l+v6,3300339", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2014, "model": "DURANGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,durango,3.6l+v6,3015209", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "DURANGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2013,challenger,3.6l+v6,1505046", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2013, "model": "CHALLENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,challenger,5.7l+v8,1502174", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "CHALLENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,ram+2500+pickup,5.7l+v8,1445030", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "RAM 2500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2011,nitro,4.0l+v6,1447231", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2011, "model": "NITRO"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,avenger,2.4l+l4,1502168", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "AVENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2013,avenger,2.4l+l4,1505040", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2013, "model": "AVENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2011,charger,5.7l+v8,1447815", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2011, "model": "CHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,ram+4500,6.7l+l6+diesel+turbocharged,1503270", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "RAM 4500"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,durango,5.7l+v8,1502186", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "DURANGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2014,charger,5.7l+v8,3305721", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2014, "model": "CHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2013,dart,1.4l+l4+turbocharged,1504427", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2013, "model": "DART"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,avenger,3.5l+v6,1444994", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "AVENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2014,durango,5.7l+v8,3300382", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2014, "model": "DURANGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,avenger,3.6l+v6,1502169", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "AVENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2014,i10,1.1l+l4,3305724", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2014, "model": "I10"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2013,durango,3.6l+v6,1505057", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2013, "model": "DURANGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,ram+1500+pickup,5.7l+v8,1445018", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "RAM 1500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,journey,3.5l+v6,1444632", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "JOURNEY"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2013,grand+caravan,3.6l+v6,1505069", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2013, "model": "GRAND CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,grand+caravan,3.6l+v6,1504655", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "GRAND CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2012,atos,1.1l+l4,3015567", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2012, "model": "ATOS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2013,challenger,5.7l+v8,1505043", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2013, "model": "CHALLENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,ram+1500+pickup,4.7l+v8,2002733", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "RAM 1500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,ram+1500+pickup,3.7l+v6,1445022", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "RAM 1500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,avenger,2.0l+l4,3048263", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "AVENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2013,attitude,1.6l+l4,3015569", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2013, "model": "ATTITUDE"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,challenger,3.5l+v6,1444635", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "CHALLENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,caliber,2.4l+l4,1445001", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "CALIBER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,ram+5500,6.7l+l6+diesel+turbocharged,1503450", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "RAM 5500"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2013,challenger,6.4l+v8,1505045", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2013, "model": "CHALLENGER"}}}

@@ -1,0 +1,6 @@
+{"node_type": "carcode", "href": "/en/catalog/yugo,1991,cabrio,1.3l+l4,1360471", "payload": {"nodetype": "carcode", "ctx": {"make": "YUGO", "year": 1991, "model": "CABRIO"}}}
+{"node_type": "carcode", "href": "/en/catalog/yugo,1990,cabrio,1.3l+l4,1430511", "payload": {"nodetype": "carcode", "ctx": {"make": "YUGO", "year": 1990, "model": "CABRIO"}}}
+{"node_type": "carcode", "href": "/en/catalog/yugo,1992,cabrio,1.3l+l4,1438491", "payload": {"nodetype": "carcode", "ctx": {"make": "YUGO", "year": 1992, "model": "CABRIO"}}}
+{"node_type": "carcode", "href": "/en/catalog/yugo,1990,gv,1.3l+l4,1430512", "payload": {"nodetype": "carcode", "ctx": {"make": "YUGO", "year": 1990, "model": "GV"}}}
+{"node_type": "carcode", "href": "/en/catalog/yugo,1991,gv,1.3l+l4,1289336", "payload": {"nodetype": "carcode", "ctx": {"make": "YUGO", "year": 1991, "model": "GV"}}}
+{"node_type": "carcode", "href": "/en/catalog/yugo,1992,gv,1.3l+l4,1438492", "payload": {"nodetype": "carcode", "ctx": {"make": "YUGO", "year": 1992, "model": "GV"}}}

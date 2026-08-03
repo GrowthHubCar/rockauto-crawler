@@ -16,3 +16,12 @@
 {"node_type": "model", "href": "/en/catalog/iveco,1988,euro+220", "payload": {"nodetype": "model", "ctx": {"make": "IVECO", "year": 1988, "model": "EURO 220"}}}
 {"node_type": "model", "href": "/en/catalog/iveco,1987,euro+110", "payload": {"nodetype": "model", "ctx": {"make": "IVECO", "year": 1987, "model": "EURO 110"}}}
 {"node_type": "model", "href": "/en/catalog/iveco,1988,euro+110", "payload": {"nodetype": "model", "ctx": {"make": "IVECO", "year": 1988, "model": "EURO 110"}}}
+{"node_type": "carcode", "href": "/en/catalog/iveco,1985,z450t,5.9l+l6+diesel+turbocharged,3298023", "payload": {"nodetype": "carcode", "ctx": {"make": "IVECO", "year": 1985, "model": "Z450T"}}}
+{"node_type": "carcode", "href": "/en/catalog/iveco,1987,euroturbo+435t,5.9l+l6+diesel+turbocharged,3297139", "payload": {"nodetype": "carcode", "ctx": {"make": "IVECO", "year": 1987, "model": "EUROTURBO 435T"}}}
+{"node_type": "carcode", "href": "/en/catalog/iveco,1985,z340t,5.5l+l6+diesel+turbocharged,3295199", "payload": {"nodetype": "carcode", "ctx": {"make": "IVECO", "year": 1985, "model": "Z340T"}}}
+{"node_type": "carcode", "href": "/en/catalog/iveco,1987,euroturbo+450t,5.9l+l6+diesel+turbocharged,3297140", "payload": {"nodetype": "carcode", "ctx": {"make": "IVECO", "year": 1987, "model": "EUROTURBO 450T"}}}
+{"node_type": "carcode", "href": "/en/catalog/iveco,1987,euroturbo+340t,5.9l+l6+diesel+turbocharged,3298024", "payload": {"nodetype": "carcode", "ctx": {"make": "IVECO", "year": 1987, "model": "EUROTURBO 340T"}}}
+{"node_type": "carcode", "href": "/en/catalog/iveco,1987,euroturbo+335t,5.9l+l6+diesel+turbocharged,3297138", "payload": {"nodetype": "carcode", "ctx": {"make": "IVECO", "year": 1987, "model": "EUROTURBO 335T"}}}
+{"node_type": "carcode", "href": "/en/catalog/iveco,1987,z450t,5.9l+l6+diesel+turbocharged,3297141", "payload": {"nodetype": "carcode", "ctx": {"make": "IVECO", "year": 1987, "model": "Z450T"}}}
+{"node_type": "carcode", "href": "/en/catalog/iveco,1986,z340t,5.5l+l6+diesel+turbocharged,3297134", "payload": {"nodetype": "carcode", "ctx": {"make": "IVECO", "year": 1986, "model": "Z340T"}}}
+{"node_type": "carcode", "href": "/en/catalog/iveco,1986,z450t,5.9l+l6+diesel+turbocharged,3297137", "payload": {"nodetype": "carcode", "ctx": {"make": "IVECO", "year": 1986, "model": "Z450T"}}}

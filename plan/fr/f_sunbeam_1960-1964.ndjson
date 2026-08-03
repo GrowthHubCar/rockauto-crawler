@@ -8,3 +8,4 @@
 {"node_type": "model", "href": "/en/catalog/sunbeam,1963,alpine", "payload": {"nodetype": "model", "ctx": {"make": "SUNBEAM", "year": 1963, "model": "ALPINE"}}}
 {"node_type": "model", "href": "/en/catalog/sunbeam,1964,alpine", "payload": {"nodetype": "model", "ctx": {"make": "SUNBEAM", "year": 1964, "model": "ALPINE"}}}
 {"node_type": "model", "href": "/en/catalog/sunbeam,1964,tiger", "payload": {"nodetype": "model", "ctx": {"make": "SUNBEAM", "year": 1964, "model": "TIGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/sunbeam,1960,alpine,1.5l+l4,1437369", "payload": {"nodetype": "carcode", "ctx": {"make": "SUNBEAM", "year": 1960, "model": "ALPINE"}}}

@@ -20,3 +20,108 @@
 {"node_type": "model", "href": "/en/catalog/chevrolet,2005,cheyenne", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "CHEYENNE"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,2008,avalanche", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "AVALANCHE"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,2005,astra", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "ASTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,suburban+1500,6.0l+v8,1441064", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "SUBURBAN 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,monte+carlo,3.8l+v6+supercharged,1431111", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,uplander,3.9l+v6,1441146", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "UPLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,traverse,3.6l+v6,1444048", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "TRAVERSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,tahoe,6.2l+v8,1443489", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "TAHOE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,optra,2.0l+l4,951195", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "OPTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,avalanche,5.3l+v8,1442866", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "AVALANCHE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,equinox,3.4l+v6,1441013", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "EQUINOX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,astra,2.4l+l4,3034414", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "ASTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2007,silverado+2500+classic,6.0l+v8,1433496", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2007, "model": "SILVERADO 2500 CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,silverado+2500,5.3l+v8,2002690", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "SILVERADO 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,classic,2.2l+l4,1431640", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,monte+carlo,3.8l+v6,1431110", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,express+3500,4.8l+v8,1441115", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "EXPRESS 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,vectra,2.8l+v6+turbocharged,2002636", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "VECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,corvette,7.0l+v8,1441010", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "CORVETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,tornado,1.8l+l4,951263", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "TORNADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,silverado+3500,6.6l+v8+diesel+turbocharged,1442807", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "SILVERADO 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,venture,3.4l+v6,1431167", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "VENTURE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,silverado+2500,6.0l+v8,2650", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "SILVERADO 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,suburban+2500,6.0l+v8,1442898", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "SUBURBAN 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,tracker,2.0l+l4,951270", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "TRACKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,suburban+1500,5.3l+v8,1431146", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "SUBURBAN 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,tiltmaster,6.0l+v8,3304761", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "TILTMASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,suburban+1500,6.0l+v8,1442906", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "SUBURBAN 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,colorado,3.7l+l5,1442034", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "COLORADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,express+2500,6.0l+v8,1431086", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "EXPRESS 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2007,suburban+1500,6.0l+v8,1440258", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2007, "model": "SUBURBAN 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,tornado,1.8l+l4,951264", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "TORNADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2007,kodiak,8.1l+v8,3294676", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2007, "model": "KODIAK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,malibu,3.5l+v6,1445048", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,t+series+truck,7.8l+l6+diesel+turbocharged,3294778", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "T SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,vectra,2.2l+l4,951273", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "VECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,hhr,2.2l+l4,1432001", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "HHR"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,zafira,1.8l+l4,3441852", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "ZAFIRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,tiltmaster,5.2l+l4+diesel+turbocharged,3294717", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "TILTMASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,trailblazer,4.2l+l6,1441133", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "TRAILBLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,tiltmaster,5.2l+l4+diesel+turbocharged,3295126", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "TILTMASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,vectra,3.2l+v6,3437565", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "VECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,corvette,6.2l+v8,1441009", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "CORVETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,trailblazer,6.0l+v8,1442942", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "TRAILBLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,impala,3.5l+v6,1440297", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,silverado+3500,8.1l+v8,1432492", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "SILVERADO 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,impala,3.5l+v6,1443258", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,t+series+truck,7.8l+l6+diesel+turbocharged,3294783", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "T SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,trailblazer,4.2l+l6,1442941", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "TRAILBLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,silverado+3500,6.6l+v8+diesel+turbocharged,1431142", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "SILVERADO 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,tiltmaster,6.0l+v8,3294716", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "TILTMASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,tahoe,5.3l+v8,1441040", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "TAHOE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2007,uplander,3.9l+v6,1433507", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2007, "model": "UPLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,trailblazer,5.3l+v8,1441130", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "TRAILBLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,astra,2.0l+l4+turbocharged,951121", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "ASTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,malibu,2.4l+l4+electric/gas,1442126", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,silverado+2500,6.6l+v8+diesel+turbocharged,1441214", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "SILVERADO 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,trailblazer,5.3l+v8,1431562", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "TRAILBLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,kodiak,8.1l+v8,3294752", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "KODIAK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,cobalt,2.2l+l4,1442864", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "COBALT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,zafira,2.2l+l4,951279", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "ZAFIRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2007,tiltmaster,6.0l+v8,3295991", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2007, "model": "TILTMASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,tahoe,6.0l+v8+electric/gas,1441071", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "TAHOE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,silverado+3500,8.1l+v8,1431141", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "SILVERADO 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,uplander,3.5l+v6,1432077", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "UPLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,tahoe,4.8l+v8,1442915", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "TAHOE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,tahoe,6.0l+v8+electric/gas,1442918", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "TAHOE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,silverado+1500,4.8l+v8,1432411", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,suburban+2500,6.0l+v8,1431149", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "SUBURBAN 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,silverado+1500,6.0l+v8,1432402", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,sonora,5.3l+v8,951242", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "SONORA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,tahoe,6.2l+v8,1503775", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "TAHOE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,uplander,3.9l+v6,1444589", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "UPLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,silverado+1500,6.0l+v8,1431112", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2007,suburban+1500,5.3l+v8,1433403", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2007, "model": "SUBURBAN 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2007,silverado+2500+classic,6.6l+v8+diesel+turbocharged,1434858", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2007, "model": "SILVERADO 2500 CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,suburban+2500,8.1l+v8,1431151", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "SUBURBAN 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,ssr,6.0l+v8,1431285", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "SSR"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2007,trailblazer,6.0l+v8,1434296", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2007, "model": "TRAILBLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,trailblazer,4.2l+l6,1431160", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "TRAILBLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,express+2500,4.3l+v6,3441814", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "EXPRESS 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,kodiak,7.2l+l6+diesel+turbocharged,3294769", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "KODIAK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,suburban+2500,8.1l+v8,1432497", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "SUBURBAN 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,tracker,2.0l+l4,951267", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "TRACKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,uplander,3.9l+v6,1432500", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "UPLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,ssr,6.0l+v8,1432206", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "SSR"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,silverado+2500,4.8l+v8,3298853", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "SILVERADO 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,trailblazer,6.0l+v8,1432871", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "TRAILBLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,kodiak,7.2l+l6+diesel+turbocharged,3294772", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "KODIAK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,tornado,1.8l+l4,951266", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "TORNADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,tiltmaster,5.2l+l4+diesel+turbocharged,3294719", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "TILTMASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,trailblazer,6.0l+v8,1441134", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "TRAILBLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,express+2500,6.0l+v8,1432326", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "EXPRESS 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,silverado+1500,6.0l+v8+electric/gas,1442939", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,corvette,6.2l+v8,1442776", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "CORVETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,kodiak,7.8l+l6+diesel+turbocharged,3294774", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "KODIAK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,express+2500,6.6l+v8+diesel+turbocharged,1442045", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "EXPRESS 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,kodiak,6.6l+v8+diesel+turbocharged,3294749", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "KODIAK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,zafira,2.2l+l4,951278", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "ZAFIRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,uplander,3.5l+v6,1432475", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "UPLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,tahoe,5.3l+v8,1442911", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "TAHOE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2007,silverado+2500+classic,8.1l+v8,1433501", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2007, "model": "SILVERADO 2500 CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,silverado+1500,5.3l+v8+electric/gas,1432403", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,tiltmaster,6.0l+v8,3294718", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "TILTMASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,malibu,2.4l+l4+electric/gas,1442751", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2007,trailblazer,4.2l+l6,1433505", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2007, "model": "TRAILBLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,tahoe,5.3l+v8,1431156", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "TAHOE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,vectra,2.8l+v6+turbocharged,951275", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "VECTRA"}}}

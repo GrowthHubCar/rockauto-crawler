@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jeep,2009,patriot", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2009, "model": "PATRIOT"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,2009,commander", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2009, "model": "COMMANDER"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,2009,liberty", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2009, "model": "LIBERTY"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,2009,compass", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2009, "model": "COMPASS"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,2009,grand+cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2009, "model": "GRAND CHEROKEE"}}}

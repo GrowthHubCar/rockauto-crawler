@@ -11,3 +11,15 @@
 {"node_type": "model", "href": "/en/catalog/seat,2021,arona", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2021, "model": "ARONA"}}}
 {"node_type": "model", "href": "/en/catalog/seat,2023,arona", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2023, "model": "ARONA"}}}
 {"node_type": "model", "href": "/en/catalog/seat,2024,arona", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2024, "model": "ARONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2020,leon,1.4l+l4+turbocharged,3445751", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2020, "model": "LEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2020,ibiza,1.6l+l4,3445487", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2020, "model": "IBIZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2022,tarraco,1.4l+l4+turbocharged,3451282", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2022, "model": "TARRACO"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2023,tarraco,1.4l+l4+turbocharged,3454568", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2023, "model": "TARRACO"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2022,ibiza,1.6l+l4,3451528", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2022, "model": "IBIZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2020,tarraco,1.4l+l4+turbocharged,3445753", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2020, "model": "TARRACO"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2022,leon,1.4l+l4+turbocharged,3451281", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2022, "model": "LEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2021,ibiza,999cc+l3+turbocharged,3449374", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2021, "model": "IBIZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2022,ateca,1.4l+l4+turbocharged,3451280", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2022, "model": "ATECA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2020,ateca,1.4l+l4+turbocharged,3445750", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2020, "model": "ATECA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2022,arona,1.6l+l4,3453965", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2022, "model": "ARONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2020,ibiza,999cc+l3+turbocharged,3445486", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2020, "model": "IBIZA"}}}

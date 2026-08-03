@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2023,tornado+van", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "TORNADO VAN"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2023,tracker", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "TRACKER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2023,traverse", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "TRAVERSE"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2023,silverado+5500+hd", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "SILVERADO 5500 HD"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2023,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "SUBURBAN"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2023,silverado+4500+hd", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "SILVERADO 4500 HD"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2023,trailblazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "TRAILBLAZER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2023,tahoe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "TAHOE"}}}

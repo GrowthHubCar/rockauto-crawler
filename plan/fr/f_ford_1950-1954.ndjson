@@ -80,3 +80,60 @@
 {"node_type": "model", "href": "/en/catalog/ford,1953,courier+sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "COURIER SEDAN DELIVERY"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1954,courier+sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1954, "model": "COURIER SEDAN DELIVERY"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1953,club", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "CLUB"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1950,taunus,1.2l+72cid+l4,1436647", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1950, "model": "TAUNUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1952,custom,3.9l+239cid+v8,1339365", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1952, "model": "CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1952,courier+sedan+delivery,3.9l+239cid+v8,1487453", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1952, "model": "COURIER SEDAN DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1950,ranch+wagon,3.7l+226cid+l6,1339725", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1950, "model": "RANCH WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1950,f4,3.9l+239cid+v8,1487186", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1950, "model": "F4"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1954,f-100,4.2l+256cid+v8,1487806", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1954, "model": "F-100"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1954,f-350,3.9l+239cid+v8,1487812", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1954, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1951,f4,4.2l+255cid+v8,1487324", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1951, "model": "F4"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1952,mainline,3.9l+239cid+v8,1339422", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1952, "model": "MAINLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1953,f-100,3.9l+239cid+v8,1487619", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1953, "model": "F-100"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1951,f4,3.9l+239cid+v8,1487323", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1951, "model": "F4"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1951,country+squire,3.9l+239cid+v8,1339501", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1951, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1954,club,4.2l+256cid+v8,1487800", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1954, "model": "CLUB"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1953,p-350,3.5l+215cid+l6,1487628", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1953, "model": "P-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1953,victoria,4.2l+255cid+v8,1487633", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1953, "model": "VICTORIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1953,f-350,4.2l+255cid+v8,1487626", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1953, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1952,victoria,3.9l+239cid+v8,1339466", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1952, "model": "VICTORIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1951,custom,3.9l+239cid+v8,1339534", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1951, "model": "CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1952,f4,4.2l+255cid+v8,1487472", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1952, "model": "F4"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1953,country+squire,4.2l+255cid+v8,1487610", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1953, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1951,f4,3.7l+226cid+l6,1487322", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1951, "model": "F4"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1954,country+sedan,3.9l+239cid+v8,1338746", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1954, "model": "COUNTRY SEDAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1952,crestline,3.9l+239cid+v8,1339343", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1952, "model": "CRESTLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1952,victoria,3.5l+215cid+l6,1487475", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1952, "model": "VICTORIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1953,f+series,4.2l+255cid+v8,1487617", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1953, "model": "F SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1952,ranch+wagon,3.5l+215cid+l6,1339433", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1952, "model": "RANCH WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1952,sunliner,3.9l+239cid+v8,1339455", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1952, "model": "SUNLINER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1954,p-350,3.6l+223cid+l6,1487815", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1954, "model": "P-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1954,country+squire,4.2l+256cid+v8,1338780", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1954, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1953,f-100,4.2l+255cid+v8,1487620", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1953, "model": "F-100"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1952,country+squire,3.9l+239cid+v8,1339332", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1952, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1954,country+squire,3.9l+239cid+v8,1338779", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1954, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1951,ranch+wagon,3.9l+239cid+v8,1339590", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1951, "model": "RANCH WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1952,mainline,3.5l+215cid+l6,1339411", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1952, "model": "MAINLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1950,f4,4.2l+255cid+v8,1487187", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1950, "model": "F4"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1954,club,3.9l+239cid+v8,1487798", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1954, "model": "CLUB"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1953,courier+sedan+delivery,3.9l+239cid+v8,1487612", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1953, "model": "COURIER SEDAN DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1951,deluxe,3.9l+239cid+v8,1339556", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1951, "model": "DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1951,f4,3.5l+215cid+l6,1487321", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1951, "model": "F4"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1953,f-350,3.9l+239cid+v8,1487625", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1953, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1954,courier+sedan+delivery,3.9l+239cid+v8,1338803", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1954, "model": "COURIER SEDAN DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1952,f1,3.7l+226cid+l6,1487458", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1952, "model": "F1"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1950,crestline,3.7l+226cid+l6,1487174", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1950, "model": "CRESTLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1953,f-250,4.2l+255cid+v8,1487623", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1953, "model": "F-250"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1953,zephyr,2.3l+138cid+l6,1436729", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1953, "model": "ZEPHYR"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1952,zephyr,2.3l+138cid+l6,1436730", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1952, "model": "ZEPHYR"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1950,deluxe,3.9l+239cid+v8,1339691", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1950, "model": "DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1950,country+squire,3.9l+239cid+v8,1339646", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1950, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1951,crestline,3.9l+239cid+v8,1339512", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1951, "model": "CRESTLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1952,customline,3.9l+239cid+v8,1339387", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1952, "model": "CUSTOMLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1953,f-250,3.9l+239cid+v8,1487622", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1953, "model": "F-250"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1954,mainline,4.2l+256cid+v8,1338915", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1954, "model": "MAINLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1951,victoria,3.9l+239cid+v8,1339602", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1951, "model": "VICTORIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1954,country+sedan,4.2l+256cid+v8,1338757", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1954, "model": "COUNTRY SEDAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1954,victoria,4.2l+256cid+v8,1339039", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1954, "model": "VICTORIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1954,country+squire,3.6l+223cid+l6,1338768", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1954, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1954,club,3.6l+223cid+l6,1487797", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1954, "model": "CLUB"}}}

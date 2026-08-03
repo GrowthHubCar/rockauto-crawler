@@ -2,3 +2,5 @@
 {"node_type": "model", "href": "/en/catalog/mercedes-benz,1932,460/500+nurburg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1932, "model": "460/500 NURBURG"}}}
 {"node_type": "model", "href": "/en/catalog/mercedes-benz,1933,460/500+nurburg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1933, "model": "460/500 NURBURG"}}}
 {"node_type": "model", "href": "/en/catalog/mercedes-benz,1934,460/500+nurburg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1934, "model": "460/500 NURBURG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1934,500+k,all+engines,2002076", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1934, "model": "500 K"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1934,540k,all+engines,952684", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1934, "model": "540K"}}}

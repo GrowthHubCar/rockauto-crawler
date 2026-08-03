@@ -10,3 +10,11 @@
 {"node_type": "model", "href": "/en/catalog/triumph,1964,tr4", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1964, "model": "TR4"}}}
 {"node_type": "model", "href": "/en/catalog/triumph,1962,tr3b", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1962, "model": "TR3B"}}}
 {"node_type": "model", "href": "/en/catalog/triumph,1964,spitfire", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1964, "model": "SPITFIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/triumph,1962,tr4,2.0l+l4,1490996", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1962, "model": "TR4"}}}
+{"node_type": "carcode", "href": "/en/catalog/triumph,1961,herald,948cc+l4,1442216", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1961, "model": "HERALD"}}}
+{"node_type": "carcode", "href": "/en/catalog/triumph,1960,tr3a,2.0l+l4,1436208", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1960, "model": "TR3A"}}}
+{"node_type": "carcode", "href": "/en/catalog/triumph,1963,tr4,2.1l+l4,1491602", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1963, "model": "TR4"}}}
+{"node_type": "carcode", "href": "/en/catalog/triumph,1963,spitfire,1.2l+l4,1351718", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1963, "model": "SPITFIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/triumph,1960,herald,948cc+l4,1440433", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1960, "model": "HERALD"}}}
+{"node_type": "carcode", "href": "/en/catalog/triumph,1961,tr4,2.1l+l4,1490386", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1961, "model": "TR4"}}}
+{"node_type": "carcode", "href": "/en/catalog/triumph,1962,tr4,2.1l+l4,1490997", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1962, "model": "TR4"}}}

@@ -5,3 +5,4 @@
 {"node_type": "model", "href": "/en/catalog/saab,1959,gt750", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1959, "model": "GT750"}}}
 {"node_type": "model", "href": "/en/catalog/saab,1958,93b", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1958, "model": "93B"}}}
 {"node_type": "model", "href": "/en/catalog/saab,1959,93b", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1959, "model": "93B"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1959,95,841cc+l3,1397392", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1959, "model": "95"}}}

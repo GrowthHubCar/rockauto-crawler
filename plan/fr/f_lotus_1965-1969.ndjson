@@ -12,3 +12,13 @@
 {"node_type": "model", "href": "/en/catalog/lotus,1967,elan", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1967, "model": "ELAN"}}}
 {"node_type": "model", "href": "/en/catalog/lotus,1968,elan", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1968, "model": "ELAN"}}}
 {"node_type": "model", "href": "/en/catalog/lotus,1969,elan", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1969, "model": "ELAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1965,super+seven,1.5l+l4,1394928", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1965, "model": "SUPER SEVEN"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1965,elite,1.2l+l4,1393882", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1965, "model": "ELITE"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1965,seven,1.5l+l4,1394557", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1965, "model": "SEVEN"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1965,super+seven,1.3l+l4,1394917", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1965, "model": "SUPER SEVEN"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1965,elan,1.6l+l4,1393703", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1965, "model": "ELAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1966,super+seven,1.5l+l4,1394940", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1966, "model": "SUPER SEVEN"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1965,seven,997cc+l4,1394535", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1965, "model": "SEVEN"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1968,europa,1.6l+l4,1494631", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1968, "model": "EUROPA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1965,seven,1.3l+l4,1394546", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1965, "model": "SEVEN"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1966,super+seven,1.3l+l4,1394939", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1966, "model": "SUPER SEVEN"}}}

@@ -6,3 +6,20 @@
 {"node_type": "model", "href": "/en/catalog/ferrari,1997,550+maranello", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1997, "model": "550 MARANELLO"}}}
 {"node_type": "model", "href": "/en/catalog/ferrari,1998,550+maranello", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1998, "model": "550 MARANELLO"}}}
 {"node_type": "model", "href": "/en/catalog/ferrari,1998,f355+f1", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1998, "model": "F355 F1"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1995,f50,4.7l+v12,1430136", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1995, "model": "F50"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1995,f355+berlinetta,3.5l+v8,1103971", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1995, "model": "F355 BERLINETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1996,456,5.5l+v12,3289662", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1996, "model": "456"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1996,f355+spider,3.5l+v8,1104040", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1996, "model": "F355 SPIDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1995,512+m,4.9l+h12,1103960", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1995, "model": "512 M"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1997,456,5.5l+v12,3300312", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1997, "model": "456"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1996,f50,4.7l+v12,1365296", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1996, "model": "F50"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1999,456+m,5.5l+v12,1354340", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1999, "model": "456 M"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1999,f355,3.5l+v8,1446029", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1999, "model": "F355"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1995,348,3.4l+v8,1103791", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1995, "model": "348"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1997,f50,4.7l+v12,1314833", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1997, "model": "F50"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1995,456,5.5l+v12,3289661", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1995, "model": "456"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1996,f355+berlinetta,3.5l+v8,1103982", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1996, "model": "F355 BERLINETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1995,f355+gts,3.5l+v8,1104006", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1995, "model": "F355 GTS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1996,f355+gts,3.5l+v8,1104017", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1996, "model": "F355 GTS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1999,456,5.5l+v12,2102", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1999, "model": "456"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1999,550+maranello,5.5l+v12,1354351", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1999, "model": "550 MARANELLO"}}}

@@ -1,2 +1,12 @@
 {"node_type": "model", "href": "/en/catalog/tesla,2017,s", "payload": {"nodetype": "model", "ctx": {"make": "TESLA", "year": 2017, "model": "S"}}}
 {"node_type": "model", "href": "/en/catalog/tesla,2018,s", "payload": {"nodetype": "model", "ctx": {"make": "TESLA", "year": 2018, "model": "S"}}}
+{"node_type": "carcode", "href": "/en/catalog/tesla,2015,s,electric,3310381", "payload": {"nodetype": "carcode", "ctx": {"make": "TESLA", "year": 2015, "model": "S"}}}
+{"node_type": "carcode", "href": "/en/catalog/tesla,2017,x,electric,3437057", "payload": {"nodetype": "carcode", "ctx": {"make": "TESLA", "year": 2017, "model": "X"}}}
+{"node_type": "carcode", "href": "/en/catalog/tesla,2018,x,electric,3441447", "payload": {"nodetype": "carcode", "ctx": {"make": "TESLA", "year": 2018, "model": "X"}}}
+{"node_type": "carcode", "href": "/en/catalog/tesla,2016,s,electric,3435527", "payload": {"nodetype": "carcode", "ctx": {"make": "TESLA", "year": 2016, "model": "S"}}}
+{"node_type": "carcode", "href": "/en/catalog/tesla,2019,3,electric,3443511", "payload": {"nodetype": "carcode", "ctx": {"make": "TESLA", "year": 2019, "model": "3"}}}
+{"node_type": "carcode", "href": "/en/catalog/tesla,2019,s,electric,3443512", "payload": {"nodetype": "carcode", "ctx": {"make": "TESLA", "year": 2019, "model": "S"}}}
+{"node_type": "carcode", "href": "/en/catalog/tesla,2019,x,electric,3443513", "payload": {"nodetype": "carcode", "ctx": {"make": "TESLA", "year": 2019, "model": "X"}}}
+{"node_type": "carcode", "href": "/en/catalog/tesla,2016,x,electric,3366519", "payload": {"nodetype": "carcode", "ctx": {"make": "TESLA", "year": 2016, "model": "X"}}}
+{"node_type": "carcode", "href": "/en/catalog/tesla,2018,3,electric,3441445", "payload": {"nodetype": "carcode", "ctx": {"make": "TESLA", "year": 2018, "model": "3"}}}
+{"node_type": "carcode", "href": "/en/catalog/tesla,2017,3,electric,3441735", "payload": {"nodetype": "carcode", "ctx": {"make": "TESLA", "year": 2017, "model": "3"}}}

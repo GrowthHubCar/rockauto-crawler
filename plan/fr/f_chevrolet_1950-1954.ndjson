@@ -29,3 +29,39 @@
 {"node_type": "model", "href": "/en/catalog/chevrolet,1954,1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1954, "model": "1500"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1953,corvette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1953, "model": "CORVETTE"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1954,l2553", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1954, "model": "L2553"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1953,truck,3.8l+235cid+l6,1487579", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1953, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1950,bel+air,3.9l+236cid+l6,1326800", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1950, "model": "BEL AIR"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1950,fleetline,3.9l+236cid+l6,1326822", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1950, "model": "FLEETLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1951,truck,3.8l+235cid+l6,1487279", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1951, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1953,suburban,3.8l+235cid+l6,3441835", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1953, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1953,corvette,3.9l+236cid+l6,1326563", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1953, "model": "CORVETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1950,truck,3.5l+217cid+l6,1487136", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1950, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1951,styleline+special,3.8l+235cid+l6,1487277", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1951, "model": "STYLELINE SPECIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1950,fleetline,3.5l+217cid+l6,1326811", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1950, "model": "FLEETLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1953,sedan+delivery,3.8l+235cid+l6,1487578", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1953, "model": "SEDAN DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1951,bel+air,3.9l+236cid+l6,1326710", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1951, "model": "BEL AIR"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1954,two-ten+series,3.8l+235cid+l6,1326529", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1954, "model": "TWO-TEN SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1950,fleetline,3.8l+235cid+l6,1487130", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1950, "model": "FLEETLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1950,truck,3.8l+235cid+l6,1487137", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1950, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1951,h3100,3.8l+235cid+l6,1487271", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1951, "model": "H3100"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1950,styleline+deluxe,3.8l+235cid+l6,1487134", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1950, "model": "STYLELINE DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1953,one-fifty+series,3.9l+236cid+l6,1326574", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1953, "model": "ONE-FIFTY SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1950,styleline+special,3.8l+235cid+l6,1487135", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1950, "model": "STYLELINE SPECIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1953,two-ten+series,3.9l+236cid+l6,1326585", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1953, "model": "TWO-TEN SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1954,bel+air,3.8l+235cid+l6,1326495", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1954, "model": "BEL AIR"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1954,corvette,3.8l+235cid+l6,1326507", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1954, "model": "CORVETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1950,styleline+deluxe,3.9l+236cid+l6,1326855", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1950, "model": "STYLELINE DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1950,bel+air,3.5l+217cid+l6,1326798", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1950, "model": "BEL AIR"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1950,suburban,3.8l+235cid+l6,3441829", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1950, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1952,styleline+special,3.8l+235cid+l6,1487424", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1952, "model": "STYLELINE SPECIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1951,truck,3.5l+217cid+l6,1487278", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1951, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1954,truck,4.3l+261cid+l6,1326484", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1954, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1952,styleline+deluxe,3.9l+236cid+l6,1326675", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1952, "model": "STYLELINE DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1952,truck,3.8l+235cid+l6,1487426", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1952, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1953,bel+air,3.9l+236cid+l6,1326552", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1953, "model": "BEL AIR"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1950,sedan+delivery,3.8l+235cid+l6,1487133", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1950, "model": "SEDAN DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1952,bel+air,3.9l+236cid+l6,1326620", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1952, "model": "BEL AIR"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1954,sedan+delivery,4.3l+261cid+l6,1487760", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1954, "model": "SEDAN DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1954,1500,4.3l+261cid+l6,1487757", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1954, "model": "1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1952,fleetline,3.8l+235cid+l6,1487420", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1952, "model": "FLEETLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1950,bel+air,3.8l+235cid+l6,1487129", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1950, "model": "BEL AIR"}}}

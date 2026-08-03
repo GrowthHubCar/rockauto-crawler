@@ -10,3 +10,32 @@
 {"node_type": "model", "href": "/en/catalog/seat,2006,altea", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2006, "model": "ALTEA"}}}
 {"node_type": "model", "href": "/en/catalog/seat,2009,altea+xl", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2009, "model": "ALTEA XL"}}}
 {"node_type": "model", "href": "/en/catalog/seat,2009,freetrack", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2009, "model": "FREETRACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2006,toledo,2.0l+l4,951741", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2006, "model": "TOLEDO"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2007,alhambra,1.8l+l4+turbocharged,951715", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2007, "model": "ALHAMBRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2008,leon,1.4l+l4+turbocharged,951731", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2008, "model": "LEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2006,alhambra,1.8l+l4+turbocharged,951714", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2006, "model": "ALHAMBRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2005,ibiza,1.8l+l4+turbocharged,215152", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2005, "model": "IBIZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2009,ibiza,1.6l+l4,951729", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2009, "model": "IBIZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2006,ibiza,2.0l+l4,940212", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2006, "model": "IBIZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2008,altea+xl,2.0l+l4,3213814", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2008, "model": "ALTEA XL"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2005,cordoba,1.6l+l4,3214762", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2005, "model": "CORDOBA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2008,cordoba,2.0l+l4,3214795", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2008, "model": "CORDOBA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2006,ibiza,1.8l+l4+turbocharged,216476", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2006, "model": "IBIZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2008,cordoba,1.6l+l4,3214765", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2008, "model": "CORDOBA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2005,leon,1.8l+l4+turbocharged,948294", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2005, "model": "LEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2006,leon,2.0l+l4,2002648", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2006, "model": "LEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2007,ibiza,1.6l+l4,940581", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2007, "model": "IBIZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2005,leon,1.8l+l4,948293", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2005, "model": "LEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2005,altea,2.0l+l4,939517", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2005, "model": "ALTEA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2008,leon,2.0l+l4,3216560", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2008, "model": "LEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2007,leon,1.6l+l4,3216527", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2007, "model": "LEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2005,toledo,1.8l+l4,948299", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2005, "model": "TOLEDO"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2005,ibiza,2.0l+l4,939525", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2005, "model": "IBIZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2008,alhambra,2.8l+v6,3213545", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2008, "model": "ALHAMBRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2006,cordoba,1.6l+l4,951722", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2006, "model": "CORDOBA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2008,leon,2.0l+l4+turbocharged,951739", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2008, "model": "LEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2009,ibiza,2.0l+l4,951730", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2009, "model": "IBIZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2005,cordoba,2.0l+l4,951725", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2005, "model": "CORDOBA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2006,leon,1.8l+l4+turbocharged,951735", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2006, "model": "LEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2006,ibiza,1.6l+l4,940209", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2006, "model": "IBIZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2006,cordoba,2.0l+l4,951726", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2006, "model": "CORDOBA"}}}

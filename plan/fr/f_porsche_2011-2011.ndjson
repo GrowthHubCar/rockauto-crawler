@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/porsche,2011,cayenne", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2011, "model": "CAYENNE"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,2011,boxster", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2011, "model": "BOXSTER"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,2011,cayman", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2011, "model": "CAYMAN"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,2011,panamera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2011, "model": "PANAMERA"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,2011,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2011, "model": "911"}}}

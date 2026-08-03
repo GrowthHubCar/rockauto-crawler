@@ -12,3 +12,17 @@
 {"node_type": "model", "href": "/en/catalog/dodge,1938,series+d10+six", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1938, "model": "SERIES D10 SIX"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,1939,series+d12+six", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1939, "model": "SERIES D12 SIX"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,1935,series+du+six", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1935, "model": "SERIES DU SIX"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1935,truck,3.6l+218cid+l6,1485661", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1935, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1938,series+d8+six,218cid+l6,952877", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1938, "model": "SERIES D8 SIX"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1939,series+d11+six,3.6l+218cid+l6,952924", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1939, "model": "SERIES D11 SIX"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1937,series+d-5+six,218cid+l6,952832", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1937, "model": "SERIES D-5 SIX"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1937,series+d-7+six,218cid+l6,952834", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1937, "model": "SERIES D-7 SIX"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1937,truck,3.7l+228cid+l6,1485777", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1937, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1939,truck,3.7l+228cid+l6,1485920", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1939, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1937,truck,3.3l+201cid+l6,1485775", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1937, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1935,deluxe,3.6l+218cid+l6,1485659", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1935, "model": "DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1939,truck,3.3l+201cid+l6,1485918", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1939, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1936,truck,3.7l+228cid+l6,1485714", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1936, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1939,series+d13+six,218cid+l6,952926", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1939, "model": "SERIES D13 SIX"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1936,series+d2,3.6l+218cid+l6,1485711", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1936, "model": "SERIES D2"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1935,series+dv+six,218cid+l6,952727", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1935, "model": "SERIES DV SIX"}}}

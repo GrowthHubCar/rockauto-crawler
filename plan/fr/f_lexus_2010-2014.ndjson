@@ -8,3 +8,63 @@
 {"node_type": "model", "href": "/en/catalog/lexus,2011,gs350", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2011, "model": "GS350"}}}
 {"node_type": "model", "href": "/en/catalog/lexus,2011,es350", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2011, "model": "ES350"}}}
 {"node_type": "model", "href": "/en/catalog/lexus,2011,gs460", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2011, "model": "GS460"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2014,rx350,3.5l+v6,3306988", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2014, "model": "RX350"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2011,is+f,5.0l+v8,1446881", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2011, "model": "IS F"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2010,hs250h,2.4l+l4+electric/gas,1444559", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2010, "model": "HS250H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2013,rx450h,3.5l+v6+electric/gas,1503990", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2013, "model": "RX450H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2014,ls600h,5.0l+v8+electric/gas,3306987", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2014, "model": "LS600H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2010,gs460,4.6l+v8,1445203", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2010, "model": "GS460"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2013,es300h,2.5l+l4+electric/gas,1504968", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2013, "model": "ES300H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2010,gx460,4.6l+v8,1445667", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2010, "model": "GX460"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2012,es350,3.5l+v6,1502573", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2012, "model": "ES350"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2013,ls460,4.6l+v8,3294157", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2013, "model": "LS460"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2010,ls460,4.6l+v8,1445201", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2010, "model": "LS460"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2012,lfa,4.8l+v10,1447866", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2012, "model": "LFA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2012,is350,3.5l+v6,1502578", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2012, "model": "IS350"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2014,is350,3.5l+v6,3298557", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2014, "model": "IS350"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2013,gs450h,3.5l+v6+electric/gas,1503991", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2013, "model": "GS450H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2011,ls460,4.6l+v8,1446882", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2011, "model": "LS460"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2010,gs350,3.5l+v6,1445200", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2010, "model": "GS350"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2011,is350,3.5l+v6,1446879", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2011, "model": "IS350"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2013,ls600h,5.0l+v8+electric/gas,3294183", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2013, "model": "LS600H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2013,es350,3.5l+v6,1504967", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2013, "model": "ES350"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2010,rx350,3.5l+v6,1444184", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2010, "model": "RX350"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2010,lx570,5.7l+v8,1444561", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2010, "model": "LX570"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2011,rx350,3.5l+v6,1446886", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2011, "model": "RX350"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2012,is+f,5.0l+v8,1502580", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2012, "model": "IS F"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2011,lx570,5.7l+v8,1446885", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2011, "model": "LX570"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2014,es350,3.5l+v6,3305906", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2014, "model": "ES350"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2014,ls460,4.6l+v8,3298558", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2014, "model": "LS460"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2011,gx460,4.6l+v8,1446871", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2011, "model": "GX460"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2012,hs250h,2.4l+l4+electric/gas,1503723", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2012, "model": "HS250H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2010,is350,3.5l+v6,1444564", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2010, "model": "IS350"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2013,is350,3.5l+v6,1505190", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2013, "model": "IS350"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2011,ls600h,5.0l+v8+electric/gas,1446884", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2011, "model": "LS600H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2012,ls460,4.6l+v8,1502581", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2012, "model": "LS460"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2010,is250,2.5l+v6,1444563", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2010, "model": "IS250"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2012,is250,2.5l+v6,1502576", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2012, "model": "IS250"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2010,sc430,4.3l+v8,1445195", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2010, "model": "SC430"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2010,es350,3.5l+v6,1445198", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2010, "model": "ES350"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2014,gs450h,3.5l+v6+electric/gas,3307153", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2014, "model": "GS450H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2010,gs450h,3.5l+v6+electric/gas,1445199", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2010, "model": "GS450H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2014,is+f,5.0l+v8,3306986", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2014, "model": "IS F"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2014,gx460,4.6l+v8,3298532", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2014, "model": "GX460"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2011,rx450h,3.5l+v6+electric/gas,1446887", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2011, "model": "RX450H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2011,hs250h,2.4l+l4+electric/gas,1446874", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2011, "model": "HS250H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2013,is250,2.5l+v6,1505187", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2013, "model": "IS250"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2010,rx450h,3.5l+v6+electric/gas,1444314", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2010, "model": "RX450H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2012,ls600h,5.0l+v8+electric/gas,1502583", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2012, "model": "LS600H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2010,ls600h,5.0l+v8+electric/gas,1445786", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2010, "model": "LS600H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2014,rx450h,3.5l+v6+electric/gas,3306989", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2014, "model": "RX450H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2013,is+f,5.0l+v8,1505186", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2013, "model": "IS F"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2013,gs350,3.5l+v6,1503806", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2013, "model": "GS350"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2013,ct200h,1.8l+l4+electric/gas,1505552", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2013, "model": "CT200H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2014,ct200h,1.8l+l4+electric/gas,3305904", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2014, "model": "CT200H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2012,rx450h,3.5l+v6+electric/gas,1502585", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2012, "model": "RX450H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2013,rx350,3.5l+v6,3001020", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2013, "model": "RX350"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2012,ct200h,1.8l+l4+electric/gas,1502572", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2012, "model": "CT200H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2014,gs350,3.5l+v6,3307152", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2014, "model": "GS350"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2013,lx570,5.7l+v8,1503734", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2013, "model": "LX570"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2012,rx350,3.5l+v6,1502584", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2012, "model": "RX350"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2012,gx460,4.6l+v8,1502574", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2012, "model": "GX460"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2010,is+f,5.0l+v8,1445204", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2010, "model": "IS F"}}}

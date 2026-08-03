@@ -1,2 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/hyundai,1983,pony", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 1983, "model": "PONY"}}}
 {"node_type": "model", "href": "/en/catalog/hyundai,1984,pony", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 1984, "model": "PONY"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,1984,pony,1.6l+l4,1171550", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 1984, "model": "PONY"}}}

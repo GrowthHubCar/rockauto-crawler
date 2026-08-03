@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,1996,panel", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1996, "model": "PANEL"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1996,combi", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1996, "model": "COMBI"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1996,caravelle", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1996, "model": "CARAVELLE"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1996,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1996, "model": "GOLF"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1996,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1996, "model": "JETTA"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1996,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1996, "model": "PASSAT"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1996,cabrio", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1996, "model": "CABRIO"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1996,eurovan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1996, "model": "EUROVAN"}}}

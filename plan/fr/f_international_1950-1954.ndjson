@@ -73,3 +73,11 @@
 {"node_type": "model", "href": "/en/catalog/international,1953,r110", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 1953, "model": "R110"}}}
 {"node_type": "model", "href": "/en/catalog/international,1954,r110", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 1954, "model": "R110"}}}
 {"node_type": "model", "href": "/en/catalog/international,1952,lm151", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 1952, "model": "LM151"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,1950,l120,3.6l+220cid+l6,1437667", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 1950, "model": "L120"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,1950,l110,3.6l+220cid+l6,1437670", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 1950, "model": "L110"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,1951,lb140,3.6l+220cid+l6,1437649", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 1951, "model": "LB140"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,1953,s132,3.6l+220cid+l6,1487695", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 1953, "model": "S132"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,1952,l151,3.6l+220cid+l6,1437637", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 1952, "model": "L151"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,1952,l153,3.6l+220cid+l6,1437636", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 1952, "model": "L153"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,1952,lm153,3.6l+220cid+l6,1487512", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 1952, "model": "LM153"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,1950,l150,3.6l+220cid+l6,1437664", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 1950, "model": "L150"}}}

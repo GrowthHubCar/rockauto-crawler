@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/saturn,2006,ion", "payload": {"nodetype": "model", "ctx": {"make": "SATURN", "year": 2006, "model": "ION"}}}
-{"node_type": "model", "href": "/en/catalog/saturn,2010,vue", "payload": {"nodetype": "model", "ctx": {"make": "SATURN", "year": 2010, "model": "VUE"}}}
-{"node_type": "model", "href": "/en/catalog/saturn,2010,sky", "payload": {"nodetype": "model", "ctx": {"make": "SATURN", "year": 2010, "model": "SKY"}}}
-{"node_type": "model", "href": "/en/catalog/saturn,2006,vue", "payload": {"nodetype": "model", "ctx": {"make": "SATURN", "year": 2006, "model": "VUE"}}}

@@ -1,1 +1,7 @@
 {"node_type": "model", "href": "/en/catalog/lincoln,1961,continental", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1961, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1960,lincoln+series,7.0l+430cid+v8,1342280", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1960, "model": "LINCOLN SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1962,continental,7.0l+430cid+v8,1342257", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1962, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1963,continental,7.0l+430cid+v8,1342246", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1963, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1960,continental,7.0l+430cid+v8,1342279", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1960, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1960,premier,7.0l+430cid+v8,1342291", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1960, "model": "PREMIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1964,continental,7.0l+430cid+v8,1342235", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1964, "model": "CONTINENTAL"}}}

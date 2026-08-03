@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chrysler,2007,voyager", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "VOYAGER"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,2007,cirrus", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "CIRRUS"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,2007,sebring", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "SEBRING"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,2007,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "TOWN & COUNTRY"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,2007,aspen", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "ASPEN"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,2007,pacifica", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "PACIFICA"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,2007,pt+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "PT CRUISER"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,2007,300", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "300"}}}

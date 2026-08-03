@@ -12,3 +12,12 @@
 {"node_type": "model", "href": "/en/catalog/packard,1953,cavalier", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1953, "model": "CAVALIER"}}}
 {"node_type": "model", "href": "/en/catalog/packard,1954,cavalier", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1954, "model": "CAVALIER"}}}
 {"node_type": "model", "href": "/en/catalog/packard,1954,henney+chassis", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1954, "model": "HENNEY CHASSIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1953,patrician,5.9l+359cid+l8,1487710", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1953, "model": "PATRICIAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1950,custom+eight,5.8l+356cid+l8,1435184", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1950, "model": "CUSTOM EIGHT"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1954,clipper,5.3l+327cid+l8,1435151", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1954, "model": "CLIPPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1954,patrician,5.9l+359cid+l8,1435187", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1954, "model": "PATRICIAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1950,super+eight,5.3l+327cid+l8,1435168", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1950, "model": "SUPER EIGHT"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1951,patrician,5.3l+327cid+l8,1435165", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1951, "model": "PATRICIAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1952,patrician,5.3l+327cid+l8,1435162", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1952, "model": "PATRICIAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1954,henney+chassis,5.9l+359cid+l8,1487882", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1954, "model": "HENNEY CHASSIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1951,250,5.4l+327cid+l8,1435167", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1951, "model": "250"}}}

@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chrysler,1988,phantom", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1988, "model": "PHANTOM"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,1988,volare", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1988, "model": "VOLARE"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,1988,conquest", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1988, "model": "CONQUEST"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,1988,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1988, "model": "TOWN & COUNTRY"}}}

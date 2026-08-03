@@ -4,3 +4,4 @@
 {"node_type": "model", "href": "/en/catalog/skoda,1951,1101", "payload": {"nodetype": "model", "ctx": {"make": "SKODA", "year": 1951, "model": "1101"}}}
 {"node_type": "model", "href": "/en/catalog/skoda,1953,1200", "payload": {"nodetype": "model", "ctx": {"make": "SKODA", "year": 1953, "model": "1200"}}}
 {"node_type": "model", "href": "/en/catalog/skoda,1954,1200", "payload": {"nodetype": "model", "ctx": {"make": "SKODA", "year": 1954, "model": "1200"}}}
+{"node_type": "carcode", "href": "/en/catalog/skoda,1952,1200,1.2l+l4,1439056", "payload": {"nodetype": "carcode", "ctx": {"make": "SKODA", "year": 1952, "model": "1200"}}}

@@ -1,1 +1,24 @@
 {"node_type": "model", "href": "/en/catalog/lincoln,2000,ls", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2000, "model": "LS"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2002,continental,4.6l+v8,1387166", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2002, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2003,aviator,4.6l+v8,1410691", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2003, "model": "AVIATOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2002,blackwood,5.4l+v8,1377828", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2002, "model": "BLACKWOOD"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2002,navigator,5.4l+v8,1387199", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2002, "model": "NAVIGATOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2000,town+car,4.6l+v8,1363654", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2000, "model": "TOWN CAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2001,ls,3.0l+v6,1373891", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2001, "model": "LS"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2001,town+car,4.6l+v8,1373925", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2001, "model": "TOWN CAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2000,continental,4.6l+v8,1363610", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2000, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2003,town+car,4.6l+v8,1410714", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2003, "model": "TOWN CAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2004,town+car,4.6l+v8,1426160", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2004, "model": "TOWN CAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2001,ls,3.9l+v8,1373903", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2001, "model": "LS"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2001,navigator,5.4l+v8,1434768", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2001, "model": "NAVIGATOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2000,ls,3.9l+v8,1363632", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2000, "model": "LS"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2004,ls,3.9l+v8,1426137", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2004, "model": "LS"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2004,ls,3.0l+v6,1426126", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2004, "model": "LS"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2003,navigator,5.4l+v8,1410703", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2003, "model": "NAVIGATOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2003,ls,3.9l+v8,1416697", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2003, "model": "LS"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2003,ls,3.0l+v6,1416686", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2003, "model": "LS"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2002,town+car,4.6l+v8,1387201", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2002, "model": "TOWN CAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2003,blackwood,5.4l+v8,951497", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2003, "model": "BLACKWOOD"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2002,ls,3.9l+v8,1387188", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2002, "model": "LS"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2001,continental,4.6l+v8,1373880", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2001, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2002,ls,3.0l+v6,1387177", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2002, "model": "LS"}}}

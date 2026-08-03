@@ -23,3 +23,5 @@
 {"node_type": "model", "href": "/en/catalog/bmw,1957,503", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1957, "model": "503"}}}
 {"node_type": "model", "href": "/en/catalog/bmw,1958,503", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1958, "model": "503"}}}
 {"node_type": "model", "href": "/en/catalog/bmw,1959,503", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1959, "model": "503"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,1958,isetta,582cc+h2,1435249", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 1958, "model": "ISETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,1956,isetta,247cc+l1,1435239", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 1956, "model": "ISETTA"}}}

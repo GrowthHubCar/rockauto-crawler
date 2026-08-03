@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/dodge,1997,ram+3500+van", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1997, "model": "RAM 3500 VAN"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,1997,ram+4000", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1997, "model": "RAM 4000"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,1997,stratus", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1997, "model": "STRATUS"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,1997,viper", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1997, "model": "VIPER"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,1997,ram+3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1997, "model": "RAM 3500 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,1997,ram+2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1997, "model": "RAM 2500 PICKUP"}}}

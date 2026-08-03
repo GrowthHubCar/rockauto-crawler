@@ -28,3 +28,18 @@
 {"node_type": "model", "href": "/en/catalog/studebaker,1957,scotsman", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1957, "model": "SCOTSMAN"}}}
 {"node_type": "model", "href": "/en/catalog/studebaker,1958,scotsman", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1958, "model": "SCOTSMAN"}}}
 {"node_type": "model", "href": "/en/catalog/studebaker,1959,lark", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1959, "model": "LARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1959,silver+hawk,4.2l+259cid+v8,1398236", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1959, "model": "SILVER HAWK"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1956,sky+hawk,4.7l+289cid+v8,1398247", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1956, "model": "SKY HAWK"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1956,golden+hawk,5.8l+352cid+v8,1439906", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1956, "model": "GOLDEN HAWK"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1959,truck,2.8l+170cid+l6,219", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1959, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1959,silver+hawk,4.7l+289cid+v8,1489432", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1959, "model": "SILVER HAWK"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1957,champion,3.0l+186cid+l6,1397594", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1957, "model": "CHAMPION"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1957,president,4.7l+289cid+v8,1398146", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1957, "model": "PRESIDENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1955,truck,3.7l+224cid+v8,887", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1955, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1956,truck,3.7l+224cid+v8,888", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1956, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1957,silver+hawk,4.7l+289cid+v8,1398180", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1957, "model": "SILVER HAWK"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1955,truck,3.0l+186cid+l6,215", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1955, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1956,taxi,3.0l+186cid+l6,1488455", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1956, "model": "TAXI"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1955,champion,3.0l+186cid+l6,1397572", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1955, "model": "CHAMPION"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1959,lark,4.7l+289cid+v8,1489431", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1959, "model": "LARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1957,truck,4.2l+259cid+v8,889", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1957, "model": "TRUCK"}}}

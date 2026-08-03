@@ -9,3 +9,19 @@
 {"node_type": "model", "href": "/en/catalog/aston+martin,2024,dbx707", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2024, "model": "DBX707"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,2024,valour", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2024, "model": "VALOUR"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,2024,db12", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2024, "model": "DB12"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2020,vantage,4.0l+v8+turbocharged,3445810", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2020, "model": "VANTAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2022,dbx,4.0l+v8+turbocharged,3450369", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2022, "model": "DBX"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2021,dbx,4.0l+v8+turbocharged,3447221", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2021, "model": "DBX"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2020,dbs,5.2l+v12+turbocharged,3445808", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2020, "model": "DBS"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2022,db11,4.0l+v8+turbocharged,3450366", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2022, "model": "DB11"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2021,db11,5.2l+v12+turbocharged,3447219", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2021, "model": "DB11"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2020,rapide+e,electric,3445809", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2020, "model": "RAPIDE E"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2022,vantage,5.2l+v12+turbocharged,3454232", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2022, "model": "VANTAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2020,db11,4.0l+v8+turbocharged,3445806", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2020, "model": "DB11"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2022,dbs,5.2l+v12+turbocharged,3450368", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2022, "model": "DBS"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2022,db11,5.2l+v12+turbocharged,3450367", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2022, "model": "DB11"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2021,vantage,4.0l+v8+turbocharged,3447222", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2021, "model": "VANTAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2021,db11,4.0l+v8+turbocharged,3447218", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2021, "model": "DB11"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2022,vantage,4.0l+v8+turbocharged,3450988", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2022, "model": "VANTAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2020,db11,5.2l+v12+turbocharged,3445807", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2020, "model": "DB11"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2021,dbs,5.2l+v12+turbocharged,3447220", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2021, "model": "DBS"}}}

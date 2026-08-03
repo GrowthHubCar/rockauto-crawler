@@ -17,3 +17,5 @@
 {"node_type": "model", "href": "/en/catalog/nash,1934,lafayette", "payload": {"nodetype": "model", "ctx": {"make": "NASH", "year": 1934, "model": "LAFAYETTE"}}}
 {"node_type": "model", "href": "/en/catalog/nash,1933,ambassador", "payload": {"nodetype": "model", "ctx": {"make": "NASH", "year": 1933, "model": "AMBASSADOR"}}}
 {"node_type": "model", "href": "/en/catalog/nash,1934,ambassador", "payload": {"nodetype": "model", "ctx": {"make": "NASH", "year": 1934, "model": "AMBASSADOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1932,series+990,5.3l+322cid+l8,3310084", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1932, "model": "SERIES 990"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1932,series+970,4.1l+247cid+l8,3310083", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1932, "model": "SERIES 970"}}}

@@ -1,2 +1,14 @@
 {"node_type": "model", "href": "/en/catalog/bentley,2013,mulsanne", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2013, "model": "MULSANNE"}}}
 {"node_type": "model", "href": "/en/catalog/bentley,2013,flying+spur", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2013, "model": "FLYING SPUR"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2010,continental,6.0l+w12+turbocharged,1446096", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2010, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2012,continental,6.0l+w12+turbocharged,3015137", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2012, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2013,continental,6.0l+w12+turbocharged,3294230", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2013, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2011,continental,6.0l+w12+turbocharged,3015136", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2011, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2012,mulsanne,6.8l+v8+turbocharged,1503135", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2012, "model": "MULSANNE"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2014,continental,4.0l+v8+turbocharged,3305980", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2014, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2011,mulsanne,6.8l+v8+turbocharged,1447804", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2011, "model": "MULSANNE"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2014,continental,6.0l+w12+turbocharged,3305981", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2014, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2014,flying+spur,6.0l+w12+turbocharged,3309076", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2014, "model": "FLYING SPUR"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2014,mulsanne,6.8l+v8+turbocharged,3305982", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2014, "model": "MULSANNE"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2010,azure,6.8l+v8+turbocharged,1446095", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2010, "model": "AZURE"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2013,continental,4.0l+v8+turbocharged,3294255", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2013, "model": "CONTINENTAL"}}}

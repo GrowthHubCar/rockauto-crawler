@@ -22,3 +22,4 @@
 {"node_type": "model", "href": "/en/catalog/willys,1929,knight+model+70a", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1929, "model": "KNIGHT MODEL 70A"}}}
 {"node_type": "model", "href": "/en/catalog/willys,1929,whippet+model+98a", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1929, "model": "WHIPPET MODEL 98A"}}}
 {"node_type": "model", "href": "/en/catalog/willys,1929,whippet+model+96a", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1929, "model": "WHIPPET MODEL 96A"}}}
+{"node_type": "carcode", "href": "/en/catalog/willys,1928,knight+model+66a,6cyl,2001589", "payload": {"nodetype": "carcode", "ctx": {"make": "WILLYS", "year": 1928, "model": "KNIGHT MODEL 66A"}}}

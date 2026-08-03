@@ -10,3 +10,5 @@
 {"node_type": "model", "href": "/en/catalog/packard,1946,clipper+6", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1946, "model": "CLIPPER 6"}}}
 {"node_type": "model", "href": "/en/catalog/packard,1947,clipper+6", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1947, "model": "CLIPPER 6"}}}
 {"node_type": "model", "href": "/en/catalog/packard,1949,super+deluxe+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1949, "model": "SUPER DELUXE EIGHT"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1948,custom+eight,5.8l+356cid+l8,1486870", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1948, "model": "CUSTOM EIGHT"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1948,super+eight,5.3l+327cid+l8,1486873", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1948, "model": "SUPER EIGHT"}}}

@@ -13,3 +13,8 @@
 {"node_type": "model", "href": "/en/catalog/rolls-royce,1982,silver+spirit", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1982, "model": "SILVER SPIRIT"}}}
 {"node_type": "model", "href": "/en/catalog/rolls-royce,1983,silver+spirit", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1983, "model": "SILVER SPIRIT"}}}
 {"node_type": "model", "href": "/en/catalog/rolls-royce,1984,silver+spirit", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1984, "model": "SILVER SPIRIT"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1980,silver+wraith+ii,6.8l+v8,1397381", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1980, "model": "SILVER WRAITH II"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1980,corniche,6.8l+v8,1396751", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1980, "model": "CORNICHE"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1981,silver+spur,6.7l+v8,1397224", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1981, "model": "SILVER SPUR"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1980,silver+shadow+ii,6.8l+v8,1397189", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1980, "model": "SILVER SHADOW II"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1980,camargue,6.8l+v8,1399226", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1980, "model": "CAMARGUE"}}}

@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2009,endeavor", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2009, "model": "ENDEAVOR"}}}
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2009,l200", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2009, "model": "L200"}}}
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2009,grandis", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2009, "model": "GRANDIS"}}}
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2009,montero", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2009, "model": "MONTERO"}}}
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2009,montero+sport", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2009, "model": "MONTERO SPORT"}}}
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2009,outlander", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2009, "model": "OUTLANDER"}}}
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2009,galant", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2009, "model": "GALANT"}}}
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2009,eclipse", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2009, "model": "ECLIPSE"}}}

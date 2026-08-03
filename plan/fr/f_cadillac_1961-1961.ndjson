@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/cadillac,1961,series+62", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1961, "model": "SERIES 62"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,1961,eldorado", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1961, "model": "ELDORADO"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,1961,deville", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1961, "model": "DEVILLE"}}}

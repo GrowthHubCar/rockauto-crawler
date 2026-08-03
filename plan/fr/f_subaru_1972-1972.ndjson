@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/subaru,1972,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1972, "model": "DELUXE"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,1972,star", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1972, "model": "STAR"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,1972,gl", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1972, "model": "GL"}}}

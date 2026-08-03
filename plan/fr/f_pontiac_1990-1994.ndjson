@@ -5,3 +5,19 @@
 {"node_type": "model", "href": "/en/catalog/pontiac,1994,grand+am", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1994, "model": "GRAND AM"}}}
 {"node_type": "model", "href": "/en/catalog/pontiac,1992,firebird", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1992, "model": "FIREBIRD"}}}
 {"node_type": "model", "href": "/en/catalog/pontiac,1994,firefly", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1994, "model": "FIREFLY"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1990,firebird,5.0l+305cid+v8,1251650", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1990, "model": "FIREBIRD"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1992,lemans,1.6l+l4,1430366", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1992, "model": "LEMANS"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1990,tempest,2.2l+134cid+l4,1261606", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1990, "model": "TEMPEST"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1991,trans+sport,3.1l+v6,1261707", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1991, "model": "TRANS SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1990,trans+sport,3.1l+189cid+v6,1261695", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1990, "model": "TRANS SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1992,grand+am,2.3l+l4+dohc,1252932", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1992, "model": "GRAND AM"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1991,bonneville,3.8l+v6,1247341", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1991, "model": "BONNEVILLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1992,firebird,5.7l+v8,1251863", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1992, "model": "FIREBIRD"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1994,firebird,5.7l+v8,1251942", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1994, "model": "FIREBIRD"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1992,firebird,3.1l+v6,1251829", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1992, "model": "FIREBIRD"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1992,grand+prix,3.1l+v6,1255755", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1992, "model": "GRAND PRIX"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1990,grand+am,2.5l+151cid+l4,1252831", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1990, "model": "GRAND AM"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1992,trans+sport,3.1l+v6,1261718", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1992, "model": "TRANS SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1991,tempest,3.1l+v6,1261662", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1991, "model": "TEMPEST"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1990,sunbird,2.0l+122cid+l4,1260931", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1990, "model": "SUNBIRD"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1991,firebird,3.1l+v6,1251739", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1991, "model": "FIREBIRD"}}}

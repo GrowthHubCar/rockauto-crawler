@@ -2,3 +2,4 @@
 {"node_type": "model", "href": "/en/catalog/hotchkiss,1952,gregoire", "payload": {"nodetype": "model", "ctx": {"make": "HOTCHKISS", "year": 1952, "model": "GREGOIRE"}}}
 {"node_type": "model", "href": "/en/catalog/hotchkiss,1953,gregoire", "payload": {"nodetype": "model", "ctx": {"make": "HOTCHKISS", "year": 1953, "model": "GREGOIRE"}}}
 {"node_type": "model", "href": "/en/catalog/hotchkiss,1954,gregoire", "payload": {"nodetype": "model", "ctx": {"make": "HOTCHKISS", "year": 1954, "model": "GREGOIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hotchkiss,1951,gregoire,2.2l+h4,1439448", "payload": {"nodetype": "carcode", "ctx": {"make": "HOTCHKISS", "year": 1951, "model": "GREGOIRE"}}}

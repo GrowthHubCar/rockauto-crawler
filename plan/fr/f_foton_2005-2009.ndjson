@@ -1,0 +1,3 @@
+{"node_type": "carcode", "href": "/en/catalog/foton,2007,ollin,4.0l+l4+diesel+turbocharged,3316208", "payload": {"nodetype": "carcode", "ctx": {"make": "FOTON", "year": 2007, "model": "OLLIN"}}}
+{"node_type": "carcode", "href": "/en/catalog/foton,2007,forland,2.2l+l4+diesel,3316206", "payload": {"nodetype": "carcode", "ctx": {"make": "FOTON", "year": 2007, "model": "FORLAND"}}}
+{"node_type": "carcode", "href": "/en/catalog/foton,2007,forland,3.4l+l4+diesel+turbocharged,3316207", "payload": {"nodetype": "carcode", "ctx": {"make": "FOTON", "year": 2007, "model": "FORLAND"}}}

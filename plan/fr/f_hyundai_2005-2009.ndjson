@@ -1,1 +1,66 @@
 {"node_type": "model", "href": "/en/catalog/hyundai,2007,accent", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2007, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2007,tiburon,2.7l+v6,1434926", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2007, "model": "TIBURON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2007,veracruz,3.8l+v6,1438327", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2007, "model": "VERACRUZ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2006,tiburon,2.7l+v6,1432772", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2006, "model": "TIBURON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2008,azera,3.8l+v6,1441270", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2008, "model": "AZERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2007,sonata,3.3l+v6,1434306", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2007, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2006,santa+fe,3.5l+v6,1432777", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2006, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2009,santa+fe,3.3l+v6,1443941", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2005,santa+fe,2.4l+l4,1438570", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2005, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2006,elantra,2.0l+l4,1432767", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2006, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2005,tiburon,2.0l+l4,1431320", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2005, "model": "TIBURON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2008,santa+fe,3.3l+v6,1441265", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2008, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2008,santa+fe,2.7l+v6,1441276", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2008, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2008,entourage,3.8l+v6,1441272", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2008, "model": "ENTOURAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2006,tiburon,2.0l+l4,1432770", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2006, "model": "TIBURON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2008,azera,3.3l+v6,1441264", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2008, "model": "AZERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2008,tiburon,2.7l+v6,1441973", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2008, "model": "TIBURON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2009,tucson,2.7l+v6,1443944", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2005,tucson,2.0l+l4,1431427", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2005, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2009,sonata,2.4l+l4,1442490", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2007,santa+fe,2.7l+v6,1434195", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2007, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2007,santa+fe,3.3l+v6,1434197", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2007, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2007,azera,3.8l+v6,1434379", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2007, "model": "AZERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2005,accent,1.6l+l4,1430889", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2005, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2006,tucson,2.7l+v6,1432774", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2006, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2009,elantra,2.0l+l4,1443939", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2005,tucson,2.7l+v6,1431428", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2005, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2006,accent,1.6l+l4,1433289", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2006, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2005,tiburon,2.7l+v6,1430894", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2005, "model": "TIBURON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2007,entourage,3.8l+v6,1433385", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2007, "model": "ENTOURAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2009,tucson,2.0l+l4,1443945", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2005,xg350,3.5l+v6,1430898", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2005, "model": "XG350"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2008,tiburon,2.0l+l4,1441969", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2008, "model": "TIBURON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2007,elantra,2.0l+l4,1434922", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2007, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2009,santa+fe,2.7l+v6,1443942", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2008,tucson,2.0l+l4,1441970", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2008, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2009,veracruz,3.8l+v6,1443948", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "VERACRUZ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2006,sonata,2.4l+l4,1432008", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2006, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2009,genesis,4.6l+v8,1442850", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "GENESIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2005,sonata,2.7l+v6,1430890", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2005, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2009,sonata,3.3l+v6,1442491", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2009,azera,3.8l+v6,1442834", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "AZERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2007,tiburon,2.0l+l4,1434923", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2007, "model": "TIBURON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2009,azera,3.3l+v6,1442833", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "AZERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2006,sonata,3.3l+v6,1432010", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2006, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2006,santa+fe,2.4l+l4,1438569", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2006, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2008,elantra,2.0l+l4,1441283", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2008, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2007,azera,3.3l+v6,1438374", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2007, "model": "AZERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2006,tucson,2.0l+l4,1432776", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2006, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2008,veracruz,3.8l+v6,1441274", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2008, "model": "VERACRUZ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2009,veracruz,3.0l+v6+diesel+turbocharged,3098086", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "VERACRUZ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2008,tucson,2.7l+v6,1441975", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2008, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2005,santa+fe,3.5l+v6,1431421", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2005, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2008,sonata,3.3l+v6,1441268", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2008, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2009,genesis,3.8l+v6,1442849", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "GENESIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2006,santa+fe,2.7l+v6,1432771", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2006, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2005,elantra,2.0l+l4,1431312", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2005, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2008,sonata,2.4l+l4,1441278", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2008, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2006,azera,3.8l+v6,1433291", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2006, "model": "AZERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2007,sonata,2.4l+l4,1433546", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2007, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2009,accent,1.6l+l4,1443451", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2008,accent,1.6l+l4,1441280", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2008, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2007,tucson,2.0l+l4,1434380", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2007, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2007,tucson,2.7l+v6,1434382", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2007, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2005,sonata,2.4l+l4,1430893", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2005, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2005,santa+fe,2.7l+v6,1431420", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2005, "model": "SANTA FE"}}}

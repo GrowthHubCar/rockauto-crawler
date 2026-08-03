@@ -5,3 +5,7 @@
 {"node_type": "model", "href": "/en/catalog/franklin,1931,series+15+deluxe", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1931, "model": "SERIES 15 DELUXE"}}}
 {"node_type": "model", "href": "/en/catalog/franklin,1933,olympic", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1933, "model": "OLYMPIC"}}}
 {"node_type": "model", "href": "/en/catalog/franklin,1934,olympic", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1934, "model": "OLYMPIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/franklin,1932,airman,6cyl,952496", "payload": {"nodetype": "carcode", "ctx": {"make": "FRANKLIN", "year": 1932, "model": "AIRMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/franklin,1934,twelve,v12,952660", "payload": {"nodetype": "carcode", "ctx": {"make": "FRANKLIN", "year": 1934, "model": "TWELVE"}}}
+{"node_type": "carcode", "href": "/en/catalog/franklin,1931,series+15,6cyl,952424", "payload": {"nodetype": "carcode", "ctx": {"make": "FRANKLIN", "year": 1931, "model": "SERIES 15"}}}
+{"node_type": "carcode", "href": "/en/catalog/franklin,1933,twelve,v12,952580", "payload": {"nodetype": "carcode", "ctx": {"make": "FRANKLIN", "year": 1933, "model": "TWELVE"}}}

@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/nissan,2001,tsuru", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2001, "model": "TSURU"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,2001,urvan", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2001, "model": "URVAN"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,2001,tsubame", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2001, "model": "TSUBAME"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,2001,almera", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2001, "model": "ALMERA"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,2001,d21+pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2001, "model": "D21 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,2001,frontier", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2001, "model": "FRONTIER"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,2001,altra+ev", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2001, "model": "ALTRA EV"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,2001,altima", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2001, "model": "ALTIMA"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,2001,xterra", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2001, "model": "XTERRA"}}}

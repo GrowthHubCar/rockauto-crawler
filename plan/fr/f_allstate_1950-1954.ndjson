@@ -1,3 +1,5 @@
 {"node_type": "model", "href": "/en/catalog/allstate,1952,a-230", "payload": {"nodetype": "model", "ctx": {"make": "ALLSTATE", "year": 1952, "model": "A-230"}}}
 {"node_type": "model", "href": "/en/catalog/allstate,1953,a-230", "payload": {"nodetype": "model", "ctx": {"make": "ALLSTATE", "year": 1953, "model": "A-230"}}}
 {"node_type": "model", "href": "/en/catalog/allstate,1953,a-240", "payload": {"nodetype": "model", "ctx": {"make": "ALLSTATE", "year": 1953, "model": "A-240"}}}
+{"node_type": "carcode", "href": "/en/catalog/allstate,1952,a-240,2.6l+161cid+l6,1442174", "payload": {"nodetype": "carcode", "ctx": {"make": "ALLSTATE", "year": 1952, "model": "A-240"}}}
+{"node_type": "carcode", "href": "/en/catalog/allstate,1953,a-230,2.6l+161cid+l6,1487560", "payload": {"nodetype": "carcode", "ctx": {"make": "ALLSTATE", "year": 1953, "model": "A-230"}}}

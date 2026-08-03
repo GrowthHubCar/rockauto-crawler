@@ -14,3 +14,5 @@
 {"node_type": "model", "href": "/en/catalog/studebaker,1925,standard+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1925, "model": "STANDARD SIX"}}}
 {"node_type": "model", "href": "/en/catalog/studebaker,1926,standard+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1926, "model": "STANDARD SIX"}}}
 {"node_type": "model", "href": "/en/catalog/studebaker,1927,special", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1927, "model": "SPECIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1928,dictator,242cid+l6,2001584", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1928, "model": "DICTATOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1928,president+eight,l8,2001585", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1928, "model": "PRESIDENT EIGHT"}}}

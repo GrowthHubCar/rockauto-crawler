@@ -6,3 +6,14 @@
 {"node_type": "model", "href": "/en/catalog/bentley,2001,arnage", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2001, "model": "ARNAGE"}}}
 {"node_type": "model", "href": "/en/catalog/bentley,2002,arnage", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2002, "model": "ARNAGE"}}}
 {"node_type": "model", "href": "/en/catalog/bentley,2003,arnage", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2003, "model": "ARNAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2000,arnage,4.4l+v8+turbocharged,1431731", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2000, "model": "ARNAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2001,azure,6.8l+v8+turbocharged,3033798", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2001, "model": "AZURE"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2000,azure,6.8l+v8+turbocharged,3033797", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2000, "model": "AZURE"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2004,arnage,6.8l+v8+turbocharged,3033787", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2004, "model": "ARNAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2000,continental,6.7l+v8+turbocharged,1361348", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2000, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2001,continental,6.8l+v8+turbocharged,3033820", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2001, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2000,azure,6.7l+v8+turbocharged,1361337", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2000, "model": "AZURE"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2000,continental,6.8l+v8+turbocharged,3033819", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2000, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2004,continental,6.0l+w12+turbocharged,1431608", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2004, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2001,continental,6.7l+v8+turbocharged,1370843", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2001, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2000,arnage,6.8l+v8+turbocharged,3033783", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2000, "model": "ARNAGE"}}}

@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1961,v3000+forward+control", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1961, "model": "V3000 FORWARD CONTROL"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1961,1500+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1961, "model": "1500 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1961,2500+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1961, "model": "2500 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1961,3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1961, "model": "3500"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1961,suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1961, "model": "SUBURBAN"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1961,3000", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1961, "model": "3000"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1961,pb1000+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1961, "model": "PB1000 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1961,1000+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1961, "model": "1000 SERIES"}}}

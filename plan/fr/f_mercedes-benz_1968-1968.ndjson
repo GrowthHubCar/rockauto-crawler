@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1968,220", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1968, "model": "220"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1968,250", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1968, "model": "250"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1968,200", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1968, "model": "200"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1968,200d", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1968, "model": "200D"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1968,230", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1968, "model": "230"}}}

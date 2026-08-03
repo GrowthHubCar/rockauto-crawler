@@ -1,2 +1,4 @@
 {"node_type": "model", "href": "/en/catalog/lucid,2026,air", "payload": {"nodetype": "model", "ctx": {"make": "LUCID", "year": 2026, "model": "AIR"}}}
 {"node_type": "model", "href": "/en/catalog/lucid,2025,gravity", "payload": {"nodetype": "model", "ctx": {"make": "LUCID", "year": 2025, "model": "GRAVITY"}}}
+{"node_type": "carcode", "href": "/en/catalog/lucid,2025,air,electric,3458036", "payload": {"nodetype": "carcode", "ctx": {"make": "LUCID", "year": 2025, "model": "AIR"}}}
+{"node_type": "carcode", "href": "/en/catalog/lucid,2026,gravity,electric,3458993", "payload": {"nodetype": "carcode", "ctx": {"make": "LUCID", "year": 2026, "model": "GRAVITY"}}}

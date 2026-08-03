@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,1996,accent", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 1996, "model": "ACCENT"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,1996,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 1996, "model": "ELANTRA"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,1996,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 1996, "model": "SONATA"}}}

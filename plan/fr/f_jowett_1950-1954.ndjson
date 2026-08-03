@@ -7,3 +7,4 @@
 {"node_type": "model", "href": "/en/catalog/jowett,1951,javelin", "payload": {"nodetype": "model", "ctx": {"make": "JOWETT", "year": 1951, "model": "JAVELIN"}}}
 {"node_type": "model", "href": "/en/catalog/jowett,1952,javelin", "payload": {"nodetype": "model", "ctx": {"make": "JOWETT", "year": 1952, "model": "JAVELIN"}}}
 {"node_type": "model", "href": "/en/catalog/jowett,1953,javelin", "payload": {"nodetype": "model", "ctx": {"make": "JOWETT", "year": 1953, "model": "JAVELIN"}}}
+{"node_type": "carcode", "href": "/en/catalog/jowett,1954,javelin,1.5l+h4,1439199", "payload": {"nodetype": "carcode", "ctx": {"make": "JOWETT", "year": 1954, "model": "JAVELIN"}}}

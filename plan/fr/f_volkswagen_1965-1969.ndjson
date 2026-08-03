@@ -5,3 +5,23 @@
 {"node_type": "model", "href": "/en/catalog/volkswagen,1967,fastback", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1967, "model": "FASTBACK"}}}
 {"node_type": "model", "href": "/en/catalog/volkswagen,1968,fastback", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1968, "model": "FASTBACK"}}}
 {"node_type": "model", "href": "/en/catalog/volkswagen,1969,fastback", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1969, "model": "FASTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1966,karmann+ghia,1.3l+h4,1366040", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1966, "model": "KARMANN GHIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1967,squareback,1.6l+h4,1366118", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1967, "model": "SQUAREBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1966,fastback,1.6l+h4,1351819", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1966, "model": "FASTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1967,transporter,1.5l+h4,1351785", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1967, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1966,squareback,1.6l+h4,1370168", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1966, "model": "SQUAREBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1965,transporter,1.2l+h4,1492791", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1965, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1968,karmann+ghia,1.5l+h4,1284140", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1968, "model": "KARMANN GHIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1968,beetle,1.5l+h4,1280157", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1968, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1969,campmobile,1.6l+h4,1280562", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1969, "model": "CAMPMOBILE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1965,beetle,1.2l+h4,1351842", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1965, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1967,beetle,1.5l+h4,1351774", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1967, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1967,karmann+ghia,1.5l+h4,1366039", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1967, "model": "KARMANN GHIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1968,transporter,1.6l+h4,1285792", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1968, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1965,transporter,1.5l+h4,1351897", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1965, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1968,campmobile,1.6l+h4,1280551", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1968, "model": "CAMPMOBILE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1969,karmann+ghia,1.5l+h4,1284151", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1969, "model": "KARMANN GHIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1968,squareback,1.6l+h4,1370146", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1968, "model": "SQUAREBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1969,beetle,1.5l+h4,1280168", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1969, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1966,beetle,1.2l+h4,1351796", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1966, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1969,transporter,1.6l+h4,1285804", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1969, "model": "TRANSPORTER"}}}

@@ -1,1 +1,10 @@
 {"node_type": "model", "href": "/en/catalog/buick,2026,encore", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2026, "model": "ENCORE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2026,envista,1.2l+l3+turbocharged,3458333", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2026, "model": "ENVISTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2026,encore,1.3l+l3+turbocharged,3458331", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2026, "model": "ENCORE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2026,envision,2.0l+l4+turbocharged,3458332", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2026, "model": "ENVISION"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2025,envista,1.2l+l3+turbocharged,3455508", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2025, "model": "ENVISTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2026,enclave,2.5l+l4+turbocharged,3458330", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2026, "model": "ENCLAVE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2025,envision,2.0l+l4+turbocharged,3455507", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2025, "model": "ENVISION"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2025,encore,1.2l+l3+turbocharged,3455769", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2025, "model": "ENCORE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2025,enclave,2.5l+l4+turbocharged,3455768", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2025, "model": "ENCLAVE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2025,encore,1.3l+l3+turbocharged,3455506", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2025, "model": "ENCORE"}}}

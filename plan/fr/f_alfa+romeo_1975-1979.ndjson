@@ -6,3 +6,9 @@
 {"node_type": "model", "href": "/en/catalog/alfa+romeo,1977,sprint", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1977, "model": "SPRINT"}}}
 {"node_type": "model", "href": "/en/catalog/alfa+romeo,1979,sprint", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1979, "model": "SPRINT"}}}
 {"node_type": "model", "href": "/en/catalog/alfa+romeo,1979,sport", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1979, "model": "SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1976,alfetta,2.0l+l4,1001248", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1976, "model": "ALFETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1978,spider,2.0l+l4,1001518", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1978, "model": "SPIDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1977,alfetta,2.0l+l4,1001260", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1977, "model": "ALFETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1978,sport,2.0l+l4,1001800", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1978, "model": "SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1978,sprint,2.0l+l4,1001833", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1978, "model": "SPRINT"}}}
+{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1975,montreal,2.6l+v8,1501111", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1975, "model": "MONTREAL"}}}

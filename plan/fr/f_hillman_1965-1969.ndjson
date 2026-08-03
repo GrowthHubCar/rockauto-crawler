@@ -1,3 +1,7 @@
 {"node_type": "model", "href": "/en/catalog/hillman,1965,minx", "payload": {"nodetype": "model", "ctx": {"make": "HILLMAN", "year": 1965, "model": "MINX"}}}
 {"node_type": "model", "href": "/en/catalog/hillman,1965,husky", "payload": {"nodetype": "model", "ctx": {"make": "HILLMAN", "year": 1965, "model": "HUSKY"}}}
 {"node_type": "model", "href": "/en/catalog/hillman,1965,super+minx", "payload": {"nodetype": "model", "ctx": {"make": "HILLMAN", "year": 1965, "model": "SUPER MINX"}}}
+{"node_type": "carcode", "href": "/en/catalog/hillman,1966,super+minx,1.7l+l4,1439347", "payload": {"nodetype": "carcode", "ctx": {"make": "HILLMAN", "year": 1966, "model": "SUPER MINX"}}}
+{"node_type": "carcode", "href": "/en/catalog/hillman,1966,minx,1.7l+v4,3090320", "payload": {"nodetype": "carcode", "ctx": {"make": "HILLMAN", "year": 1966, "model": "MINX"}}}
+{"node_type": "carcode", "href": "/en/catalog/hillman,1966,husky,1.4l+l4,1439154", "payload": {"nodetype": "carcode", "ctx": {"make": "HILLMAN", "year": 1966, "model": "HUSKY"}}}
+{"node_type": "carcode", "href": "/en/catalog/hillman,1967,super+minx,1.7l+l4,1493754", "payload": {"nodetype": "carcode", "ctx": {"make": "HILLMAN", "year": 1967, "model": "SUPER MINX"}}}

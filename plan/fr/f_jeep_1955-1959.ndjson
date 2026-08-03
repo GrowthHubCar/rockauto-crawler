@@ -6,3 +6,6 @@
 {"node_type": "model", "href": "/en/catalog/jeep,1957,truck", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1957, "model": "TRUCK"}}}
 {"node_type": "model", "href": "/en/catalog/jeep,1958,truck", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1958, "model": "TRUCK"}}}
 {"node_type": "model", "href": "/en/catalog/jeep,1959,truck", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1959, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,1957,truck,2.2l+134cid+l4,1488680", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1957, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,1959,truck,2.2l+134cid+l4,1489332", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1959, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,1955,willys,3.7l+226cid+l6,1488111", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1955, "model": "WILLYS"}}}

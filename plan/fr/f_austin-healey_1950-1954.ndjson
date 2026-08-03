@@ -1,2 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/austin-healey,1953,100", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN-HEALEY", "year": 1953, "model": "100"}}}
 {"node_type": "model", "href": "/en/catalog/austin-healey,1954,100", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN-HEALEY", "year": 1954, "model": "100"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin-healey,1954,100,2.7l+l4,1440310", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN-HEALEY", "year": 1954, "model": "100"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mazda,1975,rx-4", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1975, "model": "RX-4"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,1975,rx-3", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1975, "model": "RX-3"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,1975,rotary+pickup", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1975, "model": "ROTARY PICKUP"}}}

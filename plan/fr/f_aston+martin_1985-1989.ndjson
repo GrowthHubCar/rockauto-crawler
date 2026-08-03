@@ -5,3 +5,9 @@
 {"node_type": "model", "href": "/en/catalog/aston+martin,1986,v-8", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1986, "model": "V-8"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,1988,v-8", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1988, "model": "V-8"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,1988,zagato", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1988, "model": "ZAGATO"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1989,v-8,5.3l+v8,1390924", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1989, "model": "V-8"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1987,zagato,5.3l+v8,1408610", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1987, "model": "ZAGATO"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1989,virage,5.3l+v8,1430620", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1989, "model": "VIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1987,v-8,5.3l+v8,1390867", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1987, "model": "V-8"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1987,lagonda,5.3l+v8,1390429", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1987, "model": "LAGONDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1989,lagonda,5.3l+v8,1390463", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1989, "model": "LAGONDA"}}}

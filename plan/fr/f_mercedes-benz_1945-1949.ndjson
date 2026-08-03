@@ -3,3 +3,4 @@
 {"node_type": "model", "href": "/en/catalog/mercedes-benz,1948,170+v", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1948, "model": "170 V"}}}
 {"node_type": "model", "href": "/en/catalog/mercedes-benz,1949,170+v", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1949, "model": "170 V"}}}
 {"node_type": "model", "href": "/en/catalog/mercedes-benz,1949,170+d", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1949, "model": "170 D"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1949,170+s,1.8l+108cid+l4,953242", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1949, "model": "170 S"}}}

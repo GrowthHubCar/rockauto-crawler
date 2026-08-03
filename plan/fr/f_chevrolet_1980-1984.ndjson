@@ -116,3 +116,135 @@
 {"node_type": "model", "href": "/en/catalog/chevrolet,1983,k5+blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "K5 BLAZER"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1982,celebrity", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "CELEBRITY"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1983,c35", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "C35"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1983,malibu,5.7l+350cid+v8+diesel,1055472", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1982,g10,5.0l+305cid+v8,1043839", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "G10"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,k10+pickup,4.8l+292cid+l6,1297694", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "K10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,medium+duty+truck,6.1l+374cid+l6+diesel+turbocharged,3296673", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,monte+carlo,5.0l+305cid+v8,1056237", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,p20,6.2l+379cid+v8+diesel,1058284", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "P20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,camaro,5.7l+350cid+v8,1035346", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "CAMARO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,tiltmaster,5.8l+353cid+l6+diesel+turbocharged,3450560", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "TILTMASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1982,g20,5.7l+350cid+v8,1045684", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "G20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,g10,4.1l+250cid+l6,1043941", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "G10"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,medium+duty+truck,7.0l+427cid+v8,3296672", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,monte+carlo,3.8l+231cid+v6+turbocharged,1056035", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,p30,7.4l+454cid+v8,1059173", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,p30,5.7l+350cid+v8,1058992", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,s10+blazer,2.8l+173cid+v6,1060401", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "S10 BLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,p10,4.8l+292cid+l6,1057777", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "P10"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,p30,4.8l+292cid+l6,1059140", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,c20+pickup,5.0l+305cid+v8,1032264", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "C20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,monza,2.5l+151cid+l4,1056866", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MONZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,monte+carlo,5.0l+305cid+v8,1056024", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,s10+pickup,2.2l+134cid+l4+diesel,1060681", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "S10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,el+camino,3.8l+231cid+v6,1042502", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "EL CAMINO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,corvette,5.0l+305cid+v8,1041141", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "CORVETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1982,monte+carlo,4.4l+267cid+v8,1384231", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,chevette,1.6l+98cid+l4,1040106", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "CHEVETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,stepvan,8.2l+501cid+v8+diesel,3434336", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "STEPVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,s10+blazer,2.2l+134cid+l4+diesel,1060399", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "S10 BLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,malibu,4.4l+267cid+v8,1384152", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,camaro,2.8l+173cid+v6,1035470", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "CAMARO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,camaro,2.8l+173cid+v6,1035234", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "CAMARO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,medium+duty+truck,6.0l+366cid+v8,3294479", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,malibu,4.4l+267cid+v8,1384174", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,k20+suburban,5.7l+350cid+v8,2785", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "K20 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,c30+pickup,7.4l+454cid+v8,1034200", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "C30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1983,c20+pickup,5.7l+350cid+v8,1032523", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "C20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1983,s10+pickup,2.2l+134cid+l4+diesel,1060647", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "S10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1982,p30,7.4l+454cid+v8,1059094", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,stepvan,6.0l+365cid+v8,3434338", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "STEPVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,luv,2.2l+134cid+l4+diesel,1054369", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "LUV"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,impala,4.4l+267cid+v8,1384051", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,k10+suburban,5.0l+305cid+v8,1298459", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "K10 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,camaro,5.0l+305cid+v8,1035335", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "CAMARO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1983,p30,5.7l+350cid+v8,1059117", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,c10+pickup,5.7l+350cid+v8+diesel,1030600", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "C10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,k30+pickup,6.2l+379cid+v8+diesel,1053021", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "K30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,monte+carlo,5.7l+350cid+v8,1318003", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1982,k30+pickup,6.2l+379cid+v8+diesel,1052941", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "K30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,camaro,5.0l+305cid+v8,1035492", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "CAMARO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,medium+duty+truck,10.4l+636cid+v8+diesel,3294481", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,k30+pickup,7.4l+454cid+v8,1053032", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "K30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1982,caprice,4.4l+267cid+v8,1383713", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "CAPRICE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,k30+pickup,4.8l+292cid+l6,1053009", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "K30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1983,medium+duty+truck,6.0l+366cid+v8,3295538", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,p30,4.8l+292cid+l6,1058981", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,monte+carlo,3.8l+231cid+v6+turbocharged,1055988", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,medium+duty+truck,4.8l+292cid+l6,3294452", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,medium+duty+truck,9.1l+555cid+v8+diesel+turbocharged,3294460", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,caprice,5.0l+305cid+v8,1036640", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "CAPRICE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1982,s10+pickup,2.8l+173cid+v6,1060614", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "S10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,monte+carlo,3.8l+229cid+v6,1056204", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,g20,5.0l+305cid+v8,1045460", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "G20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,stepvan,4.8l+292cid+l6,3295163", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "STEPVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,p20,4.8l+292cid+l6,1058183", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "P20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,malibu,5.7l+350cid+v8,1055315", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1983,stepvan,4.8l+292cid+l6,3297975", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "STEPVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,impala,3.8l+231cid+v6,1049587", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1982,monte+carlo,5.0l+305cid+v8,1056125", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,monte+carlo,4.4l+267cid+v8,1384220", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,medium+duty+truck,10.4l+636cid+v8+diesel+turbocharged,3294456", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,monte+carlo,3.8l+231cid+v6,1055999", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,c20+pickup,4.1l+250cid+l6,1032578", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "C20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1983,s10+pickup,2.0l+122cid+l4,1060636", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "S10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1982,p30,5.7l+350cid+v8,1059072", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1982,p20,6.2l+379cid+v8+diesel,1058228", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "P20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,g30,5.7l+350cid+v8,1047585", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "G30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,citation,2.8l+173cid+v6,1040421", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "CITATION"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,el+camino,3.8l+229cid+v6,1042513", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "EL CAMINO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,stepvan,5.7l+350cid+v8,3434337", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "STEPVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,caprice,5.7l+350cid+v8+diesel,1036651", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "CAPRICE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,impala,4.4l+267cid+v8,1384040", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,stepvan,4.8l+292cid+l6,3297107", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "STEPVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,k10+pickup,5.0l+305cid+v8,1298415", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "K10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,g20,5.7l+350cid+v8,1045471", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "G20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1982,bus,5.7l+350cid+v8,3296354", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "BUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,c10+pickup,7.4l+454cid+v8,1030622", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "C10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,monte+carlo,3.8l+231cid+v6,1056215", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1982,k30+pickup,7.4l+454cid+v8,1052952", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "K30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1983,celebrity,2.8l+173cid+v6,1038440", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "CELEBRITY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,monte+carlo,3.8l+229cid+v6,1056002", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,bel+air,4.4l+267cid+v8,1360932", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "BEL AIR"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,monte+carlo,4.4l+267cid+v8,1384219", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,malibu,3.8l+229cid+v6,1055191", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1983,s10+pickup,2.8l+173cid+v6,1060658", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "S10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1983,g20,6.2l+379cid+v8+diesel,1045752", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "G20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,s10+pickup,2.0l+122cid+l4,1060670", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "S10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1983,celebrity,4.3l+260cid+v6+diesel,1038451", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "CELEBRITY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,malibu,5.7l+350cid+v8,1055225", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,p30,6.2l+379cid+v8+diesel,1059162", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,medium+duty+truck,7.4l+454cid+v8,3294449", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,citation,2.5l+151cid+l4,1040410", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "CITATION"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,c20+pickup,5.7l+350cid+v8,1032275", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "C20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,medium+duty+truck,10.4l+636cid+v8+diesel+turbocharged,3296668", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,s10+blazer,2.0l+122cid+l4,1060388", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "S10 BLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,k30+pickup,6.6l+400cid+v8,1398708", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "K30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,medium+duty+truck,8.2l+501cid+v8+diesel+turbocharged,3294448", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1982,p30,4.8l+292cid+l6,1059061", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,impala,5.7l+350cid+v8,1049600", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,p30,7.4l+454cid+v8,1059050", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1983,s10+blazer,2.8l+173cid+v6,1060366", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "S10 BLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,camaro,3.8l+229cid+v6,1035313", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "CAMARO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,s10+pickup,1.9l+119cid+l4,1060669", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "S10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,g20,4.8l+292cid+l6,1045459", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "G20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1983,g20,5.0l+305cid+v8,1045730", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "G20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,c20+pickup,4.8l+292cid+l6,1032253", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "C20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,c20+suburban,5.0l+305cid+v8,1297515", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "C20 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,medium+duty+truck,8.2l+501cid+v8+diesel,3294477", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1982,k10+pickup,5.7l+350cid+v8,1298875", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "K10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,medium+duty+truck,8.2l+501cid+v8+diesel,3294447", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,medium+duty+truck,7.0l+427cid+v8,3294445", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1982,p30,6.2l+379cid+v8+diesel,1059083", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1983,stepvan,5.7l+350cid+v8,3434334", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "STEPVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,monza,3.8l+231cid+v6,1056877", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MONZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,p20,5.7l+350cid+v8,1058273", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "P20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,medium+duty+truck,5.7l+350cid+v8,3294450", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1982,g30,5.0l+305cid+v8,1047709", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "G30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,medium+duty+truck,10.4l+636cid+v8+diesel,3294453", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,medium+duty+truck,6.0l+366cid+v8,3294446", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,malibu,5.0l+305cid+v8,1055214", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,monte+carlo,5.0l+305cid+v8,1056079", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,p20,5.7l+350cid+v8,1058194", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "P20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1982,stepvan,4.8l+292cid+l6,3297974", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "STEPVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1983,s10+pickup,1.9l+119cid+l4,1060625", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "S10 PICKUP"}}}

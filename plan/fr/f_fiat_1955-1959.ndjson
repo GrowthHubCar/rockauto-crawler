@@ -19,3 +19,6 @@
 {"node_type": "model", "href": "/en/catalog/fiat,1956,1900", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1956, "model": "1900"}}}
 {"node_type": "model", "href": "/en/catalog/fiat,1958,1200", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1958, "model": "1200"}}}
 {"node_type": "model", "href": "/en/catalog/fiat,1959,1200", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1959, "model": "1200"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,1955,1900,1.9l+l4,1436397", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1955, "model": "1900"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,1955,600,633cc+l4,1392465", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1955, "model": "600"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,1955,1100,1.1l+l4,1391981", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1955, "model": "1100"}}}

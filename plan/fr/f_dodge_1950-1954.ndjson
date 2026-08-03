@@ -17,3 +17,20 @@
 {"node_type": "model", "href": "/en/catalog/dodge,1951,b-3+van", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1951, "model": "B-3 VAN"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,1952,b-3+van", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1952, "model": "B-3 VAN"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,1954,royal", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1954, "model": "ROYAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1954,coronet,3.8l+230cid+l6,1331648", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1954, "model": "CORONET"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1954,royal,4.0l+241cid+v8,1440397", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1954, "model": "ROYAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1953,coronet,3.9l+239cid+v8,1331716", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1953, "model": "CORONET"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1953,coronet,4.0l+241cid+v8,1487597", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1953, "model": "CORONET"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1954,truck,4.0l+241cid+v8,1487784", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1954, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1954,sierra,4.0l+241cid+v8,1487782", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1954, "model": "SIERRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1950,wayfarer,3.8l+230cid+l6,1331828", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1950, "model": "WAYFARER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1953,truck,3.8l+230cid+l6,1437805", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1953, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1951,truck,4.1l+251cid+l6,1487300", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1951, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1952,wayfarer,3.8l+230cid+l6,1331761", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1952, "model": "WAYFARER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1954,truck,3.6l+218cid+l6,1487770", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1954, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1950,truck,4.1l+251cid+l6,1487167", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1950, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1953,truck,4.1l+251cid+l6,1487602", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1953, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1951,coronet,3.8l+230cid+l6,1331772", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1951, "model": "CORONET"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1954,coronet,4.0l+241cid+v8,1487779", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1954, "model": "CORONET"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1953,meadowbrook,4.0l+241cid+v8,1487598", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1953, "model": "MEADOWBROOK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1954,truck,4.3l+265cid+l6,1487786", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1954, "model": "TRUCK"}}}

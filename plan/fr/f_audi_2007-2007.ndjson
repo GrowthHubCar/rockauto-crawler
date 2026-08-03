@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2007,tt", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2007, "model": "TT"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2007,q7", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2007, "model": "Q7"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2007,s6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2007, "model": "S6"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2007,s8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2007, "model": "S8"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2007,a8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2007, "model": "A8"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2007,a3", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2007, "model": "A3"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2007,a6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2007, "model": "A6"}}}

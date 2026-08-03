@@ -2,3 +2,70 @@
 {"node_type": "model", "href": "/en/catalog/workhorse,2005,fastrack+ft1261", "payload": {"nodetype": "model", "ctx": {"make": "WORKHORSE", "year": 2005, "model": "FASTRACK FT1261"}}}
 {"node_type": "model", "href": "/en/catalog/workhorse,2005,fastrack+ft1061", "payload": {"nodetype": "model", "ctx": {"make": "WORKHORSE", "year": 2005, "model": "FASTRACK FT1061"}}}
 {"node_type": "model", "href": "/en/catalog/workhorse,2005,fastrack+ft1601", "payload": {"nodetype": "model", "ctx": {"make": "WORKHORSE", "year": 2005, "model": "FASTRACK FT1601"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2005,lf72,6.6l+v8+diesel+turbocharged,3295166", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2005, "model": "LF72"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2008,r26,8.1l+v8,3296701", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2008, "model": "R26"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2005,r32,8.9l+l6+diesel+turbocharged,3295180", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2005, "model": "R32"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2006,w16,8.1l+v8,3297121", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2006, "model": "W16"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2005,fastrack+ft1801,6.5l+v8+diesel,1504907", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2005, "model": "FASTRACK FT1801"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2008,r26,6.7l+l6+diesel+turbocharged,3296702", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2008, "model": "R26"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2007,w20,8.1l+v8,3295188", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2007, "model": "W20"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2009,w18,8.1l+v8,3296710", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2009, "model": "W18"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2005,w20,8.1l+v8,3298008", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2005, "model": "W20"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2007,w25,8.1l+v8,3295192", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2007, "model": "W25"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2005,p42,7.4l+v8,3296700", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2005, "model": "P42"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2008,w18,8.1l+v8,3298006", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2008, "model": "W18"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2009,w42,4.5l+v6+diesel+turbocharged,3298020", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2009, "model": "W42"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2009,w22,8.1l+v8,3298012", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2009, "model": "W22"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2006,w22,8.1l+v8,3297123", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2006, "model": "W22"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2009,w42,4.8l+v8,3298019", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2009, "model": "W42"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2006,w18,8.1l+v8,3295183", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2006, "model": "W18"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2005,fastrack+ft1801,6.0l+v8,1504906", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2005, "model": "FASTRACK FT1801"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2005,p30,5.7l+v8,1442158", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2005, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2007,r32,8.9l+l6+diesel+turbocharged,3296703", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2007, "model": "R32"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2006,r32,8.9l+l6+diesel+turbocharged,3295182", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2006, "model": "R32"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2008,r32,8.3l+l6+diesel+turbocharged,3298003", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2008, "model": "R32"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2008,w42,4.5l+v6+diesel+turbocharged,3296719", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2008, "model": "W42"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2008,w62,6.0l+v8,3295195", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2008, "model": "W62"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2005,r32,8.3l+l6+diesel+turbocharged,3295179", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2005, "model": "R32"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2005,w24,8.1l+v8,3298014", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2005, "model": "W24"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2009,w21,8.1l+v8,3297125", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2009, "model": "W21"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2009,lf72,6.6l+v8+diesel+turbocharged,3297113", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2009, "model": "LF72"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2009,w20,8.1l+v8,3296714", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2009, "model": "W20"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2007,w18,8.1l+v8,3295186", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2007, "model": "W18"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2007,w22,8.1l+v8,3295190", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2007, "model": "W22"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2005,w42,4.5l+v6+diesel+turbocharged,3295194", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2005, "model": "W42"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2007,w42,4.5l+v6+diesel+turbocharged,3297131", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2007, "model": "W42"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2007,w62,6.0l+v8,3297128", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2007, "model": "W62"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2009,w62,6.0l+v8,3296718", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2009, "model": "W62"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2008,r32,8.9l+l6+diesel+turbocharged,3298002", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2008, "model": "R32"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2007,r26,8.1l+v8,3297120", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2007, "model": "R26"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2008,w25,8.1l+v8,3296717", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2008, "model": "W25"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2007,w16,8.1l+v8,3295185", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2007, "model": "W16"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2007,r26,6.7l+l6+diesel+turbocharged,3297119", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2007, "model": "R26"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2007,lf72,6.6l+v8+diesel+turbocharged,3295167", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2007, "model": "LF72"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2005,p32,8.1l+v8,3296696", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2005, "model": "P32"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2009,w24,8.1l+v8,3297127", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2009, "model": "W24"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2009,w25,8.1l+v8,3295193", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2009, "model": "W25"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2005,w22,8.1l+v8,3297126", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2005, "model": "W22"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2008,w21,8.1l+v8,3298009", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2008, "model": "W21"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2008,w16,8.1l+v8,3297124", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2008, "model": "W16"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2005,fastrack+ft1461,3.9l+l4+diesel+turbocharged,1504898", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2005, "model": "FASTRACK FT1461"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2006,w25,8.1l+v8,3298005", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2006, "model": "W25"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2009,w16,8.1l+v8,3296709", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2009, "model": "W16"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2007,r32,8.3l+l6+diesel+turbocharged,3296704", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2007, "model": "R32"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2005,fastrack+ft1261,4.8l+v8,1504896", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2005, "model": "FASTRACK FT1261"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2006,lf72,6.6l+v8+diesel+turbocharged,3297988", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2006, "model": "LF72"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2005,p42,6.5l+v8+diesel+turbocharged,3296699", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2005, "model": "P42"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2008,lf72,6.6l+v8+diesel+turbocharged,3297112", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2008, "model": "LF72"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2009,r26,6.7l+l6+diesel+turbocharged,3298001", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2009, "model": "R26"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2008,w24,8.1l+v8,3298015", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2008, "model": "W24"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2008,w20,8.1l+v8,3296713", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2008, "model": "W20"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2007,w24,8.1l+v8,3295191", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2007, "model": "W24"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2006,w24,8.1l+v8,3298004", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2006, "model": "W24"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2005,w25,8.1l+v8,3298016", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2005, "model": "W25"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2006,w42,4.5l+v6+diesel+turbocharged,3297129", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2006, "model": "W42"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2006,w20,8.1l+v8,3295184", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2006, "model": "W20"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2006,r32,8.3l+l6+diesel+turbocharged,3295181", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2006, "model": "R32"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2007,w21,8.1l+v8,3297122", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2007, "model": "W21"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2009,r26,8.1l+v8,3298000", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2009, "model": "R26"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2008,w22,8.1l+v8,3298011", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2008, "model": "W22"}}}

@@ -7,3 +7,9 @@
 {"node_type": "model", "href": "/en/catalog/volkswagen,1952,beetle", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1952, "model": "BEETLE"}}}
 {"node_type": "model", "href": "/en/catalog/volkswagen,1953,beetle", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1953, "model": "BEETLE"}}}
 {"node_type": "model", "href": "/en/catalog/volkswagen,1954,beetle", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1954, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1953,beetle,1.2l+h4,900047", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1953, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1954,transporter,1.2l+h4,1352258", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1954, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1954,beetle,1.2l+h4,1352247", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1954, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1952,beetle,1.2l+h4,900038", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1952, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1950,beetle,1.2l+h4,900017", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1950, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1951,transporter,1.1l+h4,1435102", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1951, "model": "TRANSPORTER"}}}

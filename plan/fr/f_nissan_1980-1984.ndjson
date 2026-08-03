@@ -2,3 +2,70 @@
 {"node_type": "model", "href": "/en/catalog/nissan,1984,720+pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1984, "model": "720 PICKUP"}}}
 {"node_type": "model", "href": "/en/catalog/nissan,1984,sentra", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1984, "model": "SENTRA"}}}
 {"node_type": "model", "href": "/en/catalog/nissan,1984,sakura", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1984, "model": "SAKURA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1984,pickup,1.8l+l4,3438607", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1984, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1981,280zx,2.8l+l6,1209338", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1981, "model": "280ZX"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1984,300zx,3.0l+v6+turbocharged,1209495", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1984, "model": "300ZX"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1983,720+pickup,2.5l+l4+diesel,1210307", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1983, "model": "720 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1981,maxima,2.8l+l6+diesel,1434406", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1981, "model": "MAXIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1984,pulsar+nx,1.6l+l4,1212398", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1984, "model": "PULSAR NX"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1980,210,1.2l+l4,1208810", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1980, "model": "210"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1980,810,2.4l+l6,1210442", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1980, "model": "810"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1981,510,2.0l+l4,1210037", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1981, "model": "510"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1984,maxima,2.4l+l6,1211241", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1984, "model": "MAXIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1984,300zx,3.0l+v6,1209507", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1984, "model": "300ZX"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1981,280zx,2.8l+l6+turbocharged,1430312", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1981, "model": "280ZX"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1982,stanza,2.0l+l4,1213209", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1982, "model": "STANZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1981,210,1.4l+l4,1430311", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1981, "model": "210"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1984,sentra,1.7l+l4+diesel,1212679", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1984, "model": "SENTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1980,720+pickup,2.0l+l4,1210206", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1980, "model": "720 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1983,sentra,1.6l+l4,1430317", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1983, "model": "SENTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1981,810,2.8l+l6+diesel,1210464", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1981, "model": "810"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1981,810,2.4l+l6,1210453", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1981, "model": "810"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1983,720+pickup,2.4l+l4,1210295", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1983, "model": "720 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1983,sentra,1.7l+l4+diesel,1212657", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1983, "model": "SENTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1981,210,1.5l+l4,1208854", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1981, "model": "210"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1981,720+pickup,2.2l+l4,1210217", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1981, "model": "720 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1980,210,1.5l+l4,1208832", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1980, "model": "210"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1982,200sx,2.2l+l4,1208562", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1982, "model": "200SX"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1980,210,1.4l+l4,1208821", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1980, "model": "210"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1983,sentra,1.5l+l4,1212646", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1983, "model": "SENTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1983,pulsar+nx,1.6l+l4,1212376", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1983, "model": "PULSAR NX"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1983,pulsar,1.6l+l4,1382150", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1983, "model": "PULSAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1982,210,1.5l+l4,1208887", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1982, "model": "210"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1982,210,1.2l+l4,1208876", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1982, "model": "210"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1983,720+pickup,2.2l+l4+diesel,1210284", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1983, "model": "720 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1982,maxima,2.4l+l6,1211207", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1982, "model": "MAXIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1982,maxima,2.8l+l6+diesel,1211218", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1982, "model": "MAXIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1983,720+pickup,2.2l+l4,1210262", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1983, "model": "720 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1984,sentra,1.6l+l4,1212668", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1984, "model": "SENTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1981,200sx,2.0l+l4,1208551", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1981, "model": "200SX"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1984,200sx,2.0l+l4,1208595", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1984, "model": "200SX"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1982,280zx,2.8l+l6+turbocharged,1209361", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1982, "model": "280ZX"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1984,tsuru,1.5l+l4,3011802", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1984, "model": "TSURU"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1983,200sx,2.2l+l4,1208573", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1983, "model": "200SX"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1981,310,1.5l+l4,1209912", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1981, "model": "310"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1982,280zx,2.8l+l6,1209350", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1982, "model": "280ZX"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1984,stanza,2.0l+l4,1213221", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1984, "model": "STANZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1981,maxima,2.4l+l6,1434405", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1981, "model": "MAXIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1983,maxima,2.4l+l6,1211229", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1983, "model": "MAXIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1981,720+pickup,2.2l+l4+diesel,1210228", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1981, "model": "720 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1980,310,1.4l+l4,1209899", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1980, "model": "310"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1984,720+pickup,2.4l+l4,1210329", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1984, "model": "720 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1983,pulsar+nx,1.5l+l4+turbocharged,1212387", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1983, "model": "PULSAR NX"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1981,210,1.2l+l4,1208843", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1981, "model": "210"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1984,pulsar+nx,1.5l+l4+turbocharged,1378087", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1984, "model": "PULSAR NX"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1982,720+pickup,2.2l+l4+diesel,1210240", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1982, "model": "720 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1982,720+pickup,2.2l+l4,1210239", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1982, "model": "720 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1984,200sx,1.8l+l4+turbocharged,1208584", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1984, "model": "200SX"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1984,micra,1.2l+l4,1211476", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1984, "model": "MICRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1982,sentra,1.5l+l4,1212624", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1982, "model": "SENTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1982,310,1.5l+l4,1209934", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1982, "model": "310"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1983,280zx,2.8l+l6+turbocharged,1209406", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1983, "model": "280ZX"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1980,200sx,2.0l+l4,1208540", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1980, "model": "200SX"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1983,280zx,2.8l+l6,1209394", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1983, "model": "280ZX"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1980,280zx,2.8l+l6,1209316", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1980, "model": "280ZX"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1984,720+pickup,2.5l+l4+diesel,1210330", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1984, "model": "720 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1983,maxima,2.8l+l6+diesel,1211230", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1983, "model": "MAXIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1980,510,2.0l+l4,1210026", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1980, "model": "510"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1983,stanza,2.0l+l4,1213210", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1983, "model": "STANZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1983,720+pickup,2.0l+l4,1210251", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1983, "model": "720 PICKUP"}}}

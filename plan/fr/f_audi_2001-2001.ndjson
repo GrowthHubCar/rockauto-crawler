@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2001,a3", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2001, "model": "A3"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2001,s6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2001, "model": "S6"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2001,a6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2001, "model": "A6"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2001,a4", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2001, "model": "A4"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2001,s3", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2001, "model": "S3"}}}

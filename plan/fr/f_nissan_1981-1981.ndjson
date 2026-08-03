@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/nissan,1981,810", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1981, "model": "810"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1981,720+pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1981, "model": "720 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1981,maxima", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1981, "model": "MAXIMA"}}}

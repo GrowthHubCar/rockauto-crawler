@@ -7,3 +7,4 @@
 {"node_type": "model", "href": "/en/catalog/simca,1958,vedette", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1958, "model": "VEDETTE"}}}
 {"node_type": "model", "href": "/en/catalog/simca,1959,vedette", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1959, "model": "VEDETTE"}}}
 {"node_type": "model", "href": "/en/catalog/simca,1959,ariane", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1959, "model": "ARIANE"}}}
+{"node_type": "carcode", "href": "/en/catalog/simca,1956,vedette,2.4l+v8,1439517", "payload": {"nodetype": "carcode", "ctx": {"make": "SIMCA", "year": 1956, "model": "VEDETTE"}}}

@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2023,venue", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "VENUE"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2023,ioniq+5", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "IONIQ 5"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2023,tucson", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "TUCSON"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2023,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "SONATA"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2023,santa+fe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "SANTA FE"}}}

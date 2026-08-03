@@ -5,3 +5,9 @@
 {"node_type": "model", "href": "/en/catalog/packard,1956,caribbean", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1956, "model": "CARIBBEAN"}}}
 {"node_type": "model", "href": "/en/catalog/packard,1956,executive", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1956, "model": "EXECUTIVE"}}}
 {"node_type": "model", "href": "/en/catalog/packard,1958,hawk", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1958, "model": "HAWK"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1955,caribbean,5.8l+352cid+v8,1435183", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1955, "model": "CARIBBEAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1956,patrician,6.1l+374cid+v8,1440835", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1956, "model": "PATRICIAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1957,clipper,4.7l+289cid+v8,1435144", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1957, "model": "CLIPPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1955,four-hundred,5.8l+352cid+v8,1435180", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1955, "model": "FOUR-HUNDRED"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1955,clipper,5.8l+352cid+v8,1435182", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1955, "model": "CLIPPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1955,patrician,5.8l+352cid+v8,1435179", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1955, "model": "PATRICIAN"}}}

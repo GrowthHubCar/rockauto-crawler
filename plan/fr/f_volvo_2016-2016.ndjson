@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volvo,2016,v40", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2016, "model": "V40"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2016,xc60", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2016, "model": "XC60"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2016,v60", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2016, "model": "V60"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2016,xc70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2016, "model": "XC70"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2016,xc90", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2016, "model": "XC90"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2016,s80", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2016, "model": "S80"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2016,v60+cross+country", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2016, "model": "V60 CROSS COUNTRY"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2016,s60", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2016, "model": "S60"}}}

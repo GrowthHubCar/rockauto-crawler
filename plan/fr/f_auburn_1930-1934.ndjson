@@ -7,3 +7,12 @@
 {"node_type": "model", "href": "/en/catalog/auburn,1930,model+8-95", "payload": {"nodetype": "model", "ctx": {"make": "AUBURN", "year": 1930, "model": "MODEL 8-95"}}}
 {"node_type": "model", "href": "/en/catalog/auburn,1930,model+125", "payload": {"nodetype": "model", "ctx": {"make": "AUBURN", "year": 1930, "model": "MODEL 125"}}}
 {"node_type": "model", "href": "/en/catalog/auburn,1932,model+8-100a", "payload": {"nodetype": "model", "ctx": {"make": "AUBURN", "year": 1932, "model": "MODEL 8-100A"}}}
+{"node_type": "carcode", "href": "/en/catalog/auburn,1930,model+6-85,3.0l+185cid+l6,2001701", "payload": {"nodetype": "carcode", "ctx": {"make": "AUBURN", "year": 1930, "model": "MODEL 6-85"}}}
+{"node_type": "carcode", "href": "/en/catalog/auburn,1934,model+850y,280cid+l8,2002038", "payload": {"nodetype": "carcode", "ctx": {"make": "AUBURN", "year": 1934, "model": "MODEL 850Y"}}}
+{"node_type": "carcode", "href": "/en/catalog/auburn,1933,model+12-165,6.4l+391cid+v12,3309869", "payload": {"nodetype": "carcode", "ctx": {"make": "AUBURN", "year": 1933, "model": "MODEL 12-165"}}}
+{"node_type": "carcode", "href": "/en/catalog/auburn,1933,model+8-101a,269cid+l8,2001973", "payload": {"nodetype": "carcode", "ctx": {"make": "AUBURN", "year": 1933, "model": "MODEL 8-101A"}}}
+{"node_type": "carcode", "href": "/en/catalog/auburn,1933,model+8-105,4.4l+269cid+l8,2001974", "payload": {"nodetype": "carcode", "ctx": {"make": "AUBURN", "year": 1933, "model": "MODEL 8-105"}}}
+{"node_type": "carcode", "href": "/en/catalog/auburn,1934,model+1250,6.4l+391cid+v12,3309870", "payload": {"nodetype": "carcode", "ctx": {"make": "AUBURN", "year": 1934, "model": "MODEL 1250"}}}
+{"node_type": "carcode", "href": "/en/catalog/auburn,1934,model+652x,3.5l+210cid+l6,2002035", "payload": {"nodetype": "carcode", "ctx": {"make": "AUBURN", "year": 1934, "model": "MODEL 652X"}}}
+{"node_type": "carcode", "href": "/en/catalog/auburn,1934,model+652y,210cid+l6,2002036", "payload": {"nodetype": "carcode", "ctx": {"make": "AUBURN", "year": 1934, "model": "MODEL 652Y"}}}
+{"node_type": "carcode", "href": "/en/catalog/auburn,1934,model+850x,4.6l+280cid+l8,2002037", "payload": {"nodetype": "carcode", "ctx": {"make": "AUBURN", "year": 1934, "model": "MODEL 850X"}}}

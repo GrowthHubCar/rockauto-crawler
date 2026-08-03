@@ -1,3 +1,14 @@
 {"node_type": "model", "href": "/en/catalog/lincoln,1957,mark+ii", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1957, "model": "MARK II"}}}
 {"node_type": "model", "href": "/en/catalog/lincoln,1958,capri", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1958, "model": "CAPRI"}}}
 {"node_type": "model", "href": "/en/catalog/lincoln,1959,capri", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1959, "model": "CAPRI"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1958,continental,7.0l+430cid+v8,1342347", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1958, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1955,capri,5.6l+341cid+v8,1342426", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1955, "model": "CAPRI"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1957,premier,6.0l+368cid+v8,1342381", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1957, "model": "PREMIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1959,continental,7.0l+430cid+v8,1342314", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1959, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1957,capri,6.0l+368cid+v8,1342369", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1957, "model": "CAPRI"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1955,custom,5.6l+341cid+v8,1342437", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1955, "model": "CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1958,premier,7.0l+430cid+v8,1342358", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1958, "model": "PREMIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1956,capri,6.0l+368cid+v8,1342392", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1956, "model": "CAPRI"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1956,mark+ii,6.0l+368cid+v8,1342404", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1956, "model": "MARK II"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1959,premier,7.0l+430cid+v8,1342325", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1959, "model": "PREMIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1956,premier,6.0l+368cid+v8,1342415", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1956, "model": "PREMIER"}}}

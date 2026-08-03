@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mazda,1971,616", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1971, "model": "616"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,1971,rx-2", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1971, "model": "RX-2"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,1971,1200", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1971, "model": "1200"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,1971,r100", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1971, "model": "R100"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,1971,1800", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1971, "model": "1800"}}}

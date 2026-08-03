@@ -11,3 +11,86 @@
 {"node_type": "model", "href": "/en/catalog/toyota,1987,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1987, "model": "4RUNNER"}}}
 {"node_type": "model", "href": "/en/catalog/toyota,1987,supra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1987, "model": "SUPRA"}}}
 {"node_type": "model", "href": "/en/catalog/toyota,1989,supra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1989, "model": "SUPRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1989,4runner,3.0l+v6,1272260", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1989, "model": "4RUNNER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,4runner,3.0l+v6,1272248", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "4RUNNER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1986,supra,2.8l+l6,7539", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1986, "model": "SUPRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1985,pickup,2.4l+l4+turbocharged,1277399", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1985, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1986,land+cruiser,4.2l+l6,1276556", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1986, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,celica,2.0l+l4,1274004", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1985,van,2.0l+l4,1279728", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1985, "model": "VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1986,camry,1.8l+l4+diesel+turbocharged,1272765", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1986, "model": "CAMRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1986,cressida,2.8l+l6,1276141", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1986, "model": "CRESSIDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1985,corolla,1.6l+l4+dohc,1274880", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1985, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,celica,2.0l+l4+turbocharged,1273991", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1987,van,2.2l+l4,1279784", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1987, "model": "VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1987,pickup,2.4l+l4+diesel,1277546", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1987, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,tercel,1.5l+l4,1279335", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "TERCEL"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1987,tercel,1.5l+l4,1279290", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1987, "model": "TERCEL"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1986,van,2.2l+l4,1279751", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1986, "model": "VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1987,mr2,1.6l+l4,1276781", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1987, "model": "MR2"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1989,mr2,1.6l+l4+supercharged,1276815", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1989, "model": "MR2"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,mr2,1.6l+l4+supercharged,1276792", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "MR2"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1986,camry,2.0l+l4,1378818", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1986, "model": "CAMRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1985,cressida,2.8l+l6,1276130", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1985, "model": "CRESSIDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1987,celica,2.0l+l4,1273968", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1987, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1989,cressida,3.0l+l6,1276185", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1989, "model": "CRESSIDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1985,corolla,1.6l+l4+sohc,1375983", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1985, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1986,land+cruiser,3.4l+l4+diesel,1500977", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1986, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,pickup,3.0l+v6,1277614", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1986,camry,2.0l+l4+diesel+turbocharged,1272776", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1986, "model": "CAMRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1986,corolla,1.6l+l4+dohc,1274958", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1986, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,supra,3.0l+l6,1278479", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "SUPRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1986,pickup,2.4l+l4+diesel,1277445", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1986, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1986,tercel,1.5l+l4,1434203", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1986, "model": "TERCEL"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1987,corolla,1.6l+l4+dohc,1274992", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1987, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,corolla,1.6l+l4+dohc,1275072", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1985,land+cruiser,4.2l+l6,1276523", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1985, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1989,camry,2.5l+v6,1272923", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1989, "model": "CAMRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1989,celica,2.0l+l4+turbocharged,1274037", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1989, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1989,4runner,2.4l+l4,1272259", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1989, "model": "4RUNNER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1989,pickup,3.0l+v6,1277704", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1989, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,corolla,1.6l+l4+sohc,1275094", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1986,mr2,1.6l+l4,1276770", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1986, "model": "MR2"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1986,corolla,1.6l+l4+sohc,1376063", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1986, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,land+cruiser,4.0l+l6,1276613", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1985,celica,2.8l+l6,1278435", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1985, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1987,camry,2.0l+l4,1272798", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1987, "model": "CAMRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1986,pickup,2.4l+l4+turbocharged,1277423", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1986, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1985,4runner,2.4l+l4+turbocharged,1272147", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1985, "model": "4RUNNER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,mr2,1.6l+l4,1276804", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "MR2"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1989,corolla,1.6l+l4,1275173", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1989, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1987,land+cruiser,3.4l+l4+diesel,1500978", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1987, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1989,camry,2.0l+l4,1272899", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1989, "model": "CAMRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1989,celica,2.0l+l4,1274048", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1989, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,camry,2.0l+l4,1272822", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "CAMRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1987,corolla,1.6l+l4+sohc,1376029", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1987, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1985,pickup,2.4l+l4+diesel+turbocharged,1277322", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1985, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1987,land+cruiser,2.4l+l4+diesel,1276602", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1987, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1985,pickup,2.4l+l4,1277300", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1985, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1986,land+cruiser,4.2l+l6+diesel,1276578", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1986, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,4runner,2.4l+l4,1272215", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "4RUNNER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1986,supra,3.0l+l6+turbocharged,3446425", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1986, "model": "SUPRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1987,4runner,2.4l+l4+turbocharged,1272192", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1987, "model": "4RUNNER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1989,mr2,1.6l+l4,1276826", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1989, "model": "MR2"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1986,pickup,2.4l+l4,1277401", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1986, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,pickup,2.4l+l4,1277591", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1987,pickup,2.4l+l4,1277502", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1987, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1989,tercel,1.5l+l4,1279379", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1989, "model": "TERCEL"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1987,supra,3.0l+l6+turbocharged,1278468", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1987, "model": "SUPRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1985,corolla,1.8l+l4+diesel,1274846", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1985, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1985,land+cruiser,3.4l+l4+diesel,1360752", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1985, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,4runner,2.4l+l4+turbocharged,1272237", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "4RUNNER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1985,camry,1.8l+l4+diesel+turbocharged,1272732", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1985, "model": "CAMRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1985,tercel,1.5l+l4,1279223", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1985, "model": "TERCEL"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1989,van,2.2l+l4,1279841", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1989, "model": "VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1985,mr2,1.6l+l4,1276769", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1985, "model": "MR2"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1986,supra,3.0l+l6,1310184", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1986, "model": "SUPRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,van,2.2l+l4,1279818", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1989,pickup,2.4l+l4,1388875", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1989, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,cressida,2.8l+l6,1276163", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "CRESSIDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,camry,2.5l+v6,1272833", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "CAMRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,pickup,2.4l+l4+turbocharged,1277669", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1986,4runner,2.4l+l4,1272158", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1986, "model": "4RUNNER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1988,supra,3.0l+l6+turbocharged,1278480", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1988, "model": "SUPRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1985,camry,2.0l+l4,1272743", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1985, "model": "CAMRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1985,celica,2.4l+l4,1273902", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1985, "model": "CELICA"}}}

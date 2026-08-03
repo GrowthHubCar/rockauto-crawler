@@ -1,0 +1,12 @@
+{"node_type": "carcode", "href": "/en/catalog/audi,1978,5000,2.0l+l5+diesel,3007724", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1978, "model": "5000"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1978,fox,1.6l+l4,1009224", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1978, "model": "FOX"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1976,100,1.9l+l4,2560", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1976, "model": "100"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1979,5000,2.2l+l5,2565", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1979, "model": "5000"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1976,fox,1.6l+l4,1009189", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1976, "model": "FOX"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1978,5000,2.2l+l5,2564", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1978, "model": "5000"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1977,fox,1.6l+l4,1009190", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1977, "model": "FOX"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1975,fox,1.6l+l4,1009156", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1975, "model": "FOX"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1979,5000,2.0l+l5+diesel,1007648", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1979, "model": "5000"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1975,100,1.9l+l4,2559", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1975, "model": "100"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1977,100,1.9l+l4,2561", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1977, "model": "100"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1979,fox,1.6l+l4,1009235", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1979, "model": "FOX"}}}

@@ -1,3 +1,8 @@
 {"node_type": "model", "href": "/en/catalog/zacua,2022,mx3", "payload": {"nodetype": "model", "ctx": {"make": "ZACUA", "year": 2022, "model": "MX3"}}}
 {"node_type": "model", "href": "/en/catalog/zacua,2022,mx2", "payload": {"nodetype": "model", "ctx": {"make": "ZACUA", "year": 2022, "model": "MX2"}}}
 {"node_type": "model", "href": "/en/catalog/zacua,2023,mx2", "payload": {"nodetype": "model", "ctx": {"make": "ZACUA", "year": 2023, "model": "MX2"}}}
+{"node_type": "carcode", "href": "/en/catalog/zacua,2023,mx3,electric,3454626", "payload": {"nodetype": "carcode", "ctx": {"make": "ZACUA", "year": 2023, "model": "MX3"}}}
+{"node_type": "carcode", "href": "/en/catalog/zacua,2020,mx3,electric,3452693", "payload": {"nodetype": "carcode", "ctx": {"make": "ZACUA", "year": 2020, "model": "MX3"}}}
+{"node_type": "carcode", "href": "/en/catalog/zacua,2021,mx3,electric,3452694", "payload": {"nodetype": "carcode", "ctx": {"make": "ZACUA", "year": 2021, "model": "MX3"}}}
+{"node_type": "carcode", "href": "/en/catalog/zacua,2021,mx2,electric,3452692", "payload": {"nodetype": "carcode", "ctx": {"make": "ZACUA", "year": 2021, "model": "MX2"}}}
+{"node_type": "carcode", "href": "/en/catalog/zacua,2020,mx2,electric,3452691", "payload": {"nodetype": "carcode", "ctx": {"make": "ZACUA", "year": 2020, "model": "MX2"}}}

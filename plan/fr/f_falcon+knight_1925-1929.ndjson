@@ -1,1 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/falcon+knight,1927,model+12", "payload": {"nodetype": "model", "ctx": {"make": "FALCON KNIGHT", "year": 1927, "model": "MODEL 12"}}}
+{"node_type": "carcode", "href": "/en/catalog/falcon+knight,1928,model+12,6cyl,2001524", "payload": {"nodetype": "carcode", "ctx": {"make": "FALCON KNIGHT", "year": 1928, "model": "MODEL 12"}}}

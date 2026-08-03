@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2003,vectra", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2003, "model": "VECTRA"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2003,zafira", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2003, "model": "ZAFIRA"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2003,tracker", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2003, "model": "TRACKER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2003,tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2003, "model": "TILTMASTER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2003,tahoe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2003, "model": "TAHOE"}}}

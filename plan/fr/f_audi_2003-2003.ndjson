@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2003,allroad", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2003, "model": "ALLROAD"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2003,a3", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2003, "model": "A3"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2003,tt", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2003, "model": "TT"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2003,s8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2003, "model": "S8"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2003,a6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2003, "model": "A6"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2003,a4", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2003, "model": "A4"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2003,rs6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2003, "model": "RS6"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2003,s3", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2003, "model": "S3"}}}

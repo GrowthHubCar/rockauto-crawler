@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hummer,2006,h1", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 2006, "model": "H1"}}}
-{"node_type": "model", "href": "/en/catalog/hummer,2010,h3", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 2010, "model": "H3"}}}
-{"node_type": "model", "href": "/en/catalog/hummer,2010,h3t", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 2010, "model": "H3T"}}}
-{"node_type": "model", "href": "/en/catalog/hummer,2007,h2", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 2007, "model": "H2"}}}

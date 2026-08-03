@@ -10,3 +10,4 @@
 {"node_type": "model", "href": "/en/catalog/lancia,1957,flaminia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1957, "model": "FLAMINIA"}}}
 {"node_type": "model", "href": "/en/catalog/lancia,1958,flaminia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1958, "model": "FLAMINIA"}}}
 {"node_type": "model", "href": "/en/catalog/lancia,1959,flaminia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1959, "model": "FLAMINIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lancia,1955,appia,1.1l+v4,1436780", "payload": {"nodetype": "carcode", "ctx": {"make": "LANCIA", "year": 1955, "model": "APPIA"}}}

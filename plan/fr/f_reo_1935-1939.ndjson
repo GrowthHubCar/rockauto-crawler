@@ -1,1 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/reo,1936,flying+cloud", "payload": {"nodetype": "model", "ctx": {"make": "REO", "year": 1936, "model": "FLYING CLOUD"}}}
+{"node_type": "carcode", "href": "/en/catalog/reo,1935,flying+cloud,l6,952764", "payload": {"nodetype": "carcode", "ctx": {"make": "REO", "year": 1935, "model": "FLYING CLOUD"}}}

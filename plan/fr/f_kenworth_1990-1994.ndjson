@@ -1,3 +1,17 @@
 {"node_type": "model", "href": "/en/catalog/kenworth,1993,k130", "payload": {"nodetype": "model", "ctx": {"make": "KENWORTH", "year": 1993, "model": "K130"}}}
 {"node_type": "model", "href": "/en/catalog/kenworth,1993,k150", "payload": {"nodetype": "model", "ctx": {"make": "KENWORTH", "year": 1993, "model": "K150"}}}
 {"node_type": "model", "href": "/en/catalog/kenworth,1993,k200", "payload": {"nodetype": "model", "ctx": {"make": "KENWORTH", "year": 1993, "model": "K200"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1992,k220,8.3l+l6+diesel+turbocharged,3297889", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1992, "model": "K220"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1992,k150,8.3l+l6+diesel+turbocharged,3296583", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1992, "model": "K150"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1991,k220,8.3l+l6+diesel+turbocharged,3296584", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1991, "model": "K220"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1990,k150,8.3l+l6+diesel+turbocharged,3297882", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1990, "model": "K150"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1991,k130,8.3l+l6+diesel+turbocharged,3296578", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1991, "model": "K130"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1990,k220,8.3l+l6+diesel+turbocharged,3296268", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1990, "model": "K220"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1994,k300,8.3l+l6+diesel+turbocharged,3295034", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1994, "model": "K300"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1993,k300,8.3l+l6+diesel+turbocharged,3296261", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1993, "model": "K300"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1990,k130,8.3l+l6+diesel+turbocharged,3295033", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1990, "model": "K130"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1994,k300,5.9l+l6+diesel+turbocharged,3295035", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1994, "model": "K300"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1994,k150,8.3l+l6+diesel+turbocharged,3295038", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1994, "model": "K150"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1994,k220,8.3l+l6+diesel+turbocharged,3297890", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1994, "model": "K220"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1992,k130,8.3l+l6+diesel+turbocharged,3296262", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1992, "model": "K130"}}}
+{"node_type": "carcode", "href": "/en/catalog/kenworth,1991,k150,8.3l+l6+diesel+turbocharged,3297888", "payload": {"nodetype": "carcode", "ctx": {"make": "KENWORTH", "year": 1991, "model": "K150"}}}

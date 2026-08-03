@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lincoln,2001,town+car", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2001, "model": "TOWN CAR"}}}
-{"node_type": "model", "href": "/en/catalog/lincoln,2001,ls", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2001, "model": "LS"}}}
-{"node_type": "model", "href": "/en/catalog/lincoln,2001,continental", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2001, "model": "CONTINENTAL"}}}
-{"node_type": "model", "href": "/en/catalog/lincoln,2001,navigator", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2001, "model": "NAVIGATOR"}}}

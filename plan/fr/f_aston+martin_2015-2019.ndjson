@@ -17,3 +17,7 @@
 {"node_type": "model", "href": "/en/catalog/aston+martin,2017,db11", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2017, "model": "DB11"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,2018,db11", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2018, "model": "DB11"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,2019,db11", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2019, "model": "DB11"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2018,vantage,4.0l+v8+turbocharged,3441794", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2018, "model": "VANTAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2017,rapide,6.0l+v12,3422211", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2017, "model": "RAPIDE"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2015,vanquish,6.0l+v12,3310180", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2015, "model": "VANQUISH"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,2015,v8+vantage,4.7l+v8,3309770", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2015, "model": "V8 VANTAGE"}}}

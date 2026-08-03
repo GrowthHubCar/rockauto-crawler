@@ -3,3 +3,4 @@
 {"node_type": "model", "href": "/en/catalog/vam,1968,classic", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1968, "model": "CLASSIC"}}}
 {"node_type": "model", "href": "/en/catalog/vam,1969,classic", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1969, "model": "CLASSIC"}}}
 {"node_type": "model", "href": "/en/catalog/vam,1969,javelin", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1969, "model": "JAVELIN"}}}
+{"node_type": "carcode", "href": "/en/catalog/vam,1968,javelin,4.6l+l6,3443540", "payload": {"nodetype": "carcode", "ctx": {"make": "VAM", "year": 1968, "model": "JAVELIN"}}}

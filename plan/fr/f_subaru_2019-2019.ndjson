@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/subaru,2019,brz", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2019, "model": "BRZ"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2019,wrx+sti", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2019, "model": "WRX STI"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2019,outback", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2019, "model": "OUTBACK"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2019,impreza", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2019, "model": "IMPREZA"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2019,legacy", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2019, "model": "LEGACY"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2019,forester", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2019, "model": "FORESTER"}}}

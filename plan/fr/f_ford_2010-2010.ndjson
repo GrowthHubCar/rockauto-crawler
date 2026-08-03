@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2010,transit", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "TRANSIT"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2010,lobo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "LOBO"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2010,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "MUSTANG"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2010,taurus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "TAURUS"}}}

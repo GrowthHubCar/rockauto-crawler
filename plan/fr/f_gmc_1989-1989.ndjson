@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1989,v3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "V3500 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1989,v1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "V1500 SUBURBAN"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1989,topkick", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "TOPKICK"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1989,s15+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "S15 PICKUP"}}}

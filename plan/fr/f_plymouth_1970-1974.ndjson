@@ -29,3 +29,15 @@
 {"node_type": "model", "href": "/en/catalog/plymouth,1971,cricket", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1971, "model": "CRICKET"}}}
 {"node_type": "model", "href": "/en/catalog/plymouth,1972,cricket", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1972, "model": "CRICKET"}}}
 {"node_type": "model", "href": "/en/catalog/plymouth,1974,trailduster", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1974, "model": "TRAILDUSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1974,trailduster,3.7l+225cid+l6,1548", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1974, "model": "TRAILDUSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1970,valiant,5.2l+318cid+v8,1242964", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1970, "model": "VALIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1974,trailduster,7.2l+440cid+v8,1242458", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1974, "model": "TRAILDUSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1974,valiant,3.2l+198cid+l6,1243066", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1974, "model": "VALIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1974,trailduster,5.2l+318cid+v8,1242425", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1974, "model": "TRAILDUSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1970,valiant,5.6l+340cid+v8,1496551", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1970, "model": "VALIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1974,valiant,5.9l+360cid+v8,1538", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1974, "model": "VALIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1974,valiant,3.7l+225cid+l6,1243077", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1974, "model": "VALIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1974,valiant,5.2l+318cid+v8,1243088", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1974, "model": "VALIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1972,valiant,5.9l+360cid+v8,1498630", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1972, "model": "VALIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1974,trailduster,5.9l+360cid+v8,1242436", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1974, "model": "TRAILDUSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1972,valiant,5.6l+340cid+v8,1498629", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1972, "model": "VALIANT"}}}

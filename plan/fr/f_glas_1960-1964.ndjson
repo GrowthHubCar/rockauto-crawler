@@ -9,3 +9,4 @@
 {"node_type": "model", "href": "/en/catalog/glas,1963,1204", "payload": {"nodetype": "model", "ctx": {"make": "GLAS", "year": 1963, "model": "1204"}}}
 {"node_type": "model", "href": "/en/catalog/glas,1964,1700", "payload": {"nodetype": "model", "ctx": {"make": "GLAS", "year": 1964, "model": "1700"}}}
 {"node_type": "model", "href": "/en/catalog/glas,1964,1300+gt", "payload": {"nodetype": "model", "ctx": {"make": "GLAS", "year": 1964, "model": "1300 GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/glas,1964,1204,1.2l+l4,1439017", "payload": {"nodetype": "carcode", "ctx": {"make": "GLAS", "year": 1964, "model": "1204"}}}

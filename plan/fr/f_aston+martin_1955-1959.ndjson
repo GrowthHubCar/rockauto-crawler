@@ -10,3 +10,5 @@
 {"node_type": "model", "href": "/en/catalog/aston+martin,1959,db", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1959, "model": "DB"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,1958,db4", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1958, "model": "DB4"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,1959,db4", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1959, "model": "DB4"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1956,db3,3.0l+l6,1389786", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1956, "model": "DB3"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1957,db2-4,3.0l+l6,1389720", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1957, "model": "DB2-4"}}}

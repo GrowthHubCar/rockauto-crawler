@@ -13,3 +13,5 @@
 {"node_type": "model", "href": "/en/catalog/foton,2023,toano", "payload": {"nodetype": "model", "ctx": {"make": "FOTON", "year": 2023, "model": "TOANO"}}}
 {"node_type": "model", "href": "/en/catalog/foton,2024,miler", "payload": {"nodetype": "model", "ctx": {"make": "FOTON", "year": 2024, "model": "MILER"}}}
 {"node_type": "model", "href": "/en/catalog/foton,2024,hi-van", "payload": {"nodetype": "model", "ctx": {"make": "FOTON", "year": 2024, "model": "HI-VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/foton,2024,aumark+s3,2.8l+l4+diesel+turbocharged,3455916", "payload": {"nodetype": "carcode", "ctx": {"make": "FOTON", "year": 2024, "model": "AUMARK S3"}}}
+{"node_type": "carcode", "href": "/en/catalog/foton,2024,view+cs2,2.4l+l4,3457873", "payload": {"nodetype": "carcode", "ctx": {"make": "FOTON", "year": 2024, "model": "VIEW CS2"}}}

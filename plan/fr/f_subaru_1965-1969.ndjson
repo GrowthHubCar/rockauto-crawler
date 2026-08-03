@@ -1,1 +1,4 @@
 {"node_type": "model", "href": "/en/catalog/subaru,1969,360", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1969, "model": "360"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,1968,360,358cc+l2,1494882", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 1968, "model": "360"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,1968,360,356cc+l2,1437337", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 1968, "model": "360"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,1969,360,358cc+l2,1495777", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 1969, "model": "360"}}}

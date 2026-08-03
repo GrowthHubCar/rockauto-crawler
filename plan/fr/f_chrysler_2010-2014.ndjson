@@ -1,1 +1,36 @@
 {"node_type": "model", "href": "/en/catalog/chrysler,2014,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 2014, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2013,town+&+country,3.6l+v6,1505033", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2013, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2012,300,6.4l+v8,1503000", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2012, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2011,200,3.6l+v6,1447717", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2011, "model": "200"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2014,300,3.6l+v6,3305714", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2014, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2011,300,5.7l+v8,1500941", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2011, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2010,sebring,3.5l+v6,1444980", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2010, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2012,200,2.4l+l4,1501845", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2012, "model": "200"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2014,300,5.7l+v8,3305713", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2014, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2010,cirrus,3.5l+v6,3446545", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2010, "model": "CIRRUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2010,pt+cruiser,2.4l+l4,1444979", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2010, "model": "PT CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2010,sebring,2.4l+l4,1444981", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2010, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2011,300,3.6l+v6,1504633", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2011, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2013,200,3.6l+v6,1505011", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2013, "model": "200"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2012,300,5.7l+v8,1501847", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2012, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2011,town+&+country,3.6l+v6,1504642", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2011, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2010,300,6.1l+v8,1444630", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2010, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2010,sebring,2.7l+v6,1444983", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2010, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2010,300,3.5l+v6,1444628", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2010, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2013,200,2.4l+l4,1505018", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2013, "model": "200"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2012,200,3.6l+v6,3015203", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2012, "model": "200"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2013,300,5.7l+v8,1505023", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2013, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2013,300,6.4l+v8,1505029", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2013, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2010,300,2.7l+v6,1444624", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2010, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2014,300,6.4l+v8,3305715", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2014, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2010,cirrus,2.4l+l4,2002729", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2010, "model": "CIRRUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2014,200,3.6l+v6,3300343", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2014, "model": "200"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2010,town+&+country,3.8l+v6,1444993", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2010, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2014,200,2.4l+l4,3300344", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2014, "model": "200"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2012,town+&+country,3.6l+v6,1504651", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2012, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2011,200,2.4l+l4,1447715", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2011, "model": "200"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2010,town+&+country,4.0l+v6,1444991", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2010, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2013,300,3.6l+v6,1505022", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2013, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2010,town+&+country,3.3l+v6,3030892", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2010, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2010,300,5.7l+v8,1444625", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2010, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2012,300,3.6l+v6,1504638", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2012, "model": "300"}}}

@@ -4,3 +4,9 @@
 {"node_type": "model", "href": "/en/catalog/peterbilt,1973,282", "payload": {"nodetype": "model", "ctx": {"make": "PETERBILT", "year": 1973, "model": "282"}}}
 {"node_type": "model", "href": "/en/catalog/peterbilt,1972,200", "payload": {"nodetype": "model", "ctx": {"make": "PETERBILT", "year": 1972, "model": "200"}}}
 {"node_type": "model", "href": "/en/catalog/peterbilt,1973,200", "payload": {"nodetype": "model", "ctx": {"make": "PETERBILT", "year": 1973, "model": "200"}}}
+{"node_type": "carcode", "href": "/en/catalog/peterbilt,1974,282,14.8l+v8+diesel,3305638", "payload": {"nodetype": "carcode", "ctx": {"make": "PETERBILT", "year": 1974, "model": "282"}}}
+{"node_type": "carcode", "href": "/en/catalog/peterbilt,1974,282,14.8l+v8+diesel+turbocharged,3305639", "payload": {"nodetype": "carcode", "ctx": {"make": "PETERBILT", "year": 1974, "model": "282"}}}
+{"node_type": "carcode", "href": "/en/catalog/peterbilt,1974,200,7.0l+l6+diesel,3307030", "payload": {"nodetype": "carcode", "ctx": {"make": "PETERBILT", "year": 1974, "model": "200"}}}
+{"node_type": "carcode", "href": "/en/catalog/peterbilt,1974,282,9.3l+v8+diesel,3307048", "payload": {"nodetype": "carcode", "ctx": {"make": "PETERBILT", "year": 1974, "model": "282"}}}
+{"node_type": "carcode", "href": "/en/catalog/peterbilt,1974,282,14.0l+l6+diesel+turbocharged,3305637", "payload": {"nodetype": "carcode", "ctx": {"make": "PETERBILT", "year": 1974, "model": "282"}}}
+{"node_type": "carcode", "href": "/en/catalog/peterbilt,1974,200,5.2l+v6+diesel,3307029", "payload": {"nodetype": "carcode", "ctx": {"make": "PETERBILT", "year": 1974, "model": "200"}}}

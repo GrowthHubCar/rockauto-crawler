@@ -3,3 +3,4 @@
 {"node_type": "model", "href": "/en/catalog/workhorse,2010,lf72", "payload": {"nodetype": "model", "ctx": {"make": "WORKHORSE", "year": 2010, "model": "LF72"}}}
 {"node_type": "model", "href": "/en/catalog/workhorse,2011,lf72", "payload": {"nodetype": "model", "ctx": {"make": "WORKHORSE", "year": 2011, "model": "LF72"}}}
 {"node_type": "model", "href": "/en/catalog/workhorse,2010,w62", "payload": {"nodetype": "model", "ctx": {"make": "WORKHORSE", "year": 2010, "model": "W62"}}}
+{"node_type": "carcode", "href": "/en/catalog/workhorse,2011,w62,6.0l+v8,3298018", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2011, "model": "W62"}}}

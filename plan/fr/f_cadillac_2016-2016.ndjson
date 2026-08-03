@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/cadillac,2016,cts", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2016, "model": "CTS"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,2016,ats", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2016, "model": "ATS"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,2016,escalade", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2016, "model": "ESCALADE"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,2016,ct6", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2016, "model": "CT6"}}}

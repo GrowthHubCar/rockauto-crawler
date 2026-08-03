@@ -46,3 +46,148 @@
 {"node_type": "model", "href": "/en/catalog/ford,2005,crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "CROWN VICTORIA"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2006,crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "CROWN VICTORIA"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2005,excursion", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "EXCURSION"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,mustang,4.0l+v6,1433388", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,mustang,4.6l+v8,1441221", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,lobo,4.6l+v8,951452", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "LOBO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,taurus,3.0l+v6+dohc,1430709", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "TAURUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,ranger,2.3l+l4,1431241", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,lobo,4.6l+v8,3434802", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "LOBO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,explorer,4.6l+v8,1430690", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "EXPLORER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,f-250+super+duty,4.6l+v8,951421", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "F-250 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,f-750,6.0l+v8+diesel+turbocharged,3295055", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "F-750"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,f-350,5.4l+v8,2002693", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,ka,1.6l+l4,3007358", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "KA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,f-750,7.2l+l6+diesel+turbocharged,3295057", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "F-750"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,fusion,2.3l+l4,1434302", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "FUSION"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,f-450+super+duty,6.8l+v10,1434846", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,lcf,4.5l+v6+diesel+turbocharged,3294785", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "LCF"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,f-350+super+duty,5.4l+v8,1434634", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,expedition,5.4l+v8,1443966", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "EXPEDITION"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,mondeo,2.0l+l4,215899", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "MONDEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,freestyle,3.0l+v6,1431202", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "FREESTYLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,ranger,4.0l+v6,1443918", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,lcf,4.5l+v6+diesel+turbocharged,3294673", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "LCF"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,thunderbird,3.9l+v8,1430711", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "THUNDERBIRD"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,f-550+super+duty,6.0l+v8+diesel+turbocharged,1434837", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "F-550 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,lcf,4.5l+v6+diesel+turbocharged,3294786", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "LCF"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,f-650,5.9l+l6+diesel+turbocharged,3297903", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "F-650"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,e-450,5.4l+v8,1433627", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "E-450"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,explorer+sport+trac,4.6l+v8,1441670", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "EXPLORER SPORT TRAC"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,ka,1.6l+l4,951450", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "KA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,freestar,3.9l+v6,1433538", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "FREESTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,taurus,3.5l+v6,1440075", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "TAURUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,focus,2.3l+l4,1433080", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "FOCUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,f-650,5.9l+l6+diesel+turbocharged,3296599", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "F-650"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,lobo,5.4l+v8,951460", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "LOBO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,escape,2.5l+l4+electric/gas,1443390", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "ESCAPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,e-150,4.6l+v8,1441799", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "E-150"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,ranger,2.3l+l4,1443923", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,mustang,4.0l+v6,1432172", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,econoline,5.4l+v8,2002638", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "ECONOLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,f-350+super+duty,6.8l+v10,1433120", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,f-650,6.0l+v8+diesel+turbocharged,3296598", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "F-650"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,f53,6.8l+v10,1501001", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "F53"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,fusion,3.0l+v6,1432368", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "FUSION"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,fiesta,1.6l+l4,940695", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "FIESTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,explorer,4.0l+v6,1443419", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "EXPLORER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,f-650,7.2l+l6+diesel+turbocharged,3297904", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "F-650"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,fusion,3.0l+v6,1434304", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "FUSION"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,f-450+super+duty,6.4l+v8+diesel+turbocharged,1444035", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,escape,3.0l+v6,1443394", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "ESCAPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,ranger,4.0l+v6,1431252", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,f-550+super+duty,6.8l+v10,1434843", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "F-550 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,f-250+super+duty,6.8l+v10,1434646", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "F-250 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,fusion,3.0l+v6,1442671", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "FUSION"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,mustang,5.4l+v8+supercharged,1441223", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,ranger,3.0l+v6,1432356", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,transit,2.2l+l4+diesel+turbocharged,3013184", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "TRANSIT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,lobo,5.4l+v8,951463", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "LOBO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,focus,2.0l+l4,1441219", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "FOCUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,fusion,3.0l+v6,1441690", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "FUSION"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,f-650,7.2l+l6+diesel+turbocharged,3296600", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "F-650"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,five+hundred,3.0l+v6,1433432", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "FIVE HUNDRED"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,taurus+x,3.5l+v6,1443434", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "TAURUS X"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,freestar,4.2l+v6,1433540", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "FREESTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,transit,2.2l+l4+diesel+turbocharged,951490", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "TRANSIT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,taurus+x,3.5l+v6,1441224", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "TAURUS X"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,ranger,3.0l+v6,1434512", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,taurus,3.0l+v6,1433387", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "TAURUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,mustang,5.4l+v8+supercharged,1442746", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,focus,2.0l+l4,1432170", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "FOCUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,e-350,6.8l+v10,1443838", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "E-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,mondeo,2.5l+v6,951470", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "MONDEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,f-450+super+duty,6.0l+v8+diesel+turbocharged,1432609", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,focus,2.5l+l5+turbocharged,217378", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "FOCUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,e-450,6.0l+v8+diesel+turbocharged,1434706", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "E-450"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,f-150,4.6l+v8,1443983", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "F-150"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,f-650,6.7l+l6+diesel+turbocharged,3295054", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "F-650"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,f-350+super+duty,6.8l+v10,1432138", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,freestyle,3.0l+v6,1433542", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "FREESTYLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,ikon,1.6l+l4,951446", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "IKON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,lobo,4.6l+v8,951454", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "LOBO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,mondeo,2.5l+v6,951469", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "MONDEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,ranger,4.0l+v6,1434508", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,gt,5.4l+v8+supercharged,1432930", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,ranger,3.0l+v6,1431247", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,f-650,6.7l+l6+diesel+turbocharged,3295049", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "F-650"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,f-750,6.7l+l6+diesel+turbocharged,3296607", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "F-750"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,taurus,3.5l+v6,1443431", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "TAURUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,e-350,6.0l+v8+diesel+turbocharged,1443836", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "E-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,ikon,1.6l+l4,951445", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "IKON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,mustang,4.0l+v6,1442748", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,mondeo,2.0l+l4,214249", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "MONDEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,mustang,4.6l+v8,1432173", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,f53,6.8l+v10,1500997", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "F53"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,f-650,7.2l+l6+diesel+turbocharged,3295053", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "F-650"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,focus,2.5l+l5+turbocharged,3005868", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "FOCUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,transit,2.2l+l4+diesel+turbocharged,951489", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "TRANSIT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,lobo,4.6l+v8,951453", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "LOBO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,mustang,4.6l+v8,1431310", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,explorer,4.0l+v6,1441674", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "EXPLORER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,focus,2.0l+l4,1433084", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "FOCUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,e-450,5.4l+v8,1444203", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "E-450"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,lobo,4.6l+v8,951455", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "LOBO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,f-550+super+duty,6.4l+v8+diesel+turbocharged,1445640", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "F-550 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,mondeo,2.5l+v6,951468", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "MONDEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,f-350+super+duty,6.8l+v10,1440022", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,f-450+super+duty,6.8l+v10,1433117", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,econoline,4.6l+v8,2002637", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "ECONOLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,focus,2.3l+l4,1433436", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "FOCUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,taurus,3.0l+v6,1432177", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "TAURUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,fiesta,1.6l+l4,951431", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "FIESTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,f-750,5.9l+l6+diesel+turbocharged,3295056", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "F-750"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,fusion,2.3l+l4,1442669", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "FUSION"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,f-350+super+duty,6.8l+v10,1434642", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,escape,2.3l+l4,1439990", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "ESCAPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,mondeo,2.0l+l4,216972", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "MONDEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,lobo,5.4l+v8,951462", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "LOBO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,focus,2.5l+l5+turbocharged,216950", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "FOCUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,flex,3.5l+v6,1442661", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "FLEX"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,ranger,4.0l+v6,1432360", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,ranger,2.3l+l4,1432350", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,mustang,4.6l+v8,1433389", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,f-750,7.2l+l6+diesel+turbocharged,3296608", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "F-750"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,f-650,6.0l+v8+diesel+turbocharged,3297905", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "F-650"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,explorer+sport+trac,4.0l+v6,1441678", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "EXPLORER SPORT TRAC"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,lcf,4.5l+v6+diesel+turbocharged,3295731", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "LCF"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,ranger,2.3l+l4,1442112", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,f-450+super+duty,6.0l+v8+diesel+turbocharged,1434840", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,ranger,3.0l+v6,1442109", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,f-150,4.2l+v6,1432400", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "F-150"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,f-550+super+duty,6.4l+v8+diesel+turbocharged,1445637", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "F-550 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,lobo,5.4l+v8,951461", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "LOBO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,f-550+super+duty,6.8l+v10,1445624", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "F-550 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,taurus,3.0l+v6+ohv,1430710", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "TAURUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,mondeo,3.0l+v6,214251", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "MONDEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,focus,2.0l+l4,1443428", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "FOCUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,freestar,4.2l+v6,1430706", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "FREESTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,gt,5.4l+v8+supercharged,1432171", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,f-550+super+duty,6.8l+v10,1433114", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "F-550 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,e-450,6.0l+v8+diesel+turbocharged,1505638", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "E-450"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,freestar,3.9l+v6,1430707", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "FREESTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,mustang,5.4l+v8+supercharged,1433450", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,lobo,5.4l+v8,3068051", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "LOBO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,ranger,4.0l+v6,1442105", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,mustang,4.6l+v8,1442747", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2006,freestyle,3.0l+v6,1432349", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "FREESTYLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,f-250+super+duty,5.4l+v8,1444001", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "F-250 SUPER DUTY"}}}

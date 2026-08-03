@@ -2,3 +2,50 @@
 {"node_type": "model", "href": "/en/catalog/buick,1961,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1961, "model": "ESTATE WAGON"}}}
 {"node_type": "model", "href": "/en/catalog/buick,1963,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1963, "model": "ESTATE WAGON"}}}
 {"node_type": "model", "href": "/en/catalog/buick,1964,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1964, "model": "ESTATE WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1963,lesabre,6.6l+401cid+v8,1319587", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1963, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1964,lesabre,4.9l+300cid+v8,1434959", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1964, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1964,riviera,6.6l+401cid+v8,1319464", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1964, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1961,skylark,3.5l+215cid+v8,1319778", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1961, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1961,lesabre,6.6l+401cid+v8,1319767", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1961, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1960,lesabre,6.0l+364cid+v8,1319813", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1960, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1960,estate+wagon,6.0l+364cid+v8,1489456", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1960, "model": "ESTATE WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1960,lesabre,6.6l+401cid+v8,1319824", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1960, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1961,lesabre,6.0l+364cid+v8,1319756", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1961, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1963,skylark,3.5l+215cid+v8,1319622", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1963, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1964,electra,6.6l+401cid+v8,1319431", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1964, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1963,invicta,6.6l+401cid+v8,1319576", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1963, "model": "INVICTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1962,invicta,6.6l+401cid+v8,1319677", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1962, "model": "INVICTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1962,estate+wagon,6.6l+401cid+v8,1490427", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1962, "model": "ESTATE WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1964,sportwagon,3.7l+225cid+v6,1319521", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1964, "model": "SPORTWAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1960,estate+wagon,6.6l+401cid+v8,1489457", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1960, "model": "ESTATE WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1962,skylark,3.2l+198cid+v6,1319699", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1962, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1963,special,3.5l+215cid+v8,1319644", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1963, "model": "SPECIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1963,special,3.2l+198cid+v6,1319633", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1963, "model": "SPECIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1964,estate+wagon,6.6l+401cid+v8,1491630", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1964, "model": "ESTATE WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1961,electra,6.6l+401cid+v8,1319734", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1961, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1963,wildcat,6.6l+401cid+v8,1319655", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1963, "model": "WILDCAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1962,electra,6.6l+401cid+v8,1319666", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1962, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1964,special,3.7l+225cid+v6,1319509", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1964, "model": "SPECIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1964,skylark,4.9l+300cid+v8,1319497", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1964, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1963,riviera,6.6l+401cid+v8,1319598", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1963, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1964,skylark,3.7l+225cid+v6,1319486", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1964, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1962,wildcat,6.6l+401cid+v8,1490431", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1962, "model": "WILDCAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1961,special,3.5l+215cid+v8,1319789", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1961, "model": "SPECIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1962,special,3.5l+215cid+v8,1319723", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1962, "model": "SPECIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1962,skylark,3.5l+215cid+v8,1319701", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1962, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1964,special,4.9l+300cid+v8,1319510", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1964, "model": "SPECIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1960,electra,6.6l+401cid+v8,1319790", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1960, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1964,lesabre,7.0l+425cid+v8,1319453", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1964, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1962,lesabre,6.6l+401cid+v8,1319688", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1962, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1962,special,3.2l+198cid+v6,1319712", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1962, "model": "SPECIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1960,invicta,6.6l+401cid+v8,1319802", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1960, "model": "INVICTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1963,skylark,3.2l+198cid+v6,1319611", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1963, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1964,estate+wagon,4.9l+300cid+v8,1491628", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1964, "model": "ESTATE WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1964,wildcat,6.6l+401cid+v8,1319543", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1964, "model": "WILDCAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1964,riviera,7.0l+425cid+v8,1319475", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1964, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1964,sportwagon,4.9l+300cid+v8,1319532", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1964, "model": "SPORTWAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1964,wildcat,7.0l+425cid+v8,1319554", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1964, "model": "WILDCAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1963,electra,6.6l+401cid+v8,1319565", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1963, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1963,riviera,7.0l+425cid+v8,1319600", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1963, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1964,electra,7.0l+425cid+v8,1435189", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1964, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1961,invicta,6.6l+401cid+v8,1319745", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1961, "model": "INVICTA"}}}

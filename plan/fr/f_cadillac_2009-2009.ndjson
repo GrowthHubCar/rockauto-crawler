@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/cadillac,2009,sts", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2009, "model": "STS"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,2009,srx", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2009, "model": "SRX"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,2009,cts", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2009, "model": "CTS"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,2009,escalade", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2009, "model": "ESCALADE"}}}

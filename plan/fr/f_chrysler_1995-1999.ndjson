@@ -5,3 +5,68 @@
 {"node_type": "model", "href": "/en/catalog/chrysler,1996,concorde", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1996, "model": "CONCORDE"}}}
 {"node_type": "model", "href": "/en/catalog/chrysler,1995,spirit", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "SPIRIT"}}}
 {"node_type": "model", "href": "/en/catalog/chrysler,1997,chrysler+r/t", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1997, "model": "CHRYSLER R/T"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1995,neon,2.0l+l4,98657", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "NEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1998,concorde,3.2l+v6,1314183", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1998, "model": "CONCORDE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1999,lhs,3.5l+v6,1353811", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1999, "model": "LHS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1995,stratus,2.4l+l4,951297", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1997,voyager,3.3l+v6,951312", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1997, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1996,sebring,2.5l+v6,1067059", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1996, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1998,sebring,2.0l+l4,1314213", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1998, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1997,town+&+country,3.8l+v6,1376287", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1997, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1997,sebring,2.5l+v6,1067116", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1997, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1999,concorde,2.7l+v6,1353798", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1999, "model": "CONCORDE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1995,sebring,2.0l+l4,1067015", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1997,cirrus,2.5l+v6,1062290", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1997, "model": "CIRRUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1999,grand+voyager,3.8l+v6,951293", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1999, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1995,intrepid,3.5l+v6,1063752", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "INTREPID"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1996,grand+voyager,3.8l+v6,192376", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1996, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1999,town+&+country,3.8l+v6,1353877", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1999, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1998,concorde,2.7l+v6,1314173", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1998, "model": "CONCORDE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1996,new+yorker,3.5l+v6,1066115", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1996, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1996,lhs,3.5l+v6,1065394", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1996, "model": "LHS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1999,town+&+country,3.3l+v6,1353866", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1999, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1995,town+&+country,3.8l+v6,1067880", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1997,stratus,2.4l+l4,194860", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1997, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1996,sebring,2.4l+l4,1067048", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1996, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1996,town+&+country,3.8l+v6,1067903", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1996, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1998,intrepid,3.2l+v6,1359761", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1998, "model": "INTREPID"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1995,spirit,2.5l+l4+turbocharged,3437575", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "SPIRIT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1996,intrepid,3.3l+v6,1318025", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1996, "model": "INTREPID"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1998,town+&+country,3.3l+v6,1314233", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1998, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1998,sebring,2.5l+v6,1375703", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1998, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1997,neon,2.0l+l4,103317", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1997, "model": "NEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1999,voyager,3.3l+v6,951301", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1999, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1997,cirrus,2.4l+l4+turbocharged,3315188", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1997, "model": "CIRRUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1999,cirrus,2.4l+l4+turbocharged,951281", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1999, "model": "CIRRUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1995,lebaron,3.0l+v6,1065361", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1997,cirrus,2.4l+l4,1062289", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1997, "model": "CIRRUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1997,intrepid,3.3l+v6,1360022", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1997, "model": "INTREPID"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1999,sebring,2.5l+v6,1353855", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1999, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1995,lhs,3.5l+v6,1065383", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "LHS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1997,intrepid,3.5l+v6,1360033", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1997, "model": "INTREPID"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1996,voyager,3.3l+v6,951311", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1996, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1995,sebring,2.5l+v6,1398775", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1999,concorde,3.2l+v6,1353800", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1999, "model": "CONCORDE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1996,stratus,2.4l+l4+turbocharged,951298", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1996, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1999,intrepid,3.2l+v6,1359569", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1999, "model": "INTREPID"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1995,new+yorker,3.5l+v6,1066104", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1996,town+&+country,3.3l+v6,1067891", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1996, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1999,cirrus,2.5l+v6,1353787", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1999, "model": "CIRRUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1997,lhs,3.5l+v6,1065406", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1997, "model": "LHS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1999,intrepid,2.7l+v6,1359558", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1999, "model": "INTREPID"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1997,sebring,2.4l+l4,1067105", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1997, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1997,stratus,2.4l+l4+turbocharged,951299", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1997, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1998,intrepid,2.7l+v6,1359750", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1998, "model": "INTREPID"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1998,grand+voyager,3.8l+v6,951292", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1998, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1998,sebring,2.4l+l4,1314193", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1998, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1997,sebring,2.0l+l4,1067149", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1997, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1998,town+&+country,3.8l+v6,1376311", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1998, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1997,grand+voyager,3.8l+v6,194851", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1997, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1998,voyager,3.3l+v6,951300", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1998, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1997,town+&+country,3.3l+v6,1067947", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1997, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1997,concorde,3.5l+v6,1062436", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1997, "model": "CONCORDE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1995,concorde,3.5l+v6,1062391", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "CONCORDE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1999,sebring,2.0l+l4,1353822", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1999, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1995,grand+voyager,3.8l+v6,190021", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1995,voyager,3.3l+v6,190044", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1995,lebaron,2.5l+l4+turbocharged,190026", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "LEBARON"}}}

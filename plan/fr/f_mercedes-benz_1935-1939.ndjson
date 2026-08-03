@@ -32,3 +32,5 @@
 {"node_type": "model", "href": "/en/catalog/mercedes-benz,1938,grosser", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1938, "model": "GROSSER"}}}
 {"node_type": "model", "href": "/en/catalog/mercedes-benz,1939,grosser", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1939, "model": "GROSSER"}}}
 {"node_type": "model", "href": "/en/catalog/mercedes-benz,1935,540k", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1935, "model": "540K"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1939,320,all+engines,952945", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1939, "model": "320"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1936,170+v,all+engines,952809", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1936, "model": "170 V"}}}

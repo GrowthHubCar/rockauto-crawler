@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2013,tiguan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "TIGUAN"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2013,touareg", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "TOUAREG"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2013,saveiro", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "SAVEIRO"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2013,multivan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "MULTIVAN"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2013,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "TRANSPORTER"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2013,polo", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "POLO"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2013,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "PASSAT"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2013,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "JETTA"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2013,routan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "ROUTAN"}}}

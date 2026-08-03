@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jeep,2007,patriot", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2007, "model": "PATRIOT"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,2007,commander", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2007, "model": "COMMANDER"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,2007,compass", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2007, "model": "COMPASS"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,2007,grand+cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2007, "model": "GRAND CHEROKEE"}}}

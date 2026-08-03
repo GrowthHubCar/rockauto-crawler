@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/subaru,2021,xv", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2021, "model": "XV"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2021,wrx", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2021, "model": "WRX"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2021,wrx+sti", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2021, "model": "WRX STI"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2021,outback", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2021, "model": "OUTBACK"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2021,impreza", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2021, "model": "IMPREZA"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2021,crosstrek", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2021, "model": "CROSSTREK"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2021,legacy", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2021, "model": "LEGACY"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2021,forester", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2021, "model": "FORESTER"}}}

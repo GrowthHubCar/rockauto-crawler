@@ -32,3 +32,117 @@
 {"node_type": "model", "href": "/en/catalog/ford,1968,bronco", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1968, "model": "BRONCO"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1965,econoline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1965, "model": "ECONOLINE"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1966,cortina", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1966, "model": "CORTINA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,f-350,5.0l+302cid+v8,3441878", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,thunderbird,7.0l+429cid+v8,1139790", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "THUNDERBIRD"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,club+wagon,2.8l+170cid+l6,1333033", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "CLUB WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,ranch+wagon,3.9l+240cid+l6,1333404", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "RANCH WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,p-350,5.8l+352cid+v8,1493685", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "P-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,ranchero,5.8l+352cid+v8,1493689", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,ranchero,6.4l+390cid+v8,1332425", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,torino,7.0l+428cid+v8,1140770", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "TORINO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,ranchero,4.7l+289cid+v8,1332414", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,f-100,4.9l+300cid+l6,1493670", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "F-100"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,torino,6.4l+390cid+v8,1140657", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "TORINO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,p-350,3.6l+220cid+l4+diesel,1492980", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "P-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,p-350,3.6l+220cid+l4+diesel,1492366", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "P-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,ltd,7.0l+428cid+v8,1440946", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "LTD"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,ranchero,4.7l+289cid+v8,1332986", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,ranchero,3.3l+200cid+l6,1333459", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,p-350,4.9l+300cid+l6,1493684", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "P-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,ranchero,6.4l+390cid+v8,1127483", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,thunderbird,7.0l+428cid+v8,1495166", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "THUNDERBIRD"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,econoline,2.8l+170cid+l6,1332672", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "ECONOLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,ranch+wagon,7.0l+429cid+v8,1137024", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "RANCH WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,f-350,5.8l+352cid+v8,1441353", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,ranchero,6.4l+390cid+v8,1127281", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,ranch+wagon,4.7l+289cid+v8,1332380", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "RANCH WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,station+bus,2.8l+170cid+l6,1437618", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "STATION BUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,ranchero,5.0l+302cid+v8,1127450", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,thunderbird,6.4l+390cid+v8,1332436", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "THUNDERBIRD"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,ltd,3.9l+240cid+l6,1492360", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "LTD"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,country+sedan,7.0l+429cid+v8,1106806", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "COUNTRY SEDAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,falcon+sedan+delivery,3.3l+200cid+l6,1333482", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "FALCON SEDAN DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,mustang,7.0l+429cid+v8,1495144", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,mustang,6.4l+390cid+v8,1132355", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,p-350,5.8l+352cid+v8,1492369", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "P-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,ranch+wagon,6.4l+390cid+v8,1137013", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "RANCH WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,falcon,4.7l+289cid+v8,1333325", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "FALCON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,ranchero,6.4l+390cid+v8,923", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,f-250,5.8l+352cid+v8,1332133", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "F-250"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,ltd,5.0l+302cid+v8,1130128", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "LTD"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,ranchero,4.7l+289cid+v8,1333460", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,mustang,4.3l+260cid+v8,1492363", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,custom,3.9l+240cid+l6,1438418", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,mustang,4.7l+289cid+v8,1333381", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,ranch+wagon,2.8l+170cid+l6,1495158", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "RANCH WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,f-350,4.9l+300cid+l6,1492970", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,f-350,4.9l+300cid+l6,1495114", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,torino,6.4l+390cid+v8,1140769", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "TORINO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,falcon,3.3l+200cid+l6,1333314", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "FALCON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,falcon+sedan+delivery,4.7l+289cid+v8,1333493", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "FALCON SEDAN DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,custom,6.4l+390cid+v8,1435825", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,fairlane,7.0l+427cid+v8,1494311", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "FAIRLANE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,ranch+wagon,7.0l+427cid+v8,1435046", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "RANCH WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,mustang,4.7l+289cid+v8,1332885", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,f-350,5.9l+360cid+v8,1495115", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,ranchero,7.0l+428cid+v8,1441335", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,ranchero,5.0l+302cid+v8,1127270", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,bronco,2.8l+170cid+l6,1105344", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "BRONCO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,p-350,5.9l+360cid+v8,1495155", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "P-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,f-350,6.4l+390cid+v8,1495116", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,galaxie,5.8l+352cid+v8,1435752", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "GALAXIE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,ranch+wagon,3.9l+240cid+l6,1332368", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "RANCH WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,econoline,2.8l+170cid+l6,1332098", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "ECONOLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,torino,5.8l+351cid+v8,1140747", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "TORINO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,ltd,5.8l+352cid+v8,1440943", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "LTD"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,fairlane,3.3l+200cid+l6,1333279", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "FAIRLANE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,torino,7.0l+428cid+v8,1435050", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "TORINO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,thunderbird,7.0l+428cid+v8,1332458", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "THUNDERBIRD"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,fairlane,2.8l+170cid+l6,1332740", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "FAIRLANE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,f-100,3.9l+240cid+l6,1402579", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "F-100"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,galaxie,5.8l+352cid+v8,1493673", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "GALAXIE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,p-350,2.8l+170cid+l6,1492979", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "P-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,galaxie,7.0l+428cid+v8,1403312", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "GALAXIE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,ranch+wagon,7.0l+428cid+v8,1136977", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "RANCH WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,falcon,4.7l+289cid+v8,1332245", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "FALCON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,ranchero,5.8l+351cid+v8,1127461", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,ranch+wagon,6.4l+390cid+v8,1332391", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "RANCH WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,e-200+econoline,3.9l+240cid+l6,1112410", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "E-200 ECONOLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,p-100,3.9l+240cid+l6,1495150", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "P-100"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,country+squire,5.0l+302cid+v8,1107122", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,ranchero,4.1l+250cid+l6,1127449", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,bronco,2.8l+170cid+l6,1403255", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "BRONCO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,p-350,2.8l+170cid+l6,1492365", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "P-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,ranch+wagon,7.0l+427cid+v8,1435047", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "RANCH WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,country+sedan,3.9l+240cid+l6,1106716", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "COUNTRY SEDAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,ranch+wagon,5.8l+351cid+v8,1137002", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "RANCH WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,thunderbird,6.4l+390cid+v8,1139789", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "THUNDERBIRD"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,ltd,6.4l+390cid+v8,1409543", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "LTD"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,ranchero,3.3l+200cid+l6,1332403", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,thunderbird,7.0l+429cid+v8,1139802", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "THUNDERBIRD"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,ranch+wagon,7.0l+428cid+v8,1493688", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "RANCH WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,torino,5.0l+302cid+v8,1140736", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "TORINO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,ranch+wagon,3.3l+200cid+l6,1495159", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "RANCH WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,ranchero,5.8l+352cid+v8,1492986", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,ranch+wagon,7.0l+427cid+v8,1494343", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "RANCH WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,mustang,7.0l+428cid+v8,1493680", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,f-350,3.9l+240cid+l6,1333235", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,custom,6.4l+390cid+v8,1108774", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,f-100,3.9l+240cid+l6,1119721", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "F-100"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,mustang,6.4l+390cid+v8,1332324", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,country+squire,3.9l+240cid+l6,1414011", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,f-100,6.4l+390cid+v8,1494301", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "F-100"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,f-350,5.0l+302cid+v8,3441881", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,fairlane,5.8l+352cid+v8,1492972", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "FAIRLANE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,p-350,3.9l+240cid+l6,1493682", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "P-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,f-350,5.9l+360cid+v8,1492971", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,ltd,4.7l+289cid+v8,1435041", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "LTD"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,torino,4.1l+250cid+l6,1140725", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "TORINO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,ranch+wagon,5.0l+302cid+v8,1136999", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "RANCH WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,fairlane,5.0l+302cid+v8,1127168", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "FAIRLANE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,custom,4.7l+289cid+v8,1435666", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,galaxie,4.7l+289cid+v8,1435654", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "GALAXIE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,country+squire,5.8l+352cid+v8,1332054", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,galaxie,6.4l+390cid+v8,1128440", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "GALAXIE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,fairlane,3.3l+200cid+l6,1495117", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "FAIRLANE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,ltd,7.0l+428cid+v8,1440944", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "LTD"}}}

@@ -10,3 +10,6 @@
 {"node_type": "model", "href": "/en/catalog/dodge,1931,series+dc+eight", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1931, "model": "SERIES DC EIGHT"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,1932,series+dl+six", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1932, "model": "SERIES DL SIX"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,1932,series+dk+eight", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1932, "model": "SERIES DK EIGHT"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1932,series+dm+four,196cid+l4,952491", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1932, "model": "SERIES DM FOUR"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1931,series+dh+six,212cid+l6,952422", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1931, "model": "SERIES DH SIX"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1934,truck,3.6l+218cid+l6,1485614", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1934, "model": "TRUCK"}}}

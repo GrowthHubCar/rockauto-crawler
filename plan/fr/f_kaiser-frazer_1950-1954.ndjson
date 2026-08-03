@@ -13,3 +13,10 @@
 {"node_type": "model", "href": "/en/catalog/kaiser-frazer,1952,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "KAISER-FRAZER", "year": 1952, "model": "DELUXE"}}}
 {"node_type": "model", "href": "/en/catalog/kaiser-frazer,1953,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "KAISER-FRAZER", "year": 1953, "model": "DELUXE"}}}
 {"node_type": "model", "href": "/en/catalog/kaiser-frazer,1953,carolina", "payload": {"nodetype": "model", "ctx": {"make": "KAISER-FRAZER", "year": 1953, "model": "CAROLINA"}}}
+{"node_type": "carcode", "href": "/en/catalog/kaiser-frazer,1954,darrin,2.6l+161cid+l6,1435358", "payload": {"nodetype": "carcode", "ctx": {"make": "KAISER-FRAZER", "year": 1954, "model": "DARRIN"}}}
+{"node_type": "carcode", "href": "/en/catalog/kaiser-frazer,1953,manhattan,3.7l+226cid+l6,1435523", "payload": {"nodetype": "carcode", "ctx": {"make": "KAISER-FRAZER", "year": 1953, "model": "MANHATTAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/kaiser-frazer,1952,virginian,3.7l+226cid+l6,1435518", "payload": {"nodetype": "carcode", "ctx": {"make": "KAISER-FRAZER", "year": 1952, "model": "VIRGINIAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/kaiser-frazer,1951,manhattan,3.7l+226cid+l6,1435532", "payload": {"nodetype": "carcode", "ctx": {"make": "KAISER-FRAZER", "year": 1951, "model": "MANHATTAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/kaiser-frazer,1951,special,3.7l+226cid+l6,1435521", "payload": {"nodetype": "carcode", "ctx": {"make": "KAISER-FRAZER", "year": 1951, "model": "SPECIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/kaiser-frazer,1950,virginian,3.7l+226cid+l6,1487224", "payload": {"nodetype": "carcode", "ctx": {"make": "KAISER-FRAZER", "year": 1950, "model": "VIRGINIAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/kaiser-frazer,1951,virginian,3.7l+226cid+l6,1487367", "payload": {"nodetype": "carcode", "ctx": {"make": "KAISER-FRAZER", "year": 1951, "model": "VIRGINIAN"}}}

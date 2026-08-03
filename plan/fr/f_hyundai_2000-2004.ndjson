@@ -1,1 +1,43 @@
 {"node_type": "model", "href": "/en/catalog/hyundai,2002,accent", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2002, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2001,santa+fe,2.7l+v6,1373408", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2001, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2004,santa+fe,2.4l+l4,1425620", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2004, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2003,xg350,3.5l+v6,1415887", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2003, "model": "XG350"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2001,elantra,2.0l+l4,1373385", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2001, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2000,sonata,2.4l+l4,1363137", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2000, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2004,sonata,2.7l+v6,1425664", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2004, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2000,tiburon,2.0l+l4,1363159", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2000, "model": "TIBURON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2003,accent,1.6l+l4,1415797", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2003, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2001,xg300,3.0l+v6,1373442", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2001, "model": "XG300"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2002,elantra,2.0l+l4,1386503", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2002, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2004,xg350,3.5l+v6,1425709", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2004, "model": "XG350"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2003,sonata,2.7l+v6,1415854", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2003, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2001,sonata,2.4l+l4,1373419", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2001, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2002,accent,1.6l+l4,1386480", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2002, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2003,santa+fe,2.4l+l4,1415821", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2003, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2003,santa+fe,2.7l+v6,1415832", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2003, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2004,santa+fe,3.5l+v6,1425642", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2004, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2003,elantra,2.0l+l4,1415809", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2003, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2003,accent,1.5l+l4,1438567", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2003, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2002,santa+fe,2.7l+v6,1386536", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2002, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2003,tiburon,2.7l+v6,1415876", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2003, "model": "TIBURON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2004,tiburon,2.0l+l4,1425675", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2004, "model": "TIBURON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2002,santa+fe,2.4l+l4,1386525", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2002, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2000,elantra,2.0l+l4,1363126", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2000, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2004,santa+fe,2.7l+v6,1425631", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2004, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2004,accent,1.6l+l4,1425596", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2004, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2001,tiburon,2.0l+l4,1373431", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2001, "model": "TIBURON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2002,xg350,3.5l+v6,1386570", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2002, "model": "XG350"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2003,sonata,2.4l+l4,1415843", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2003, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2004,sonata,2.4l+l4,1425653", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2004, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2000,sonata,2.5l+v6,1363148", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2000, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2004,elantra,2.0l+l4,1425619", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2004, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2003,santa+fe,3.5l+v6,1422830", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2003, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2000,accent,1.5l+l4,1363115", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2000, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2001,accent,1.5l+l4,1373363", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2001, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2002,sonata,2.4l+l4,1386547", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2002, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2002,sonata,2.7l+v6,1386558", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2002, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2003,tiburon,2.0l+l4,1415865", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2003, "model": "TIBURON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2004,tiburon,2.7l+v6,1425697", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2004, "model": "TIBURON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2001,accent,1.6l+l4,1373374", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2001, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2001,santa+fe,2.4l+l4,1373396", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2001, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2001,sonata,2.5l+v6,1373420", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2001, "model": "SONATA"}}}

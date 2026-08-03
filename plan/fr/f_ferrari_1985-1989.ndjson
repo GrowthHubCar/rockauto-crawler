@@ -23,3 +23,8 @@
 {"node_type": "model", "href": "/en/catalog/ferrari,1989,mondial+t", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1989, "model": "MONDIAL T"}}}
 {"node_type": "model", "href": "/en/catalog/ferrari,1985,400i", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1985, "model": "400I"}}}
 {"node_type": "model", "href": "/en/catalog/ferrari,1985,mondial", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1985, "model": "MONDIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1987,328+gts,3.2l+v8,1103757", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1987, "model": "328 GTS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1986,mondial+3.2,3.2l+v8,1104107", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1986, "model": "MONDIAL 3.2"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1989,412,4.9l+h12,3440329", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1989, "model": "412"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1986,328+gtb,3.2l+v8,1103702", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1986, "model": "328 GTB"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1989,328+gts,3.2l+v8,1103779", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1989, "model": "328 GTS"}}}

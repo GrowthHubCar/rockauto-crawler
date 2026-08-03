@@ -1,2 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/karma,2017,revero", "payload": {"nodetype": "model", "ctx": {"make": "KARMA", "year": 2017, "model": "REVERO"}}}
 {"node_type": "model", "href": "/en/catalog/karma,2019,revero", "payload": {"nodetype": "model", "ctx": {"make": "KARMA", "year": 2019, "model": "REVERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/karma,2018,revero,2.0l+l4+electric/gas+turbocharged,3442829", "payload": {"nodetype": "carcode", "ctx": {"make": "KARMA", "year": 2018, "model": "REVERO"}}}

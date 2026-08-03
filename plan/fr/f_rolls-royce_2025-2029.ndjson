@@ -5,3 +5,4 @@
 {"node_type": "model", "href": "/en/catalog/rolls-royce,2025,cullinan", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2025, "model": "CULLINAN"}}}
 {"node_type": "model", "href": "/en/catalog/rolls-royce,2026,cullinan", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2026, "model": "CULLINAN"}}}
 {"node_type": "model", "href": "/en/catalog/rolls-royce,2025,spectre", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2025, "model": "SPECTRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2026,spectre,electric,3458894", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2026, "model": "SPECTRE"}}}

@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lexus,2022,rx450hl", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2022, "model": "RX450HL"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2022,ux200", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2022, "model": "UX200"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2022,ux250h", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2022, "model": "UX250H"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2022,rc350", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2022, "model": "RC350"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2022,rx450h", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2022, "model": "RX450H"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2022,rc300", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2022, "model": "RC300"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2022,lc500", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2022, "model": "LC500"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2011,z4", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2011, "model": "Z4"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2011,x6", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2011, "model": "X6"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2011,x5", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2011, "model": "X5"}}}

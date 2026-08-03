@@ -65,3 +65,132 @@
 {"node_type": "model", "href": "/en/catalog/audi,2022,rs+e-tron+gt", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2022, "model": "RS E-TRON GT"}}}
 {"node_type": "model", "href": "/en/catalog/audi,2023,rs+e-tron+gt", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2023, "model": "RS E-TRON GT"}}}
 {"node_type": "model", "href": "/en/catalog/audi,2024,rs+e-tron+gt", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2024, "model": "RS E-TRON GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,a8,3.0l+v6+turbocharged,3451589", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "A8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,sq7,4.0l+v8+turbocharged,3454066", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "SQ7"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,q5,2.0l+l4+electric/gas+turbocharged,3445817", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "Q5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,r8,5.2l+v10,3447239", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "R8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,q3,1.4l+l4+turbocharged,3447619", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "Q3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2024,q8,electric,3454971", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2024, "model": "Q8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,a1,2.0l+l4+turbocharged,3447225", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "A1"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,a4,2.0l+l4+turbocharged,3450371", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "A4"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,rs6,4.0l+v8+turbocharged,3447242", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "RS6"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,a6,2.0l+l4+turbocharged,3451577", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "A6"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,sq5,3.0l+v6+turbocharged,3446973", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "SQ5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,q5,2.0l+l4+turbocharged,3447050", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "Q5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,s8,4.0l+v8+turbocharged,3451008", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "S8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,q5,2.0l+l4+turbocharged,3451600", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "Q5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,s6,2.9l+v6+turbocharged,3447244", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "S6"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,s6,2.9l+v6+turbocharged,3445510", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "S6"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2024,q2,1.4l+l4+turbocharged,3455206", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2024, "model": "Q2"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,s6,2.9l+v6+turbocharged,3454063", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "S6"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,a8,3.0l+v6+electric/gas+turbocharged,3447232", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "A8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,q7,2.0l+l4+turbocharged,3449645", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "Q7"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,q5,2.0l+l4+electric/gas+turbocharged,3454238", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "Q5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,q2+quattro,2.0l+l4+turbocharged,3445506", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "Q2 QUATTRO"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,sq5,3.0l+v6+turbocharged,3451009", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "SQ5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,a4,2.0l+l4+turbocharged,3453425", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "A4"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,a3,1.4l+l4+turbocharged,3450992", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "A3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,tt,2.5l+l5+turbocharged,3447249", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "TT"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,sq7,4.0l+v8+turbocharged,3446974", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "SQ7"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,a4,2.0l+l4+turbocharged,3447137", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "A4"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,a1,1.5l+l4+turbocharged,3450990", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "A1"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,a3,2.0l+l4+turbocharged,3450993", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "A3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,q3,2.0l+l4+turbocharged,3445410", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "Q3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,tt,2.0l+l4+turbocharged,3447248", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "TT"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,a6+allroad,3.0l+v6+turbocharged,3454044", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "A6 ALLROAD"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,a4,2.0l+l4+electric/gas+turbocharged,3449631", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "A4"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,sq8,4.0l+v8+turbocharged,3454067", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "SQ8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,a7,2.0l+l4+turbocharged,3454234", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "A7"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2024,q4,electric,3454237", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2024, "model": "Q4"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,rs+q3,2.5l+l5+turbocharged,3449650", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "RS Q3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,r8,5.2l+v10,3452712", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "R8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,s3,2.0l+l4+turbocharged,3450400", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "S3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2024,rs3,2.5l+l5+turbocharged,3454240", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2024, "model": "RS3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,q8,3.0l+v6+turbocharged,3450392", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "Q8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2024,a1,1.5l+l4+turbocharged,3455201", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2024, "model": "A1"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,q7,3.0l+v6+turbocharged,3454058", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "Q7"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,a6,3.0l+v6+turbocharged,3446431", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "A6"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,a6,3.0l+v6+turbocharged,3450378", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "A6"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,s3,2.0l+l4+turbocharged,3451007", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "S3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,rs+q3,2.5l+l5+turbocharged,3451005", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "RS Q3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,a6,2.0l+l4+turbocharged,3453428", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "A6"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,e-tron,electric,3446434", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "E-TRON"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,q5,2.0l+l4+electric/gas+turbocharged,3450387", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "Q5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,q3,2.0l+l4+turbocharged,3453440", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "Q3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,q3,2.0l+l4+turbocharged,3446964", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "Q3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,rs3,2.5l+l5+turbocharged,3452713", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "RS3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,s7,2.9l+v6+turbocharged,3454064", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "S7"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,tt,2.0l+l4+turbocharged,3453461", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "TT"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2024,rs5,2.9l+v6+turbocharged,3454973", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2024, "model": "RS5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,a4+allroad,2.0l+l4+turbocharged,3454042", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "A4 ALLROAD"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,e-tron,electric,3454049", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "E-TRON"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,s4,3.0l+v6+turbocharged,3445821", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "S4"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,a5,2.0l+l4+turbocharged,3453427", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "A5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,rs7,4.0l+v8+turbocharged,3447140", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "RS7"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,q5,2.0l+l4+electric/gas+turbocharged,3447235", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "Q5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,rs+q8,4.0l+v8+turbocharged,3450395", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "RS Q8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,s5,3.0l+v6+turbocharged,3445822", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "S5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,sq7,4.0l+v8+turbocharged,3446449", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "SQ7"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2024,rs+q8,4.0l+v8+turbocharged,3455209", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2024, "model": "RS Q8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,s5,3.0l+v6+turbocharged,3446971", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "S5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,q3,1.4l+l4+turbocharged,3445956", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "Q3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2024,a5,2.0l+l4+turbocharged,3454959", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2024, "model": "A5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,s4,3.0l+v6+turbocharged,3447141", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "S4"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,tt,2.0l+l4+turbocharged,3450409", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "TT"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,a3,2.0l+l4+turbocharged,3445409", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "A3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,rs3,2.5l+l5+turbocharged,3445958", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "RS3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,tt,2.5l+l5+turbocharged,3453462", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "TT"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2024,sq5,3.0l+v6+turbocharged,3454977", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2024, "model": "SQ5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,a7,3.0l+v6+turbocharged,3454045", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "A7"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2024,sq8,electric,3454980", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2024, "model": "SQ8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,a6,2.0l+l4+turbocharged,3445584", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "A6"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,s3,2.0l+l4+turbocharged,3445509", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "S3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2024,e-tron,electric,3454236", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2024, "model": "E-TRON"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,q4,electric,3454052", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "Q4"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,a1,999cc+l3+turbocharged,3453421", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "A1"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,s8,4.0l+v8+turbocharged,3447247", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "S8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,s8,4.0l+v8+turbocharged,3445961", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "S8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,a4,2.0l+l4+electric/gas+turbocharged,3447227", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "A4"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,s8,4.0l+v8+turbocharged,3454065", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "S8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,q8,3.0l+v6+turbocharged,3445508", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "Q8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,a4+allroad,2.0l+l4+turbocharged,3445815", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "A4 ALLROAD"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2024,s3,2.0l+l4+turbocharged,3454241", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2024, "model": "S3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,e-tron,electric,3454633", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "E-TRON"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,q5,2.0l+l4+turbocharged,3445507", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "Q5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,rs5,2.9l+v6+turbocharged,3447240", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "RS5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,q5,2.0l+l4+turbocharged,3453442", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "Q5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,a6,3.0l+v6+turbocharged,3454043", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "A6"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,a1,2.0l+l4+turbocharged,3453423", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "A1"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,a8,4.0l+v8+turbocharged,3445504", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "A8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,a3,1.4l+l4+turbocharged,3453424", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "A3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,a6,3.0l+v6+turbocharged,3445585", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "A6"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,a3,2.0l+l4+turbocharged,3450370", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "A3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,a7,2.0l+l4+turbocharged,3450380", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "A7"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,a1,2.0l+l4+turbocharged,3450991", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "A1"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,a1,1.5l+l4+turbocharged,3453422", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "A1"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,q2,1.4l+l4+turbocharged,3445505", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "Q2"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2024,q3,2.0l+l4+turbocharged,3454965", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2024, "model": "Q3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,s7,2.9l+v6+turbocharged,3445592", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "S7"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,q3,1.4l+l4+turbocharged,3453439", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "Q3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,q8,3.0l+v6+turbocharged,3447051", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "Q8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,s4,3.0l+v6+supercharged,3449655", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "S4"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2024,q5,2.0l+l4+turbocharged,3454966", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2024, "model": "Q5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,a8,3.0l+v6+electric/gas+turbocharged,3452709", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "A8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,q7,3.0l+v6+turbocharged,3446440", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "Q7"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,rs3,2.5l+l5+turbocharged,3451006", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "RS3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,a5,2.0l+l4+turbocharged,3451569", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "A5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,rs+q8,4.0l+v8+turbocharged,3446874", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "RS Q8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,rs7,4.0l+v8+turbocharged,3454062", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "RS7"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2024,s4,3.0l+v6+turbocharged,3454974", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2024, "model": "S4"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,a7,2.0l+l4+electric/gas+turbocharged,3450379", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "A7"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,tt,2.5l+l5+turbocharged,3445512", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "TT"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,a5,2.0l+l4+turbocharged,3445952", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "A5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,rs+q8,4.0l+v8+turbocharged,3451612", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "RS Q8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2024,sq8,4.0l+v8+turbocharged,3454979", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2024, "model": "SQ8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,tt,2.5l+l5+turbocharged,3450410", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "TT"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,sq8,4.0l+v8+turbocharged,3446975", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "SQ8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,a8,3.0l+v6+turbocharged,3454047", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "A8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,a7,3.0l+v6+turbocharged,3447138", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "A7"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,a6,2.0l+l4+turbocharged,3446430", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "A6"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,a1,999cc+l3+turbocharged,3450989", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "A1"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,rs+q3,2.5l+l5+turbocharged,3453450", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "RS Q3"}}}

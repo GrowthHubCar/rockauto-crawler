@@ -8,3 +8,9 @@
 {"node_type": "model", "href": "/en/catalog/mercury,1952,custom", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1952, "model": "CUSTOM"}}}
 {"node_type": "model", "href": "/en/catalog/mercury,1953,custom", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1953, "model": "CUSTOM"}}}
 {"node_type": "model", "href": "/en/catalog/mercury,1954,custom", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1954, "model": "CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1953,monterey,4.2l+255cid+v8,1434943", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1953, "model": "MONTEREY"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1954,monterey,4.2l+256cid+v8,1345722", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1954, "model": "MONTEREY"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1952,monterey,4.2l+255cid+v8,1434944", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1952, "model": "MONTEREY"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1950,monterey,4.2l+255cid+v8,1434946", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1950, "model": "MONTEREY"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1951,monterey,4.2l+255cid+v8,1434945", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1951, "model": "MONTEREY"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1950,mercury,4.2l+255cid+v8,1434948", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1950, "model": "MERCURY"}}}

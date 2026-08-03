@@ -1,3 +1,4 @@
 {"node_type": "model", "href": "/en/catalog/gwm,2024,tank+300", "payload": {"nodetype": "model", "ctx": {"make": "GWM", "year": 2024, "model": "TANK 300"}}}
 {"node_type": "model", "href": "/en/catalog/gwm,2024,poer", "payload": {"nodetype": "model", "ctx": {"make": "GWM", "year": 2024, "model": "POER"}}}
 {"node_type": "model", "href": "/en/catalog/gwm,2024,haval+jolion", "payload": {"nodetype": "model", "ctx": {"make": "GWM", "year": 2024, "model": "HAVAL JOLION"}}}
+{"node_type": "carcode", "href": "/en/catalog/gwm,2024,haval+h6,1.5l+l4+electric/gas+turbocharged,3455575", "payload": {"nodetype": "carcode", "ctx": {"make": "GWM", "year": 2024, "model": "HAVAL H6"}}}

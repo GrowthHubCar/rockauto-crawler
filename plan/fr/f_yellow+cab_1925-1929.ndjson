@@ -3,3 +3,5 @@
 {"node_type": "model", "href": "/en/catalog/yellow+cab,1929,model+o-6", "payload": {"nodetype": "model", "ctx": {"make": "YELLOW CAB", "year": 1929, "model": "MODEL O-6"}}}
 {"node_type": "model", "href": "/en/catalog/yellow+cab,1928,model+d-1", "payload": {"nodetype": "model", "ctx": {"make": "YELLOW CAB", "year": 1928, "model": "MODEL D-1"}}}
 {"node_type": "model", "href": "/en/catalog/yellow+cab,1927,model+o-5", "payload": {"nodetype": "model", "ctx": {"make": "YELLOW CAB", "year": 1927, "model": "MODEL O-5"}}}
+{"node_type": "carcode", "href": "/en/catalog/yellow+cab,1927,model+d-10,6cyl,2001488", "payload": {"nodetype": "carcode", "ctx": {"make": "YELLOW CAB", "year": 1927, "model": "MODEL D-10"}}}
+{"node_type": "carcode", "href": "/en/catalog/yellow+cab,1926,model+o-5,4cyl,2001389", "payload": {"nodetype": "carcode", "ctx": {"make": "YELLOW CAB", "year": 1926, "model": "MODEL O-5"}}}

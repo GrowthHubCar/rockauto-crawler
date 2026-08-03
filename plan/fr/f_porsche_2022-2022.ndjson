@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/porsche,2022,macan", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2022, "model": "MACAN"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,2022,panamera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2022, "model": "PANAMERA"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,2022,taycan", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2022, "model": "TAYCAN"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,2022,718", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2022, "model": "718"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,2022,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2022, "model": "911"}}}

@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2021,venue", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "VENUE"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2021,veloster+n", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "VELOSTER N"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2021,veloster", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "VELOSTER"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2021,ioniq", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "IONIQ"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2021,tucson", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "TUCSON"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2021,kona", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "KONA"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2021,santa+fe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "SANTA FE"}}}

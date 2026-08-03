@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercury,2004,marauder", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 2004, "model": "MARAUDER"}}}
-{"node_type": "model", "href": "/en/catalog/mercury,2001,cougar", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 2001, "model": "COUGAR"}}}
-{"node_type": "model", "href": "/en/catalog/mercury,2001,mountaineer", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 2001, "model": "MOUNTAINEER"}}}
-{"node_type": "model", "href": "/en/catalog/mercury,2004,sable", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 2004, "model": "SABLE"}}}
-{"node_type": "model", "href": "/en/catalog/mercury,2002,villager", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 2002, "model": "VILLAGER"}}}
-{"node_type": "model", "href": "/en/catalog/mercury,2003,grand+marquis", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 2003, "model": "GRAND MARQUIS"}}}
-{"node_type": "model", "href": "/en/catalog/mercury,2003,sable", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 2003, "model": "SABLE"}}}
-{"node_type": "model", "href": "/en/catalog/mercury,2004,grand+marquis", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 2004, "model": "GRAND MARQUIS"}}}
-{"node_type": "model", "href": "/en/catalog/mercury,2002,mountaineer", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 2002, "model": "MOUNTAINEER"}}}

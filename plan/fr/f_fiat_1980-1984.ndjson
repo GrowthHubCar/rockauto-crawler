@@ -3,3 +3,12 @@
 {"node_type": "model", "href": "/en/catalog/fiat,1980,x-1/9", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1980, "model": "X-1/9"}}}
 {"node_type": "model", "href": "/en/catalog/fiat,1981,x-1/9", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1981, "model": "X-1/9"}}}
 {"node_type": "model", "href": "/en/catalog/fiat,1980,brava", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1980, "model": "BRAVA"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,1982,strada,1.5l+l4,1104871", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1982, "model": "STRADA"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,1981,brava,2.0l+l4,1104815", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1981, "model": "BRAVA"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,1982,x-1/9,1.5l+l4,1104972", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1982, "model": "X-1/9"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,1983,x-1/9,1.5l+l4,1299449", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1983, "model": "X-1/9"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,1982,124,2.0l+l4,1438472", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1982, "model": "124"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,1980,124,2.0l+l4,1409802", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1980, "model": "124"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,1981,124,2.0l+l4,1104512", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1981, "model": "124"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,1983,x-1/9,2.0l+l4,1299450", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1983, "model": "X-1/9"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,1981,strada,1.5l+l4,1104859", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1981, "model": "STRADA"}}}

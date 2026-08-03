@@ -1,0 +1,3 @@
+{"node_type": "carcode", "href": "/en/catalog/mercury,1941,series+19a,3.9l+239cid+v8,953039", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1941, "model": "SERIES 19A"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1942,series+29a,3.9l+239cid+v8,1486284", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1942, "model": "SERIES 29A"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1940,series+o9a,3.9l+239cid+v8,1486049", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1940, "model": "SERIES O9A"}}}

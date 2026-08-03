@@ -1,1 +1,21 @@
 {"node_type": "model", "href": "/en/catalog/jaguar,1987,vanden+plas", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1987, "model": "VANDEN PLAS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1986,xj12,5.3l+v12,3111705", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1986, "model": "XJ12"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1988,vanden+plas,3.6l+l6,1177512", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1988, "model": "VANDEN PLAS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1988,xj12,5.3l+v12,1177792", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1988, "model": "XJ12"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1986,xjs,5.3l+v12,1178748", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1986, "model": "XJS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1987,xj6,3.6l+l6,1178175", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1987, "model": "XJ6"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1988,xjs,5.3l+v12,1178782", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1988, "model": "XJS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1988,xj6,3.6l+l6,1178209", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1988, "model": "XJ6"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1985,xj12,5.3l+v12,1177769", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1985, "model": "XJ12"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1989,xjs,5.3l+v12,1178793", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1989, "model": "XJS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1986,vanden+plas,4.2l+l6,1177499", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1986, "model": "VANDEN PLAS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1985,xjs,5.3l+v12,1178726", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1985, "model": "XJS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1987,xj12,5.3l+v12,1177781", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1987, "model": "XJ12"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1989,vanden+plas,3.6l+l6,1177534", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1989, "model": "VANDEN PLAS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1986,xj6,4.2l+l6,1178120", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1986, "model": "XJ6"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1985,xj6,4.2l+l6,1178096", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1985, "model": "XJ6"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1989,xj12,5.3l+v12,3111708", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1989, "model": "XJ12"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1987,xj6,4.2l+l6,1178164", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1987, "model": "XJ6"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1989,xj6,3.6l+l6,1178221", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1989, "model": "XJ6"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1985,vanden+plas,4.2l+l6,1177488", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1985, "model": "VANDEN PLAS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1987,xjs,5.3l+v12,1178760", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1987, "model": "XJS"}}}

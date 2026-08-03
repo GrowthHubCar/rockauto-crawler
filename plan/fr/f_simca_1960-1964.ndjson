@@ -10,3 +10,5 @@
 {"node_type": "model", "href": "/en/catalog/simca,1964,1000", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1964, "model": "1000"}}}
 {"node_type": "model", "href": "/en/catalog/simca,1963,1000s", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1963, "model": "1000S"}}}
 {"node_type": "model", "href": "/en/catalog/simca,1964,1000s", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1964, "model": "1000S"}}}
+{"node_type": "carcode", "href": "/en/catalog/simca,1960,aronde,1.3l+l4,1489815", "payload": {"nodetype": "carcode", "ctx": {"make": "SIMCA", "year": 1960, "model": "ARONDE"}}}
+{"node_type": "carcode", "href": "/en/catalog/simca,1960,vedette,2.4l+v8,1439513", "payload": {"nodetype": "carcode", "ctx": {"make": "SIMCA", "year": 1960, "model": "VEDETTE"}}}

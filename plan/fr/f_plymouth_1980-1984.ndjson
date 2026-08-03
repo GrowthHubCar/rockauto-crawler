@@ -10,3 +10,32 @@
 {"node_type": "model", "href": "/en/catalog/plymouth,1980,gran+fury", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "GRAN FURY"}}}
 {"node_type": "model", "href": "/en/catalog/plymouth,1980,caravelle", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "CARAVELLE"}}}
 {"node_type": "model", "href": "/en/catalog/plymouth,1984,caravelle", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1984, "model": "CARAVELLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1983,pb250,5.2l+318cid+v8,1239397", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1983, "model": "PB250"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1981,reliant,2.2l+135cid+l4,1239948", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1981, "model": "RELIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1983,pb350,5.2l+318cid+v8,1239904", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1983, "model": "PB350"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1980,pb200,5.9l+360cid+v8,1239285", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "PB200"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1981,sapporo,2.6l+156cid+l4,1240850", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1981, "model": "SAPPORO"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1980,pb100,5.2l+318cid+v8,1238712", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "PB100"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1980,volare,5.2l+318cid+v8,1243572", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "VOLARE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1984,caravelle,5.2l+318cid+v8,1229701", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1984, "model": "CARAVELLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1983,turismo,1.6l+98cid+l4,1242762", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1983, "model": "TURISMO"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1980,pb300,5.9l+360cid+v8,1239791", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "PB300"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1984,colt+e,1.6l+98cid+l4,1230512", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1984, "model": "COLT E"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1980,volare,5.9l+360cid+v8,1243594", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "VOLARE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1980,trailduster,5.9l+360cid+v8,1242728", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "TRAILDUSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1983,turismo,1.7l+105cid+l4,3353647", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1983, "model": "TURISMO"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1983,colt,1.6l+98cid+l4,1230433", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1983, "model": "COLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1983,turismo,2.2l+135cid+l4,3353648", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1983, "model": "TURISMO"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1980,trailduster,3.7l+225cid+l6,1242706", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "TRAILDUSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1984,colt+dl,1.6l+98cid+l4,1230488", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1984, "model": "COLT DL"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1981,reliant,2.6l+156cid+l4,1239959", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1981, "model": "RELIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1981,pb150,5.2l+318cid+v8,1238734", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1981, "model": "PB150"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1981,trailduster,5.9l+360cid+v8,1242751", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1981, "model": "TRAILDUSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1981,trailduster,5.2l+318cid+v8,1242739", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1981, "model": "TRAILDUSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1984,gran+fury,5.2l+318cid+v8,1236833", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1984, "model": "GRAN FURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1981,horizon,2.2l+135cid+l4,1237586", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1981, "model": "HORIZON"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1984,reliant,2.2l+135cid+l4,1240142", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1984, "model": "RELIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1984,caravelle,2.2l+135cid+l4,1229666", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1984, "model": "CARAVELLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1981,pb250,5.9l+360cid+v8,1239342", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1981, "model": "PB250"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1983,pb350,5.9l+360cid+v8,1239926", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1983, "model": "PB350"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1980,sapporo,2.6l+156cid+l4,1240849", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "SAPPORO"}}}

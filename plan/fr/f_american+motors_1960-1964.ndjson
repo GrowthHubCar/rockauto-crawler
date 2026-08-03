@@ -3,3 +3,27 @@
 {"node_type": "model", "href": "/en/catalog/american+motors,1961,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "AMERICAN MOTORS", "year": 1961, "model": "DELUXE"}}}
 {"node_type": "model", "href": "/en/catalog/american+motors,1962,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "AMERICAN MOTORS", "year": 1962, "model": "DELUXE"}}}
 {"node_type": "model", "href": "/en/catalog/american+motors,1961,custom", "payload": {"nodetype": "model", "ctx": {"make": "AMERICAN MOTORS", "year": 1961, "model": "CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1960,american,3.2l+196cid+l6,1318698", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1960, "model": "AMERICAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1963,classic,4.7l+287cid+v8,1318553", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1963, "model": "CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1962,ambassador,5.3l+327cid+v8,1318564", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1962, "model": "AMBASSADOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1963,ambassador,5.3l+327cid+v8,1318531", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1963, "model": "AMBASSADOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1962,super+six,3.2l+196cid+l6,1365005", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1962, "model": "SUPER SIX"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1960,rambler,3.2l+196cid+l6,1318700", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1960, "model": "RAMBLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1961,ambassador,5.3l+327cid+v8,1318610", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1961, "model": "AMBASSADOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1963,classic,3.2l+196cid+l6,1318542", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1963, "model": "CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1961,classic,4.1l+250cid+v8,1489870", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1961, "model": "CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1962,custom,3.2l+196cid+l6,1318597", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1962, "model": "CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1964,american,3.8l+232cid+l6,1389540", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1964, "model": "AMERICAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1964,classic,3.2l+196cid+l6,1318519", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1964, "model": "CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1964,classic,3.8l+232cid+l6,1389551", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1964, "model": "CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1964,classic,4.7l+287cid+v8,1318520", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1964, "model": "CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1961,super+six,3.2l+196cid+l6,1365016", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1961, "model": "SUPER SIX"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1961,rebel,4.1l+250cid+v8,1318665", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1961, "model": "REBEL"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1961,american,3.2l+196cid+l6,1318621", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1961, "model": "AMERICAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1961,classic,3.2l+196cid+l6,1318632", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1961, "model": "CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1962,classic,3.2l+196cid+l6,1318586", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1962, "model": "CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1960,ambassador,5.3l+327cid+v8,1318676", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1960, "model": "AMBASSADOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1962,classic,4.1l+250cid+v8,1490411", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1962, "model": "CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1964,american,3.2l+196cid+l6,1318508", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1964, "model": "AMERICAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1962,american,3.2l+196cid+l6,1318575", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1962, "model": "AMERICAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/american+motors,1963,american,3.2l+196cid+l6,1435448", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1963, "model": "AMERICAN"}}}

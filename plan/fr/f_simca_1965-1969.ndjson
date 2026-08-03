@@ -2,3 +2,13 @@
 {"node_type": "model", "href": "/en/catalog/simca,1965,1000", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1965, "model": "1000"}}}
 {"node_type": "model", "href": "/en/catalog/simca,1965,1000s", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1965, "model": "1000S"}}}
 {"node_type": "model", "href": "/en/catalog/simca,1969,1118", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1969, "model": "1118"}}}
+{"node_type": "carcode", "href": "/en/catalog/simca,1969,1204,1.2l+l4,1439021", "payload": {"nodetype": "carcode", "ctx": {"make": "SIMCA", "year": 1969, "model": "1204"}}}
+{"node_type": "carcode", "href": "/en/catalog/simca,1967,5,1.3l+l4,1494116", "payload": {"nodetype": "carcode", "ctx": {"make": "SIMCA", "year": 1967, "model": "5"}}}
+{"node_type": "carcode", "href": "/en/catalog/simca,1968,5,1.3l+l4,1494881", "payload": {"nodetype": "carcode", "ctx": {"make": "SIMCA", "year": 1968, "model": "5"}}}
+{"node_type": "carcode", "href": "/en/catalog/simca,1966,5,1.3l+l4,1493467", "payload": {"nodetype": "carcode", "ctx": {"make": "SIMCA", "year": 1966, "model": "5"}}}
+{"node_type": "carcode", "href": "/en/catalog/simca,1968,1000,944cc+l4,1438843", "payload": {"nodetype": "carcode", "ctx": {"make": "SIMCA", "year": 1968, "model": "1000"}}}
+{"node_type": "carcode", "href": "/en/catalog/simca,1966,1000,944cc+l4,1438845", "payload": {"nodetype": "carcode", "ctx": {"make": "SIMCA", "year": 1966, "model": "1000"}}}
+{"node_type": "carcode", "href": "/en/catalog/simca,1967,1000,944cc+l4,1438844", "payload": {"nodetype": "carcode", "ctx": {"make": "SIMCA", "year": 1967, "model": "1000"}}}
+{"node_type": "carcode", "href": "/en/catalog/simca,1968,1000s,944cc+l4,1494880", "payload": {"nodetype": "carcode", "ctx": {"make": "SIMCA", "year": 1968, "model": "1000S"}}}
+{"node_type": "carcode", "href": "/en/catalog/simca,1966,1000s,944cc+l4,1493466", "payload": {"nodetype": "carcode", "ctx": {"make": "SIMCA", "year": 1966, "model": "1000S"}}}
+{"node_type": "carcode", "href": "/en/catalog/simca,1967,1000s,944cc+l4,1494115", "payload": {"nodetype": "carcode", "ctx": {"make": "SIMCA", "year": 1967, "model": "1000S"}}}

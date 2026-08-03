@@ -1,1 +1,10 @@
 {"node_type": "model", "href": "/en/catalog/rolls-royce,1969,phantom", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1969, "model": "PHANTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1965,phantom,6.2l+v8,1396841", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1965, "model": "PHANTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1967,phantom,6.2l+v8,1396863", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1967, "model": "PHANTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1968,silver+shadow,6.2l+v8,1397066", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1968, "model": "SILVER SHADOW"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1969,silver+shadow,6.2l+v8,1397077", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1969, "model": "SILVER SHADOW"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1968,phantom,6.2l+v8,1494862", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1968, "model": "PHANTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1965,silver+cloud,6.2l+v8,1396975", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1965, "model": "SILVER CLOUD"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1967,silver+shadow,6.2l+v8,1397055", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1967, "model": "SILVER SHADOW"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1966,phantom,6.2l+v8,1396852", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1966, "model": "PHANTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1966,silver+shadow,6.2l+v8,1397044", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1966, "model": "SILVER SHADOW"}}}

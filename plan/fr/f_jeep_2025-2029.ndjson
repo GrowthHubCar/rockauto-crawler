@@ -1,2 +1,31 @@
 {"node_type": "model", "href": "/en/catalog/jeep,2026,renegade", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2026, "model": "RENEGADE"}}}
 {"node_type": "model", "href": "/en/catalog/jeep,2025,commander", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2025, "model": "COMMANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2025,gladiator,3.6l+v6,3457996", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2025, "model": "GLADIATOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2026,gladiator,3.6l+v6,3459738", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2026, "model": "GLADIATOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2026,grand+cherokee,2.0l+l4+turbocharged,3461935", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2026, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2026,wrangler,6.4l+v8,3459413", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2026, "model": "WRANGLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2026,cherokee,1.6l+l4+electric/gas+turbocharged,3459735", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2026, "model": "CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2025,compass,1.3l+l4+turbocharged,3458619", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2025, "model": "COMPASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2025,grand+cherokee,3.6l+v6,3458624", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2025, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2025,grand+cherokee+l,3.6l+v6,3458625", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2025, "model": "GRAND CHEROKEE L"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2025,wagoneer,3.0l+l6+turbocharged,3457998", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2025, "model": "WAGONEER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2026,grand+cherokee+l,3.6l+v6,3461938", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2026, "model": "GRAND CHEROKEE L"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2025,wrangler,2.0l+l4+electric/gas+turbocharged,3458630", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2025, "model": "WRANGLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2025,wrangler,3.6l+v6,3458631", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2025, "model": "WRANGLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2026,grand+cherokee+l,2.0l+l4+turbocharged,3461937", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2026, "model": "GRAND CHEROKEE L"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2025,wrangler,6.4l+v8,3458632", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2025, "model": "WRANGLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2025,renegade,1.3l+l4+turbocharged,3458626", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2025, "model": "RENEGADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2025,compass,2.0l+l4+turbocharged,3457995", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2025, "model": "COMPASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2025,wagoneer,electric,3458628", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2025, "model": "WAGONEER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2026,grand+cherokee,3.6l+v6,3461936", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2026, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2026,wrangler,2.0l+l4+turbocharged,3459411", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2026, "model": "WRANGLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2026,grand+wagoneer+l,3.0l+l6+turbocharged,3461940", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2026, "model": "GRAND WAGONEER L"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2026,compass,2.0l+l4+turbocharged,3459409", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2026, "model": "COMPASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2026,compass,1.3l+l4+turbocharged,3461934", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2026, "model": "COMPASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2026,wrangler,3.6l+v6,3459412", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2026, "model": "WRANGLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2025,grand+wagoneer+l,3.0l+l6+turbocharged,3455595", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2025, "model": "GRAND WAGONEER L"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2025,grand+cherokee,2.0l+l4+electric/gas+turbocharged,3458623", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2025, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2025,grand+wagoneer,3.0l+l6+turbocharged,3457997", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2025, "model": "GRAND WAGONEER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2026,grand+wagoneer,3.0l+l6+turbocharged,3461939", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2026, "model": "GRAND WAGONEER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2025,wagoneer+l,3.0l+l6+turbocharged,3455596", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2025, "model": "WAGONEER L"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2025,wrangler,2.0l+l4+turbocharged,3458629", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2025, "model": "WRANGLER"}}}

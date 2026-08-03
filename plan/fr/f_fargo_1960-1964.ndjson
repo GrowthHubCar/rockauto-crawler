@@ -28,3 +28,5 @@
 {"node_type": "model", "href": "/en/catalog/fargo,1962,f100+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1962, "model": "F100 PANEL DELIVERY"}}}
 {"node_type": "model", "href": "/en/catalog/fargo,1963,f100+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1963, "model": "F100 PANEL DELIVERY"}}}
 {"node_type": "model", "href": "/en/catalog/fargo,1964,f100+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1964, "model": "F100 PANEL DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1961,p300+parcel+delivery,3.7l+225cid+l6,1489989", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1961, "model": "P300 PARCEL DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1964,a100+van,3.7l+225cid+l6,1491707", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1964, "model": "A100 VAN"}}}

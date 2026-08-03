@@ -1,1 +1,11 @@
 {"node_type": "model", "href": "/en/catalog/checker,1982,marathon", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1982, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1981,marathon,3.8l+229cid+v6,1430058", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1981, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1982,marathon,3.8l+229cid+v6,1430054", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1982, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1981,marathon,5.0l+305cid+v8,1430060", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1981, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1980,marathon,3.8l+229cid+v6,1430062", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1980, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1980,marathon,5.0l+305cid+v8,1430064", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1980, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1981,marathon,5.7l+350cid+v8+diesel,1430061", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1981, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1981,marathon,4.4l+267cid+v8,1430059", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1981, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1980,marathon,4.4l+267cid+v8,1430063", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1980, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1982,marathon,5.7l+350cid+v8+diesel,1430057", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1982, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1980,marathon,5.7l+350cid+v8+diesel,1430065", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1980, "model": "MARATHON"}}}

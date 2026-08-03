@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/nissan,1983,pulsar+nx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1983, "model": "PULSAR NX"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1983,720+pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1983, "model": "720 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1983,stanza", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1983, "model": "STANZA"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1983,sentra", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1983, "model": "SENTRA"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1983,maxima", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1983, "model": "MAXIMA"}}}

@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,1990,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1990, "model": "TRANSPORTER"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1990,combi", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1990, "model": "COMBI"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1990,vanagon", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1990, "model": "VANAGON"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1990,corrado", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1990, "model": "CORRADO"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1990,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1990, "model": "PASSAT"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1990,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1990, "model": "JETTA"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1990,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1990, "model": "GOLF"}}}

@@ -1,1 +1,14 @@
 {"node_type": "model", "href": "/en/catalog/lincoln,1975,continental", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1975, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1977,versailles,5.0l+302cid+v8,1189021", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1977, "model": "VERSAILLES"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1978,versailles,5.0l+302cid+v8,1189043", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1978, "model": "VERSAILLES"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1975,mark+iv,7.5l+460cid+v8,1188211", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1975, "model": "MARK IV"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1979,continental,6.6l+400cid+v8,1187827", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1979, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1977,versailles,5.8l+351cid+v8,1189032", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1977, "model": "VERSAILLES"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1978,mark+v,7.5l+460cid+v8,1188266", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1978, "model": "MARK V"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1976,continental,7.5l+460cid+v8,1187771", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1976, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1979,versailles,5.0l+302cid+v8,1189054", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1979, "model": "VERSAILLES"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1978,continental,6.6l+400cid+v8,1187805", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1978, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1978,mark+v,6.6l+400cid+v8,1188255", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1978, "model": "MARK V"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1979,mark+v,6.6l+400cid+v8,1188277", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1979, "model": "MARK V"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1978,continental,7.5l+460cid+v8,1187816", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1978, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1976,mark+iv,7.5l+460cid+v8,1188222", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1976, "model": "MARK IV"}}}

@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1988,560sl", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1988, "model": "560SL"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1988,420sel", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1988, "model": "420SEL"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1988,560sel", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1988, "model": "560SEL"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1988,300sel", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1988, "model": "300SEL"}}}

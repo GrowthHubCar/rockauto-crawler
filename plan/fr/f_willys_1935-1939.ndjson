@@ -2,3 +2,7 @@
 {"node_type": "model", "href": "/en/catalog/willys,1939,439", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1939, "model": "439"}}}
 {"node_type": "model", "href": "/en/catalog/willys,1935,model+77", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1935, "model": "MODEL 77"}}}
 {"node_type": "model", "href": "/en/catalog/willys,1936,model+77", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1936, "model": "MODEL 77"}}}
+{"node_type": "carcode", "href": "/en/catalog/willys,1939,model+39,2.2l+134cid+l4,1485965", "payload": {"nodetype": "carcode", "ctx": {"make": "WILLYS", "year": 1939, "model": "MODEL 39"}}}
+{"node_type": "carcode", "href": "/en/catalog/willys,1937,model+37,134cid+l4,2002279", "payload": {"nodetype": "carcode", "ctx": {"make": "WILLYS", "year": 1937, "model": "MODEL 37"}}}
+{"node_type": "carcode", "href": "/en/catalog/willys,1938,model+38+truck,all+engines,2002344", "payload": {"nodetype": "carcode", "ctx": {"make": "WILLYS", "year": 1938, "model": "MODEL 38 TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/willys,1939,model+48,2.2l+134cid+l4,1485967", "payload": {"nodetype": "carcode", "ctx": {"make": "WILLYS", "year": 1939, "model": "MODEL 48"}}}

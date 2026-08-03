@@ -1,3 +1,4 @@
 {"node_type": "model", "href": "/en/catalog/aston+martin,1995,virage", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1995, "model": "VIRAGE"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,1997,db7", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1997, "model": "DB7"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,1999,db7", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1999, "model": "DB7"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1998,db7,3.2l+l6+supercharged,1365027", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1998, "model": "DB7"}}}

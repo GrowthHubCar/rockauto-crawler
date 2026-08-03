@@ -10,3 +10,18 @@
 {"node_type": "model", "href": "/en/catalog/fiat,2024,fastback", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2024, "model": "FASTBACK"}}}
 {"node_type": "model", "href": "/en/catalog/fiat,2023,pulse", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2023, "model": "PULSE"}}}
 {"node_type": "model", "href": "/en/catalog/fiat,2024,pulse", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2024, "model": "PULSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2020,mobi,999cc+l4,3445640", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2020, "model": "MOBI"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2024,500e,electric,3455549", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2024, "model": "500E"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2020,500l,1.4l+l4+turbocharged,3444707", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2020, "model": "500L"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2023,500x,1.3l+l4+turbocharged,3453526", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2023, "model": "500X"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2021,argo,1.3l+l4,3448228", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2021, "model": "ARGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2021,500x,1.3l+l4+turbocharged,3448227", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2021, "model": "500X"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2022,mobi,999cc+l4,3451074", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2022, "model": "MOBI"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2020,500x,1.3l+l4+turbocharged,3445638", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2020, "model": "500X"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2021,argo,1.8l+l4,3448229", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2021, "model": "ARGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2023,ducato,2.2l+l4+diesel+turbocharged,3454683", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2023, "model": "DUCATO"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2022,argo,1.8l+l4,3450587", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2022, "model": "ARGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2022,argo,1.3l+l4,3450586", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2022, "model": "ARGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2022,500x,1.3l+l4+turbocharged,3450585", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2022, "model": "500X"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2020,124+spider,1.4l+l4+turbocharged,3444706", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2020, "model": "124 SPIDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2022,ducato,2.3l+l4+diesel+turbocharged,3450588", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2022, "model": "DUCATO"}}}

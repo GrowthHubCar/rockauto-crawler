@@ -11,3 +11,6 @@
 {"node_type": "model", "href": "/en/catalog/bentley,1987,eight", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1987, "model": "EIGHT"}}}
 {"node_type": "model", "href": "/en/catalog/bentley,1988,eight", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1988, "model": "EIGHT"}}}
 {"node_type": "model", "href": "/en/catalog/bentley,1989,eight", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1989, "model": "EIGHT"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,1985,continental,6.7l+v8,1430015", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1985, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,1986,mulsanne,6.7l+v8,1009954", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1986, "model": "MULSANNE"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,1985,mulsanne,6.7l+v8,1009932", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1985, "model": "MULSANNE"}}}

@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lamborghini,1995,diablo", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1995, "model": "DIABLO"}}}
-{"node_type": "model", "href": "/en/catalog/lamborghini,1998,diablo", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1998, "model": "DIABLO"}}}
-{"node_type": "model", "href": "/en/catalog/lamborghini,2004,gallardo", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 2004, "model": "GALLARDO"}}}
-{"node_type": "model", "href": "/en/catalog/lamborghini,2004,murcielago", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 2004, "model": "MURCIELAGO"}}}

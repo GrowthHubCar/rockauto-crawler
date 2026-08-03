@@ -3,3 +3,7 @@
 {"node_type": "model", "href": "/en/catalog/peugeot,1963,403", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1963, "model": "403"}}}
 {"node_type": "model", "href": "/en/catalog/peugeot,1963,404", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1963, "model": "404"}}}
 {"node_type": "model", "href": "/en/catalog/peugeot,1964,404", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1964, "model": "404"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,1964,403,1.5l+l4,1436235", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1964, "model": "403"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,1962,404,1.6l+l4,1436249", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1962, "model": "404"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,1961,404,1.6l+l4,1436250", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1961, "model": "404"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,1960,403,1.5l+l4,1436239", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1960, "model": "403"}}}

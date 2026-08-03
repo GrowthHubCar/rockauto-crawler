@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1982,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1982, "model": "LESABRE"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1982,skyhawk", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1982, "model": "SKYHAWK"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1982,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1982, "model": "SKYLARK"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1982,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1982, "model": "ESTATE WAGON"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1982,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1982, "model": "RIVIERA"}}}

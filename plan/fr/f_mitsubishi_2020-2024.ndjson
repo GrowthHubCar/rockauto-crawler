@@ -15,3 +15,45 @@
 {"node_type": "model", "href": "/en/catalog/mitsubishi,2022,mirage", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2022, "model": "MIRAGE"}}}
 {"node_type": "model", "href": "/en/catalog/mitsubishi,2020,mirage+g4", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2020, "model": "MIRAGE G4"}}}
 {"node_type": "model", "href": "/en/catalog/mitsubishi,2022,xpander", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2022, "model": "XPANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2020,outlander,2.4l+l4,3444990", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2020, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2020,rvr,2.4l+l4,3445566", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2020, "model": "RVR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2023,outlander,2.5l+l4,3451249", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2023, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2024,mirage+g4,1.2l+l3,3454518", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2024, "model": "MIRAGE G4"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2020,eclipse+cross,1.5l+l4+turbocharged,3444985", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2020, "model": "ECLIPSE CROSS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2021,outlander+sport,2.4l+l4,3449292", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2021, "model": "OUTLANDER SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2024,xpander,1.5l+l4,3455406", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2024, "model": "XPANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2021,mirage+g4,1.2l+l3,3447100", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2021, "model": "MIRAGE G4"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2020,outlander,3.0l+v6,3444991", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2020, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2020,outlander+sport,2.4l+l4,3445911", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2020, "model": "OUTLANDER SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2022,rvr,2.4l+l4,3451253", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2022, "model": "RVR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2023,l200,2.4l+l4,3452838", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2023, "model": "L200"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2021,rvr,2.0l+l4,3449293", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2021, "model": "RVR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2024,outlander+sport,2.0l+l4,3455139", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2024, "model": "OUTLANDER SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2023,outlander,2.4l+l4+electric/gas,3454519", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2023, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2023,mirage,1.2l+l3,3451247", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2023, "model": "MIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2023,mirage+g4,1.2l+l3,3451248", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2023, "model": "MIRAGE G4"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2023,rvr,2.4l+l4,3454524", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2023, "model": "RVR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2022,eclipse+cross,1.5l+l4+turbocharged,3449287", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2022, "model": "ECLIPSE CROSS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2020,outlander,2.0l+l4+electric/gas,3445321", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2020, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2021,rvr,2.4l+l4,3449294", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2021, "model": "RVR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2023,outlander+sport,2.0l+l4,3454521", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2023, "model": "OUTLANDER SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2022,outlander,2.5l+l4,3450200", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2022, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2020,rvr,2.0l+l4,3445565", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2020, "model": "RVR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2022,mirage+g4,1.2l+l3,3450890", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2022, "model": "MIRAGE G4"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2024,outlander,2.5l+l4,3454520", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2024, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2023,montero+sport,3.0l+v6,3454900", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2023, "model": "MONTERO SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2023,xpander,1.5l+l4,3452840", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2023, "model": "XPANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2021,montero+sport,3.0l+v6,3450197", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2021, "model": "MONTERO SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2023,outlander+sport,2.4l+l4,3454522", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2023, "model": "OUTLANDER SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2024,rvr,2.4l+l4,3455142", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2024, "model": "RVR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2023,eclipse+cross,1.5l+l4+turbocharged,3451246", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2023, "model": "ECLIPSE CROSS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2020,l200,2.4l+l4,3446143", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2020, "model": "L200"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2023,l200,2.4l+l4+diesel+turbocharged,3452839", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2023, "model": "L200"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2021,l200,2.4l+l4+diesel+turbocharged,3447099", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2021, "model": "L200"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2024,eclipse+cross,1.5l+l4+turbocharged,3454516", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2024, "model": "ECLIPSE CROSS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2023,rvr,2.0l+l4,3454523", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2023, "model": "RVR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2021,outlander,2.0l+l4+electric/gas,3450201", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2021, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2021,mirage,1.2l+l3,3449288", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2021, "model": "MIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2021,outlander,2.4l+l4+electric/gas,3449290", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2021, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2024,mirage,1.2l+l3,3454517", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2024, "model": "MIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2021,outlander+sport,2.0l+l4,3449291", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2021, "model": "OUTLANDER SPORT"}}}

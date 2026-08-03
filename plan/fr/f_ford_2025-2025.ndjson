@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2025,transit", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2025, "model": "TRANSIT"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2025,territory", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2025, "model": "TERRITORY"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2025,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2025, "model": "RANGER"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2025,transit+250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2025, "model": "TRANSIT 250"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2025,transit+350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2025, "model": "TRANSIT 350"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2025,police+suv", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2025, "model": "POLICE SUV"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2025,transit+150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2025, "model": "TRANSIT 150"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2025,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2025, "model": "MUSTANG"}}}

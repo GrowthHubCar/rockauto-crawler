@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2002,taurus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2002, "model": "TAURUS"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2002,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2002, "model": "RANGER"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2002,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2002, "model": "THUNDERBIRD"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2002,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2002, "model": "MUSTANG"}}}

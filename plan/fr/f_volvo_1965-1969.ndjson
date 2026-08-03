@@ -10,3 +10,12 @@
 {"node_type": "model", "href": "/en/catalog/volvo,1967,142", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1967, "model": "142"}}}
 {"node_type": "model", "href": "/en/catalog/volvo,1969,142", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1969, "model": "142"}}}
 {"node_type": "model", "href": "/en/catalog/volvo,1969,145", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1969, "model": "145"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1966,544,1.8l+l4,1435091", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1966, "model": "544"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1966,1800,1.8l+l4,1442217", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1966, "model": "1800"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1968,145,1.8l+l4,1366174", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1968, "model": "145"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1966,122,1.8l+l4,1366332", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1966, "model": "122"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1968,1800,1.8l+l4,1286962", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1968, "model": "1800"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1968,142,1.8l+l4,1286670", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1968, "model": "142"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1969,164,3.0l+l6,1438490", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1969, "model": "164"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1968,144,1.8l+l4,1286760", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1968, "model": "144"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1968,122,1.8l+l4,1286669", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1968, "model": "122"}}}

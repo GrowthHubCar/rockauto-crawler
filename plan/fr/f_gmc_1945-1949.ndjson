@@ -94,3 +94,16 @@
 {"node_type": "model", "href": "/en/catalog/gmc,1949,100-22", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1949, "model": "100-22"}}}
 {"node_type": "model", "href": "/en/catalog/gmc,1948,ef242", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1948, "model": "EF242"}}}
 {"node_type": "model", "href": "/en/catalog/gmc,1949,ef242", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1949, "model": "EF242"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1946,ef350,3.7l+228cid+l6,1486511", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1946, "model": "EF350"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1946,cc250,3.7l+228cid+l6,1486501", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1946, "model": "CC250"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1947,fc253,3.7l+228cid+l6,1486659", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1947, "model": "FC253"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1949,fp152,3.7l+228cid+l6,1487029", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1949, "model": "FP152"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1946,cc102,3.7l+228cid+l6,1486499", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1946, "model": "CC102"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1946,cc150,3.7l+228cid+l6,1486500", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1946, "model": "CC150"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1947,ec252,3.7l+228cid+l6,1486646", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1947, "model": "EC252"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1946,cc100,3.7l+228cid+l6,1486497", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1946, "model": "CC100"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1947,ff350,3.7l+228cid+l6,1486667", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1947, "model": "FF350"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1947,fc283,3.7l+228cid+l6,1486662", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1947, "model": "FC283"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1947,fcs350,3.7l+228cid+l6,1486666", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1947, "model": "FCS350"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1946,cc101,3.7l+228cid+l6,1486498", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1946, "model": "CC101"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1947,fcs300,3.7l+228cid+l6,1486665", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1947, "model": "FCS300"}}}

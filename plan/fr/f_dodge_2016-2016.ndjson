@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/dodge,2016,vision", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2016, "model": "VISION"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2016,dart", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2016, "model": "DART"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2016,charger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2016, "model": "CHARGER"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2016,durango", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2016, "model": "DURANGO"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2016,challenger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2016, "model": "CHALLENGER"}}}

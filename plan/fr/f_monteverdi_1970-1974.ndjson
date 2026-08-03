@@ -1,2 +1,13 @@
 {"node_type": "model", "href": "/en/catalog/monteverdi,1973,450+ss", "payload": {"nodetype": "model", "ctx": {"make": "MONTEVERDI", "year": 1973, "model": "450 SS"}}}
 {"node_type": "model", "href": "/en/catalog/monteverdi,1973,375", "payload": {"nodetype": "model", "ctx": {"make": "MONTEVERDI", "year": 1973, "model": "375"}}}
+{"node_type": "carcode", "href": "/en/catalog/monteverdi,1971,375,7.0l+v8,1439920", "payload": {"nodetype": "carcode", "ctx": {"make": "MONTEVERDI", "year": 1971, "model": "375"}}}
+{"node_type": "carcode", "href": "/en/catalog/monteverdi,1971,450+ss,7.0l+v8,1497347", "payload": {"nodetype": "carcode", "ctx": {"make": "MONTEVERDI", "year": 1971, "model": "450 SS"}}}
+{"node_type": "carcode", "href": "/en/catalog/monteverdi,1974,375,7.2l+v8,1439925", "payload": {"nodetype": "carcode", "ctx": {"make": "MONTEVERDI", "year": 1974, "model": "375"}}}
+{"node_type": "carcode", "href": "/en/catalog/monteverdi,1970,375,7.0l+v8,1439921", "payload": {"nodetype": "carcode", "ctx": {"make": "MONTEVERDI", "year": 1970, "model": "375"}}}
+{"node_type": "carcode", "href": "/en/catalog/monteverdi,1971,375,7.2l+v8,1439928", "payload": {"nodetype": "carcode", "ctx": {"make": "MONTEVERDI", "year": 1971, "model": "375"}}}
+{"node_type": "carcode", "href": "/en/catalog/monteverdi,1974,375,7.0l+v8,1439917", "payload": {"nodetype": "carcode", "ctx": {"make": "MONTEVERDI", "year": 1974, "model": "375"}}}
+{"node_type": "carcode", "href": "/en/catalog/monteverdi,1970,375,7.2l+v8,1439929", "payload": {"nodetype": "carcode", "ctx": {"make": "MONTEVERDI", "year": 1970, "model": "375"}}}
+{"node_type": "carcode", "href": "/en/catalog/monteverdi,1972,375,7.2l+v8,1439927", "payload": {"nodetype": "carcode", "ctx": {"make": "MONTEVERDI", "year": 1972, "model": "375"}}}
+{"node_type": "carcode", "href": "/en/catalog/monteverdi,1974,450+ss,7.0l+v8,1500565", "payload": {"nodetype": "carcode", "ctx": {"make": "MONTEVERDI", "year": 1974, "model": "450 SS"}}}
+{"node_type": "carcode", "href": "/en/catalog/monteverdi,1972,375,7.0l+v8,1439919", "payload": {"nodetype": "carcode", "ctx": {"make": "MONTEVERDI", "year": 1972, "model": "375"}}}
+{"node_type": "carcode", "href": "/en/catalog/monteverdi,1972,450+ss,7.0l+v8,1498490", "payload": {"nodetype": "carcode", "ctx": {"make": "MONTEVERDI", "year": 1972, "model": "450 SS"}}}

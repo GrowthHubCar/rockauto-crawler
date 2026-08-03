@@ -4,3 +4,5 @@
 {"node_type": "model", "href": "/en/catalog/duesenberg,1933,model+j", "payload": {"nodetype": "model", "ctx": {"make": "DUESENBERG", "year": 1933, "model": "MODEL J"}}}
 {"node_type": "model", "href": "/en/catalog/duesenberg,1932,model+sj", "payload": {"nodetype": "model", "ctx": {"make": "DUESENBERG", "year": 1932, "model": "MODEL SJ"}}}
 {"node_type": "model", "href": "/en/catalog/duesenberg,1933,model+sj", "payload": {"nodetype": "model", "ctx": {"make": "DUESENBERG", "year": 1933, "model": "MODEL SJ"}}}
+{"node_type": "carcode", "href": "/en/catalog/duesenberg,1934,model+sj,6.9l+420cid+l8+supercharged,2002051", "payload": {"nodetype": "carcode", "ctx": {"make": "DUESENBERG", "year": 1934, "model": "MODEL SJ"}}}
+{"node_type": "carcode", "href": "/en/catalog/duesenberg,1934,model+j,6.9l+420cid+l8,2002050", "payload": {"nodetype": "carcode", "ctx": {"make": "DUESENBERG", "year": 1934, "model": "MODEL J"}}}

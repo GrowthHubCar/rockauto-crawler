@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jaguar,1993,xj6", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1993, "model": "XJ6"}}}
-{"node_type": "model", "href": "/en/catalog/jaguar,1993,xjs", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1993, "model": "XJS"}}}
-{"node_type": "model", "href": "/en/catalog/jaguar,1993,vanden+plas", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1993, "model": "VANDEN PLAS"}}}
-{"node_type": "model", "href": "/en/catalog/jaguar,1993,xjrs", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1993, "model": "XJRS"}}}
-{"node_type": "model", "href": "/en/catalog/jaguar,1993,xj12", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1993, "model": "XJ12"}}}

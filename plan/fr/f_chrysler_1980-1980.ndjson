@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chrysler,1980,valiant", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1980, "model": "VALIANT"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,1980,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1980, "model": "TOWN & COUNTRY"}}}

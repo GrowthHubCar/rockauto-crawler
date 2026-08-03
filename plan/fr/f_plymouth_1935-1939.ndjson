@@ -2,3 +2,13 @@
 {"node_type": "model", "href": "/en/catalog/plymouth,1938,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1938, "model": "DELUXE"}}}
 {"node_type": "model", "href": "/en/catalog/plymouth,1937,business+p3", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1937, "model": "BUSINESS P3"}}}
 {"node_type": "model", "href": "/en/catalog/plymouth,1939,p7+roadking", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1939, "model": "P7 ROADKING"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1937,roadking,201cid+l6,2002275", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1937, "model": "ROADKING"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1939,p8+deluxe,3.3l+201cid+l6,2002392", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1939, "model": "P8 DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1936,p2+deluxe,3.3l+201cid+l6,1485738", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1936, "model": "P2 DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1938,pt57,201cid+l6,124600", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1938, "model": "PT57"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1935,deluxe+pj+model,3.3l+201cid+l6,1485677", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1935, "model": "DELUXE PJ MODEL"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1937,pt50,201cid+l6,124599", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1937, "model": "PT50"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1939,pt81,3.3l+201cid+l6,124601", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1939, "model": "PT81"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1938,p5+business/roadking,201cid+l6,952908", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1938, "model": "P5 BUSINESS/ROADKING"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1935,model+pj,201cid+l6,2002166", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1935, "model": "MODEL PJ"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1937,deluxe,3.3l+201cid+l6,1485812", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1937, "model": "DELUXE"}}}

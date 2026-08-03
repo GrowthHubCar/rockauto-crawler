@@ -5,3 +5,79 @@
 {"node_type": "model", "href": "/en/catalog/chrysler,2008,300", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 2008, "model": "300"}}}
 {"node_type": "model", "href": "/en/catalog/chrysler,2009,300", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 2009, "model": "300"}}}
 {"node_type": "model", "href": "/en/catalog/chrysler,2008,aspen", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 2008, "model": "ASPEN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2007,sebring,2.7l+v6,1438360", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2008,town+&+country,3.8l+v6,1441239", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2008, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2006,crossfire,3.2l+v6,1437545", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2006, "model": "CROSSFIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2005,sebring,2.4l+l4+dohc,1430840", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2005, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2009,300,2.7l+v6,1443279", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2009, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2008,pacifica,3.8l+v6,1441385", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2008, "model": "PACIFICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2009,sebring,2.7l+v6,1443598", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2009, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2005,voyager,3.3l+v6,951303", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2005, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2009,pt+cruiser,2.4l+l4,1443936", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2009, "model": "PT CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2009,pt+cruiser,2.4l+l4+turbocharged,1443584", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2009, "model": "PT CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2007,town+&+country,3.3l+v6,1433688", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2008,pt+cruiser,2.4l+l4,1441786", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2008, "model": "PT CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2008,300,5.7l+v8,1441242", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2008, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2007,300,6.1l+v8,1434829", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2005,sebring,3.0l+v6,1430755", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2005, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2008,town+&+country,4.0l+v6,1441237", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2008, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2008,crossfire,3.2l+v6,1441780", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2008, "model": "CROSSFIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2005,town+&+country,3.8l+v6,1430738", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2005, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2008,town+&+country,3.3l+v6,1441233", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2008, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2009,town+&+country,3.8l+v6,1443299", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2009, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2005,sebring,2.7l+v6,214102", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2005, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2007,sebring,3.5l+v6,1438238", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2006,cirrus,2.7l+v6,951287", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2006, "model": "CIRRUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2006,town+&+country,3.3l+v6,1432097", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2006, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2008,cirrus,3.5l+v6,3446543", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2008, "model": "CIRRUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2008,300,6.1l+v8,1442090", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2008, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2007,voyager,3.3l+v6,951309", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2005,pacifica,3.5l+v6,1430636", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2005, "model": "PACIFICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2006,300,3.5l+v6,1431861", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2006, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2006,pt+cruiser,2.4l+l4,1433360", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2006, "model": "PT CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2007,crossfire,3.2l+v6,1441228", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "CROSSFIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2009,300,5.7l+v8,1443278", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2009, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2005,crossfire,3.2l+v6,1430635", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2005, "model": "CROSSFIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2005,sebring,2.4l+l4+sohc,1431882", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2005, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2006,300,5.7l+v8,1431865", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2006, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2008,sebring,3.5l+v6,1438347", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2008, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2007,aspen,5.7l+v8,1434136", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "ASPEN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2005,pacifica,3.8l+v6,1431567", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2005, "model": "PACIFICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2006,crossfire,3.2l+v6+supercharged,1444195", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2006, "model": "CROSSFIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2008,voyager,3.3l+v6,951305", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2008, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2009,aspen,5.7l+v8,1442715", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2009, "model": "ASPEN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2009,aspen,4.7l+v8,1442696", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2009, "model": "ASPEN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2009,aspen,5.7l+v8+electric/gas,1443322", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2009, "model": "ASPEN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2009,town+&+country,4.0l+v6,1443290", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2009, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2008,pt+cruiser,2.4l+l4+turbocharged,1441783", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2008, "model": "PT CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2007,pacifica,3.8l+v6,1434170", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "PACIFICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2007,cirrus,3.5l+v6,3446542", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "CIRRUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2008,sebring,2.7l+v6,1438359", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2008, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2007,pacifica,4.0l+v6,1433518", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "PACIFICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2006,pacifica,3.5l+v6,1432080", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2006, "model": "PACIFICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2009,cirrus,2.4l+l4,951291", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2009, "model": "CIRRUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2009,sebring,3.5l+v6,1443588", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2009, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2006,cirrus,2.4l+l4+turbocharged,3030671", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2006, "model": "CIRRUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2007,pt+cruiser,2.4l+l4+turbocharged,1441928", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "PT CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2006,sebring,2.4l+l4,1432087", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2006, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2006,pacifica,3.8l+v6,1432502", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2006, "model": "PACIFICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2007,300,5.7l+v8,1433754", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2009,300,6.1l+v8,1443273", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2009, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2007,town+&+country,3.8l+v6,1433690", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2008,sebring,2.4l+l4,1438350", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2008, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2005,pt+cruiser,2.4l+l4,1440606", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2005, "model": "PT CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2005,town+&+country,3.3l+v6,1430643", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2005, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2005,pt+cruiser,2.4l+l4+turbocharged,1442125", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2005, "model": "PT CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2009,sebring,2.4l+l4,1444151", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2009, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2007,pt+cruiser,2.4l+l4,1441915", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "PT CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2006,pt+cruiser,2.4l+l4+turbocharged,1432086", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2006, "model": "PT CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2005,cirrus,2.4l+l4+turbocharged,3030670", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2005, "model": "CIRRUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2006,300,2.7l+v6,1431855", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2006, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2006,sebring,2.7l+v6,1432090", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2006, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2005,cirrus,2.7l+v6,951286", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2005, "model": "CIRRUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2005,crossfire,3.2l+v6+supercharged,1444196", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2005, "model": "CROSSFIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2007,sebring,2.4l+l4,1434469", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2007, "model": "SEBRING"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2006,town+&+country,3.8l+v6,1432093", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2006, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2009,town+&+country,3.3l+v6,3030891", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2009, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2006,voyager,3.3l+v6,951304", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2006, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2008,pacifica,4.0l+v6,1441384", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2008, "model": "PACIFICA"}}}

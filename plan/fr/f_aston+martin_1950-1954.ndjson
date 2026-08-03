@@ -12,3 +12,4 @@
 {"node_type": "model", "href": "/en/catalog/aston+martin,1954,db3", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1954, "model": "DB3"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,1953,db2-4", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1953, "model": "DB2-4"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,1954,db2-4", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1954, "model": "DB2-4"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1950,db2,2.6l+l6,1389618", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1950, "model": "DB2"}}}

@@ -1,1 +1,50 @@
 {"node_type": "model", "href": "/en/catalog/mitsubishi,2002,eclipse", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2002, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2004,montero+sport,3.5l+v6,1428353", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2004, "model": "MONTERO SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2004,diamante,3.5l+v6,1428252", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2004, "model": "DIAMANTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2000,mirage,1.8l+l4,1364093", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2000, "model": "MIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2003,montero+sport,3.5l+v6,1417272", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2003, "model": "MONTERO SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2002,lancer,2.0l+l4,1382127", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2002, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2004,lancer,2.0l+l4,1423011", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2004, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2000,montero,3.5l+v6,1364105", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2000, "model": "MONTERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2002,eclipse,2.4l+l4,1430278", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2002, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2001,montero+sport,3.0l+v6,1440850", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2001, "model": "MONTERO SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2004,space+star,1.8l+l4,938338", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2004, "model": "SPACE STAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2001,montero,3.5l+v6,1366725", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2001, "model": "MONTERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2000,eclipse,2.4l+l4,1398955", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2000, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2003,galant,3.0l+v6,1440634", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2003, "model": "GALANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2001,galant,2.4l+l4,1374421", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2001, "model": "GALANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2004,lancer,2.4l+l4,1429769", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2004, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2001,montero+sport,3.5l+v6,1374476", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2001, "model": "MONTERO SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2004,outlander,2.4l+l4,1428364", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2004, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2004,eclipse,3.0l+v6,1434732", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2004, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2001,galant,3.0l+v6,1399013", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2001, "model": "GALANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2004,montero,3.8l+v6,1428342", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2004, "model": "MONTERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2004,galant,2.4l+l4,1428320", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2004, "model": "GALANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2004,eclipse,2.4l+l4,1434049", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2004, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2001,eclipse,2.4l+l4,1398977", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2001, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2004,lancer,2.0l+l4+turbocharged,1423022", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2004, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2002,diamante,3.5l+v6,1387885", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2002, "model": "DIAMANTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2000,galant,3.0l+v6,1399002", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2000, "model": "GALANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2000,montero+sport,3.5l+v6,1359198", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2000, "model": "MONTERO SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2000,mirage,1.5l+l4,1364082", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2000, "model": "MIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2000,eclipse,3.0l+v6,1398966", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2000, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2002,montero+sport,3.0l+v6,1432938", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2002, "model": "MONTERO SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2003,montero,3.8l+v6,1417250", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2003, "model": "MONTERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2002,mirage,1.8l+l4,1387964", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2002, "model": "MIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2003,eclipse,2.4l+l4,1430277", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2003, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2000,diamante,3.5l+v6,1364059", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2000, "model": "DIAMANTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2003,galant,2.4l+l4,1417216", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2003, "model": "GALANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2002,galant,3.0l+v6,1387942", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2002, "model": "GALANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2003,eclipse,3.0l+v6,1410859", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2003, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2002,montero,3.5l+v6,1387975", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2002, "model": "MONTERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2001,mirage,1.5l+l4,1374443", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2001, "model": "MIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2001,eclipse,3.0l+v6,1398988", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2001, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2000,montero+sport,3.0l+v6,1434098", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2000, "model": "MONTERO SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2001,diamante,3.5l+v6,1374397", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2001, "model": "DIAMANTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2002,mirage,1.5l+l4,1387953", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2002, "model": "MIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2000,galant,2.4l+l4,1364060", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2000, "model": "GALANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2002,galant,2.4l+l4,1387931", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2002, "model": "GALANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2004,galant,3.8l+v6,1428331", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2004, "model": "GALANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2002,montero+sport,3.5l+v6,1387997", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2002, "model": "MONTERO SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2004,endeavor,3.8l+v6,1421435", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2004, "model": "ENDEAVOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2001,mirage,1.8l+l4,1374454", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2001, "model": "MIRAGE"}}}

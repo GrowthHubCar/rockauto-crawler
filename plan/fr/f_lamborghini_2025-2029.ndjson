@@ -1,0 +1,5 @@
+{"node_type": "carcode", "href": "/en/catalog/lamborghini,2025,urus,4.0l+v8+turbocharged,3455832", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 2025, "model": "URUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/lamborghini,2025,urus,4.0l+v8+electric/gas+turbocharged,3455833", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 2025, "model": "URUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/lamborghini,2026,urus,4.0l+v8+electric/gas+turbocharged,3458653", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 2026, "model": "URUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/lamborghini,2025,revuelto,6.5l+v12+electric/gas,3455608", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 2025, "model": "REVUELTO"}}}
+{"node_type": "carcode", "href": "/en/catalog/lamborghini,2026,revuelto,6.5l+v12+electric/gas,3458651", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 2026, "model": "REVUELTO"}}}

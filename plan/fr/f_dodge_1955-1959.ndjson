@@ -52,3 +52,51 @@
 {"node_type": "model", "href": "/en/catalog/dodge,1959,wm300+power+wagon", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1959, "model": "WM300 POWER WAGON"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,1959,p310+series", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1959, "model": "P310 SERIES"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,1958,p320+series", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1958, "model": "P320 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1957,royal,5.8l+354cid+v8,1488525", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1957, "model": "ROYAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1959,coronet,3.8l+230cid+l6,1331288", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1959, "model": "CORONET"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1958,wm300+power+wagon,3.8l+230cid+l6,1488863", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1958, "model": "WM300 POWER WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1959,sierra,6.3l+383cid+v8,1435792", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1959, "model": "SIERRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1958,p410+series,5.1l+314cid+v8,1438137", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1958, "model": "P410 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1955,truck,4.0l+241cid+v8,1487959", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1955, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1958,d300+pickup,3.8l+230cid+l6,1488839", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1958, "model": "D300 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1955,sierra,4.4l+270cid+v8,1487957", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1955, "model": "SIERRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1959,sierra,5.9l+361cid+v8,1435772", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1959, "model": "SIERRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1958,d200+pickup,3.8l+230cid+l6,1488836", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1958, "model": "D200 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1957,power+wagon,3.8l+230cid+l6,1442240", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1957, "model": "POWER WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1955,truck,3.8l+230cid+l6,1437797", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1955, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1959,d300+pickup,5.1l+313cid+v8,1489187", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1959, "model": "D300 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1959,coronet,5.3l+326cid+v8,1331301", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1959, "model": "CORONET"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1958,custom,5.3l+325cid+v8,1331413", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1958, "model": "CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1956,royal,5.1l+315cid+v8,1435700", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1956, "model": "ROYAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1957,d500,5.8l+354cid+v8,1488522", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1957, "model": "D500"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1957,sierra,5.8l+354cid+v8,1488526", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1957, "model": "SIERRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1956,custom,5.1l+315cid+v8,1331581", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1956, "model": "CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1957,p400+series,3.8l+230cid+l6,1437838", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1957, "model": "P400 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1958,royal,5.9l+361cid+v8,1435780", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1958, "model": "ROYAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1959,d300+pickup,3.8l+230cid+l6,1489185", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1959, "model": "D300 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1957,w300+pickup,5.1l+315cid+v8,1488540", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1957, "model": "W300 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1959,p450+series,5.2l+318cid+v8,1438143", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1959, "model": "P450 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1959,d200+pickup,5.1l+315cid+v8,1489183", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1959, "model": "D200 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1955,custom,4.4l+270cid+v8,1331626", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1955, "model": "CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1958,sierra,5.3l+325cid+v8,1435719", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1958, "model": "SIERRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1955,truck,5.8l+354cid+v8,1487965", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1955, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1956,sierra,5.1l+315cid+v8,1488248", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1956, "model": "SIERRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1957,d100+pickup,5.0l+303cid+v8,1488513", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1957, "model": "D100 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1958,p420+series,3.8l+230cid+l6,1437833", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1958, "model": "P420 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1955,royal,4.4l+270cid+v8,1435618", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1955, "model": "ROYAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1958,d200+pickup,5.1l+315cid+v8,1488838", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1958, "model": "D200 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1959,w100+pickup,5.2l+318cid+v8,1489201", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1959, "model": "W100 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1958,p410+series,3.8l+230cid+l6,1437834", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1958, "model": "P410 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1959,d200+pickup,5.2l+318cid+v8,1489184", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1959, "model": "D200 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1958,p420+series,5.1l+314cid+v8,1438136", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1958, "model": "P420 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1959,custom,5.3l+326cid+v8,1331334", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1959, "model": "CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1958,royal,5.3l+325cid+v8,1435723", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1958, "model": "ROYAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1959,w300+pickup,5.2l+318cid+v8,1489207", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1959, "model": "W300 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1958,d300+pickup,5.1l+313cid+v8,1488841", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1958, "model": "D300 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1958,p320+series,3.8l+230cid+l6,1437835", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1958, "model": "P320 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1959,p410+series,5.2l+318cid+v8,1438145", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1959, "model": "P410 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1957,lancer,5.3l+325cid+v8,1488523", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1957, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1956,truck,5.8l+354cid+v8,1488257", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1956, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1955,coronet,3.8l+230cid+l6,1331604", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1955, "model": "CORONET"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1958,custom,5.9l+361cid+v8,1331424", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1958, "model": "CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1955,lancer,4.4l+270cid+v8,1487956", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1955, "model": "LANCER"}}}

@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2021,tracker", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2021, "model": "TRACKER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2021,traverse", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2021, "model": "TRAVERSE"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2021,spark", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2021, "model": "SPARK"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2021,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2021, "model": "SUBURBAN"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2021,trailblazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2021, "model": "TRAILBLAZER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2021,tahoe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2021, "model": "TAHOE"}}}

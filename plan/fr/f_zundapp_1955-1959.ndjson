@@ -1,2 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/zundapp,1956,janus+250", "payload": {"nodetype": "model", "ctx": {"make": "ZUNDAPP", "year": 1956, "model": "JANUS 250"}}}
 {"node_type": "model", "href": "/en/catalog/zundapp,1957,janus+250", "payload": {"nodetype": "model", "ctx": {"make": "ZUNDAPP", "year": 1957, "model": "JANUS 250"}}}
+{"node_type": "carcode", "href": "/en/catalog/zundapp,1958,janus+250,245cc+l1,1438659", "payload": {"nodetype": "carcode", "ctx": {"make": "ZUNDAPP", "year": 1958, "model": "JANUS 250"}}}

@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1981,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1981, "model": "L SERIES TRUCK"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1981,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1981, "model": "THUNDERBIRD"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1981,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1981, "model": "MUSTANG"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1981,granada", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1981, "model": "GRANADA"}}}

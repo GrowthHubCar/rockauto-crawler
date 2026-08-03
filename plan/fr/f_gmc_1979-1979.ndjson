@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1979,p3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1979, "model": "P3500"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1979,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1979, "model": "MEDIUM DUTY TRUCK"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1979,k2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1979, "model": "K2500 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1979,k3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1979, "model": "K3500"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1979,p15/p1500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1979, "model": "P15/P1500 VAN"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1979,p25/p2500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1979, "model": "P25/P2500 VAN"}}}

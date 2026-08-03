@@ -4,3 +4,52 @@
 {"node_type": "model", "href": "/en/catalog/mazda,1998,xedos+9", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1998, "model": "XEDOS 9"}}}
 {"node_type": "model", "href": "/en/catalog/mazda,1998,millenia", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1998, "model": "MILLENIA"}}}
 {"node_type": "model", "href": "/en/catalog/mazda,1999,millenia", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1999, "model": "MILLENIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1996,b3000,3.0l+v6,1190696", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1996, "model": "B3000"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1997,protege,1.5l+l4,1191978", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1997, "model": "PROTEGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1999,protege,1.8l+l4,1356274", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1999, "model": "PROTEGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1997,626,2.5l+v6,1190135", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1997, "model": "626"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1998,626,2.0l+l4,1316183", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1998, "model": "626"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1995,b4000,4.0l+v6,1190719", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1995, "model": "B4000"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1997,millenia,2.0l+v6,3032168", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1997, "model": "MILLENIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1999,mx-5+miata,1.8l+l4,1356229", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1999, "model": "MX-5 MIATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1995,protege,1.5l+l4,1360257", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1995, "model": "PROTEGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1995,rx-7,1.3l+r2+turbocharged,1192508", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1995, "model": "RX-7"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1997,mx-6,2.5l+v6,1191631", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1997, "model": "MX-6"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1999,protege,1.6l+l4,1356263", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1999, "model": "PROTEGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1997,millenia,2.3l+v6+supercharged,1191035", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1997, "model": "MILLENIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1998,626,2.5l+v6,1316213", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1998, "model": "626"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1996,b2300,2.3l+l4,1190573", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1996, "model": "B2300"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1997,b4000,4.0l+v6,1190731", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1997, "model": "B4000"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1995,protege,1.6l+l4,1440141", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1995, "model": "PROTEGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1997,mx-6,2.0l+l4,1191642", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1997, "model": "MX-6"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1995,mx-6,2.0l+l4,1191596", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1995, "model": "MX-6"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1998,b4000,4.0l+v6,1316243", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1998, "model": "B4000"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1995,b2300,2.3l+l4,1190562", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1995, "model": "B2300"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1995,929,3.0l+v6,1190292", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1995, "model": "929"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1996,b4000,4.0l+v6,1190720", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1996, "model": "B4000"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1995,millenia,2.5l+v6,1190966", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1995, "model": "MILLENIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1995,626,2.0l+l4,1190023", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1995, "model": "626"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1997,xedos+9,2.3l+v6+supercharged,928294", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1997, "model": "XEDOS 9"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1997,626,2.0l+l4,1190102", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1997, "model": "626"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1996,millenia,2.3l+v6+supercharged,1191002", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1996, "model": "MILLENIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1996,mx-6,2.5l+v6,1191619", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1996, "model": "MX-6"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1998,millenia,2.5l+v6,1316263", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1998, "model": "MILLENIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1996,mpv,3.0l+v6,1191237", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1996, "model": "MPV"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1995,b3000,3.0l+v6,1190685", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1995, "model": "B3000"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1995,mx-3,1.8l+v6,1438516", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1995, "model": "MX-3"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1995,626,2.5l+v6,1190056", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1995, "model": "626"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1998,millenia,2.3l+v6+supercharged,1316273", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1998, "model": "MILLENIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1999,b3000,3.0l+v6,1447153", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1999, "model": "B3000"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1998,b3000,3.0l+v6,1316233", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1998, "model": "B3000"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1995,protege,1.8l+l4,1191888", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1995, "model": "PROTEGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1997,protege,1.8l+l4,1191989", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1997, "model": "PROTEGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1995,millenia,2.3l+v6+supercharged,1190977", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1995, "model": "MILLENIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1997,millenia,2.5l+v6,1191013", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1997, "model": "MILLENIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1997,mx-5+miata,1.8l+l4,1190955", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1997, "model": "MX-5 MIATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1997,b2300,2.3l+l4,1190584", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1997, "model": "B2300"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1999,b4000,4.0l+v6,1356218", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1999, "model": "B4000"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1996,protege,1.8l+l4,1191934", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1996, "model": "PROTEGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1995,mx-5+miata,1.8l+l4,1190933", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1995, "model": "MX-5 MIATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1997,b3000,3.0l+v6,1441735", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1997, "model": "B3000"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1997,mpv,3.0l+v6,1191259", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1997, "model": "MPV"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1995,mx-3,1.6l+l4,1191350", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1995, "model": "MX-3"}}}

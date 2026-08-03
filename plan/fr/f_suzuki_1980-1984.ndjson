@@ -1,1 +1,6 @@
 {"node_type": "model", "href": "/en/catalog/suzuki,1984,sj410", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 1984, "model": "SJ410"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1981,lj81,993cc+l3,1388617", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1981, "model": "LJ81"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1982,sj410,993cc+l3,1388651", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1982, "model": "SJ410"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1980,sj410,993cc+l3,1388639", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1980, "model": "SJ410"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1981,sj410,993cc+l3,1388640", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1981, "model": "SJ410"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1983,sj410,970cc+l4,1501745", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1983, "model": "SJ410"}}}

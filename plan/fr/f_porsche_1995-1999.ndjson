@@ -1,0 +1,14 @@
+{"node_type": "carcode", "href": "/en/catalog/porsche,1996,911,3.6l+h6,1263024", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1996, "model": "911"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1997,911,3.6l+h6+turbocharged,1263114", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1997, "model": "911"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1997,911,3.6l+h6,1263079", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1997, "model": "911"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1996,911,3.6l+h6+turbocharged,1263068", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1996, "model": "911"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1998,911,3.6l+h6,1317173", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1998, "model": "911"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1999,boxster,2.5l+h6,1357196", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1999, "model": "BOXSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1995,911,3.6l+h6,1263002", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1995, "model": "911"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1998,911,3.6l+h6+turbocharged,2002514", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1998, "model": "911"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1995,968,3.0l+l4,1263787", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1995, "model": "968"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1999,boxster,3.2l+h6,3027866", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1999, "model": "BOXSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1995,928,5.4l+v8,1263518", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1995, "model": "928"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1998,boxster,2.5l+h6,1317203", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1998, "model": "BOXSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1997,boxster,2.5l+h6,1263798", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1997, "model": "BOXSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1999,911,3.4l+h6,1357185", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1999, "model": "911"}}}

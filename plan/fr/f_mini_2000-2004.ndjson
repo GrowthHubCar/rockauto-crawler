@@ -1,1 +1,6 @@
 {"node_type": "model", "href": "/en/catalog/mini,2004,cooper", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2004, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2002,cooper,1.6l+l4+supercharged,1387874", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2002, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2003,cooper,1.6l+l4+supercharged,1417171", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2003, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2004,cooper,1.6l+l4+supercharged,1426564", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2004, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2003,cooper,1.6l+l4,1417160", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2003, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2002,cooper,1.6l+l4,1387863", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2002, "model": "COOPER"}}}

@@ -1,2 +1,6 @@
 {"node_type": "model", "href": "/en/catalog/daewoo,1998,lanos", "payload": {"nodetype": "model", "ctx": {"make": "DAEWOO", "year": 1998, "model": "LANOS"}}}
 {"node_type": "model", "href": "/en/catalog/daewoo,1998,nubira+sx", "payload": {"nodetype": "model", "ctx": {"make": "DAEWOO", "year": 1998, "model": "NUBIRA SX"}}}
+{"node_type": "carcode", "href": "/en/catalog/daewoo,1999,lanos,1.5l+l4,1438559", "payload": {"nodetype": "carcode", "ctx": {"make": "DAEWOO", "year": 1999, "model": "LANOS"}}}
+{"node_type": "carcode", "href": "/en/catalog/daewoo,1999,leganza,2.2l+l4,1353899", "payload": {"nodetype": "carcode", "ctx": {"make": "DAEWOO", "year": 1999, "model": "LEGANZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/daewoo,1999,lanos,1.6l+l4,1432657", "payload": {"nodetype": "carcode", "ctx": {"make": "DAEWOO", "year": 1999, "model": "LANOS"}}}
+{"node_type": "carcode", "href": "/en/catalog/daewoo,1999,nubira,2.0l+l4,1353901", "payload": {"nodetype": "carcode", "ctx": {"make": "DAEWOO", "year": 1999, "model": "NUBIRA"}}}

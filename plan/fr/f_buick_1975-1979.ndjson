@@ -13,3 +13,83 @@
 {"node_type": "model", "href": "/en/catalog/buick,1975,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1975, "model": "ESTATE WAGON"}}}
 {"node_type": "model", "href": "/en/catalog/buick,1978,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1978, "model": "ESTATE WAGON"}}}
 {"node_type": "model", "href": "/en/catalog/buick,1979,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1979, "model": "ESTATE WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1979,regal,3.8l+231cid+v6,1020115", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1979, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1975,skyhawk,3.8l+231cid+v6,1022241", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1975, "model": "SKYHAWK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1977,electra,5.7l+350cid+v8,1016503", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1977, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1977,regal,5.0l+305cid+v8,1019944", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1977, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1976,skylark,4.3l+260cid+v8,1023185", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1976, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1979,regal,4.9l+301cid+v8,1020126", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1979, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1976,century,3.8l+231cid+v6,1013904", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1976, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1976,skylark,5.7l+350cid+v8,1023196", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1976, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1979,regal,3.8l+231cid+v6+turbocharged,1020216", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1979, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1977,regal,5.7l+350cid+v8,1019977", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1977, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1976,opel+by+isuzu,1.8l+l4,1226416", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1976, "model": "OPEL BY ISUZU"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1977,skylark,3.8l+231cid+v6,1023297", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1977, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1977,lesabre,4.9l+301cid+v8,1018291", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1977, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1975,apollo,5.7l+350cid+v8,1013443", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1975, "model": "APOLLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1977,electra,6.6l+403cid+v8,1016536", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1977, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1975,riviera,7.5l+455cid+v8,1021509", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1975, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1975,apollo,4.1l+250cid+l6,1013421", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1975, "model": "APOLLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1977,riviera,5.7l+350cid+v8,1021521", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1977, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1978,century,3.2l+196cid+v6,1014141", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1978, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1977,lesabre,6.6l+403cid+v8,1018336", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1977, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1979,electra,5.7l+350cid+v8,1016671", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1979, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1977,estate+wagon,5.7l+350cid+v8,1017627", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1977, "model": "ESTATE WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1975,century,5.7l+350cid+v8,1013814", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1975, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1979,opel+by+isuzu,1.8l+l4,1383498", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1979, "model": "OPEL BY ISUZU"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1978,electra,6.6l+403cid+v8,1016604", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1978, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1978,skylark,3.8l+231cid+v6,1023433", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1978, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1977,opel+by+isuzu,1.8l+l4,1383476", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1977, "model": "OPEL BY ISUZU"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1978,estate+wagon,6.6l+403cid+v8,1017661", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1978, "model": "ESTATE WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1979,century,3.8l+231cid+v6,1014343", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1979, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1977,lesabre,3.8l+231cid+v6,1018280", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1977, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1975,skylark,3.8l+231cid+v6,1023084", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1975, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1977,lesabre,5.7l+350cid+v8,1018303", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1977, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1979,lesabre,3.8l+231cid+v6+turbocharged,1018628", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1979, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1979,estate+wagon,6.6l+403cid+v8,1017694", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1979, "model": "ESTATE WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1978,century,5.0l+305cid+v8,1014163", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1978, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1977,skylark,5.7l+350cid+v8,1023321", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1977, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1978,lesabre,3.8l+231cid+v6+turbocharged,1018538", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1978, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1978,riviera,6.6l+403cid+v8,1021576", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1978, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1979,skyhawk,3.8l+231cid+v6,1022342", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1979, "model": "SKYHAWK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1976,electra,7.5l+455cid+v8,1430019", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1976, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1979,lesabre,5.7l+350cid+v8,1018561", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1979, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1979,riviera,3.8l+231cid+v6+turbocharged,1021600", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1979, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1977,riviera,6.6l+403cid+v8,1021543", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1977, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1976,skylark,3.8l+231cid+v6,1023174", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1976, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1975,apollo,3.8l+231cid+v6,1013410", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1975, "model": "APOLLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1979,century,4.9l+301cid+v8,1014354", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1979, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1976,estate+wagon,7.5l+455cid+v8,1430021", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1976, "model": "ESTATE WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1976,century,5.7l+350cid+v8,1013915", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1976, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1975,electra,7.5l+455cid+v8,1016446", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1975, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1979,regal,5.0l+305cid+v8,1020148", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1979, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1979,lesabre,4.9l+301cid+v8,1018550", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1979, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1975,regal,3.8l+231cid+v6,1294747", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1975, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1977,century,5.7l+350cid+v8,1014040", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1977, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1976,skyhawk,3.8l+231cid+v6,1022252", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1976, "model": "SKYHAWK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1976,riviera,7.5l+455cid+v8,1430028", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1976, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1978,regal,3.8l+231cid+v6+turbocharged,1020081", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1978, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1975,lesabre,5.7l+350cid+v8,1018190", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1975, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1975,regal,5.7l+350cid+v8,1294758", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1975, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1978,regal,3.2l+196cid+v6,1019999", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1978, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1977,skyhawk,3.8l+231cid+v6,1022285", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1977, "model": "SKYHAWK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1978,skylark,5.0l+305cid+v8,1023444", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1978, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1977,century,5.0l+305cid+v8,1014017", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1977, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1978,skyhawk,3.8l+231cid+v6,1022320", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1978, "model": "SKYHAWK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1978,lesabre,6.6l+403cid+v8,1018460", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1978, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1977,estate+wagon,6.6l+403cid+v8,1017638", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1977, "model": "ESTATE WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1978,regal,5.0l+305cid+v8,1020014", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1978, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1976,lesabre,7.5l+455cid+v8,1430022", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1976, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1978,skylark,5.7l+350cid+v8,1023455", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1978, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1978,riviera,5.7l+350cid+v8,1021554", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1978, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1975,apollo,4.3l+260cid+v8,1013432", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1975, "model": "APOLLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1978,century,5.7l+350cid+v8,1014185", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1978, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1979,regal,3.2l+196cid+v6,1020092", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1979, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1978,opel+by+isuzu,1.8l+l4,1383487", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1978, "model": "OPEL BY ISUZU"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1975,skylark,5.7l+350cid+v8,1023107", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1975, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1975,skylark,4.3l+260cid+v8,1023095", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1975, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1979,skylark,5.7l+350cid+v8,1023534", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1979, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1977,skylark,5.0l+305cid+v8,1023310", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1977, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1975,lesabre,6.6l+400cid+v8,1018224", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1975, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1975,lesabre,7.5l+455cid+v8,1018202", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1975, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1979,lesabre,3.8l+231cid+v6,1018549", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1979, "model": "LESABRE"}}}

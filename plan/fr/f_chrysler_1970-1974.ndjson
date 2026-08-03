@@ -5,3 +5,31 @@
 {"node_type": "model", "href": "/en/catalog/chrysler,1971,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1971, "model": "NEWPORT"}}}
 {"node_type": "model", "href": "/en/catalog/chrysler,1972,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1972, "model": "NEWPORT"}}}
 {"node_type": "model", "href": "/en/catalog/chrysler,1974,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1974, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1973,newport,6.6l+400cid+v8,1066429", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1973, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1971,town+&+country,7.2l+440cid+v8,1067330", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1971, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1973,newport,5.9l+360cid+v8,8946", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1973, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1974,new+yorker,6.6l+400cid+v8,1500023", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1974, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1972,new+yorker,6.6l+400cid+v8,1434989", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1972, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1974,newport,5.9l+360cid+v8,1066463", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1974, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1972,newport,5.9l+360cid+v8,1498010", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1972, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1970,town+&+country,6.3l+383cid+v8,1067284", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1970, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1971,new+yorker,7.2l+440cid+v8,1440826", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1971, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1970,town+&+country,7.2l+440cid+v8,1067307", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1970, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1970,newport,7.2l+440cid+v8,1066261", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1970, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1972,town+&+country,7.2l+440cid+v8,1067352", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1972, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1970,new+yorker,7.2l+440cid+v8,1065439", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1970, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1974,new+yorker,7.2l+440cid+v8,1065495", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1974, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1974,imperial,7.2l+440cid+v8,1063639", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1974, "model": "IMPERIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1971,newport,7.2l+440cid+v8,1066362", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1971, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1972,newport,7.2l+440cid+v8,1066384", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1972, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1971,newport,5.9l+360cid+v8,1496959", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1971, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1971,300,7.2l+440cid+v8,1440827", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1971, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1974,newport,6.6l+400cid+v8,1066474", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1974, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1974,town+&+country,6.6l+400cid+v8,1500037", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1974, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1970,newport,6.3l+383cid+v8,1066249", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1970, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1973,newport,7.2l+440cid+v8,1440825", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1973, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1973,imperial,7.2l+440cid+v8,1063628", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1973, "model": "IMPERIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1972,new+yorker,7.2l+440cid+v8,1065451", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1972, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1974,town+&+country,7.2l+440cid+v8,1067374", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1974, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1971,imperial,7.2l+440cid+v8,1063606", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1971, "model": "IMPERIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1970,imperial,7.2l+440cid+v8,1063583", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1970, "model": "IMPERIAL"}}}

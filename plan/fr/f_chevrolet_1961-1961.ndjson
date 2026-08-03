@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1961,p10+series", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "P10 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1961,parkwood", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "PARKWOOD"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1961,nomad", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "NOMAD"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1961,p30+series", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "P30 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1961,p20+series", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "P20 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1961,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "SUBURBAN"}}}

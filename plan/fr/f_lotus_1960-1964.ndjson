@@ -14,3 +14,6 @@
 {"node_type": "model", "href": "/en/catalog/lotus,1964,elite", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1964, "model": "ELITE"}}}
 {"node_type": "model", "href": "/en/catalog/lotus,1962,elan", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1962, "model": "ELAN"}}}
 {"node_type": "model", "href": "/en/catalog/lotus,1963,elan", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1963, "model": "ELAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1964,elan,1.6l+l4,1393691", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1964, "model": "ELAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1960,seven,1.2l+l4,1394401", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1960, "model": "SEVEN"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1960,super+seven,1.1l+l4,1394838", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1960, "model": "SUPER SEVEN"}}}

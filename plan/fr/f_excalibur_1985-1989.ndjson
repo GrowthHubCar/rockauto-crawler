@@ -1,1 +1,9 @@
 {"node_type": "model", "href": "/en/catalog/excalibur,1989,phaeton", "payload": {"nodetype": "model", "ctx": {"make": "EXCALIBUR", "year": 1989, "model": "PHAETON"}}}
+{"node_type": "carcode", "href": "/en/catalog/excalibur,1985,phaeton,5.0l+305cid+v8,1391699", "payload": {"nodetype": "carcode", "ctx": {"make": "EXCALIBUR", "year": 1985, "model": "PHAETON"}}}
+{"node_type": "carcode", "href": "/en/catalog/excalibur,1988,phaeton,5.7l+350cid+v8,1430099", "payload": {"nodetype": "carcode", "ctx": {"make": "EXCALIBUR", "year": 1988, "model": "PHAETON"}}}
+{"node_type": "carcode", "href": "/en/catalog/excalibur,1986,phaeton,5.0l+305cid+v8,1430102", "payload": {"nodetype": "carcode", "ctx": {"make": "EXCALIBUR", "year": 1986, "model": "PHAETON"}}}
+{"node_type": "carcode", "href": "/en/catalog/excalibur,1987,phaeton,5.0l+305cid+v8,1430100", "payload": {"nodetype": "carcode", "ctx": {"make": "EXCALIBUR", "year": 1987, "model": "PHAETON"}}}
+{"node_type": "carcode", "href": "/en/catalog/excalibur,1986,phaeton,5.7l+350cid+v8,1430103", "payload": {"nodetype": "carcode", "ctx": {"make": "EXCALIBUR", "year": 1986, "model": "PHAETON"}}}
+{"node_type": "carcode", "href": "/en/catalog/excalibur,1988,phaeton,5.0l+305cid+v8,1430098", "payload": {"nodetype": "carcode", "ctx": {"make": "EXCALIBUR", "year": 1988, "model": "PHAETON"}}}
+{"node_type": "carcode", "href": "/en/catalog/excalibur,1989,phaeton,5.7l+350cid+v8,1430097", "payload": {"nodetype": "carcode", "ctx": {"make": "EXCALIBUR", "year": 1989, "model": "PHAETON"}}}
+{"node_type": "carcode", "href": "/en/catalog/excalibur,1987,phaeton,5.7l+350cid+v8,1430101", "payload": {"nodetype": "carcode", "ctx": {"make": "EXCALIBUR", "year": 1987, "model": "PHAETON"}}}

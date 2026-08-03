@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1986,topaz", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1986, "model": "TOPAZ"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1986,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1986, "model": "P-350"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1986,f-800", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1986, "model": "F-800"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1986,tempo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1986, "model": "TEMPO"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1986,taurus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1986, "model": "TAURUS"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1986,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1986, "model": "THUNDERBIRD"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1986,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1986, "model": "RANGER"}}}

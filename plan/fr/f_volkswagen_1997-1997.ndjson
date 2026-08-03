@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,1997,derby", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1997, "model": "DERBY"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1997,panel", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1997, "model": "PANEL"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1997,combi", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1997, "model": "COMBI"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1997,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1997, "model": "GOLF"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1997,eurovan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1997, "model": "EUROVAN"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1997,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1997, "model": "JETTA"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1997,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1997, "model": "PASSAT"}}}

@@ -9,3 +9,13 @@
 {"node_type": "model", "href": "/en/catalog/mg,1965,1100", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1965, "model": "1100"}}}
 {"node_type": "model", "href": "/en/catalog/mg,1966,1100", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1966, "model": "1100"}}}
 {"node_type": "model", "href": "/en/catalog/mg,1967,1100", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1967, "model": "1100"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,1965,mgb,1.8l+l4,1345889", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1965, "model": "MGB"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,1966,mgb,1.8l+l4,1345867", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1966, "model": "MGB"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,1968,mgb,1.8l+l4,1290024", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1968, "model": "MGB"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,1968,magnette,1.6l+l4,1494683", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1968, "model": "MAGNETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,1967,midget,1.3l+l4,1403468", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1967, "model": "MIDGET"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,1968,midget,1.3l+l4,1290046", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1968, "model": "MIDGET"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,1968,mgc,2.9l+l6,1436270", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1968, "model": "MGC"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,1967,mgb,1.8l+l4,1345856", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1967, "model": "MGB"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,1969,midget,1.3l+l4,1290709", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1969, "model": "MIDGET"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,1968,1300,1.3l+l4,1436261", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1968, "model": "1300"}}}

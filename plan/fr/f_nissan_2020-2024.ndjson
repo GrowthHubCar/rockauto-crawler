@@ -24,3 +24,124 @@
 {"node_type": "model", "href": "/en/catalog/nissan,2022,qashqai", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2022, "model": "QASHQAI"}}}
 {"node_type": "model", "href": "/en/catalog/nissan,2023,kicks", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2023, "model": "KICKS"}}}
 {"node_type": "model", "href": "/en/catalog/nissan,2023,ariya", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2023, "model": "ARIYA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,frontier,2.5l+l4+diesel+turbocharged,3449296", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "FRONTIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,nv200,2.0l+l4,3449304", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "NV200"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,maxima,3.5l+v6,3450900", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "MAXIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,frontier,3.8l+v6,3446776", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "FRONTIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,pathfinder,3.5l+v6,3450211", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "PATHFINDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,kicks,1.6l+l4,3455143", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "KICKS"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,x-trail,2.5l+l4,3455685", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "X-TRAIL"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,nv350+urvan,2.5l+l4,3454536", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "NV350 URVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,versa,1.6l+l4,3445008", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "VERSA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,qashqai,2.0l+l4,3449306", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "QASHQAI"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,gt-r,3.8l+v6+turbocharged,3454532", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "GT-R"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,march,1.6l+l4,3451255", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "MARCH"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,np300,2.5l+l4+diesel+turbocharged,3445002", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "NP300"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,sentra,2.0l+l4,3453731", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "SENTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,murano,3.5l+v6,3450901", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "MURANO"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,titan+xd,5.6l+v8,3455148", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "TITAN XD"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,x-trail,2.5l+l4,3454542", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "X-TRAIL"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,nv1500,4.0l+v6,3447202", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "NV1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,v-drive,1.6l+l4,3450215", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "V-DRIVE"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,versa,1.6l+l4,3449311", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "VERSA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,maxima,3.5l+v6,3453727", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "MAXIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,titan,5.6l+v8,3455147", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "TITAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,frontier,2.5l+l4,3455678", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "FRONTIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,nv2500,5.6l+v8,3447204", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "NV2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,altima,2.0l+l4+turbocharged,3454525", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "ALTIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,armada,5.6l+v8,3445322", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "ARMADA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,rogue,1.5l+l3+turbocharged,3451261", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "ROGUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,titan,5.6l+v8,3453732", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "TITAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,nv3500,5.6l+v8,3447206", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "NV3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,armada,5.6l+v8,3449295", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "ARMADA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,370z,3.7l+v6,3444994", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "370Z"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,rogue,1.5l+l3+turbocharged,3455146", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "ROGUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,z,3.0l+v6+turbocharged,3454543", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "Z"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,maxima,3.5l+v6,3444999", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "MAXIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,nv200,2.0l+l4,3445325", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "NV200"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,np300,2.5l+l4,3453730", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "NP300"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,pathfinder,3.5l+v6,3445470", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "PATHFINDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,x-trail,2.5l+l4,3445327", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "X-TRAIL"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,kicks,1.2l+l3+electric/gas,3455679", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "KICKS"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,titan+xd,5.6l+v8,3446784", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "TITAN XD"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,np300,2.5l+l4+diesel+turbocharged,3455682", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "NP300"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,x-trail,2.0l+l4+electric/gas,3451263", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "X-TRAIL"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,ariya,electric,3454901", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "ARIYA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,frontier,3.8l+v6,3451254", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "FRONTIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,march,1.6l+l4,3450209", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "MARCH"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,frontier,2.5l+l4+diesel+turbocharged,3454529", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "FRONTIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,sentra,2.0l+l4,3450904", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "SENTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,frontier,2.5l+l4+diesel+turbocharged,3450897", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "FRONTIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,frontier,2.5l+l4,3454530", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "FRONTIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,armada,5.6l+v8,3455411", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "ARMADA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,x-trail,1.5l+l3+electric/gas+turbocharged,3454541", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "X-TRAIL"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,rogue,2.5l+l4,3454539", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "ROGUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,370z,3.7l+v6,3450203", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "370Z"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,rogue,1.5l+l3+turbocharged,3451262", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "ROGUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,titan+xd,5.6l+v8,3453733", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "TITAN XD"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,leaf,electric,3450208", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "LEAF"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,sentra,2.0l+l4,3449309", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "SENTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,leaf,electric,3449300", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "LEAF"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,np300,2.5l+l4,3445001", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "NP300"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,rogue+sport,2.0l+l4,3445472", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "ROGUE SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,np300+frontier,2.5l+l4+diesel+turbocharged,3445004", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "NP300 FRONTIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,versa,1.6l+l4,3453734", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "VERSA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,x-trail,2.0l+l4+electric/gas,3445326", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "X-TRAIL"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,rogue+sport,2.0l+l4,3450903", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "ROGUE SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,altima,2.5l+l4,3447102", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "ALTIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,altima,2.5l+l4,3444996", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "ALTIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,frontier,4.0l+v6,3446777", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "FRONTIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,nv2500,4.0l+v6,3445568", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "NV2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,gt-r,3.8l+v6+turbocharged,3444997", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "GT-R"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,rogue,1.5l+l3+turbocharged,3455145", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "ROGUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,march,1.6l+l4,3453726", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "MARCH"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,np300+frontier,2.5l+l4,3445003", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "NP300 FRONTIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,v-drive,1.6l+l4,3445727", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "V-DRIVE"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,x-trail,1.5l+l3+electric/gas+turbocharged,3455684", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "X-TRAIL"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,titan,5.6l+v8,3446783", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "TITAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,murano,3.5l+v6,3453728", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "MURANO"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,x-trail,2.5l+l4,3451264", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "X-TRAIL"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,armada,5.6l+v8,3450204", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "ARMADA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,murano,3.5l+v6,3445000", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "MURANO"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,leaf,electric,3454187", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "LEAF"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,sentra,2.0l+l4,3446147", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "SENTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,rogue+sport,2.0l+l4,3449308", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "ROGUE SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,gt-r,3.8l+v6+turbocharged,3454533", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "GT-R"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,kicks,1.6l+l4,3450899", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "KICKS"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,maxima,3.5l+v6,3447201", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "MAXIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,sentra,2.0l+l4,3454902", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "SENTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,frontier,3.8l+v6,3450206", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "FRONTIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,titan,5.6l+v8,3450905", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "TITAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,altima,2.5l+l4,3454526", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "ALTIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,np300,2.5l+l4+diesel+turbocharged,3449303", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "NP300"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,kicks,1.6l+l4,3445323", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "KICKS"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,frontier,3.8l+v6,3454531", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "FRONTIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,altima,2.0l+l4+turbocharged,3444995", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "ALTIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,z,3.0l+v6+turbocharged,3453735", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "Z"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,versa,1.6l+l4,3454903", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "VERSA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,kicks,1.6l+l4,3449299", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "KICKS"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,np300,2.5l+l4,3449302", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "NP300"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,rogue,2.5l+l4,3445007", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "ROGUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,titan+xd,5.6l+v8,3450906", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "TITAN XD"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,rogue,2.5l+l4,3447207", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "ROGUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,murano,3.5l+v6,3454535", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "MURANO"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,frontier,2.5l+l4,3450896", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "FRONTIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,nv350+urvan,2.5l+l4,3445005", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "NV350 URVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,x-trail,2.0l+l4+electric/gas,3450216", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "X-TRAIL"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,np300,2.5l+l4+diesel+turbocharged,3453729", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "NP300"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,altima,2.0l+l4+turbocharged,3450893", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "ALTIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,pathfinder,3.5l+v6,3450212", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "PATHFINDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2024,frontier,2.5l+l4+diesel+turbocharged,3455677", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2024, "model": "FRONTIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,qashqai,2.0l+l4,3454538", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "QASHQAI"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,nv350+urvan,2.5l+l4+diesel+turbocharged,3445006", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "NV350 URVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,altima,2.0l+l4+turbocharged,3447101", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "ALTIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,versa,1.6l+l4,3450908", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "VERSA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,nv3500,4.0l+v6,3445570", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "NV3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2022,altima,2.5l+l4,3450894", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2022, "model": "ALTIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,leaf,electric,3445914", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "LEAF"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,qashqai,2.0l+l4,3445471", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "QASHQAI"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,titan+xd,5.6l+v8,3446151", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "TITAN XD"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,pathfinder,3.5l+v6,3451259", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "PATHFINDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,kicks,1.6l+l4,3453724", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "KICKS"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2021,x-trail,2.5l+l4,3450217", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2021, "model": "X-TRAIL"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2020,nv3500,5.6l+v8,3445571", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2020, "model": "NV3500"}}}

@@ -25,3 +25,77 @@
 {"node_type": "model", "href": "/en/catalog/dodge,1980,d400+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1980, "model": "D400 PICKUP"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,1980,aspen", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1980, "model": "ASPEN"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,1984,600", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1984, "model": "600"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1984,d150+pickup,5.9l+360cid+v8,1084597", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1984, "model": "D150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1981,omni,1.7l+105cid+l4,1094127", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1981, "model": "OMNI"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1980,diplomat,3.7l+225cid+l6,1090145", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1980, "model": "DIPLOMAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,power+ram+50,2.0l+122cid+l4,1408069", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "POWER RAM 50"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1984,royal+mini+ram,2.6l+156cid+l4,1097287", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1984, "model": "ROYAL MINI RAM"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1984,caravan,2.2l+135cid+l4,1076644", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1984, "model": "CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1984,ram+50,2.0l+122cid+l4,1096130", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1984, "model": "RAM 50"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1980,st.+regis,3.7l+225cid+l6,1098592", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1980, "model": "ST. REGIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,b250,5.2l+318cid+v8,1073146", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "B250"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1981,w150+pickup,5.9l+360cid+v8,1099953", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1981, "model": "W150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1981,b350,5.9l+360cid+v8,1075597", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1981, "model": "B350"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,b150,3.7l+225cid+l6,1070705", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "B150"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1981,w350+pickup,5.9l+360cid+v8,1101834", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1981, "model": "W350 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1984,d250+pickup,3.7l+225cid+l6,1085789", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1984, "model": "D250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,omni,2.2l+135cid+l4,1094295", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "OMNI"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1982,mirada,3.7l+225cid+l6,1092709", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1982, "model": "MIRADA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1984,ram+50,2.6l+156cid+l4,1096141", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1984, "model": "RAM 50"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1982,w250+pickup,5.9l+360cid+v8,1101003", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1982, "model": "W250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1981,d250+pickup,5.2l+318cid+v8,1085688", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1981, "model": "D250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1981,d350+pickup,5.9l+360cid+v8,1086803", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1981, "model": "D350 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,w350+pickup,5.9l+360cid+v8,1101889", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "W350 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1982,omni,1.7l+105cid+l4,1094183", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1982, "model": "OMNI"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1980,st.+regis,5.9l+360cid+v8,1098637", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1980, "model": "ST. REGIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,d150+pickup,5.9l+360cid+v8,570", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "D150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,d150+pickup,3.7l+225cid+l6,1084531", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "D150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1981,aries,2.6l+156cid+l4,1068915", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1981, "model": "ARIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1984,w250+pickup,5.2l+318cid+v8,1101036", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1984, "model": "W250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1981,w250+pickup,5.2l+318cid+v8,1100956", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1981, "model": "W250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1984,w150+pickup,3.7l+225cid+l6,1100024", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1984, "model": "W150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1982,w350+pickup,5.2l+318cid+v8,1407811", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1982, "model": "W350 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1981,d50+pickup,2.0l+122cid+l4,1087297", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1981, "model": "D50 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,mirada,5.2l+318cid+v8,1092776", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "MIRADA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1982,w150+pickup,3.7l+225cid+l6,1099964", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1982, "model": "W150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,w150+pickup,3.7l+225cid+l6,1099997", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "W150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1980,d200+pickup,5.9l+360cid+v8,1085655", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1980, "model": "D200 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1980,colt,2.6l+156cid+l4,1080481", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1980, "model": "COLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1982,omni,2.2l+135cid+l4,1094194", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1982, "model": "OMNI"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1980,d200+pickup,3.7l+225cid+l6,1085611", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1980, "model": "D200 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,omni,1.7l+105cid+l4,1094284", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "OMNI"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1984,aries,2.6l+156cid+l4,1069118", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1984, "model": "ARIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1982,mirada,5.2l+318cid+v8,1092732", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1982, "model": "MIRADA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1982,d150+pickup,3.7l+225cid+l6,1084485", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1982, "model": "D150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1984,royal+mini+ram,2.2l+135cid+l4,1097276", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1984, "model": "ROYAL MINI RAM"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1984,d150+pickup,3.7l+225cid+l6,1084575", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1984, "model": "D150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1981,st.+regis,3.7l+225cid+l6,1098659", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1981, "model": "ST. REGIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1981,w250+pickup,5.9l+360cid+v8,1100978", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1981, "model": "W250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1981,st.+regis,5.2l+318cid+v8,1098682", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1981, "model": "ST. REGIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1980,d150+pickup,5.9l+360cid+v8,1084429", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1980, "model": "D150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1984,d250+pickup,5.2l+318cid+v8,1085790", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1984, "model": "D250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1982,w350+pickup,5.9l+360cid+v8,1101856", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1982, "model": "W350 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,colt,1.4l+l4,1080571", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "COLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,w150+pickup,5.2l+318cid+v8,1100002", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "W150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1984,caravan,2.6l+156cid+l4,1076655", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1984, "model": "CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1980,omni,1.7l+105cid+l4,1094105", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1980, "model": "OMNI"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,400,2.6l+156cid+l4,1068331", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "400"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1981,w150+pickup,3.7l+225cid+l6,1099919", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1981, "model": "W150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1984,w150+pickup,5.2l+318cid+v8,1100035", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1984, "model": "W150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,challenger,2.6l+156cid+l4,1078792", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "CHALLENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,400,2.2l+135cid+l4,1068319", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "400"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1982,colt,1.4l+l4,1080537", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1982, "model": "COLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,d150+pickup,5.2l+318cid+v8,1084564", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "D150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,rampage,2.2l+135cid+l4,1097243", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "RAMPAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1984,w350+pickup,5.9l+360cid+v8,1101902", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1984, "model": "W350 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1982,d150+pickup,5.2l+318cid+v8,1084519", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1982, "model": "D150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1980,w300+pickup,5.2l+318cid+v8,1101812", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1980, "model": "W300 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1981,w150+pickup,5.2l+318cid+v8,1099920", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1981, "model": "W150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1980,w300+pickup,5.9l+360cid+v8,1101823", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1980, "model": "W300 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1984,w250+pickup,5.9l+360cid+v8,1101047", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1984, "model": "W250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1980,d200+pickup,5.2l+318cid+v8,1085633", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1980, "model": "D200 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1984,d250+pickup,5.9l+360cid+v8,1085802", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1984, "model": "D250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,power+ram+50,2.3l+l4+diesel+turbocharged,1413379", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "POWER RAM 50"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,ramcharger,5.9l+360cid+v8,1097029", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "RAMCHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1983,power+ram+50,2.6l+156cid+l4,1408081", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1983, "model": "POWER RAM 50"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1980,challenger,2.6l+156cid+l4,1078758", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1980, "model": "CHALLENGER"}}}

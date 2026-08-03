@@ -9,3 +9,59 @@
 {"node_type": "model", "href": "/en/catalog/chrysler,1981,cordoba", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1981, "model": "CORDOBA"}}}
 {"node_type": "model", "href": "/en/catalog/chrysler,1982,cordoba", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1982, "model": "CORDOBA"}}}
 {"node_type": "model", "href": "/en/catalog/chrysler,1983,cordoba", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1983, "model": "CORDOBA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1983,cordoba,3.7l+225cid+l6,1063055", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1983, "model": "CORDOBA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1980,lebaron,5.9l+360cid+v8,3353496", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1980, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1984,new+yorker,2.2l+135cid+l4,1065800", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1984, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1983,new+yorker,2.2l+135cid+l4,1065776", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1983, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1984,e+class,2.6l+156cid+l4,1063415", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1984, "model": "E CLASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1980,lebaron,3.7l+225cid+l6,1064348", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1980, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1982,valiant,2.2l+135cid+l4,3443639", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1982, "model": "VALIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1982,town+&+country,2.2l+135cid+l4,1067666", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1982, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1982,valiant,3.7l+225cid+l6,3353514", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1982, "model": "VALIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1981,lebaron,5.9l+360cid+v8,3353497", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1981, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1980,cordoba,5.2l+318cid+v8,1062807", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1980, "model": "CORDOBA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1983,town+&+country,2.2l+135cid+l4,1067688", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1983, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1984,town+&+country,2.6l+156cid+l4,1067723", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1984, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1980,new+yorker,5.9l+360cid+v8,1065697", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1980, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1984,new+yorker,2.6l+156cid+l4,1065822", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1984, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1982,new+yorker,3.7l+225cid+l6,1065732", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1982, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1982,cordoba,5.9l+360cid+v8,3310487", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1982, "model": "CORDOBA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1981,cordoba,5.9l+360cid+v8,3353495", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1981, "model": "CORDOBA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1980,cordoba,5.9l+360cid+v8,1438407", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1980, "model": "CORDOBA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1984,laser,2.2l+135cid+l4+turbocharged,1063820", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1984, "model": "LASER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1982,imperial,5.2l+318cid+v8,1063662", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1982, "model": "IMPERIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1982,lebaron,2.6l+156cid+l4,1308305", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1982, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1982,cordoba,5.2l+318cid+v8,1062997", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1982, "model": "CORDOBA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1983,fifth+avenue,3.7l+225cid+l6,1063448", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1983, "model": "FIFTH AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1981,cordoba,5.2l+318cid+v8,1062908", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1981, "model": "CORDOBA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1981,newport,5.2l+318cid+v8,1066980", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1981, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1982,new+yorker,5.2l+318cid+v8,1065754", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1982, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1984,new+yorker,2.2l+135cid+l4+turbocharged,1065811", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1984, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1982,lebaron,2.2l+135cid+l4,1064641", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1982, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1984,fifth+avenue,5.2l+318cid+v8,1063471", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1984, "model": "FIFTH AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1982,town+&+country,2.6l+156cid+l4,1308361", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1982, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1981,town+&+country,5.2l+318cid+v8,1067644", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1981, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1983,new+yorker,2.6l+156cid+l4,1065798", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1983, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1980,newport,3.7l+225cid+l6,1066890", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1980, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1983,lebaron,2.2l+135cid+l4,1064685", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1983, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1984,lebaron,2.2l+135cid+l4,1064720", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1984, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1980,town+&+country,5.2l+318cid+v8,1067611", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1980, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1981,newport,3.7l+225cid+l6,1066968", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1981, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1980,valiant,5.9l+360cid+v8,3353513", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1980, "model": "VALIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1982,lebaron,5.9l+360cid+v8,3353498", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1982, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1984,lebaron,2.6l+156cid+l4,1064742", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1984, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1984,laser,2.2l+135cid+l4,1063819", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1984, "model": "LASER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1980,new+yorker,5.2l+318cid+v8,1065675", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1980, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1983,town+&+country,2.6l+156cid+l4,1440831", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1983, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1980,lebaron,5.2l+318cid+v8,1064360", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1980, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1984,e+class,2.2l+135cid+l4,1063392", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1984, "model": "E CLASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1981,town+&+country,3.7l+225cid+l6,1067633", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1981, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1984,town+&+country,2.2l+135cid+l4,1067712", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1984, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1983,lebaron,2.6l+156cid+l4,1064708", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1983, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1984,executive+sedan,2.6l+156cid+l4,1063437", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1984, "model": "EXECUTIVE SEDAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1984,volare,2.2l+135cid+l4,3310410", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1984, "model": "VOLARE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1984,lebaron,2.2l+135cid+l4+turbocharged,1064731", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1984, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1980,cordoba,3.7l+225cid+l6,1062795", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1980, "model": "CORDOBA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1980,town+&+country,3.7l+225cid+l6,1067598", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1980, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1981,lebaron,5.2l+318cid+v8,1064472", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1981, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1980,newport,5.9l+360cid+v8,1066946", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1980, "model": "NEWPORT"}}}

@@ -15,3 +15,6 @@
 {"node_type": "model", "href": "/en/catalog/hudson,1942,super+series+21", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1942, "model": "SUPER SERIES 21"}}}
 {"node_type": "model", "href": "/en/catalog/hudson,1942,deluxe+series+20+p", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1942, "model": "DELUXE SERIES 20 P"}}}
 {"node_type": "model", "href": "/en/catalog/hudson,1942,commodore+series", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1942, "model": "COMMODORE SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/hudson,1942,commodore+series,4.2l+254cid+l8,953071", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1942, "model": "COMMODORE SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/hudson,1940,traveler+series+40+t,2.9l+175cid+l6,952979", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1940, "model": "TRAVELER SERIES 40 T"}}}
+{"node_type": "carcode", "href": "/en/catalog/hudson,1940,country+club+series+43,3.5l+212cid+l6,952981", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1940, "model": "COUNTRY CLUB SERIES 43"}}}

@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2010,entourage", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2010, "model": "ENTOURAGE"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2010,genesis+coupe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2010, "model": "GENESIS COUPE"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2010,santa+fe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2010, "model": "SANTA FE"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2010,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2010, "model": "SONATA"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2010,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2010, "model": "ELANTRA"}}}

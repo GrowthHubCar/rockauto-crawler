@@ -1,2 +1,8 @@
 {"node_type": "model", "href": "/en/catalog/nash,1948,ambassador", "payload": {"nodetype": "model", "ctx": {"make": "NASH", "year": 1948, "model": "AMBASSADOR"}}}
 {"node_type": "model", "href": "/en/catalog/nash,1947,600", "payload": {"nodetype": "model", "ctx": {"make": "NASH", "year": 1947, "model": "600"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1948,600,2.8l+173cid+l6,1486860", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1948, "model": "600"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1946,ambassador,3.8l+235cid+l6,1486532", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1946, "model": "AMBASSADOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1946,600,2.8l+173cid+l6,1486531", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1946, "model": "600"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1949,ambassador,3.8l+235cid+l6,124531", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1949, "model": "AMBASSADOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1947,ambassador,3.8l+235cid+l6,1486694", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1947, "model": "AMBASSADOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1949,600,2.8l+173cid+l6,124526", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1949, "model": "600"}}}

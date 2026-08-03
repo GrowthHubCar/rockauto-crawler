@@ -1,2 +1,6 @@
 {"node_type": "model", "href": "/en/catalog/polestar,2026,polestar+2", "payload": {"nodetype": "model", "ctx": {"make": "POLESTAR", "year": 2026, "model": "POLESTAR 2"}}}
 {"node_type": "model", "href": "/en/catalog/polestar,2026,polestar+3", "payload": {"nodetype": "model", "ctx": {"make": "POLESTAR", "year": 2026, "model": "POLESTAR 3"}}}
+{"node_type": "carcode", "href": "/en/catalog/polestar,2025,polestar+3,electric,3455691", "payload": {"nodetype": "carcode", "ctx": {"make": "POLESTAR", "year": 2025, "model": "POLESTAR 3"}}}
+{"node_type": "carcode", "href": "/en/catalog/polestar,2026,polestar+4,electric,3458742", "payload": {"nodetype": "carcode", "ctx": {"make": "POLESTAR", "year": 2026, "model": "POLESTAR 4"}}}
+{"node_type": "carcode", "href": "/en/catalog/polestar,2025,polestar+4,electric,3457683", "payload": {"nodetype": "carcode", "ctx": {"make": "POLESTAR", "year": 2025, "model": "POLESTAR 4"}}}
+{"node_type": "carcode", "href": "/en/catalog/polestar,2025,polestar+2,electric,3458196", "payload": {"nodetype": "carcode", "ctx": {"make": "POLESTAR", "year": 2025, "model": "POLESTAR 2"}}}

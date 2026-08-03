@@ -2,3 +2,36 @@
 {"node_type": "model", "href": "/en/catalog/mini,2017,cooper+countryman", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2017, "model": "COOPER COUNTRYMAN"}}}
 {"node_type": "model", "href": "/en/catalog/mini,2015,cooper+paceman", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2015, "model": "COOPER PACEMAN"}}}
 {"node_type": "model", "href": "/en/catalog/mini,2018,cooper+clubman", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2018, "model": "COOPER CLUBMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2019,cooper+clubman,2.0l+l4+turbocharged,3442448", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2019, "model": "COOPER CLUBMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2018,cooper,2.0l+l4+turbocharged,3441386", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2018, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2017,cooper+clubman,2.0l+l4+turbocharged,3435368", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2017, "model": "COOPER CLUBMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2017,cooper+clubman,1.5l+l3+turbocharged,3435367", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2017, "model": "COOPER CLUBMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2016,cooper+countryman,1.6l+l4+turbocharged,3353617", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2016, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2019,cooper+countryman,1.5l+l3+electric/gas+turbocharged,3443810", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2019, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2017,cooper+countryman,1.6l+l4+turbocharged,3436982", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2017, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2019,cooper+countryman,1.5l+l3+turbocharged,3443811", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2019, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2016,cooper+countryman,1.6l+l4,3353618", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2016, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2015,cooper,1.6l+l4+turbocharged,3309825", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2015, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2017,cooper,2.0l+l4+turbocharged,3436980", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2017, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2015,cooper+paceman,1.6l+l4,3309829", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2015, "model": "COOPER PACEMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2019,cooper,2.0l+l4+turbocharged,3442447", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2019, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2019,cooper+countryman,2.0l+l4+turbocharged,3443812", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2019, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2017,cooper+countryman,2.0l+l4+turbocharged,3436983", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2017, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2015,cooper,2.0l+l4+turbocharged,3310224", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2015, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2018,cooper,1.5l+l3+turbocharged,3441385", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2018, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2015,cooper+countryman,1.6l+l4,3309826", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2015, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2016,cooper+paceman,1.6l+l4,3353620", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2016, "model": "COOPER PACEMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2017,cooper,1.5l+l3+turbocharged,3436979", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2017, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2018,cooper+countryman,1.5l+l3+electric/gas+turbocharged,3441690", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2018, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2019,cooper+clubman,1.5l+l3+turbocharged,3443809", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2019, "model": "COOPER CLUBMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2019,cooper,1.5l+l3+turbocharged,3442446", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2019, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2016,cooper+clubman,2.0l+l4+turbocharged,3361813", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2016, "model": "COOPER CLUBMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2018,cooper+clubman,2.0l+l4+turbocharged,3441388", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2018, "model": "COOPER CLUBMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2015,cooper,1.6l+l4,3309824", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2015, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2018,cooper+countryman,1.5l+l3+turbocharged,3441689", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2018, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2016,cooper+paceman,1.6l+l4+turbocharged,3353619", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2016, "model": "COOPER PACEMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2016,cooper+clubman,1.5l+l3+turbocharged,3361812", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2016, "model": "COOPER CLUBMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2015,cooper+countryman,1.6l+l4+turbocharged,3309827", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2015, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2018,cooper+countryman,2.0l+l4+turbocharged,3441691", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2018, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2016,cooper,1.6l+l4,3353615", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2016, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2015,cooper,1.5l+l3+turbocharged,3310223", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2015, "model": "COOPER"}}}

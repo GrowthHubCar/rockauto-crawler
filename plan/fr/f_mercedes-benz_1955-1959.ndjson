@@ -64,3 +64,16 @@
 {"node_type": "model", "href": "/en/catalog/mercedes-benz,1959,190db", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1959, "model": "190DB"}}}
 {"node_type": "model", "href": "/en/catalog/mercedes-benz,1959,190b", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1959, "model": "190B"}}}
 {"node_type": "model", "href": "/en/catalog/mercedes-benz,1959,180b", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1959, "model": "180B"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1955,220s,2.2l+l6,1488126", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1955, "model": "220S"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1958,180d,1.8l+l4+diesel,1489005", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1958, "model": "180D"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1955,300s,3.0l+l6,1435367", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1955, "model": "300S"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1955,220sb,2.2l+l6,1488127", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1955, "model": "220SB"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1957,300sc,3.0l+l6,1435378", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1957, "model": "300SC"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1955,190sl,1.9l+l4,1435294", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1955, "model": "190SL"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1955,220a,2.2l+l6,1435342", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1955, "model": "220A"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1955,220b,2.2l+l6,1488124", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1955, "model": "220B"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1957,220s,2.2l+l6,1440440", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1957, "model": "220S"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1955,300,3.0l+l6,953384", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1955, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1955,300b,3.0l+l6,1435368", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1955, "model": "300B"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1955,220,2.2l+l6,1435343", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1955, "model": "220"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1955,300sl,3.0l+l6,1409149", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1955, "model": "300SL"}}}

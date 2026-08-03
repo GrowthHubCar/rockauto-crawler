@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/acura,2020,tlx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2020, "model": "TLX"}}}
-{"node_type": "model", "href": "/en/catalog/acura,2020,rlx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2020, "model": "RLX"}}}
-{"node_type": "model", "href": "/en/catalog/acura,2020,ilx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2020, "model": "ILX"}}}
-{"node_type": "model", "href": "/en/catalog/acura,2020,mdx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2020, "model": "MDX"}}}
-{"node_type": "model", "href": "/en/catalog/acura,2020,rdx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2020, "model": "RDX"}}}
-{"node_type": "model", "href": "/en/catalog/acura,2020,nsx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2020, "model": "NSX"}}}

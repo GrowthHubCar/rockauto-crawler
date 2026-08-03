@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/land+rover,1995,discovery", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 1995, "model": "DISCOVERY"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,1995,range+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 1995, "model": "RANGE ROVER"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,1995,defender+90", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 1995, "model": "DEFENDER 90"}}}

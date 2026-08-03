@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/honda,2006,fit", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2006, "model": "FIT"}}}
-{"node_type": "model", "href": "/en/catalog/honda,2006,insight", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2006, "model": "INSIGHT"}}}
-{"node_type": "model", "href": "/en/catalog/honda,2006,civic", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2006, "model": "CIVIC"}}}
-{"node_type": "model", "href": "/en/catalog/honda,2006,pilot", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2006, "model": "PILOT"}}}

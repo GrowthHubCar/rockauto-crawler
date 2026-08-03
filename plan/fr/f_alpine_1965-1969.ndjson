@@ -3,3 +3,4 @@
 {"node_type": "model", "href": "/en/catalog/alpine,1967,a110", "payload": {"nodetype": "model", "ctx": {"make": "ALPINE", "year": 1967, "model": "A110"}}}
 {"node_type": "model", "href": "/en/catalog/alpine,1968,a110", "payload": {"nodetype": "model", "ctx": {"make": "ALPINE", "year": 1968, "model": "A110"}}}
 {"node_type": "model", "href": "/en/catalog/alpine,1969,a110", "payload": {"nodetype": "model", "ctx": {"make": "ALPINE", "year": 1969, "model": "A110"}}}
+{"node_type": "carcode", "href": "/en/catalog/alpine,1965,a110,1.3l+l4,1436052", "payload": {"nodetype": "carcode", "ctx": {"make": "ALPINE", "year": 1965, "model": "A110"}}}

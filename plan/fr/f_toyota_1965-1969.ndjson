@@ -5,3 +5,27 @@
 {"node_type": "model", "href": "/en/catalog/toyota,1968,2000gt", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1968, "model": "2000GT"}}}
 {"node_type": "model", "href": "/en/catalog/toyota,1969,2000gt", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1969, "model": "2000GT"}}}
 {"node_type": "model", "href": "/en/catalog/toyota,1969,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1969, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1968,corona,1.9l+l4,1275702", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1968, "model": "CORONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1967,crown,2.3l+l6,1403558", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1967, "model": "CROWN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1967,corona,1.9l+l4,1421930", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1967, "model": "CORONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1969,pickup,1.9l+l4,1495783", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1969, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1968,corolla,1.1l+l4,1274408", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1968, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1965,land+cruiser,3.9l+l6,1440436", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1965, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1969,corolla,1.2l+l4,1274420", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1969, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1966,pickup,1.9l+l4,1493478", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1966, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1965,crown,2.3l+l6,2490", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1965, "model": "CROWN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1965,stout,1.9l+l4,1492779", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1965, "model": "STOUT"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1967,crown,1.9l+l4,1494123", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1967, "model": "CROWN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1965,crown,1.9l+l4,1492778", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1965, "model": "CROWN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1968,pickup,1.9l+l4,1404087", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1968, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1968,stout,1.9l+l4,1494887", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1968, "model": "STOUT"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1968,crown,2.3l+l6,1276253", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1968, "model": "CROWN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1967,land+cruiser,3.9l+l6,1403569", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1967, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1965,tiara,1.5l+l4,1435105", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1965, "model": "TIARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1969,crown,2.3l+l6,1276264", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1969, "model": "CROWN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1968,land+cruiser,3.9l+l6,1404076", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1968, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1969,corona,1.9l+l4,1275724", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1969, "model": "CORONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1967,2000gt,2.0l+l6,1403547", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1967, "model": "2000GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1969,land+cruiser,3.9l+l6,1276297", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1969, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1966,tiara,1.5l+l4,1435104", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1966, "model": "TIARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1967,stout,1.9l+l4,1494125", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1967, "model": "STOUT"}}}

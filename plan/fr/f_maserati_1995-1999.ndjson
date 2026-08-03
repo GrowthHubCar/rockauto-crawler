@@ -1,1 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/maserati,1999,quattroporte", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 1999, "model": "QUATTROPORTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,1999,3200+gt,3.2l+v8+turbocharged,2002526", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1999, "model": "3200 GT"}}}

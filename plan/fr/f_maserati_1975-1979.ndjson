@@ -14,3 +14,4 @@
 {"node_type": "model", "href": "/en/catalog/maserati,1977,khamsin", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 1977, "model": "KHAMSIN"}}}
 {"node_type": "model", "href": "/en/catalog/maserati,1978,khamsin", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 1978, "model": "KHAMSIN"}}}
 {"node_type": "model", "href": "/en/catalog/maserati,1979,khamsin", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 1979, "model": "KHAMSIN"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,1975,bora,4.9l+v8,1395053", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1975, "model": "BORA"}}}

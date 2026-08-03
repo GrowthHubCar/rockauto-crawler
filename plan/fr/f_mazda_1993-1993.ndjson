@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mazda,1993,mx-5+miata", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1993, "model": "MX-5 MIATA"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,1993,protege", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1993, "model": "PROTEGE"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,1993,mpv", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1993, "model": "MPV"}}}

@@ -17,3 +17,19 @@
 {"node_type": "model", "href": "/en/catalog/isuzu,2017,elf", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2017, "model": "ELF"}}}
 {"node_type": "model", "href": "/en/catalog/isuzu,2018,elf", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2018, "model": "ELF"}}}
 {"node_type": "model", "href": "/en/catalog/isuzu,2019,elf", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2019, "model": "ELF"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2016,elf,3.0l+l4+diesel+turbocharged+sohc,3455748", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2016, "model": "ELF"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2015,reach,3.0l+l4+diesel+turbocharged,3436868", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2015, "model": "REACH"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2019,npr,6.0l+v8,3444374", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2019, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2015,elf,3.0l+l4+diesel+turbocharged,3454942", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2015, "model": "ELF"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2016,f+series+truck,5.2l+l4+diesel+turbocharged,3441293", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2016, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2017,npr,6.0l+v8,3441312", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2017, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2017,nrr,5.2l+l4+diesel+turbocharged,3441321", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2017, "model": "NRR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2015,npr,6.0l+v8,3436852", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2015, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2018,f+series+truck,5.2l+l4+diesel+turbocharged,3441633", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2018, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2015,npr,3.0l+l4+diesel+turbocharged,3414426", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2015, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2017,elf,3.0l+l4+diesel+turbocharged+dohc,3454944", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2017, "model": "ELF"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2015,nqr,5.2l+l4+diesel+turbocharged,3436863", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2015, "model": "NQR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2016,elf,5.2l+l4+diesel+turbocharged,3441281", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2016, "model": "ELF"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2017,f+series+truck,5.2l+l4+diesel+turbocharged,3441294", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2017, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2015,npr,5.2l+l4+diesel+turbocharged,3436859", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2015, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2015,nrr,5.2l+l4+diesel+turbocharged,3436865", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2015, "model": "NRR"}}}

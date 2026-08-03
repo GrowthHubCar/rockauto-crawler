@@ -12,3 +12,147 @@
 {"node_type": "model", "href": "/en/catalog/chevrolet,2019,cheyenne", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "CHEYENNE"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,2015,aveo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "AVEO"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,2016,impala+limited", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "IMPALA LIMITED"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,silverado+1500,5.3l+v8,3437551", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,traverse,3.6l+v6,3308761", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "TRAVERSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,sonic,1.4l+l4+turbocharged,3315177", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "SONIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,suburban,6.0l+v8,3434400", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,trax,1.4l+l4+turbocharged,3434404", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "TRAX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,tahoe,5.3l+v8,3442714", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "TAHOE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,spark+ev,electric,3310361", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "SPARK EV"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,express+2500,2.8l+l4+diesel+turbocharged,3441539", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "EXPRESS 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,equinox,1.5l+l4+turbocharged,3442361", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "EQUINOX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,silverado+2500,6.6l+v8+diesel+turbocharged,3435921", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "SILVERADO 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,silverado+1500,5.3l+v8,3434385", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,volt,1.5l+l4+electric/gas,3434405", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "VOLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,equinox,3.6l+v6,3315158", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "EQUINOX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,tahoe,5.3l+v8,3315182", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "TAHOE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,malibu,1.5l+l4+turbocharged,3437545", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,suburban,5.3l+v8,3315181", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,express+2500,6.6l+v8+diesel+turbocharged,3315159", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "EXPRESS 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,express+4500,6.0l+v8,3308863", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "EXPRESS 4500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,silverado+1500,2.7l+l4+turbocharged,3443203", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,tahoe,6.2l+v8,3441850", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "TAHOE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,tahoe,5.3l+v8,3307627", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "TAHOE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,sonic,1.4l+l4+turbocharged,3442709", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "SONIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,impala,3.6l+v6,3442145", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,sonic,1.6l+l4,3353833", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "SONIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,tornado,1.8l+l4,3353493", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "TORNADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,traverse,3.6l+v6,3434403", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "TRAVERSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,equinox,1.5l+l4+turbocharged,3435903", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "EQUINOX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,cavalier,1.5l+l4,3440272", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "CAVALIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,ss,6.2l+v8,3315180", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "SS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,cruze,1.4l+l4+turbocharged,3442697", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "CRUZE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,silverado+6500+hd,6.6l+v8+diesel+turbocharged,3444641", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "SILVERADO 6500 HD"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,silverado+1500,6.2l+v8,3438961", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,express+2500,6.0l+v8,3441540", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "EXPRESS 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,sonic,1.6l+l4,3435924", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "SONIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,tornado,1.8l+l4,3441851", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "TORNADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,colorado,3.6l+v6,3434310", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "COLORADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,malibu,1.8l+l4+electric/gas,3437546", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,corvette,6.2l+v8+supercharged,3437534", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "CORVETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,suburban,6.0l+v8,3434399", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,sonic,1.8l+l4,3438967", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "SONIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,express+2500,6.0l+v8,3443198", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "EXPRESS 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,trax,1.4l+l4+turbocharged,3309777", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "TRAX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,silverado+1500,5.3l+v8,3315175", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,express+4500,6.0l+v8,3315166", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "EXPRESS 4500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,sonic,1.4l+l4+turbocharged,3438966", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "SONIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,silverado+3500,6.0l+v8,3435922", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "SILVERADO 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,silverado+2500,6.6l+v8+diesel+turbocharged,3307621", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "SILVERADO 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,captiva+sport,2.4l+l4,3308851", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "CAPTIVA SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,corvette,6.2l+v8,3442358", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "CORVETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,traverse,3.6l+v6,3438973", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "TRAVERSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,suburban,5.3l+v8,3438969", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,silverado+2500,6.0l+v8,3438962", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "SILVERADO 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,trax,1.4l+l4+turbocharged,3438974", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "TRAX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,spark+ev,electric,3315179", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "SPARK EV"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,silverado+3500,6.6l+v8+diesel+turbocharged,3342225", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "SILVERADO 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,equinox,2.4l+l4,3434314", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "EQUINOX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,express+3500,4.8l+v8,3308859", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "EXPRESS 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,sonic,1.8l+l4,3434393", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "SONIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,spark,1.4l+l4,3442152", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "SPARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,equinox,1.6l+l4+diesel+turbocharged,3440274", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "EQUINOX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,trax,1.8l+l4,3353835", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "TRAX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,spark,1.4l+l4,3440294", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "SPARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,cavalier,1.5l+l4,3442693", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "CAVALIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,colorado,2.8l+l4+diesel+turbocharged,3438953", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "COLORADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,camaro,2.0l+l4+turbocharged,3353480", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "CAMARO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,colorado,3.6l+v6,3437531", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "COLORADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,silverado+3500,6.6l+v8+diesel+turbocharged,3438965", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "SILVERADO 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,trax,1.8l+l4,3310285", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "TRAX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,silverado+2500,4.3l+v6,3437131", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "SILVERADO 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,silverado+3500,6.0l+v8,3442365", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "SILVERADO 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,silverado+2500,5.3l+v8,3435919", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "SILVERADO 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,volt,1.5l+l4+electric/gas,3443011", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "VOLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,malibu,2.0l+l4+turbocharged,3353755", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,trax,1.8l+l4,3435929", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "TRAX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,impala+limited,3.6l+v6,3308757", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "IMPALA LIMITED"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,trax,1.8l+l4,3440296", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "TRAX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,silverado+3500,6.6l+v8+diesel+turbocharged,3442366", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "SILVERADO 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,beat,1.2l+l4,3442509", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "BEAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,trax,1.4l+l4+turbocharged,3442717", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "TRAX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,ss,6.2l+v8,3434396", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "SS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,impala,2.5l+l4,3442144", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,express+3500,2.8l+l4+diesel+turbocharged,3443199", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "EXPRESS 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,suburban,6.0l+v8,3443638", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,express+4500,6.0l+v8,3443990", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "EXPRESS 4500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,spark+classic,1.2l+l4,3434395", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "SPARK CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,cruze,1.4l+l4+turbocharged,3355286", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "CRUZE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,spark+classic,1.2l+l4,3435925", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "SPARK CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,cruze,1.6l+l4+diesel+turbocharged,3442698", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "CRUZE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,silverado+2500,6.0l+v8,3435920", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "SILVERADO 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,sonic,1.4l+l4+turbocharged,3434392", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "SONIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,sonic,1.6l+l4,3310188", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "SONIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,spark,1.4l+l4,3353492", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "SPARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,traverse,2.0l+l4+turbocharged,3442373", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "TRAVERSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,volt,1.5l+l4+electric/gas,3437566", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "VOLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,silverado+2500,6.0l+v8,3442147", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "SILVERADO 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,silverado+1500,4.3l+v6,3437550", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,traverse,3.6l+v6,3315183", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "TRAVERSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,s10+pickup,2.5l+l4,3435915", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "S10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,volt,1.5l+l4+electric/gas,3329818", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "VOLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,silverado+3500,6.0l+v8,3438964", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "SILVERADO 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,silverado+1500,6.2l+v8,3315176", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,silverado+2500,6.6l+v8+diesel+turbocharged,3342223", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "SILVERADO 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,silverado+1500,4.3l+v6,3443202", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,spark,1.2l+l4,3308760", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "SPARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,silverado+3500,6.6l+v8+diesel+turbocharged,3435923", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "SILVERADO 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,traverse,2.0l+l4+turbocharged,3440295", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "TRAVERSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,tahoe,6.2l+v8,3442715", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "TAHOE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,cruze,1.6l+l4+diesel+turbocharged,3437536", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "CRUZE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,silverado+2500,5.3l+v8,3434387", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "SILVERADO 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,tornado,1.8l+l4,3310189", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "TORNADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,tahoe,5.3l+v8,3438971", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "TAHOE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,cruze,1.4l+l4+turbocharged,3393661", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "CRUZE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,trax,1.8l+l4,3443010", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "TRAX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,malibu,1.8l+l4+electric/gas,3353754", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,colorado,2.5l+l4,3434311", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "COLORADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,sonic,1.8l+l4,3315178", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "SONIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,caprice,3.6l+v6,3315150", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "CAPRICE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,silverado+3500,6.0l+v8,3307625", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "SILVERADO 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,ss,6.2l+v8,3308865", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "SS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,silverado+1500,6.2l+v8,3443205", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,volt,1.4l+l4+electric/gas,3308762", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "VOLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,cruze,1.4l+l4+turbocharged,3437535", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "CRUZE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,silverado+3500,6.0l+v8,3342226", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "SILVERADO 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,silverado+1500,6.2l+v8,3434386", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,silverado+4500+hd,6.6l+v8+diesel+turbocharged,3444639", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "SILVERADO 4500 HD"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,suburban,6.2l+v8,3442711", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,tahoe,5.3l+v8,3434402", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "TAHOE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,caprice,6.0l+v8,3435899", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "CAPRICE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,express+4500,6.6l+v8+diesel+turbocharged,3308862", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "EXPRESS 4500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,malibu,2.0l+l4+turbocharged,3437547", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,impala,3.6l+v6,3315168", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,equinox,2.0l+l4+turbocharged,3438955", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "EQUINOX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,suburban,6.0l+v8,3442712", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,traverse,3.6l+v6,3442374", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "TRAVERSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,lcf,5.2l+l4+diesel+turbocharged,3435911", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "LCF"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,silverado+1500,4.3l+v6,3315174", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,bolt,electric,3440267", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "BOLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2017,spark,1.4l+l4,3434394", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "SPARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,bolt,electric,3442138", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "BOLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,suburban,5.3l+v8,3307626", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,silverado+1500+legacy,5.3l+v8,3442364", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "SILVERADO 1500 LEGACY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,silverado+3500,6.6l+v8+diesel+turbocharged,3307624", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "SILVERADO 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,trax,1.4l+l4+turbocharged,3315184", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "TRAX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2019,suburban,5.3l+v8,3442710", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "SUBURBAN"}}}

@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,1987,l7", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1987, "model": "L7"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1987,m6", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1987, "model": "M6"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1987,l6", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1987, "model": "L6"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1987,325is", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1987, "model": "325IS"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1987,325i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1987, "model": "325I"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1987,325e", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1987, "model": "325E"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1987,m5", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1987, "model": "M5"}}}

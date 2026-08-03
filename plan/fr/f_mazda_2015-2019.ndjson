@@ -1,1 +1,52 @@
 {"node_type": "model", "href": "/en/catalog/mazda,2018,2", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2018, "model": "2"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2018,3,2.0l+l4,3440086", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2018, "model": "3"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2015,6,2.5l+l4,3307709", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2015, "model": "6"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2015,cx-5,2.0l+l4,3307710", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2015, "model": "CX-5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2019,2,1.5l+l4,3443129", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2019, "model": "2"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2016,5,2.5l+l4,3438564", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2016, "model": "5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2019,cx-5,2.5l+l4+turbocharged,3443743", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2019, "model": "CX-5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2017,6,2.5l+l4,3436923", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2017, "model": "6"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2017,5,2.5l+l4,3436922", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2017, "model": "5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2016,6,2.5l+l4,3312786", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2016, "model": "6"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2018,cx-9,2.5l+l4+turbocharged,3441375", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2018, "model": "CX-9"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2015,mx-5+miata,2.0l+l4,3309749", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2015, "model": "MX-5 MIATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2018,3,2.5l+l4,3440087", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2018, "model": "3"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2017,cx-5,2.0l+l4,3436924", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2017, "model": "CX-5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2018,cx-5,2.5l+l4,3438566", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2018, "model": "CX-5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2019,mx-5+miata,2.0l+l4,3443130", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2019, "model": "MX-5 MIATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2015,5,2.5l+l4,3310221", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2015, "model": "5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2016,mx-5+miata,2.0l+l4,3348874", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2016, "model": "MX-5 MIATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2017,3,2.0l+l4,3436920", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2017, "model": "3"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2019,cx-5,2.0l+l4,3444114", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2019, "model": "CX-5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2018,6,2.5l+l4,3442245", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2018, "model": "6"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2019,3,2.5l+l4,3444113", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2019, "model": "3"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2016,3,2.5l+l4,3334394", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2016, "model": "3"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2015,cx-9,3.7l+v6,3310222", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2015, "model": "CX-9"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2017,cx-9,2.5l+l4+turbocharged,3436926", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2017, "model": "CX-9"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2016,3,2.0l+l4,3334393", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2016, "model": "3"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2016,cx-9,3.7l+v6,3334395", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2016, "model": "CX-9"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2017,3,2.5l+l4,3436921", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2017, "model": "3"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2017,cx-5,2.5l+l4,3436925", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2017, "model": "CX-5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2018,6,2.5l+l4+turbocharged,3442246", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2018, "model": "6"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2016,2,1.5l+l4,3340894", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2016, "model": "2"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2016,cx-3,2.0l+l4,3348873", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2016, "model": "CX-3"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2015,3,2.0l+l4,3310313", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2015, "model": "3"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2018,cx-5,2.0l+l4,3438565", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2018, "model": "CX-5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2019,cx-9,2.5l+l4+turbocharged,3442858", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2019, "model": "CX-9"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2019,6,2.5l+l4+turbocharged,3442857", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2019, "model": "6"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2016,cx-9,2.5l+l4+turbocharged,3435299", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2016, "model": "CX-9"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2015,cx-5,2.5l+l4,3307711", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2015, "model": "CX-5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2019,cx-5,2.5l+l4,3443742", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2019, "model": "CX-5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2018,mx-5+miata,2.0l+l4,3441957", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2018, "model": "MX-5 MIATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2016,cx-5,2.0l+l4,3312787", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2016, "model": "CX-5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2019,6,2.5l+l4,3442247", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2019, "model": "6"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2019,cx-3,2.0l+l4,3442249", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2019, "model": "CX-3"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2015,3,2.5l+l4,3310314", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2015, "model": "3"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2016,cx-5,2.5l+l4,3312788", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2016, "model": "CX-5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2017,2,1.5l+l4,3435297", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2017, "model": "2"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2019,cx-5,2.2l+l4+diesel+turbocharged,3444941", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2019, "model": "CX-5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2017,cx-3,2.0l+l4,3435298", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2017, "model": "CX-3"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2017,mx-5+miata,2.0l+l4,3435301", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2017, "model": "MX-5 MIATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2018,cx-3,2.0l+l4,3441374", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2018, "model": "CX-3"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2015,2,1.5l+l4,3310312", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2015, "model": "2"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2019,3,2.0l+l4,3444112", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2019, "model": "3"}}}

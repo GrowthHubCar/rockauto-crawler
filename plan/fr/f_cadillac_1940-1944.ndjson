@@ -5,3 +5,15 @@
 {"node_type": "model", "href": "/en/catalog/cadillac,1942,series+62", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1942, "model": "SERIES 62"}}}
 {"node_type": "model", "href": "/en/catalog/cadillac,1940,series+60+special", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1940, "model": "SERIES 60 SPECIAL"}}}
 {"node_type": "model", "href": "/en/catalog/cadillac,1942,series+63", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1942, "model": "SERIES 63"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1940,series+72,5.7l+346cid+v8,123913", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1940, "model": "SERIES 72"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1941,series+61,5.7l+346cid+v8,123899", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1941, "model": "SERIES 61"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1941,series+75,5.7l+346cid+v8,123918", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1941, "model": "SERIES 75"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1942,series+67,5.7l+346cid+v8,1486193", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1942, "model": "SERIES 67"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1941,series+63,5.7l+346cid+v8,123906", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1941, "model": "SERIES 63"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1940,series+60+special,5.7l+346cid+v8,1485977", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1940, "model": "SERIES 60 SPECIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1941,series+67,5.7l+346cid+v8,123909", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1941, "model": "SERIES 67"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1941,series+60,5.7l+346cid+v8,1486070", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1941, "model": "SERIES 60"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1940,series+62,5.7l+346cid+v8,123902", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1940, "model": "SERIES 62"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1940,series+90,7.1l+431cid+v16,952962", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1940, "model": "SERIES 90"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1942,series+61,5.7l+346cid+v8,1486190", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1942, "model": "SERIES 61"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1941,series+62,5.7l+346cid+v8,123903", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1941, "model": "SERIES 62"}}}

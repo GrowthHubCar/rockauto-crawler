@@ -7,3 +7,4 @@
 {"node_type": "model", "href": "/en/catalog/riley,1952,1+1/2+litre", "payload": {"nodetype": "model", "ctx": {"make": "RILEY", "year": 1952, "model": "1 1/2 LITRE"}}}
 {"node_type": "model", "href": "/en/catalog/riley,1953,1+1/2+litre", "payload": {"nodetype": "model", "ctx": {"make": "RILEY", "year": 1953, "model": "1 1/2 LITRE"}}}
 {"node_type": "model", "href": "/en/catalog/riley,1954,1+1/2+litre", "payload": {"nodetype": "model", "ctx": {"make": "RILEY", "year": 1954, "model": "1 1/2 LITRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/riley,1954,pathfinder,2.4l+l4,1439524", "payload": {"nodetype": "carcode", "ctx": {"make": "RILEY", "year": 1954, "model": "PATHFINDER"}}}

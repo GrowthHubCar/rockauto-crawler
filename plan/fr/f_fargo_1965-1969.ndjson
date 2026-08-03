@@ -50,3 +50,22 @@
 {"node_type": "model", "href": "/en/catalog/fargo,1965,f100+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1965, "model": "F100 PANEL DELIVERY"}}}
 {"node_type": "model", "href": "/en/catalog/fargo,1966,d200+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1966, "model": "D200 PANEL DELIVERY"}}}
 {"node_type": "model", "href": "/en/catalog/fargo,1967,d200+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1967, "model": "D200 PANEL DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1967,d200+pickup,5.2l+318cid+v8,1493611", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1967, "model": "D200 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1969,a100+van,5.2l+318cid+v8,1495052", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1969, "model": "A100 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1967,w100+pickup,3.7l+225cid+l6,1493622", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1967, "model": "W100 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1969,w200+pickup,6.3l+383cid+v8,1495079", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1969, "model": "W200 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1969,d210+pickup,3.7l+225cid+l6,1495065", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1969, "model": "D210 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1969,d210+pickup,5.2l+318cid+v8,1495066", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1969, "model": "D210 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1967,w200+pickup,6.3l+383cid+v8,1493627", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1967, "model": "W200 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1967,a108+van,5.2l+318cid+v8,1493597", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1967, "model": "A108 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1968,a108+van,2.8l+170cid+l6,1494240", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1968, "model": "A108 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1965,fw100+panel+delivery,5.2l+318cid+v8,1492292", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1965, "model": "FW100 PANEL DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1965,p300+parcel+delivery,3.7l+225cid+l6,1492296", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1965, "model": "P300 PARCEL DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1969,p200+parcel+delivery,3.7l+225cid+l6,1495069", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1969, "model": "P200 PARCEL DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1966,w100+pickup,3.7l+225cid+l6,1492923", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1966, "model": "W100 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1965,fw100+pickup,3.7l+225cid+l6,1492293", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1965, "model": "FW100 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1969,w100+pickup,6.3l+383cid+v8,1495073", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1969, "model": "W100 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1969,d210+pickup,6.3l+383cid+v8,1495067", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1969, "model": "D210 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1965,a100+van,5.2l+318cid+v8,1492286", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1965, "model": "A100 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1969,d100+pickup,6.3l+383cid+v8,1495058", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1969, "model": "D100 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1969,a108+van,2.8l+170cid+l6,1495053", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1969, "model": "A108 VAN"}}}

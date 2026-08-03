@@ -1,1 +1,59 @@
 {"node_type": "model", "href": "/en/catalog/toyota,1983,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1983, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1983,corolla,1.6l+l4,1274745", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1983, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1980,celica,2.6l+l6,1278389", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1980, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1983,land+cruiser,4.2l+l6+diesel,1276477", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1983, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1982,land+cruiser,3.4l+l4+diesel,1360910", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1982, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1984,land+cruiser,3.4l+l4+diesel,1360820", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1984, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1984,van,2.0l+l4,1279694", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1984, "model": "VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1983,celica,2.4l+l4,1273845", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1983, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1982,celica,2.8l+l6,1278402", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1982, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1982,corona,2.4l+l4,1276051", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1982, "model": "CORONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1980,corolla,1.8l+l4,1274666", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1980, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1982,starlet,1.3l+l4,1278345", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1982, "model": "STARLET"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1983,pickup,2.2l+l4+diesel,1277209", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1983, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1984,pickup,2.4l+l4,1277243", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1984, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1983,cressida,2.8l+l6,1276118", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1983, "model": "CRESSIDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1982,cressida,2.8l+l6,1431717", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1982, "model": "CRESSIDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1981,cressida,2.8l+l6,1431718", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1981, "model": "CRESSIDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1981,land+cruiser,4.2l+l6+diesel,1276422", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1981, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1982,pickup,2.4l+l4,1277153", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1982, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1984,land+cruiser,4.2l+l6+diesel,1276501", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1984, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1982,tercel,1.5l+l4,1279122", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1982, "model": "TERCEL"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1981,pickup,2.2l+l4+diesel,1277131", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1981, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1982,corolla,1.8l+l4,1274701", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1982, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1983,camry,2.0l+l4,1272686", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1983, "model": "CAMRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1982,pickup,2.2l+l4+diesel,1277164", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1982, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1980,land+cruiser,4.2l+l6,1276400", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1980, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1981,pickup,2.4l+l4,1277142", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1981, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1984,starlet,1.3l+l4,1278367", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1984, "model": "STARLET"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1984,celica,2.8l+l6,1278424", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1984, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1981,tercel,1.5l+l4,1279087", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1981, "model": "TERCEL"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1984,cressida,2.8l+l6,1276129", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1984, "model": "CRESSIDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1984,pickup,2.4l+l4+diesel,1277265", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1984, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1981,land+cruiser,4.2l+l6,1276411", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1981, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1981,corolla,1.8l+l4,1274688", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1981, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1981,celica,2.8l+l6,1431719", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1981, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1982,land+cruiser,4.2l+l6,1276444", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1982, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1982,celica,2.4l+l4,1273823", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1982, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1984,tercel,1.5l+l4,1279199", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1984, "model": "TERCEL"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1981,starlet,1.3l+l4,1278334", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1981, "model": "STARLET"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1983,tercel,1.5l+l4,1279155", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1983, "model": "TERCEL"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1980,celica,2.2l+l4,1273799", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1980, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1984,4runner,2.4l+l4,1272125", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1984, "model": "4RUNNER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1982,land+cruiser,4.2l+l6+diesel,1276455", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1982, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1981,corona,2.4l+l4,1276028", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1981, "model": "CORONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1981,land+cruiser,3.4l+l4+diesel,1361001", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1981, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1984,corolla,1.6l+l4,1399103", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1984, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1980,corona,2.2l+l4,1276017", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1980, "model": "CORONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1984,celica,2.4l+l4,1273878", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1984, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1984,camry,1.8l+l4+diesel+turbocharged,1272709", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1984, "model": "CAMRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1983,celica,2.8l+l6,1278413", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1983, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1980,tercel,1.5l+l4,1279065", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1980, "model": "TERCEL"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1980,cressida,2.6l+l6,1276084", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1980, "model": "CRESSIDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1981,celica,2.4l+l4,1273801", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1981, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1984,camry,2.0l+l4,1272710", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1984, "model": "CAMRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1984,corolla,1.8l+l4+diesel,1274789", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1984, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1984,land+cruiser,4.2l+l6,1276499", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1984, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1983,starlet,1.3l+l4,1278356", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1983, "model": "STARLET"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1983,pickup,2.4l+l4,1277197", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1983, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1980,pickup,2.2l+l4,1277120", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1980, "model": "PICKUP"}}}

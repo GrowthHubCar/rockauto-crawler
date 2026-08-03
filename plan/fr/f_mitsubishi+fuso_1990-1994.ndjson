@@ -21,3 +21,4 @@
 {"node_type": "model", "href": "/en/catalog/mitsubishi+fuso,1991,fg", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI FUSO", "year": 1991, "model": "FG"}}}
 {"node_type": "model", "href": "/en/catalog/mitsubishi+fuso,1992,fg", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI FUSO", "year": 1992, "model": "FG"}}}
 {"node_type": "model", "href": "/en/catalog/mitsubishi+fuso,1993,fg", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI FUSO", "year": 1993, "model": "FG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi+fuso,1991,fe,3.3l+l4+diesel+turbocharged,3294623", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI FUSO", "year": 1991, "model": "FE"}}}

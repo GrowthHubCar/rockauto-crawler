@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1964,g1000+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1964, "model": "G1000 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1964,suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1964, "model": "SUBURBAN"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1964,pb1000+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1964, "model": "PB1000 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1964,3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1964, "model": "3500"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1964,b3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1964, "model": "B3500"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1964,2500+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1964, "model": "2500 SERIES"}}}

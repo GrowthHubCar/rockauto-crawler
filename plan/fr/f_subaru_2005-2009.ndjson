@@ -1,1 +1,29 @@
 {"node_type": "model", "href": "/en/catalog/subaru,2009,tribeca", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2009, "model": "TRIBECA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2005,impreza,2.0l+h4+turbocharged,1430730", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2005, "model": "IMPREZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2005,impreza,2.5l+h4,1430729", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2005, "model": "IMPREZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2005,baja,2.5l+h4+turbocharged,1430884", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2005, "model": "BAJA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2009,legacy,2.5l+h4+turbocharged,1443527", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2009, "model": "LEGACY"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2005,outback,2.5l+h4+turbocharged,1430735", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2005, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2005,forester,2.5l+h4+turbocharged,1430727", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2005, "model": "FORESTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2006,outback,2.5l+h4+turbocharged,1432595", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2006, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2005,legacy,2.5l+h4+turbocharged,1430733", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2005, "model": "LEGACY"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2005,outback,3.0l+h6,1430736", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2005, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2006,outback,3.0l+h6,1432603", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2006, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2009,forester,2.5l+h4+turbocharged,1442291", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2009, "model": "FORESTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2009,forester,2.5l+h4,1442290", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2009, "model": "FORESTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2005,baja,2.5l+h4,1430883", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2005, "model": "BAJA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2008,outback,3.0l+h6,1440458", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2008, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2008,tribeca,3.6l+h6,1440442", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2008, "model": "TRIBECA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2009,outback,3.0l+h6,1443531", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2009, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2009,outback,2.5l+h4+turbocharged,1443532", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2009, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2009,legacy,2.0l+h4,3029570", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2009, "model": "LEGACY"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2009,legacy,3.0l+h6,1443523", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2009, "model": "LEGACY"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2009,outback,2.5l+h4,1443529", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2009, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2009,impreza+r,2.0l+h4,3435506", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2009, "model": "IMPREZA R"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2009,impreza+sport,2.5l+h4,1445898", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2009, "model": "IMPREZA SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2005,impreza,2.5l+h4+turbocharged,1430731", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2005, "model": "IMPREZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2005,outback,2.5l+h4,1430734", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2005, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2009,impreza,2.5l+h4+turbocharged,1443521", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2009, "model": "IMPREZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2009,legacy,2.5l+h4,1443525", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2009, "model": "LEGACY"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2005,forester,2.5l+h4,1430723", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2005, "model": "FORESTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2009,impreza,2.5l+h4,1443519", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2009, "model": "IMPREZA"}}}

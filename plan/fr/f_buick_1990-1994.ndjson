@@ -4,3 +4,58 @@
 {"node_type": "model", "href": "/en/catalog/buick,1992,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1992, "model": "REGAL"}}}
 {"node_type": "model", "href": "/en/catalog/buick,1993,park+avenue", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1993, "model": "PARK AVENUE"}}}
 {"node_type": "model", "href": "/en/catalog/buick,1993,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1993, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1991,regal,3.1l+v6,1021138", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1991, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1990,lesabre,3.8l+231cid+v6,1019540", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1990, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1990,skylark,3.3l+204cid+v6,1024210", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1990, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1991,skylark,2.3l+l4,1024287", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1991, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1991,riviera,3.8l+v6,1021981", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1991, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1992,century,2.5l+l4,1015962", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1992, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1994,skylark,2.3l+l4,1024489", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1994, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1990,skylark,2.3l+138cid+l4,1024197", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1990, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1991,lesabre,3.8l+v6,1019573", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1991, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1992,park+avenue,3.8l+v6+supercharged,1019786", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1992, "model": "PARK AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1992,riviera,3.8l+v6,1021992", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1992, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1994,park+avenue,3.8l+v6+supercharged,1019821", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1994, "model": "PARK AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1994,regal,3.1l+v6,1021273", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1994, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1993,skylark,3.3l+v6,1024445", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1993, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1992,park+avenue,3.8l+v6,1019775", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1992, "model": "PARK AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1992,century,3.3l+v6,1015973", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1992, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1994,skylark,3.1l+v6,1024490", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1994, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1993,regal,3.8l+v6,1021239", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1993, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1990,skylark,2.5l+151cid+l4,1024186", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1990, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1990,century,3.3l+204cid+v6,1015872", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1990, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1992,century,3.1l+v6,3033884", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1992, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1993,riviera,3.8l+v6,1022005", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1993, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1990,regal,3.1l+189cid+v6,1021093", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1990, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1991,park+avenue,3.8l+v6+supercharged,1367030", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1991, "model": "PARK AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1993,regal,3.1l+v6,1021228", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1993, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1994,park+avenue,3.8l+v6,1019810", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1994, "model": "PARK AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1990,regal,3.8l+231cid+v6,1021105", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1990, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1990,century,2.5l+151cid+l4,1015861", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1990, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1990,riviera,3.8l+231cid+v6,1021970", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1990, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1991,skylark,3.3l+v6,1024300", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1991, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1993,skylark,2.3l+l4,1024434", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1993, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1992,skylark,2.3l+l4,1024401", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1992, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1990,lesabre,5.0l+307cid+v8,1019551", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1990, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1991,roadmaster,5.0l+v8,1022083", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1991, "model": "ROADMASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1990,electra,5.0l+307cid+v8,112", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1990, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1991,century,3.3l+v6,1015917", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1991, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1990,reatta,3.8l+231cid+v6,1019911", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1990, "model": "REATTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1993,century,3.3l+v6,1016031", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1993, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1991,regal,3.8l+v6,1021149", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1991, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1994,regal,3.8l+v6,1021284", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1994, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1992,lesabre,3.8l+v6,1019607", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1992, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1992,regal,3.8l+v6,1021183", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1992, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1994,lesabre,3.8l+v6,1019641", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1994, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1993,park+avenue,3.8l+v6+supercharged,1019809", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1993, "model": "PARK AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1992,skylark,3.3l+v6,1024412", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1992, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1993,roadmaster,5.7l+v8,1022128", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1993, "model": "ROADMASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1994,roadmaster,5.7l+v8,1022151", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1994, "model": "ROADMASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1994,century,3.1l+v6,1016097", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1994, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1993,century,2.2l+l4,1016020", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1993, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1990,electra,3.8l+231cid+v6,1017458", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1990, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1991,reatta,3.8l+v6,1019922", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1991, "model": "REATTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1991,century,3.1l+v6,3033883", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1991, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1992,roadmaster,5.7l+v8,1022094", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1992, "model": "ROADMASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1991,park+avenue,3.8l+v6,1019731", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1991, "model": "PARK AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1991,skylark,2.5l+l4,1024298", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1991, "model": "SKYLARK"}}}

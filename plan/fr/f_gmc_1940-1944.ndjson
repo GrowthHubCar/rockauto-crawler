@@ -38,3 +38,8 @@
 {"node_type": "model", "href": "/en/catalog/gmc,1943,ec100", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1943, "model": "EC100"}}}
 {"node_type": "model", "href": "/en/catalog/gmc,1944,ec100", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1944, "model": "EC100"}}}
 {"node_type": "model", "href": "/en/catalog/gmc,1944,a520", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1944, "model": "A520"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1941,af240,3.7l+228cid+l6,3371412", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1941, "model": "AF240"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1944,ccv100,3.7l+228cid+l6,1486374", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1944, "model": "CCV100"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1940,af240,3.7l+228cid+l6,3371411", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1940, "model": "AF240"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1941,ccx250,all+engines,2002450", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1941, "model": "CCX250"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1942,ec150,3.7l+228cid+l6,1486271", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1942, "model": "EC150"}}}

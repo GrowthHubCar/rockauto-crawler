@@ -3,3 +3,4 @@
 {"node_type": "model", "href": "/en/catalog/desoto,1946,s-11", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1946, "model": "S-11"}}}
 {"node_type": "model", "href": "/en/catalog/desoto,1948,s-11", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1948, "model": "S-11"}}}
 {"node_type": "model", "href": "/en/catalog/desoto,1949,s-13", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1949, "model": "S-13"}}}
+{"node_type": "carcode", "href": "/en/catalog/desoto,1947,s-11,3.9l+237cid+l6,1486599", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1947, "model": "S-11"}}}

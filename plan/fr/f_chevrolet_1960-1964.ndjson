@@ -56,3 +56,126 @@
 {"node_type": "model", "href": "/en/catalog/chevrolet,1960,c30+panel", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "C30 PANEL"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1960,c10+panel", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "C10 PANEL"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1961,c10+panel", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "C10 PANEL"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,corvair,2.3l+140cid+h6,1489913", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "CORVAIR"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,medium+duty+truck,7.8l+478cid+v6,3438836", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,medium+duty+truck,4.3l+261cid+l6,3438710", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,kingswood,3.8l+235cid+l6,1489503", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "KINGSWOOD"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,p20+series,4.6l+283cid+v8,1325573", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "P20 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,chevy+ii,2.5l+153cid+l4,1323683", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "CHEVY II"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,suburban,5.7l+348cid+v8,1325225", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,k20+pickup,4.3l+261cid+l6,347", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "K20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,impala,3.8l+235cid+l6,1324921", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,bel+air,3.8l+230cid+l6,1324202", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "BEL AIR"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,medium+duty+truck,5.7l+348cid+v8,3438811", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,k10+pickup,4.6l+283cid+v8,1323896", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "K10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,k20+pickup,4.6l+283cid+v8,1324527", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "K20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,p30+series,5.7l+348cid+v8,1324134", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "P30 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,p20+series,4.8l+292cid+l6,1324088", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "P20 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,k10+suburban,4.6l+283cid+v8,1491679", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "K10 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,medium+duty+truck,3.8l+235cid+l6,3438716", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,biscayne,5.7l+348cid+v8,1325315", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "BISCAYNE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,k10+pickup,5.3l+327cid+v8,1324998", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "K10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,malibu,4.6l+283cid+v8,1323997", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,c30+pickup,4.6l+283cid+v8,1325393", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "C30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,k20+pickup,3.8l+230cid+l6,1323919", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "K20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,p10+series,3.8l+230cid+l6,1324066", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "P10 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,p20+series,6.7l+409cid+v8,1324101", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "P20 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,suburban,4.8l+292cid+l6,1324167", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,corvette,4.6l+283cid+v8,1325449", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "CORVETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,p30+series,5.7l+348cid+v8,1325179", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "P30 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,k10+pickup,4.6l+283cid+v8,1324987", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "K10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,k20+pickup,4.3l+261cid+l6,1325539", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "K20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,k20+pickup,4.3l+261cid+l6,1325012", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "K20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,k10+pickup,3.8l+235cid+l6,1324965", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "K10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,suburban,3.8l+235cid+l6,1325203", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,suburban,4.3l+261cid+l6,2741", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,medium+duty+truck,7.8l+478cid+v6+diesel,3438945", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,medium+duty+truck,5.0l+305cid+v6,3438821", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,impala,3.8l+230cid+l6,1324471", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,k20+pickup,6.7l+409cid+v8,1325045", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "K20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,c30+pickup,6.7l+409cid+v8,1324820", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "C30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,impala,3.8l+230cid+l6,1323830", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,k20+suburban,5.3l+327cid+v8,1491079", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "K20 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,p20+series,4.3l+261cid+l6,1489935", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "P20 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,g10,2.5l+153cid+l4,1323818", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "G10"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,k10+pickup,5.3l+327cid+v8,1323908", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "K10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,medium+duty+truck,6.7l+409cid+v8,3438944", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,corvette,5.3l+327cid+v8,1323762", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "CORVETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,suburban,4.6l+283cid+v8,1489515", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,k20+suburban,4.6l+283cid+v8,1491077", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "K20 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,p30+series,3.8l+235cid+l6,1490480", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "P30 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,medium+duty+truck,5.7l+348cid+v8,3438829", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,p20+series,6.7l+409cid+v8,1325146", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "P20 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,bel+air,7.0l+427cid+v8,1434966", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "BEL AIR"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,corvair,2.4l+145cid+h6+turbocharged,1324886", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "CORVAIR"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,k10+pickup,4.3l+261cid+l6,1324976", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "K10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,impala,4.6l+283cid+v8,1325461", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,p20+series,5.7l+348cid+v8,1324099", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "P20 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,k10+suburban,5.7l+348cid+v8,1489496", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "K10 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,parkwood,4.6l+283cid+v8,1489513", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "PARKWOOD"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,medium+duty+truck,7.8l+478cid+v6,3438823", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,medium+duty+truck,5.7l+348cid+v8,3438835", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,medium+duty+truck,4.8l+292cid+l6,3438723", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,k20+pickup,3.8l+235cid+l6,1325001", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "K20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,p30+series,3.8l+230cid+l6,1324594", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "P30 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,el+camino,5.7l+348cid+v8,1422469", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "EL CAMINO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,impala,6.7l+409cid+v8,1323852", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,k10+pickup,6.7l+409cid+v8,1491063", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "K10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,suburban,6.7l+409cid+v8,1325236", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,k10+suburban,3.8l+235cid+l6,1490465", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "K10 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,impala,4.6l+283cid+v8,1323841", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,medium+duty+truck,7.8l+478cid+v6+diesel,3438942", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,p10+series,3.8l+230cid+l6,1324572", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "P10 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,suburban,3.8l+235cid+l6,1325629", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,suburban,6.7l+409cid+v8,1491091", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,chevelle,3.8l+230cid+l6,1323650", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "CHEVELLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,suburban,5.3l+327cid+v8,1325247", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,c20+pickup,4.6l+283cid+v8,1324358", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "C20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,suburban,3.8l+230cid+l6,1324156", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,p20+series,5.7l+348cid+v8,1325584", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "P20 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,suburban,4.6l+283cid+v8,1324178", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,corvair,2.4l+145cid+h6,1325416", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "CORVAIR"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,medium+duty+truck,7.8l+478cid+v6+diesel,3438948", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,c30+pickup,4.8l+292cid+l6,1324369", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "C30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,p30+series,4.8l+292cid+l6,1324123", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "P30 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,suburban,5.3l+327cid+v8,2743", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,corvair+truck,2.4l+145cid+h6,1489914", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "CORVAIR TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,k20+pickup,5.7l+348cid+v8,1325551", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "K20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,c30+pickup,4.3l+261cid+l6,1489909", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "C30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,suburban,4.6l+283cid+v8,1325214", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,k20+pickup,4.6l+283cid+v8,1323931", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "K20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,suburban,5.7l+348cid+v8,1324189", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,chevy+ii,3.2l+194cid+l6,1323694", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "CHEVY II"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,p20+series,3.8l+230cid+l6,1324077", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "P20 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,c30+pickup,5.7l+348cid+v8,1325405", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "C30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,suburban,4.3l+261cid+l6,2739", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,parkwood,6.7l+409cid+v8,1489940", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "PARKWOOD"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,medium+duty+truck,5.4l+327cid+v8,3438719", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,k10+pickup,4.8l+292cid+l6,1323885", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "K10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,corvette,4.6l+283cid+v8,1325742", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "CORVETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,suburban,6.7l+409cid+v8,1324190", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,impala,3.8l+235cid+l6,1434986", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,chevelle,5.3l+327cid+v8,1323672", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "CHEVELLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,k20+suburban,4.6l+283cid+v8,1489501", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "K20 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,biscayne,4.6l+283cid+v8,1324257", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "BISCAYNE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,medium+duty+truck,5.4l+327cid+v8,3438715", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,k20+pickup,5.7l+348cid+v8,1489499", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "K20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,c30+pickup,3.8l+235cid+l6,1324796", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "C30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,suburban,4.6l+283cid+v8,1325630", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,p20+series,3.8l+235cid+l6,1325562", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "P20 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,corvair,2.3l+140cid+h6,1325720", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "CORVAIR"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,impala,5.3l+327cid+v8,1323863", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,c30+pickup,4.6l+283cid+v8,1324808", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "C30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,c10+pickup,4.6l+283cid+v8,1489473", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "C10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,impala,6.7l+409cid+v8,1325483", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,impala,5.7l+348cid+v8,1325472", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "IMPALA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,suburban,5.7l+348cid+v8,1489516", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,c20+pickup,5.3l+327cid+v8,1324785", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "C20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,medium+duty+truck,5.4l+327cid+v8,3438724", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,p30+series,6.7l+409cid+v8,1324145", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "P30 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,corvette,5.3l+327cid+v8,1324460", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "CORVETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1961,suburban,5.7l+348cid+v8,1325641", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,parkwood,5.7l+348cid+v8,1489514", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "PARKWOOD"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,k10+suburban,4.3l+261cid+l6,1490466", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "K10 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,k20+suburban,5.7l+348cid+v8,1491080", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "K20 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,k20+pickup,4.8l+292cid+l6,1323920", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "K20 PICKUP"}}}

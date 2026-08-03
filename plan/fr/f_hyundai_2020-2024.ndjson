@@ -18,3 +18,122 @@
 {"node_type": "model", "href": "/en/catalog/hyundai,2022,creta+grand", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "CRETA GRAND"}}}
 {"node_type": "model", "href": "/en/catalog/hyundai,2023,creta+grand", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "CRETA GRAND"}}}
 {"node_type": "model", "href": "/en/catalog/hyundai,2024,creta+grand", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "CRETA GRAND"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,kona,electric,3446639", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "KONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,venue,1.6l+l4,3445552", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "VENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,santa+fe,2.4l+l4,3444848", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,starex,2.4l+l4,3446287", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "STAREX"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,santa+fe,2.5l+l4,3449987", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,ioniq+5,electric,3454383", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "IONIQ 5"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,ioniq+6,electric,3454384", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "IONIQ 6"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,sonata,2.0l+l4+electric/gas,3455298", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,ioniq+5,electric,3450710", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "IONIQ 5"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,sonata,2.5l+l4,3455299", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,kona,2.0l+l4+turbocharged,3451434", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "KONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,venue,1.6l+l4,3452777", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "VENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,elantra,1.6l+l4+turbocharged,3444840", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,ioniq,electric,3445246", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "IONIQ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,kona,2.0l+l4,3451122", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "KONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,santa+cruz,2.5l+l4,3454388", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "SANTA CRUZ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,kona,electric,3445248", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "KONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,grand+i10,1.2l+l4,3447013", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "GRAND I10"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,santa+cruz,2.5l+l4,3449983", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "SANTA CRUZ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,elantra,1.6l+l4+turbocharged,3455296", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,sonata,1.6l+l4+turbocharged,3452773", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,elantra,1.6l+l4+turbocharged,3451118", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,elantra,2.0l+l4+turbocharged,3452018", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,kona,1.6l+l4+turbocharged,3455093", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "KONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,elantra,1.4l+l4+turbocharged,3445244", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,ioniq+5,electric,3451120", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "IONIQ 5"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,elantra,2.0l+l4+turbocharged,3452017", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,venue,1.6l+l4,3455097", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "VENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,kona,2.0l+l4,3455094", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "KONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,elantra,1.6l+l4+electric/gas,3455295", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,elantra,2.0l+l4,3455297", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,sonata,2.5l+l4+turbocharged,3448971", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,elantra,2.0l+l4,3444839", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,accent,1.6l+l4,3450703", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,elantra,2.0l+l4,3451119", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,kona,2.0l+l4+turbocharged,3451124", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "KONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,santa+fe,2.5l+l4+turbocharged,3455593", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,ioniq,1.6l+l4+electric/gas,3448966", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "IONIQ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,tucson,2.4l+l4,3445250", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,tucson,2.5l+l4,3454390", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,santa+fe,1.6l+l4+electric/gas+turbocharged,3449985", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,santa+fe,1.6l+l4+electric/gas+turbocharged,3455818", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,kona,2.0l+l4,3446638", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "KONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,santa+fe,2.5l+l4+turbocharged,3451129", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,santa+cruz,2.5l+l4+turbocharged,3449982", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "SANTA CRUZ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,tucson,2.5l+l4,3448973", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,santa+fe,1.6l+l4+electric/gas+turbocharged,3451128", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,palisade,3.8l+v6,3452030", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "PALISADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,veloster,2.0l+l4,3444852", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "VELOSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,veloster+n,2.0l+l4+turbocharged,3449992", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "VELOSTER N"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,kona,1.6l+l4+turbocharged,3446637", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "KONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,tucson,2.5l+l4,3451132", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,palisade,3.8l+v6,3444846", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "PALISADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,creta,1.4l+l4+turbocharged,3453626", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "CRETA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,veloster+n,2.0l+l4+turbocharged,3444853", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "VELOSTER N"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,santa+cruz,2.5l+l4+turbocharged,3451127", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "SANTA CRUZ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,ioniq+6,electric,3454828", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "IONIQ 6"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,sonata,2.0l+l4+electric/gas,3446644", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,sonata,2.5l+l4+turbocharged,3455096", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,santa+cruz,2.5l+l4+turbocharged,3454387", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "SANTA CRUZ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,veloster,1.6l+l4+turbocharged,3444851", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "VELOSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,tucson,1.6l+l4+electric/gas+turbocharged,3451131", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,ioniq,1.6l+l4+electric/gas,3445247", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "IONIQ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,elantra+gt,2.0l+l4,3449614", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "ELANTRA GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,sonata,2.5l+l4,3449991", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,kona,electric,3454385", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "KONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,sonata,2.5l+l4,3452775", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,santa+fe,2.0l+l4+turbocharged,3444847", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,grand+i10,1.2l+l4,3445245", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "GRAND I10"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,palisade,3.8l+v6,3446640", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "PALISADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,tucson,2.4l+l4,3447017", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,santa+fe,2.5l+l4,3451130", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,palisade,3.8l+v6,3449981", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "PALISADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,kona,1.6l+l4+turbocharged,3449979", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "KONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,sonata,2.5l+l4+turbocharged,3449990", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,ioniq,1.6l+l4+electric/gas,3450709", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "IONIQ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,sonata,2.0l+l4+electric/gas,3446286", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,creta,1.4l+l4+turbocharged,3447388", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "CRETA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,tucson,2.0l+l4,3447016", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,santa+fe,2.5l+l4+turbocharged,3448970", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,elantra+gt,1.6l+l4+turbocharged,3449615", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "ELANTRA GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,elantra,1.6l+l4+electric/gas,3447390", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,elantra,1.6l+l4+turbocharged,3450707", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,veloster,1.6l+l4+turbocharged,3446288", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "VELOSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,sonata,1.6l+l4+turbocharged,3446643", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,elantra,1.6l+l4+turbocharged,3447391", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,grand+i10,1.2l+l4,3452772", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "GRAND I10"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,venue,1.6l+l4,3450711", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "VENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,ioniq,electric,3448965", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "IONIQ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,accent,1.6l+l4,3444838", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,palisade,3.8l+v6,3454386", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "PALISADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,accent,1.6l+l4,3446919", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,kona,2.0l+l4,3444844", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "KONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,tucson,1.6l+l4+electric/gas+turbocharged,3454389", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,hb20,1.6l+l4,3454381", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "HB20"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,kona,electric,3448967", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "KONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,sonata,1.6l+l4+turbocharged,3449988", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,elantra,2.0l+l4+turbocharged,3454827", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,sonata,2.5l+l4,3446645", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,creta,1.6l+l4,3445665", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "CRETA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,sonata,2.0l+l4+electric/gas,3449989", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,kona,2.0l+l4,3449980", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "KONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,grand+i10,1.2l+l4,3455088", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "GRAND I10"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,sonata,2.5l+l4,3445551", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,elantra,2.0l+l4,3449976", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,sonata,2.5l+l4+turbocharged,3452776", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,sonata,1.6l+l4+turbocharged,3445550", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,tucson,2.0l+l4,3445249", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,santa+cruz,2.5l+l4,3451126", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "SANTA CRUZ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,elantra,1.6l+l4+electric/gas,3451117", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,kona,electric,3451123", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "KONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,creta,1.5l+l4,3455087", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "CRETA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,nexo,electric,3454123", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "NEXO"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,elantra,1.6l+l4+electric/gas,3450706", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,nexo,electric,3454120", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "NEXO"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,tucson,1.6l+l4+electric/gas+turbocharged,3448972", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,veloster,2.0l+l4,3446646", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "VELOSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,h350,2.5l+l4+diesel+turbocharged,3457911", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "H350"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,kona,1.6l+l4+turbocharged,3451121", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "KONA"}}}

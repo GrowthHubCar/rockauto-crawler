@@ -4,3 +4,97 @@
 {"node_type": "model", "href": "/en/catalog/gmc,2023,sierra+1500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2023, "model": "SIERRA 1500"}}}
 {"node_type": "model", "href": "/en/catalog/gmc,2024,canyon", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2024, "model": "CANYON"}}}
 {"node_type": "model", "href": "/en/catalog/gmc,2024,acadia", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2024, "model": "ACADIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,yukon+xl,5.3l+v8,3446095", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "YUKON XL"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2024,savana+2500,6.6l+v8,3455071", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2024, "model": "SAVANA 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2023,savana+3500,6.6l+v8,3451932", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2023, "model": "SAVANA 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2023,hummer+ev+pickup,electric,3454354", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2023, "model": "HUMMER EV PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2020,acadia,2.0l+l4+turbocharged,3444796", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2020, "model": "ACADIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2024,yukon+xl,3.0l+l6+diesel+turbocharged,3455079", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2024, "model": "YUKON XL"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,sierra+1500,2.7l+l4+turbocharged,3450683", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "SIERRA 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2024,savana+2500,4.3l+v6,3455070", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2024, "model": "SAVANA 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,savana+2500,2.8l+l4+diesel+turbocharged,3447377", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "SAVANA 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,yukon,6.2l+v8,3450693", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "YUKON"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,sierra+1500,6.2l+v8,3450686", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "SIERRA 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,sierra+1500,6.2l+v8,3446625", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "SIERRA 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2024,yukon,3.0l+l6+diesel+turbocharged,3455076", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2024, "model": "YUKON"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,terrain,1.5l+l4+turbocharged,3449953", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "TERRAIN"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2020,sierra+2500,6.6l+v8,3444811", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2020, "model": "SIERRA 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2023,sierra+3500,6.6l+v8,3451950", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2023, "model": "SIERRA 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,sierra+1500,5.3l+v8,3450685", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "SIERRA 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2023,savana+3500,4.3l+v6,3454114", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2023, "model": "SAVANA 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2020,acadia,2.5l+l4,3444797", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2020, "model": "ACADIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,yukon+xl,6.2l+v8,3446096", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "YUKON XL"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,savana+3500,4.3l+v6,3450680", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "SAVANA 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,yukon,3.0l+l6+diesel+turbocharged,3450691", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "YUKON"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,sierra+3500,6.6l+v8,3449951", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "SIERRA 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,terrain,1.5l+l4+turbocharged,3446630", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "TERRAIN"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2020,savana+3500,2.8l+l4+diesel+turbocharged,3445223", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2020, "model": "SAVANA 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2023,sierra+2500,6.6l+v8+diesel+turbocharged,3451949", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2023, "model": "SIERRA 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,sierra+1500+limited,2.7l+l4+turbocharged,3451107", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "SIERRA 1500 LIMITED"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2020,sierra+1500,3.0l+l6+diesel+turbocharged,3445652", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2020, "model": "SIERRA 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2023,terrain,1.5l+l4+turbocharged,3451111", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2023, "model": "TERRAIN"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2023,yukon+xl,5.3l+v8,3451430", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2023, "model": "YUKON XL"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2024,yukon+xl,5.3l+v8,3455080", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2024, "model": "YUKON XL"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2020,sierra+2500,6.6l+v8+diesel+turbocharged,3444812", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2020, "model": "SIERRA 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,sierra+2500,6.6l+v8,3447382", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "SIERRA 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,canyon,2.5l+l4,3446083", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "CANYON"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,sierra+1500+limited,5.3l+v8,3451109", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "SIERRA 1500 LIMITED"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2023,savana+4500,6.6l+v8,3454357", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2023, "model": "SAVANA 4500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2024,sierra+3500,6.6l+v8+diesel+turbocharged,3455075", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2024, "model": "SIERRA 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2020,sierra+3500,6.6l+v8,3444813", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2020, "model": "SIERRA 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2023,sierra+1500,2.7l+l4+turbocharged,3451944", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2023, "model": "SIERRA 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,yukon+xl,3.0l+l6+diesel+turbocharged,3447162", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "YUKON XL"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2020,yukon+xl,6.2l+v8,3444831", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2020, "model": "YUKON XL"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,sierra+2500,6.6l+v8+diesel+turbocharged,3449950", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "SIERRA 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2024,yukon+xl,6.2l+v8,3455081", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2024, "model": "YUKON XL"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2020,terrain,1.5l+l4+turbocharged,3444815", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2020, "model": "TERRAIN"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2020,sierra+1500,6.2l+v8,3444810", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2020, "model": "SIERRA 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,canyon,2.5l+l4,3449938", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "CANYON"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,savana+3500,6.6l+v8,3450681", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "SAVANA 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2023,yukon+xl,6.2l+v8,3451431", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2023, "model": "YUKON XL"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,savana+4500,6.6l+v8,3451933", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "SAVANA 4500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,yukon,5.3l+v8,3446093", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "YUKON"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,savana+3500,2.8l+l4+diesel+turbocharged,3450679", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "SAVANA 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,sierra+3500,6.6l+v8+diesel+turbocharged,3449952", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "SIERRA 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,yukon,6.2l+v8,3446094", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "YUKON"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,sierra+1500,2.7l+l4+turbocharged,3446622", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "SIERRA 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,yukon,3.0l+l6+diesel+turbocharged,3447161", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "YUKON"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,savana+2500,6.6l+v8,3450678", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "SAVANA 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2020,terrain,2.0l+l4+turbocharged,3444816", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2020, "model": "TERRAIN"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2023,yukon+xl,3.0l+l6+diesel+turbocharged,3451429", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2023, "model": "YUKON XL"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2024,sierra+2500,6.6l+v8+diesel+turbocharged,3454365", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2024, "model": "SIERRA 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2024,yukon,5.3l+v8,3455077", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2024, "model": "YUKON"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2020,yukon,5.3l+v8,3444828", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2020, "model": "YUKON"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,sierra+1500,5.3l+v8,3446624", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "SIERRA 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,sierra+1500+limited,6.2l+v8,3451110", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "SIERRA 1500 LIMITED"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2023,sierra+2500,6.6l+v8,3451948", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2023, "model": "SIERRA 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2023,yukon,3.0l+l6+diesel+turbocharged,3451426", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2023, "model": "YUKON"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2020,yukon+xl,5.3l+v8,3444830", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2020, "model": "YUKON XL"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2024,yukon,6.2l+v8,3455078", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2024, "model": "YUKON"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2024,sierra+2500,6.6l+v8,3454364", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2024, "model": "SIERRA 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2023,yukon,6.2l+v8,3451428", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2023, "model": "YUKON"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,sierra+3500,6.6l+v8,3447384", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "SIERRA 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2023,savana+2500,6.6l+v8,3451930", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2023, "model": "SAVANA 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,yukon,5.3l+v8,3450692", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "YUKON"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,sierra+2500,6.6l+v8+diesel+turbocharged,3447383", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "SIERRA 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2024,savana+3500,4.3l+v6,3455072", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2024, "model": "SAVANA 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2023,yukon,5.3l+v8,3451427", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2023, "model": "YUKON"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,sierra+2500,6.6l+v8,3449949", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "SIERRA 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,canyon,2.8l+l4+diesel+turbocharged,3446082", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "CANYON"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2023,sierra+1500,5.3l+v8,3451945", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2023, "model": "SIERRA 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2023,sierra+3500,6.6l+v8+diesel+turbocharged,3451951", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2023, "model": "SIERRA 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2024,sierra+ev,electric,3455812", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2024, "model": "SIERRA EV"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2024,hummer+ev+pickup,electric,3454355", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2024, "model": "HUMMER EV PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2020,sierra+3500,6.6l+v8+diesel+turbocharged,3444814", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2020, "model": "SIERRA 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2024,savana+4500,6.6l+v8,3455569", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2024, "model": "SAVANA 4500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,savana+2500,6.6l+v8,3447378", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "SAVANA 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,yukon+xl,3.0l+l6+diesel+turbocharged,3450694", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "YUKON XL"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2024,terrain,1.5l+l4+turbocharged,3454366", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2024, "model": "TERRAIN"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,sierra+1500+limited,3.0l+l6+diesel+turbocharged,3451108", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "SIERRA 1500 LIMITED"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,sierra+1500,3.0l+l6+diesel+turbocharged,3446623", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "SIERRA 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2020,yukon,6.2l+v8,3444829", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2020, "model": "YUKON"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,yukon+xl,5.3l+v8,3450695", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "YUKON XL"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,sierra+1500,3.0l+l6+diesel+turbocharged,3450684", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "SIERRA 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,savana+2500,4.3l+v6,3447376", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "SAVANA 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2022,yukon+xl,6.2l+v8,3450696", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2022, "model": "YUKON XL"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2021,sierra+3500,6.6l+v8+diesel+turbocharged,3447385", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "SIERRA 3500"}}}

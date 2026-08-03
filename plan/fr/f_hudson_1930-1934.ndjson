@@ -11,3 +11,4 @@
 {"node_type": "model", "href": "/en/catalog/hudson,1933,pacemaker+major", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1933, "model": "PACEMAKER MAJOR"}}}
 {"node_type": "model", "href": "/en/catalog/hudson,1934,series+lts+challenger", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1934, "model": "SERIES LTS CHALLENGER"}}}
 {"node_type": "model", "href": "/en/catalog/hudson,1934,series+ll/llu+major", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1934, "model": "SERIES LL/LLU MAJOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/hudson,1932,series+u,254cid+l8,952509", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1932, "model": "SERIES U"}}}

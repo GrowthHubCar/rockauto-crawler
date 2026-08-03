@@ -17,3 +17,66 @@
 {"node_type": "model", "href": "/en/catalog/ram,2020,promaster+1500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2020, "model": "PROMASTER 1500"}}}
 {"node_type": "model", "href": "/en/catalog/ram,2024,promaster+1500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2024, "model": "PROMASTER 1500"}}}
 {"node_type": "model", "href": "/en/catalog/ram,2020,1500+classic", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2020, "model": "1500 CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2024,4000,5.7l+v8,3455160", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2024, "model": "4000"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2023,promaster+2500,3.6l+v6,3454194", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2023, "model": "PROMASTER 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2024,promaster+rapid,1.4l+l4,3455166", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2024, "model": "PROMASTER RAPID"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2022,5500,6.7l+l6+diesel+turbocharged,3451272", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2022, "model": "5500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2021,promaster+3500,3.6l+v6,3446823", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2021, "model": "PROMASTER 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2024,promaster+ev,electric,3455857", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2024, "model": "PROMASTER EV"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2021,4000,6.4l+v8,3450927", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2021, "model": "4000"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2020,promaster+2500,3.6l+v6,3445352", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2020, "model": "PROMASTER 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2021,2500,6.4l+v8,3447105", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2021, "model": "2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2024,promaster+3500,3.6l+v6,3455165", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2024, "model": "PROMASTER 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2023,promaster+1500,3.6l+v6,3454193", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2023, "model": "PROMASTER 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2022,promaster+2500,3.6l+v6,3451275", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2022, "model": "PROMASTER 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2023,3500,6.4l+v8,3453746", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2023, "model": "3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2023,5500,6.4l+v8,3454559", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2023, "model": "5500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2021,1500,6.2l+v8+supercharged,3447035", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2021, "model": "1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2024,5500,6.4l+v8,3455162", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2024, "model": "5500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2021,promaster+1500,3.6l+v6,3446821", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2021, "model": "PROMASTER 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2021,promaster+2500,3.6l+v6,3446822", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2021, "model": "PROMASTER 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2020,4500,6.4l+v8,3446406", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2020, "model": "4500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2023,4500,6.7l+l6+diesel+turbocharged,3454556", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2023, "model": "4500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2021,3500,6.7l+l6+diesel+turbocharged,3447106", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2021, "model": "3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2021,1500,3.6l+v6+electric/gas,3446816", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2021, "model": "1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2022,5500,6.4l+v8,3451273", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2022, "model": "5500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2021,3500,6.4l+v8,3447107", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2021, "model": "3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2022,promaster+city,2.4l+l4,3450931", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2022, "model": "PROMASTER CITY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2022,4500,6.7l+l6+diesel+turbocharged,3451271", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2022, "model": "4500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2024,promaster+2500,3.6l+v6,3455164", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2024, "model": "PROMASTER 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2024,5500,6.7l+l6+diesel+turbocharged,3455430", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2024, "model": "5500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2024,2500,6.7l+l6+diesel+turbocharged,3455156", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2024, "model": "2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2020,promaster+3500,3.6l+v6,3445353", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2020, "model": "PROMASTER 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2020,5500,6.4l+v8,3446168", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2020, "model": "5500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2024,4000,6.4l+v8,3455161", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2024, "model": "4000"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2021,5500,6.4l+v8,3450281", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2021, "model": "5500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2024,3500,6.7l+l6+diesel+turbocharged,3455158", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2024, "model": "3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2020,1500+classic,3.6l+v6,3446160", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2020, "model": "1500 CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2021,promaster+rapid,1.4l+l4,3450282", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2021, "model": "PROMASTER RAPID"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2022,3500,6.7l+l6+diesel+turbocharged,3450925", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2022, "model": "3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2021,1500+classic,3.6l+v6,3449359", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2021, "model": "1500 CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2021,1500,5.7l+v8,3446813", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2021, "model": "1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2023,2500,6.4l+v8,3453744", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2023, "model": "2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2023,5500,6.7l+l6+diesel+turbocharged,3454558", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2023, "model": "5500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2020,4500,6.7l+l6+diesel+turbocharged,3446165", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2020, "model": "4500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2021,promaster+city,2.4l+l4,3446824", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2021, "model": "PROMASTER CITY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2023,3500,6.7l+l6+diesel+turbocharged,3453745", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2023, "model": "3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2022,promaster+rapid,1.4l+l4,3452512", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2022, "model": "PROMASTER RAPID"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2020,3500,6.7l+l6+diesel+turbocharged,3445348", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2020, "model": "3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2023,2500,6.7l+l6+diesel+turbocharged,3453743", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2023, "model": "2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2023,promaster+rapid,1.4l+l4,3454561", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2023, "model": "PROMASTER RAPID"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2020,promaster+city,2.4l+l4,3445354", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2020, "model": "PROMASTER CITY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2020,promaster+rapid,1.4l+l4,3445483", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2020, "model": "PROMASTER RAPID"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2023,1500+classic,5.7l+v8,3452853", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2023, "model": "1500 CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2022,promaster+3500,3.6l+v6,3451276", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2022, "model": "PROMASTER 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2023,700,1.3l+l4,3454560", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2023, "model": "700"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2022,1500,5.7l+v8,3450273", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2022, "model": "1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2022,2500,6.7l+l6+diesel+turbocharged,3450923", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2022, "model": "2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2023,promaster+3500,3.6l+v6,3454195", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2023, "model": "PROMASTER 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2022,promaster+1500,3.6l+v6,3451274", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2022, "model": "PROMASTER 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2021,1500+classic,5.7l+v8,3449358", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2021, "model": "1500 CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2021,5500,6.7l+l6+diesel+turbocharged,3450280", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2021, "model": "5500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2021,1500,3.0l+v6+diesel+turbocharged,3446815", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2021, "model": "1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2020,4000,5.7l+v8,3446161", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2020, "model": "4000"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2024,4500,6.4l+v8,3455429", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2024, "model": "4500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2021,2500,6.7l+l6+diesel+turbocharged,3447104", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2021, "model": "2500"}}}

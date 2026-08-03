@@ -28,3 +28,33 @@
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1992,custom+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1992, "model": "CUSTOM CRUISER"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1990,cutlass+calais", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1990, "model": "CUTLASS CALAIS"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1991,cutlass+calais", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1991, "model": "CUTLASS CALAIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1994,silhouette,3.8l+v6,1225280", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1994, "model": "SILHOUETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1993,silhouette,3.1l+v6,1225257", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1993, "model": "SILHOUETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1991,silhouette,3.1l+v6,1225224", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1991, "model": "SILHOUETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1990,cutlass+calais,3.3l+204cid+v6,1219508", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1990, "model": "CUTLASS CALAIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1992,achieva,2.3l+l4+sohc,1216549", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1992, "model": "ACHIEVA"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1991,cutlass+ciera,3.3l+v6,1220937", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1991, "model": "CUTLASS CIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1990,cutlass+cruiser,2.5l+151cid+l4,1220858", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1990, "model": "CUTLASS CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1992,achieva,2.3l+l4+dohc,1216561", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1992, "model": "ACHIEVA"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1994,bravada,4.3l+v6,1217023", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1994, "model": "BRAVADA"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1992,silhouette,3.8l+v6,1225246", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1992, "model": "SILHOUETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1992,cutlass+ciera,2.5l+l4,1221006", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1992, "model": "CUTLASS CIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1994,cutlass+ciera,3.1l+v6,1221129", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1994, "model": "CUTLASS CIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1990,cutlass+ciera,3.3l+204cid+v6,1220847", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1990, "model": "CUTLASS CIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1994,silhouette,3.1l+v6,1225279", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1994, "model": "SILHOUETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1991,toronado,3.8l+v6,1226113", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1991, "model": "TORONADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1992,cutlass+supreme,3.4l+v6,1223255", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1992, "model": "CUTLASS SUPREME"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1991,delta+88,3.8l+v6,1215357", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1991, "model": "DELTA 88"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1990,silhouette,3.1l+189cid+v6,1225213", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1990, "model": "SILHOUETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1990,cutlass+supreme,2.3l+138cid+l4,1223110", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1990, "model": "CUTLASS SUPREME"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1990,cutlass+supreme,3.1l+189cid+v6,1223121", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1990, "model": "CUTLASS SUPREME"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1990,toronado,3.8l+231cid+v6,1226090", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1990, "model": "TORONADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1990,98,3.8l+231cid+v6,1216347", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1990, "model": "98"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1994,cutlass+supreme,3.4l+v6,1223367", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1994, "model": "CUTLASS SUPREME"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1994,cutlass+cruiser,3.1l+v6,2002798", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1994, "model": "CUTLASS CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1994,cutlass+supreme,3.1l+v6,1223356", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1994, "model": "CUTLASS SUPREME"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1992,cutlass+supreme,3.1l+v6,1223233", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1992, "model": "CUTLASS SUPREME"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1994,achieva,2.3l+l4+sohc,1216729", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1994, "model": "ACHIEVA"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1990,custom+cruiser,5.0l+307cid+v8,1421648", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1990, "model": "CUSTOM CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1992,achieva,3.3l+v6,1216572", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1992, "model": "ACHIEVA"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1990,cutlass+cruiser,3.3l+204cid+v6,1220869", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1990, "model": "CUTLASS CRUISER"}}}

@@ -1,1 +1,10 @@
 {"node_type": "model", "href": "/en/catalog/aston+martin,1984,lagonda", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1984, "model": "LAGONDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1981,v-8,5.3l+v8,1390610", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1981, "model": "V-8"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1984,v-8,5.3l+v8,1390733", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1984, "model": "V-8"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1982,v-8,5.3l+v8,1390654", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1982, "model": "V-8"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1983,v-8,5.3l+v8,1390698", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1983, "model": "V-8"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1982,lagonda,5.3l+v8,1390328", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1982, "model": "LAGONDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1980,lagonda,5.3l+v8,1390283", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1980, "model": "LAGONDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1981,lagonda,5.3l+v8,1390306", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1981, "model": "LAGONDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1980,v-8,5.3l+v8,1390586", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1980, "model": "V-8"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1983,lagonda,5.3l+v8,1390340", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1983, "model": "LAGONDA"}}}

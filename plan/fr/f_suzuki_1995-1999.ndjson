@@ -1,1 +1,25 @@
 {"node_type": "model", "href": "/en/catalog/suzuki,1997,esteem", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 1997, "model": "ESTEEM"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1996,swift,1.3l+l4,1272068", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1996, "model": "SWIFT"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1995,swift,1.3l+l4,1272057", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1995, "model": "SWIFT"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1997,x-90,1.6l+l4,1272114", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1997, "model": "X-90"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1995,esteem,1.6l+l4,1270853", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1995, "model": "ESTEEM"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1996,esteem,1.6l+l4,1270875", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1996, "model": "ESTEEM"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1999,esteem,1.6l+l4,1357387", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1999, "model": "ESTEEM"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1999,swift,1.3l+l4,1357411", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1999, "model": "SWIFT"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1996,sidekick,1.8l+l4,1271517", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1996, "model": "SIDEKICK"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1998,sidekick,1.6l+l4,1317393", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1998, "model": "SIDEKICK"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1999,vitara,1.6l+l4,1357422", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1999, "model": "VITARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1997,sidekick,1.6l+l4,1271539", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1997, "model": "SIDEKICK"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1995,sidekick,1.6l+l4,1271450", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1995, "model": "SIDEKICK"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1997,sidekick,1.8l+l4,1271551", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1997, "model": "SIDEKICK"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1995,samurai,1.3l+l4,1271247", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1995, "model": "SAMURAI"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1999,esteem,1.8l+l4,1357398", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1999, "model": "ESTEEM"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1998,x-90,1.6l+l4,1317443", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1998, "model": "X-90"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1997,swift,1.3l+l4,1272080", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1997, "model": "SWIFT"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1998,sidekick,1.8l+l4,1317413", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1998, "model": "SIDEKICK"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1999,vitara,2.0l+l4,1357433", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1999, "model": "VITARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1998,swift,1.3l+l4,1317423", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1998, "model": "SWIFT"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1996,x-90,1.6l+l4,1399091", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1996, "model": "X-90"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1999,grand+vitara,2.5l+v6,1357400", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1999, "model": "GRAND VITARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1998,esteem,1.6l+l4,1317363", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1998, "model": "ESTEEM"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,1996,sidekick,1.6l+l4,1271494", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1996, "model": "SIDEKICK"}}}

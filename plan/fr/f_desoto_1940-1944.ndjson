@@ -3,3 +3,5 @@
 {"node_type": "model", "href": "/en/catalog/desoto,1943,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1943, "model": "DELUXE"}}}
 {"node_type": "model", "href": "/en/catalog/desoto,1943,custom", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1943, "model": "CUSTOM"}}}
 {"node_type": "model", "href": "/en/catalog/desoto,1944,custom", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1944, "model": "CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/desoto,1944,deluxe,3.9l+237cid+l6,1486358", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1944, "model": "DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/desoto,1941,s-8,3.7l+228cid+l6,1486106", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1941, "model": "S-8"}}}

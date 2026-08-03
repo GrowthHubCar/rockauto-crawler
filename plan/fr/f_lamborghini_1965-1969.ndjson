@@ -11,3 +11,4 @@
 {"node_type": "model", "href": "/en/catalog/lamborghini,1969,islero", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1969, "model": "ISLERO"}}}
 {"node_type": "model", "href": "/en/catalog/lamborghini,1968,espada", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1968, "model": "ESPADA"}}}
 {"node_type": "model", "href": "/en/catalog/lamborghini,1969,espada", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1969, "model": "ESPADA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lamborghini,1966,miura,3.9l+v12,1436281", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1966, "model": "MIURA"}}}

@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2002,tracker", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2002, "model": "TRACKER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2002,zafira", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2002, "model": "ZAFIRA"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2002,sonora", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2002, "model": "SONORA"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2002,tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2002, "model": "TILTMASTER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2002,t+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2002, "model": "T SERIES TRUCK"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2002,tahoe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2002, "model": "TAHOE"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2002,suburban+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2002, "model": "SUBURBAN 1500"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2002,suburban+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2002, "model": "SUBURBAN 2500"}}}

@@ -14,3 +14,12 @@
 {"node_type": "model", "href": "/en/catalog/plymouth,1954,savoy", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1954, "model": "SAVOY"}}}
 {"node_type": "model", "href": "/en/catalog/plymouth,1954,belvedere", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1954, "model": "BELVEDERE"}}}
 {"node_type": "model", "href": "/en/catalog/plymouth,1954,plaza", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1954, "model": "PLAZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1954,suburban,3.8l+230cid+l6,1349793", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1954, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1953,suburban,3.8l+230cid+l6,1487711", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1953, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1953,belvedere,3.6l+218cid+l6,1349805", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1953, "model": "BELVEDERE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1953,cranbrook,3.6l+218cid+l6,1349827", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1953, "model": "CRANBROOK"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1950,suburban,3.8l+230cid+l6,1487233", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1950, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1951,deluxe,3.6l+218cid+l6,1487376", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1951, "model": "DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1951,concord,3.6l+218cid+l6,1349906", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1951, "model": "CONCORD"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1951,suburban,3.8l+230cid+l6,1487377", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1951, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1951,cranbrook,3.6l+218cid+l6,1349917", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1951, "model": "CRANBROOK"}}}

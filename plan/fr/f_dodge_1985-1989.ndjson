@@ -31,3 +31,95 @@
 {"node_type": "model", "href": "/en/catalog/dodge,1985,600", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1985, "model": "600"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,1987,600", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1987, "model": "600"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,1989,b150", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1989, "model": "B150"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,b250,5.2l+318cid+v8,1073326", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "B250"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,colt+vista,2.0l+122cid+l4,1080830", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "COLT VISTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1989,shadow,2.5l+153cid+l4+turbocharged,1097782", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1989, "model": "SHADOW"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1987,b250,5.9l+360cid+v8,1073393", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1987, "model": "B250"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,aries,2.5l+153cid+l4,1069297", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "ARIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1985,w250+pickup,5.9l+360cid+v8,1413784", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1985, "model": "W250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,w100+pickup,3.7l+225cid+l6,1099593", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "W100 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1988,d100+pickup,5.2l+318cid+v8,1084159", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1988, "model": "D100 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1987,w250+pickup,5.2l+318cid+v8,1101104", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1987, "model": "W250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,colt+dl,1.5l+90cid+l4,1080773", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "COLT DL"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1988,d350+pickup,5.9l+360cid+v8,1086982", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1988, "model": "D350 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1987,d350+pickup,5.9l+360cid+v8,1086960", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1987, "model": "D350 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1989,d100+pickup,5.2l+318cid+v8,1084182", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1989, "model": "D100 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,colt+vista+custom,2.0l+122cid+l4,1080841", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "COLT VISTA CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1985,power+ram+50,2.3l+l4+diesel+turbocharged,1413391", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1985, "model": "POWER RAM 50"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1989,d150+pickup,5.9l+360cid+v8,1084755", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1989, "model": "D150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1988,w250+pickup,5.9l+360cid+v8,1101159", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1988, "model": "W250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,omni,1.6l+97cid+l4,1094543", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "OMNI"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1987,charger,2.2l+135cid+l4+turbocharged,1080122", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1987, "model": "CHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1985,w250+pickup,5.2l+318cid+v8,1101058", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1985, "model": "W250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1989,colt+gt,1.5l+90cid+l4,1081145", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1989, "model": "COLT GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1985,daytona,2.2l+135cid+l4,1089198", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1985, "model": "DAYTONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,colt+dl,1.6l+98cid+l4+turbocharged,1080784", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "COLT DL"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1985,b350,5.2l+318cid+v8,1075889", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1985, "model": "B350"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,600,2.2l+135cid+l4+turbocharged,1068566", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "600"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1987,colt+e,1.5l+90cid+l4,1080863", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1987, "model": "COLT E"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1989,diplomat,5.2l+318cid+v8,1090909", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1989, "model": "DIPLOMAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1989,w350+pickup,5.9l+359cid+l6+diesel+turbocharged,1102026", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1989, "model": "W350 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1985,d250+pickup,5.2l+318cid+v8,1085824", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1985, "model": "D250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,colt+premier,1.6l+98cid+l4+turbocharged,1080829", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "COLT PREMIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1985,colt+e,1.5l+90cid+l4,1080717", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1985, "model": "COLT E"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1985,w350+pickup,5.9l+360cid+v8,1101924", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1985, "model": "W350 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1987,w150+pickup,5.9l+360cid+v8,1100136", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1987, "model": "W150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1989,d250+pickup,3.9l+239cid+v6,1085981", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1989, "model": "D250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,daytona,2.2l+135cid+l4,1089222", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "DAYTONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1985,ramcharger,5.9l+360cid+v8,1097063", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1985, "model": "RAMCHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,b350,5.9l+360cid+v8,1075968", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "B350"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1987,ram+50,2.0l+122cid+l4,1096275", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1987, "model": "RAM 50"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,ram+50,2.6l+156cid+l4,1430091", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "RAM 50"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1988,ram+50,2.6l+156cid+l4,1096321", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1988, "model": "RAM 50"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1987,w150+pickup,3.7l+225cid+l6,1100114", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1987, "model": "W150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1987,colt,1.5l+90cid+l4,19825", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1987, "model": "COLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,ram+50,2.0l+122cid+l4,1096242", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "RAM 50"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1988,shadow,2.5l+153cid+l4,1097760", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1988, "model": "SHADOW"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1989,spirit,3.0l+181cid+v6,1098154", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1989, "model": "SPIRIT"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1985,colt+vista,2.0l+122cid+l4,1080762", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1985, "model": "COLT VISTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1989,w150+pickup,5.2l+318cid+v8,1100170", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1989, "model": "W150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1988,raider,2.6l+156cid+l4,1095577", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1988, "model": "RAIDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1985,caravan,2.6l+156cid+l4,1076712", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1985, "model": "CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1988,b250,5.2l+318cid+v8,1073449", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1988, "model": "B250"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,w150+pickup,5.9l+360cid+v8,1100103", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "W150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1985,power+ram+50,2.6l+156cid+l4,1410174", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1985, "model": "POWER RAM 50"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1988,d150+pickup,3.9l+239cid+v6,1084700", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1988, "model": "D150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,daytona,2.5l+153cid+l4,1089244", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "DAYTONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1988,grand+caravan,2.5l+153cid+l4,1091247", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1988, "model": "GRAND CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1988,w100+pickup,5.2l+318cid+v8,1099650", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1988, "model": "W100 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1989,d250+pickup,5.9l+359cid+l6+diesel+turbocharged,1086005", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1989, "model": "D250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1988,b250,3.9l+239cid+v6,1073438", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1988, "model": "B250"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1988,dakota,3.9l+239cid+v6,1087365", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1988, "model": "DAKOTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1985,omni,2.2l+135cid+l4+turbocharged,1094497", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1985, "model": "OMNI"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1989,dynasty,2.5l+153cid+l4,1090954", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1989, "model": "DYNASTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1987,grand+caravan,2.5l+153cid+l4,1504201", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1987, "model": "GRAND CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1989,w150+pickup,5.9l+360cid+v8,1100181", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1989, "model": "W150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1987,caravan,2.6l+156cid+l4,1076835", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1987, "model": "CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1987,mini+ram,3.0l+181cid+v6,1092574", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1987, "model": "MINI RAM"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1985,royal+mini+ram,2.6l+156cid+l4,1097300", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1985, "model": "ROYAL MINI RAM"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1989,d150+pickup,3.9l+239cid+v6,1084733", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1989, "model": "D150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,colt+premier,1.5l+90cid+l4,1080818", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "COLT PREMIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1988,shadow,2.2l+135cid+l4+turbocharged,1097759", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1988, "model": "SHADOW"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1989,lancer,2.2l+135cid+l4,1092248", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1989, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1987,w250+pickup,5.9l+360cid+v8,1101115", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1987, "model": "W250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,w100+pickup,5.2l+318cid+v8,1099605", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "W100 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1987,w250+pickup,3.7l+225cid+l6,3439039", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1987, "model": "W250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,omni,2.2l+135cid+l4,1094554", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "OMNI"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1989,lancer,2.5l+153cid+l4+turbocharged,1092259", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1989, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1988,d250+pickup,3.9l+239cid+v6,1085936", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1988, "model": "D250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1988,b350,5.2l+318cid+v8,1076071", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1988, "model": "B350"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,w350+pickup,5.9l+360cid+v8,1101946", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "W350 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,charger,1.6l+97cid+l4,646", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "CHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1985,d250+pickup,3.7l+225cid+l6,1085813", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1985, "model": "D250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,w250+pickup,5.9l+360cid+v8,1101081", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "W250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1988,w350+pickup,5.9l+360cid+v8,1101991", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1988, "model": "W350 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1985,charger,1.6l+97cid+l4,1501783", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1985, "model": "CHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,omni,2.2l+135cid+l4+turbocharged,1094576", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "OMNI"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1987,d150+pickup,5.2l+318cid+v8,1084676", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1987, "model": "D150 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1989,b150,3.9l+239cid+v6,1070941", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1989, "model": "B150"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1986,w250+pickup,3.7l+225cid+l6,3439038", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1986, "model": "W250 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1988,grand+caravan,3.0l+181cid+v6,1091236", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1988, "model": "GRAND CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1988,d100+pickup,3.9l+239cid+v6,1084148", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1988, "model": "D100 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1985,mini+ram,2.2l+135cid+l4,1092507", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1985, "model": "MINI RAM"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1989,b250,5.2l+318cid+v8,1073506", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1989, "model": "B250"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1989,w350+pickup,5.9l+360cid+v8,1102015", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1989, "model": "W350 PICKUP"}}}

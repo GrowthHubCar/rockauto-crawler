@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/dodge,2012,attitude", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2012, "model": "ATTITUDE"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2012,i10", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2012, "model": "I10"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2012,h100", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2012, "model": "H100"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2012,nitro", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2012, "model": "NITRO"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2012,caliber", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2012, "model": "CALIBER"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2012,avenger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2012, "model": "AVENGER"}}}

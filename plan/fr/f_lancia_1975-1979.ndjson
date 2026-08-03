@@ -1,3 +1,6 @@
 {"node_type": "model", "href": "/en/catalog/lancia,1976,scorpion", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1976, "model": "SCORPION"}}}
 {"node_type": "model", "href": "/en/catalog/lancia,1978,beta", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1978, "model": "BETA"}}}
 {"node_type": "model", "href": "/en/catalog/lancia,1979,zagato", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1979, "model": "ZAGATO"}}}
+{"node_type": "carcode", "href": "/en/catalog/lancia,1979,beta,2.0l+l4,1186994", "payload": {"nodetype": "carcode", "ctx": {"make": "LANCIA", "year": 1979, "model": "BETA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lancia,1976,beta,1.8l+l4,1186916", "payload": {"nodetype": "carcode", "ctx": {"make": "LANCIA", "year": 1976, "model": "BETA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lancia,1977,beta,1.8l+l4,1186949", "payload": {"nodetype": "carcode", "ctx": {"make": "LANCIA", "year": 1977, "model": "BETA"}}}

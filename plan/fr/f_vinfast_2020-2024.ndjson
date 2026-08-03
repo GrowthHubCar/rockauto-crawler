@@ -1,3 +1,6 @@
 {"node_type": "model", "href": "/en/catalog/vinfast,2024,vf8", "payload": {"nodetype": "model", "ctx": {"make": "VINFAST", "year": 2024, "model": "VF8"}}}
 {"node_type": "model", "href": "/en/catalog/vinfast,2024,vf7", "payload": {"nodetype": "model", "ctx": {"make": "VINFAST", "year": 2024, "model": "VF7"}}}
 {"node_type": "model", "href": "/en/catalog/vinfast,2024,vf6", "payload": {"nodetype": "model", "ctx": {"make": "VINFAST", "year": 2024, "model": "VF6"}}}
+{"node_type": "carcode", "href": "/en/catalog/vinfast,2024,vf9,electric,3454603", "payload": {"nodetype": "carcode", "ctx": {"make": "VINFAST", "year": 2024, "model": "VF9"}}}
+{"node_type": "carcode", "href": "/en/catalog/vinfast,2023,vf9,electric,3454602", "payload": {"nodetype": "carcode", "ctx": {"make": "VINFAST", "year": 2023, "model": "VF9"}}}
+{"node_type": "carcode", "href": "/en/catalog/vinfast,2023,vf8,electric,3454600", "payload": {"nodetype": "carcode", "ctx": {"make": "VINFAST", "year": 2023, "model": "VF8"}}}

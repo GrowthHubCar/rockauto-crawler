@@ -12,3 +12,32 @@
 {"node_type": "model", "href": "/en/catalog/peugeot,2007,407", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2007, "model": "407"}}}
 {"node_type": "model", "href": "/en/catalog/peugeot,2009,307", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2009, "model": "307"}}}
 {"node_type": "model", "href": "/en/catalog/peugeot,2009,207+compact", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2009, "model": "207 COMPACT"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2006,307,2.0l+l4,216324", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2006, "model": "307"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2006,407,2.9l+v6,951646", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2006, "model": "407"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2008,407,2.2l+l4,951645", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2008, "model": "407"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2008,grand+raid,1.6l+l4,951658", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2008, "model": "GRAND RAID"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2009,manager,3.0l+l4+diesel+turbocharged,951661", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2009, "model": "MANAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2008,expert,2.0l+l4+diesel+turbocharged,3189061", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2008, "model": "EXPERT"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2008,207,1.6l+l4+turbocharged,951627", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2008, "model": "207"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2005,206,1.6l+l4,214889", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2005, "model": "206"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2008,manager,2.2l+l4+diesel+turbocharged,3186159", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2008, "model": "MANAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2008,407,2.9l+v6,951648", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2008, "model": "407"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2005,406,2.0l+l4,951639", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2005, "model": "406"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2005,406,2.9l+v6,951642", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2005, "model": "406"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2007,206,1.6l+l4,217101", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2007, "model": "206"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2007,206,1.4l+l4,940558", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2007, "model": "206"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2005,307,2.0l+l4,214906", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2005, "model": "307"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2005,partner,1.6l+l4,214945", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2005, "model": "PARTNER"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2008,607,2.9l+v6,951655", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2008, "model": "607"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2006,206,1.4l+l4,940169", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2006, "model": "206"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2009,308,1.6l+l4+turbocharged,951636", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2009, "model": "308"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2009,207+compact,1.4l+l4,3446935", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2009, "model": "207 COMPACT"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2006,607,2.9l+v6,951653", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2006, "model": "607"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2009,407,2.2l+l4,3186987", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2009, "model": "407"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2008,307,2.0l+l4,951634", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2008, "model": "307"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2006,407,2.2l+l4,951643", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2006, "model": "407"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2006,206,1.6l+l4,216302", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2006, "model": "206"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2005,607,2.9l+v6,951652", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2005, "model": "607"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2007,307,2.0l+l4,217119", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2007, "model": "307"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2006,partner,1.6l+l4,216347", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2006, "model": "PARTNER"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2008,partner,1.6l+l4,217430", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2008, "model": "PARTNER"}}}

@@ -16,3 +16,12 @@
 {"node_type": "model", "href": "/en/catalog/maserati,1973,merak", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 1973, "model": "MERAK"}}}
 {"node_type": "model", "href": "/en/catalog/maserati,1974,merak", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 1974, "model": "MERAK"}}}
 {"node_type": "model", "href": "/en/catalog/maserati,1974,khamsin", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 1974, "model": "KHAMSIN"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,1970,quattroporte,4.7l+v8,1437062", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1970, "model": "QUATTROPORTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,1970,ghibli,4.7l+v8,1404986", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1970, "model": "GHIBLI"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,1970,mistral,4.0l+l6,1405022", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1970, "model": "MISTRAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,1970,indy,4.1l+v8,1405000", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1970, "model": "INDY"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,1970,mexico,4.7l+v8,1496375", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1970, "model": "MEXICO"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,1970,ghibli,4.9l+v8,1404997", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1970, "model": "GHIBLI"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,1970,mistral,3.7l+l6,1405011", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1970, "model": "MISTRAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,1970,mexico,4.1l+v8,1496374", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1970, "model": "MEXICO"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,1970,quattroporte,4.1l+v8,1496376", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1970, "model": "QUATTROPORTE"}}}

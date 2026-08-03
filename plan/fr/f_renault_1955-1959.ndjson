@@ -5,3 +5,4 @@
 {"node_type": "model", "href": "/en/catalog/renault,1957,4cv", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1957, "model": "4CV"}}}
 {"node_type": "model", "href": "/en/catalog/renault,1958,4cv", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1958, "model": "4CV"}}}
 {"node_type": "model", "href": "/en/catalog/renault,1959,4cv", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1959, "model": "4CV"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,1957,dauphine,845cc+l4,1437269", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1957, "model": "DAUPHINE"}}}

@@ -14,3 +14,5 @@
 {"node_type": "model", "href": "/en/catalog/rolls-royce,1979,silver+wraith+ii", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1979, "model": "SILVER WRAITH II"}}}
 {"node_type": "model", "href": "/en/catalog/rolls-royce,1978,silver+shadow+ii", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1978, "model": "SILVER SHADOW II"}}}
 {"node_type": "model", "href": "/en/catalog/rolls-royce,1979,silver+shadow+ii", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1979, "model": "SILVER SHADOW II"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1977,silver+shadow+ii,6.8l+v8,1397156", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1977, "model": "SILVER SHADOW II"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1977,silver+wraith+ii,6.8l+v8,1397358", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1977, "model": "SILVER WRAITH II"}}}

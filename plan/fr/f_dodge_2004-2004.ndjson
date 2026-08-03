@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/dodge,2004,verna", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2004, "model": "VERNA"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2004,stratus", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2004, "model": "STRATUS"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2004,ram+3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2004, "model": "RAM 3500 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2004,ram+2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2004, "model": "RAM 2500 PICKUP"}}}

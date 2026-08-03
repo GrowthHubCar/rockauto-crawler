@@ -5,3 +5,6 @@
 {"node_type": "model", "href": "/en/catalog/facel+vega,1957,fvs", "payload": {"nodetype": "model", "ctx": {"make": "FACEL VEGA", "year": 1957, "model": "FVS"}}}
 {"node_type": "model", "href": "/en/catalog/facel+vega,1958,fvs", "payload": {"nodetype": "model", "ctx": {"make": "FACEL VEGA", "year": 1958, "model": "FVS"}}}
 {"node_type": "model", "href": "/en/catalog/facel+vega,1959,hk500", "payload": {"nodetype": "model", "ctx": {"make": "FACEL VEGA", "year": 1959, "model": "HK500"}}}
+{"node_type": "carcode", "href": "/en/catalog/facel+vega,1959,excellence,5.8l+v8,1436472", "payload": {"nodetype": "carcode", "ctx": {"make": "FACEL VEGA", "year": 1959, "model": "EXCELLENCE"}}}
+{"node_type": "carcode", "href": "/en/catalog/facel+vega,1959,excellence,5.9l+v8,1489217", "payload": {"nodetype": "carcode", "ctx": {"make": "FACEL VEGA", "year": 1959, "model": "EXCELLENCE"}}}
+{"node_type": "carcode", "href": "/en/catalog/facel+vega,1958,excellence,5.8l+v8,1488866", "payload": {"nodetype": "carcode", "ctx": {"make": "FACEL VEGA", "year": 1958, "model": "EXCELLENCE"}}}

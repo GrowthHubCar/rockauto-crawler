@@ -10,3 +10,13 @@
 {"node_type": "model", "href": "/en/catalog/studebaker,1952,truck", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1952, "model": "TRUCK"}}}
 {"node_type": "model", "href": "/en/catalog/studebaker,1953,truck", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1953, "model": "TRUCK"}}}
 {"node_type": "model", "href": "/en/catalog/studebaker,1954,truck", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1954, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1951,commander,3.8l+232cid+v8,1487393", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1951, "model": "COMMANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1950,commander,4.0l+246cid+l6,1439787", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1950, "model": "COMMANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1950,truck,4.0l+246cid+l6,210", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1950, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1952,champion,2.8l+170cid+l6,1439591", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1952, "model": "CHAMPION"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1953,commander,3.8l+232cid+v8,1487718", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1953, "model": "COMMANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1950,champion,2.8l+170cid+l6,1439593", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1950, "model": "CHAMPION"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1954,taxi,2.8l+170cid+l6,1487894", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1954, "model": "TAXI"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1951,champion,2.8l+170cid+l6,1439592", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1951, "model": "CHAMPION"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1952,truck,4.0l+246cid+l6,212", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1952, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1950,taxi,2.8l+170cid+l6,1487251", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1950, "model": "TAXI"}}}

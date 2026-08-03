@@ -2,3 +2,4 @@
 {"node_type": "model", "href": "/en/catalog/pontiac,1928,model+6-28", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1928, "model": "MODEL 6-28"}}}
 {"node_type": "model", "href": "/en/catalog/pontiac,1929,model+6-29+a", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1929, "model": "MODEL 6-29 A"}}}
 {"node_type": "model", "href": "/en/catalog/pontiac,1927,model+6-27", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1927, "model": "MODEL 6-27"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1926,series+6-27,187cid+l6,952178", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1926, "model": "SERIES 6-27"}}}

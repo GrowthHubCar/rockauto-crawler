@@ -11,3 +11,20 @@
 {"node_type": "model", "href": "/en/catalog/chevrolet,1947,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1947, "model": "SEDAN DELIVERY"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1948,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1948, "model": "SEDAN DELIVERY"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1949,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1949, "model": "SEDAN DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1949,styleline+special,3.5l+217cid+l6,1326912", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1949, "model": "STYLELINE SPECIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1947,truck,3.5l+217cid+l6,1486576", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1947, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1945,truck,3.5l+217cid+l6,1486394", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1945, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1946,truck,3.5l+217cid+l6,1486452", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1946, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1945,truck,3.8l+235cid+l6,1486395", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1945, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1946,truck,3.8l+235cid+l6,1486453", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1946, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1949,styleline+deluxe,3.5l+217cid+l6,1326901", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1949, "model": "STYLELINE DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1947,sedan+delivery,3.8l+235cid+l6,1486575", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1947, "model": "SEDAN DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1946,stylemaster+series,3.5l+217cid+l6,1327036", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1946, "model": "STYLEMASTER SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1948,stylemaster+series,3.5l+217cid+l6,1326956", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1948, "model": "STYLEMASTER SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1947,stylemaster+series,3.5l+217cid+l6,1326990", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1947, "model": "STYLEMASTER SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1946,fleetline,3.5l+217cid+l6,1327014", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1946, "model": "FLEETLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1949,truck,3.8l+235cid+l6,1486934", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1949, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1946,fleetmaster,3.5l+217cid+l6,1327025", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1946, "model": "FLEETMASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1947,truck,3.8l+235cid+l6,1486577", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1947, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1948,truck,3.8l+235cid+l6,1486745", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1948, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1949,sedan+delivery,3.8l+235cid+l6,1486932", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1949, "model": "SEDAN DELIVERY"}}}

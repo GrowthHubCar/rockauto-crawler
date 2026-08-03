@@ -1,2 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/jordan,1918,four", "payload": {"nodetype": "model", "ctx": {"make": "JORDAN", "year": 1918, "model": "FOUR"}}}
 {"node_type": "model", "href": "/en/catalog/jordan,1919,six", "payload": {"nodetype": "model", "ctx": {"make": "JORDAN", "year": 1919, "model": "SIX"}}}
+{"node_type": "carcode", "href": "/en/catalog/jordan,1917,four,all+engines,2000738", "payload": {"nodetype": "carcode", "ctx": {"make": "JORDAN", "year": 1917, "model": "FOUR"}}}

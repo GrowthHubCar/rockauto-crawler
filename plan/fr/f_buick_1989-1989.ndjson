@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1989,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1989, "model": "CENTURY"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1989,electra", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1989, "model": "ELECTRA"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1989,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1989, "model": "RIVIERA"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1989,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1989, "model": "LESABRE"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1989,reatta", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1989, "model": "REATTA"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1989,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1989, "model": "REGAL"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1989,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1989, "model": "SKYLARK"}}}

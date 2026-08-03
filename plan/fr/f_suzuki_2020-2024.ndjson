@@ -31,3 +31,15 @@
 {"node_type": "model", "href": "/en/catalog/suzuki,2023,baleno", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2023, "model": "BALENO"}}}
 {"node_type": "model", "href": "/en/catalog/suzuki,2024,baleno", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2024, "model": "BALENO"}}}
 {"node_type": "model", "href": "/en/catalog/suzuki,2024,fronx", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2024, "model": "FRONX"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2023,swift,1.2l+l4,3453980", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2023, "model": "SWIFT"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2020,swift,1.4l+l4+turbocharged,3445772", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2020, "model": "SWIFT"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2020,swift,1.2l+l4,3445771", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2020, "model": "SWIFT"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2023,jimny,1.5l+l4,3453977", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2023, "model": "JIMNY"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2022,jimny,1.5l+l4,3450947", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2022, "model": "JIMNY"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2020,s-cross,1.6l+l4,3445769", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2020, "model": "S-CROSS"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2021,vitara,1.6l+l4,3449397", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2021, "model": "VITARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2020,s-cross,1.4l+l4+turbocharged,3445768", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2020, "model": "S-CROSS"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2020,vitara,1.4l+l4+turbocharged,3445773", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2020, "model": "VITARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2020,vitara,1.6l+l4,3445774", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2020, "model": "VITARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2021,baleno,1.4l+l4,3450310", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2021, "model": "BALENO"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2020,swift,998cc+l3+turbocharged,3445770", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2020, "model": "SWIFT"}}}

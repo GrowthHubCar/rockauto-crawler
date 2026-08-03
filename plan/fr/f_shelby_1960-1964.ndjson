@@ -1,1 +1,7 @@
 {"node_type": "model", "href": "/en/catalog/shelby,1964,cobra", "payload": {"nodetype": "model", "ctx": {"make": "SHELBY", "year": 1964, "model": "COBRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/shelby,1963,cobra,4.7l+289cid+v8,1419511", "payload": {"nodetype": "carcode", "ctx": {"make": "SHELBY", "year": 1963, "model": "COBRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/shelby,1964,cobra,4.7l+289cid+v8,1419522", "payload": {"nodetype": "carcode", "ctx": {"make": "SHELBY", "year": 1964, "model": "COBRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/shelby,1963,cobra,4.3l+260cid+v8,1491541", "payload": {"nodetype": "carcode", "ctx": {"make": "SHELBY", "year": 1963, "model": "COBRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/shelby,1962,cobra,4.7l+289cid+v8,3440195", "payload": {"nodetype": "carcode", "ctx": {"make": "SHELBY", "year": 1962, "model": "COBRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/shelby,1964,cobra,7.0l+427cid+v8,1492120", "payload": {"nodetype": "carcode", "ctx": {"make": "SHELBY", "year": 1964, "model": "COBRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/shelby,1962,cobra,4.3l+260cid+v8,1435968", "payload": {"nodetype": "carcode", "ctx": {"make": "SHELBY", "year": 1962, "model": "COBRA"}}}

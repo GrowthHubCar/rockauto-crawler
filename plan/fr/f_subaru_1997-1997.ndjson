@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/subaru,1997,svx", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1997, "model": "SVX"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,1997,legacy", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1997, "model": "LEGACY"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,1997,impreza", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1997, "model": "IMPREZA"}}}

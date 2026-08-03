@@ -4,3 +4,7 @@
 {"node_type": "model", "href": "/en/catalog/baic,2019,x65", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2019, "model": "X65"}}}
 {"node_type": "model", "href": "/en/catalog/baic,2018,bj40", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2018, "model": "BJ40"}}}
 {"node_type": "model", "href": "/en/catalog/baic,2019,x35", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2019, "model": "X35"}}}
+{"node_type": "carcode", "href": "/en/catalog/baic,2018,d20,1.5l+l4,3441798", "payload": {"nodetype": "carcode", "ctx": {"make": "BAIC", "year": 2018, "model": "D20"}}}
+{"node_type": "carcode", "href": "/en/catalog/baic,2018,x65,2.0l+l4+turbocharged,3441513", "payload": {"nodetype": "carcode", "ctx": {"make": "BAIC", "year": 2018, "model": "X65"}}}
+{"node_type": "carcode", "href": "/en/catalog/baic,2018,bj20,1.5l+l4+turbocharged,3443941", "payload": {"nodetype": "carcode", "ctx": {"make": "BAIC", "year": 2018, "model": "BJ20"}}}
+{"node_type": "carcode", "href": "/en/catalog/baic,2017,d20,1.5l+l4,3434202", "payload": {"nodetype": "carcode", "ctx": {"make": "BAIC", "year": 2017, "model": "D20"}}}

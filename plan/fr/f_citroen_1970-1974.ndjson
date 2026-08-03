@@ -6,3 +6,14 @@
 {"node_type": "model", "href": "/en/catalog/citroen,1971,d+special", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1971, "model": "D SPECIAL"}}}
 {"node_type": "model", "href": "/en/catalog/citroen,1972,d+special", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1972, "model": "D SPECIAL"}}}
 {"node_type": "model", "href": "/en/catalog/citroen,1972,sm", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1972, "model": "SM"}}}
+{"node_type": "carcode", "href": "/en/catalog/citroen,1970,d21,2.2l+l4,1495988", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1970, "model": "D21"}}}
+{"node_type": "carcode", "href": "/en/catalog/citroen,1974,sm,2.7l+v6,1312293", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1974, "model": "SM"}}}
+{"node_type": "carcode", "href": "/en/catalog/citroen,1970,ds21+pallas,2.2l+l4,1495990", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1970, "model": "DS21 PALLAS"}}}
+{"node_type": "carcode", "href": "/en/catalog/citroen,1974,sm,3.0l+v6,1312303", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1974, "model": "SM"}}}
+{"node_type": "carcode", "href": "/en/catalog/citroen,1971,ds21+pallas,2.2l+l4,1496967", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1971, "model": "DS21 PALLAS"}}}
+{"node_type": "carcode", "href": "/en/catalog/citroen,1970,id19,2.0l+l4,1312243", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1970, "model": "ID19"}}}
+{"node_type": "carcode", "href": "/en/catalog/citroen,1970,ds21,2.2l+l4,1495989", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1970, "model": "DS21"}}}
+{"node_type": "carcode", "href": "/en/catalog/citroen,1973,sm,3.0l+v6,1312283", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1973, "model": "SM"}}}
+{"node_type": "carcode", "href": "/en/catalog/citroen,1971,sm,2.7l+v6,1312253", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1971, "model": "SM"}}}
+{"node_type": "carcode", "href": "/en/catalog/citroen,1973,sm,2.7l+v6,1312273", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1973, "model": "SM"}}}
+{"node_type": "carcode", "href": "/en/catalog/citroen,1971,ds21,2.2l+l4,1496966", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1971, "model": "DS21"}}}

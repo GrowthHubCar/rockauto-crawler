@@ -8,3 +8,14 @@
 {"node_type": "model", "href": "/en/catalog/dodge,1940,kingsway", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1940, "model": "KINGSWAY"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,1942,deluxe+series+d-22", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1942, "model": "DELUXE SERIES D-22"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,1942,custom+series+d-22", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1942, "model": "CUSTOM SERIES D-22"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1941,truck,3.7l+228cid+l6,1486112", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1941, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1941,kingsway,218cid+l6,123929", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1941, "model": "KINGSWAY"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1940,series+d17+special+six,3.6l+218cid+l6,952970", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1940, "model": "SERIES D17 SPECIAL SIX"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1943,truck,3.9l+237cid+l6,1486321", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1943, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1941,deluxe+series+d-19,3.6l+218cid+l6,1486110", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1941, "model": "DELUXE SERIES D-19"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1943,truck,3.6l+218cid+l6,1486323", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1943, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1942,custom+series+d-22,3.6l+218cid+l6,1486226", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1942, "model": "CUSTOM SERIES D-22"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1941,truck,3.3l+201cid+l6,953018", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1941, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1940,truck,3.6l+218cid+l6,1486010", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1940, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1942,deluxe+series+d-22,3.8l+230cid+l6,1486229", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1942, "model": "DELUXE SERIES D-22"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1941,custom+series+d-19,3.6l+218cid+l6,1486109", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1941, "model": "CUSTOM SERIES D-19"}}}

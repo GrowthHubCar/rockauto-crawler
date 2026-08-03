@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/subaru,1985,standard", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1985, "model": "STANDARD"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,1985,rx", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1985, "model": "RX"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,1985,gl", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1985, "model": "GL"}}}

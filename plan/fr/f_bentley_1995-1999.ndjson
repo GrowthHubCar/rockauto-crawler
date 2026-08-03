@@ -14,3 +14,8 @@
 {"node_type": "model", "href": "/en/catalog/bentley,1996,turbo+r", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1996, "model": "TURBO R"}}}
 {"node_type": "model", "href": "/en/catalog/bentley,1997,turbo+r", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1997, "model": "TURBO R"}}}
 {"node_type": "model", "href": "/en/catalog/bentley,1998,turbo+r", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1998, "model": "TURBO R"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,1995,continental,6.8l+v8+turbocharged,3033815", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1995, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,1995,continental,6.7l+v8+turbocharged,1009820", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1995, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,1995,turbo+r,6.7l+v8+turbocharged,1010114", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1995, "model": "TURBO R"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,1995,continental,6.7l+v8,1009819", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1995, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,1995,turbo+r,6.8l+v8+turbocharged,3033836", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1995, "model": "TURBO R"}}}

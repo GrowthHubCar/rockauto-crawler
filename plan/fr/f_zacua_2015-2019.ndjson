@@ -1,0 +1,4 @@
+{"node_type": "carcode", "href": "/en/catalog/zacua,2019,mx2,electric,3445090", "payload": {"nodetype": "carcode", "ctx": {"make": "ZACUA", "year": 2019, "model": "MX2"}}}
+{"node_type": "carcode", "href": "/en/catalog/zacua,2019,mx3,electric,3445091", "payload": {"nodetype": "carcode", "ctx": {"make": "ZACUA", "year": 2019, "model": "MX3"}}}
+{"node_type": "carcode", "href": "/en/catalog/zacua,2018,m3,electric,3442963", "payload": {"nodetype": "carcode", "ctx": {"make": "ZACUA", "year": 2018, "model": "M3"}}}
+{"node_type": "carcode", "href": "/en/catalog/zacua,2018,m2,electric,3442962", "payload": {"nodetype": "carcode", "ctx": {"make": "ZACUA", "year": 2018, "model": "M2"}}}

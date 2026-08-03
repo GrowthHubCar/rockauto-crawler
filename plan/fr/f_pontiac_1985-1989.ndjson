@@ -1,2 +1,13 @@
 {"node_type": "model", "href": "/en/catalog/pontiac,1988,firebird", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1988, "model": "FIREBIRD"}}}
 {"node_type": "model", "href": "/en/catalog/pontiac,1987,safari", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1987, "model": "SAFARI"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1988,tempest,2.0l+122cid+l4,1261550", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1988, "model": "TEMPEST"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1989,safari,5.0l+307cid+v8,1260368", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1989, "model": "SAFARI"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1989,firefly,993cc+61cid+l3,1252167", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1989, "model": "FIREFLY"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1987,sunburst,1.5l+92cid+l4,1261190", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1987, "model": "SUNBURST"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1989,firebird,3.8l+231cid+v6+turbocharged,1251571", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1989, "model": "FIREBIRD"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1987,grand+prix,3.8l+231cid+v6,1255418", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1987, "model": "GRAND PRIX"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1987,bonneville,3.8l+231cid+v6,1247228", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1987, "model": "BONNEVILLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1987,tempest,2.8l+173cid+v6,1261538", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1987, "model": "TEMPEST"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1988,6000,2.8l+173cid+v6,1245192", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1988, "model": "6000"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1987,grand+prix,5.0l+305cid+v8,1255430", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1987, "model": "GRAND PRIX"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1989,sunbird,2.0l+122cid+l4,1260885", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1989, "model": "SUNBIRD"}}}

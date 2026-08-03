@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/smart,2004,roadster", "payload": {"nodetype": "model", "ctx": {"make": "SMART", "year": 2004, "model": "ROADSTER"}}}
-{"node_type": "model", "href": "/en/catalog/smart,2004,city+coupe", "payload": {"nodetype": "model", "ctx": {"make": "SMART", "year": 2004, "model": "CITY COUPE"}}}
-{"node_type": "model", "href": "/en/catalog/smart,2004,cabrio", "payload": {"nodetype": "model", "ctx": {"make": "SMART", "year": 2004, "model": "CABRIO"}}}
-{"node_type": "model", "href": "/en/catalog/smart,2004,crossblade", "payload": {"nodetype": "model", "ctx": {"make": "SMART", "year": 2004, "model": "CROSSBLADE"}}}
-{"node_type": "model", "href": "/en/catalog/smart,2003,city+coupe", "payload": {"nodetype": "model", "ctx": {"make": "SMART", "year": 2003, "model": "CITY COUPE"}}}

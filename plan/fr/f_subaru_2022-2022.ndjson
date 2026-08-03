@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/subaru,2022,ascent", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2022, "model": "ASCENT"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2022,crosstrek", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2022, "model": "CROSSTREK"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2022,wrx", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2022, "model": "WRX"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2022,impreza", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2022, "model": "IMPREZA"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2022,outback", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2022, "model": "OUTBACK"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2022,forester", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2022, "model": "FORESTER"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2022,brz", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2022, "model": "BRZ"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2022,legacy", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2022, "model": "LEGACY"}}}

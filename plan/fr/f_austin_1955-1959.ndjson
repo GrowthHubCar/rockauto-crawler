@@ -22,3 +22,4 @@
 {"node_type": "model", "href": "/en/catalog/austin,1958,a35", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1958, "model": "A35"}}}
 {"node_type": "model", "href": "/en/catalog/austin,1959,a35", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1959, "model": "A35"}}}
 {"node_type": "model", "href": "/en/catalog/austin,1959,mini", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1959, "model": "MINI"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin,1956,cambridge,1.5l+l4,1436521", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN", "year": 1956, "model": "CAMBRIDGE"}}}

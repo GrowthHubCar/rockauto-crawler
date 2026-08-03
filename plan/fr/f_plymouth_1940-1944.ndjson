@@ -1,2 +1,8 @@
 {"node_type": "model", "href": "/en/catalog/plymouth,1940,p10+deluxe", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1940, "model": "P10 DELUXE"}}}
 {"node_type": "model", "href": "/en/catalog/plymouth,1941,pt-125", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1941, "model": "PT-125"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1940,p9+roadking,201cid+l6,953004", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1940, "model": "P9 ROADKING"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1941,p11+deluxe,3.3l+201cid+l6,1486172", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1941, "model": "P11 DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1942,special+deluxe,218cid+l6,124605", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1942, "model": "SPECIAL DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1942,p14s+deluxe,3.6l+218cid+l6,1486293", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1942, "model": "P14S DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1940,pt105,3.3l+201cid+l6,124598", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1940, "model": "PT105"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1941,p12+special+deluxe,201cid+l6,2002465", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1941, "model": "P12 SPECIAL DELUXE"}}}

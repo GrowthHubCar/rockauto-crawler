@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1991,sprint", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1991, "model": "SPRINT"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1991,tracker", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1991, "model": "TRACKER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1991,s10+blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1991, "model": "S10 BLAZER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1991,v2500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1991, "model": "V2500 SUBURBAN"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1991,v3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1991, "model": "V3500 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1991,r3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1991, "model": "R3500 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1991,tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1991, "model": "TILTMASTER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1991,r1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1991, "model": "R1500 SUBURBAN"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1991,v1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1991, "model": "V1500 SUBURBAN"}}}

@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/dodge,1990,w250+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1990, "model": "W250 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,1990,shadow", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1990, "model": "SHADOW"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,1990,w150+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1990, "model": "W150 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,1990,spirit", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1990, "model": "SPIRIT"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,1990,ram+50", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1990, "model": "RAM 50"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,1990,ramcharger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1990, "model": "RAMCHARGER"}}}

@@ -2,3 +2,4 @@
 {"node_type": "model", "href": "/en/catalog/wartburg,1960,wartburg", "payload": {"nodetype": "model", "ctx": {"make": "WARTBURG", "year": 1960, "model": "WARTBURG"}}}
 {"node_type": "model", "href": "/en/catalog/wartburg,1961,wartburg", "payload": {"nodetype": "model", "ctx": {"make": "WARTBURG", "year": 1961, "model": "WARTBURG"}}}
 {"node_type": "model", "href": "/en/catalog/wartburg,1962,wartburg", "payload": {"nodetype": "model", "ctx": {"make": "WARTBURG", "year": 1962, "model": "WARTBURG"}}}
+{"node_type": "carcode", "href": "/en/catalog/wartburg,1963,1000,991cc+l3,1438907", "payload": {"nodetype": "carcode", "ctx": {"make": "WARTBURG", "year": 1963, "model": "1000"}}}

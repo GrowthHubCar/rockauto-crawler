@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/land+rover,2024,defender+110", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2024, "model": "DEFENDER 110"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,2024,discovery+sport", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2024, "model": "DISCOVERY SPORT"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,2024,range+rover+evoque", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2024, "model": "RANGE ROVER EVOQUE"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,2024,range+rover+velar", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2024, "model": "RANGE ROVER VELAR"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,2024,range+rover+sport", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2024, "model": "RANGE ROVER SPORT"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,2024,range+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2024, "model": "RANGE ROVER"}}}

@@ -7,3 +7,13 @@
 {"node_type": "model", "href": "/en/catalog/triumph,1971,tr6", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1971, "model": "TR6"}}}
 {"node_type": "model", "href": "/en/catalog/triumph,1972,stag", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1972, "model": "STAG"}}}
 {"node_type": "model", "href": "/en/catalog/triumph,1973,stag", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1973, "model": "STAG"}}}
+{"node_type": "carcode", "href": "/en/catalog/triumph,1973,tr6,2.5l+l6,1293858", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1973, "model": "TR6"}}}
+{"node_type": "carcode", "href": "/en/catalog/triumph,1971,gt6,2.0l+l6,1292228", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1971, "model": "GT6"}}}
+{"node_type": "carcode", "href": "/en/catalog/triumph,1972,tr6,2.5l+l6,1292936", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1972, "model": "TR6"}}}
+{"node_type": "carcode", "href": "/en/catalog/triumph,1971,spitfire,1.3l+l4,1292239", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1971, "model": "SPITFIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/triumph,1970,tr6,2.5l+l6,1496732", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1970, "model": "TR6"}}}
+{"node_type": "carcode", "href": "/en/catalog/triumph,1974,tr6,2.5l+l6,1294736", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1974, "model": "TR6"}}}
+{"node_type": "carcode", "href": "/en/catalog/triumph,1970,stag,3.0l+v8,1496730", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1970, "model": "STAG"}}}
+{"node_type": "carcode", "href": "/en/catalog/triumph,1973,spitfire,1.5l+l4,1293836", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1973, "model": "SPITFIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/triumph,1970,spitfire,1.3l+l4,1291508", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1970, "model": "SPITFIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/triumph,1971,stag,3.0l+v8,1292240", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1971, "model": "STAG"}}}

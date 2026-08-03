@@ -8,3 +8,19 @@
 {"node_type": "model", "href": "/en/catalog/cadillac,1959,commercial+chassis", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1959, "model": "COMMERCIAL CHASSIS"}}}
 {"node_type": "model", "href": "/en/catalog/cadillac,1959,deville", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1959, "model": "DEVILLE"}}}
 {"node_type": "model", "href": "/en/catalog/cadillac,1959,eldorado", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1959, "model": "ELDORADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1956,series+62,6.0l+365cid+v8,1320725", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1956, "model": "SERIES 62"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1955,series+62,4.1l+250cid+v8,1320781", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1955, "model": "SERIES 62"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1959,series+62,6.4l+390cid+v8,1320578", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1959, "model": "SERIES 62"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1958,series+70+eldorado,6.0l+365cid+v8,1320635", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1958, "model": "SERIES 70 ELDORADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1958,series+75+fleetwood,6.0l+365cid+v8,1320646", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1958, "model": "SERIES 75 FLEETWOOD"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1957,series+62,6.0l+365cid+v8,1320679", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1957, "model": "SERIES 62"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1958,series+62,6.0l+365cid+v8,1320624", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1958, "model": "SERIES 62"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1956,series+60+fleetwood,6.0l+365cid+v8,1320714", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1956, "model": "SERIES 60 FLEETWOOD"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1956,commercial+chassis,6.0l+365cid+v8,1488193", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1956, "model": "COMMERCIAL CHASSIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1957,eldorado,6.0l+365cid+v8,1320657", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1957, "model": "ELDORADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1955,series+60+fleetwood,5.4l+331cid+v8,1320769", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1955, "model": "SERIES 60 FLEETWOOD"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1955,series+62,5.4l+331cid+v8,1320770", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1955, "model": "SERIES 62"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1959,series+75+fleetwood,6.4l+390cid+v8,1320589", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1959, "model": "SERIES 75 FLEETWOOD"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1957,deville,6.0l+365cid+v8,1488467", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1957, "model": "DEVILLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1957,series+60+fleetwood,6.0l+365cid+v8,1320668", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1957, "model": "SERIES 60 FLEETWOOD"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1959,series+60+fleetwood,6.4l+390cid+v8,1320567", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1959, "model": "SERIES 60 FLEETWOOD"}}}

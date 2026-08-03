@@ -31,3 +31,18 @@
 {"node_type": "model", "href": "/en/catalog/plymouth,1969,gtx", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1969, "model": "GTX"}}}
 {"node_type": "model", "href": "/en/catalog/plymouth,1968,roadrunner", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1968, "model": "ROADRUNNER"}}}
 {"node_type": "model", "href": "/en/catalog/plymouth,1969,roadrunner", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1969, "model": "ROADRUNNER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1965,valiant,4.5l+273cid+v8,1347667", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1965, "model": "VALIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1969,satellite,3.7l+225cid+l6,1495591", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1969, "model": "SATELLITE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1967,belvedere+ii,6.3l+383cid+v8,1435788", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1967, "model": "BELVEDERE II"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1967,satellite,6.3l+383cid+v8,1417766", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1967, "model": "SATELLITE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1966,fury,6.3l+383cid+v8,1417711", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1966, "model": "FURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1966,valiant,4.5l+273cid+v8,1347511", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1966, "model": "VALIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1966,belvedere+ii,5.2l+318cid+v8,1435628", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1966, "model": "BELVEDERE II"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1968,fury,5.2l+318cid+v8,1232198", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1968, "model": "FURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1969,roadrunner,6.3l+383cid+v8,1240502", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1969, "model": "ROADRUNNER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1967,belvedere+ii,3.7l+225cid+l6,1435507", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1967, "model": "BELVEDERE II"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1969,barracuda,3.7l+225cid+l6,1228643", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1969, "model": "BARRACUDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1968,roadrunner,6.3l+383cid+v8,1240478", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1968, "model": "ROADRUNNER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1966,barracuda,4.5l+273cid+v8,1347353", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1966, "model": "BARRACUDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1969,gtx,7.2l+440cid+v8,1229127", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1969, "model": "GTX"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1966,valiant,2.8l+170cid+l6,1347500", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1966, "model": "VALIANT"}}}

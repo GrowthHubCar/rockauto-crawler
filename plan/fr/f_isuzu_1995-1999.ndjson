@@ -9,3 +9,53 @@
 {"node_type": "model", "href": "/en/catalog/isuzu,1996,nqr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1996, "model": "NQR"}}}
 {"node_type": "model", "href": "/en/catalog/isuzu,1997,nqr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1997, "model": "NQR"}}}
 {"node_type": "model", "href": "/en/catalog/isuzu,1998,nqr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1998, "model": "NQR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1998,hombre,2.2l+l4,1315833", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1998, "model": "HOMBRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1996,oasis,2.2l+l4,1176229", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1996, "model": "OASIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1999,trooper,3.5l+v6,1355868", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1999, "model": "TROOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1998,nqr,4.8l+l4+diesel+turbocharged,3297402", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1998, "model": "NQR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1996,npr,3.9l+l4+diesel+turbocharged,3444371", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1996, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1997,hombre,2.2l+l4,1175824", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1997, "model": "HOMBRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1995,npr,3.9l+l4+diesel+turbocharged,3444370", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1995, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1998,rodeo,3.2l+v6,1315873", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1998, "model": "RODEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1999,hombre,4.3l+v6,1355824", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1999, "model": "HOMBRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1998,f+series+truck,7.8l+l6+diesel+turbocharged,3295434", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1998, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1998,f+series+truck,7.1l+l6+diesel+turbocharged,3295433", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1998, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1999,rodeo,3.2l+v6,1355857", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1999, "model": "RODEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1996,rodeo,3.2l+v6,1176960", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1996, "model": "RODEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1998,rodeo,2.2l+l4,1315863", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1998, "model": "RODEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1999,npr,4.8l+l4+diesel+turbocharged,3295454", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1999, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1999,nqr,4.8l+l4+diesel+turbocharged,3296982", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1999, "model": "NQR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1995,rodeo,2.6l+l4,1176937", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1995, "model": "RODEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1995,pickup,2.6l+l4,1176847", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1995, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1995,trooper,3.2l+v6+sohc,1446529", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1995, "model": "TROOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1998,amigo,2.2l+l4,1359817", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1998, "model": "AMIGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1996,hombre,2.2l+l4,1175813", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1996, "model": "HOMBRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1997,trooper,3.2l+v6,1177208", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1997, "model": "TROOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1995,trooper,3.2l+v6+dohc,1177174", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1995, "model": "TROOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1996,f+series+truck,7.1l+l6+diesel+turbocharged,3297386", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1996, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1997,npr,5.7l+v8,3298342", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1997, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1996,nqr,3.9l+l4+diesel+turbocharged,3444377", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1996, "model": "NQR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1996,rodeo,2.6l+l4,1176959", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1996, "model": "RODEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1998,amigo,3.2l+v6,1359828", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1998, "model": "AMIGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1999,oasis,2.3l+l4,1355835", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1999, "model": "OASIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1997,rodeo,3.2l+v6,1176982", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1997, "model": "RODEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1995,npr,3.9l+l4+diesel,3296997", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1995, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1997,oasis,2.2l+l4,1377783", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1997, "model": "OASIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1998,npr,5.7l+v8,3298343", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1998, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1998,oasis,2.3l+l4,1315853", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1998, "model": "OASIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1998,npr,3.9l+l4+diesel+turbocharged,3444373", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1998, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1998,hombre,4.3l+v6,1315843", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1998, "model": "HOMBRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1999,hombre,2.2l+l4,1355802", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1999, "model": "HOMBRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1995,rodeo,3.2l+v6,1176948", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1995, "model": "RODEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1997,nqr,3.9l+l4+diesel+turbocharged,3444378", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1997, "model": "NQR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1995,f+series+truck,7.1l+l6+diesel+turbocharged,3295428", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1995, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1995,pickup,2.3l+l4,1176825", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1995, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1995,nqr,3.9l+l4+diesel+turbocharged,3444376", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1995, "model": "NQR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1998,trooper,3.5l+v6,1315883", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1998, "model": "TROOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1997,f+series+truck,7.1l+l6+diesel+turbocharged,3295442", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1997, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1999,rodeo,2.2l+l4,1355846", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1999, "model": "RODEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1995,npr,5.7l+v8,3296996", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1995, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1997,hombre,4.3l+v6,1175835", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1997, "model": "HOMBRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1999,vehicross,3.5l+v6,1355879", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1999, "model": "VEHICROSS"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1997,npr,3.9l+l4+diesel+turbocharged,3444372", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1997, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1997,rodeo,2.6l+l4,1398900", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1997, "model": "RODEO"}}}

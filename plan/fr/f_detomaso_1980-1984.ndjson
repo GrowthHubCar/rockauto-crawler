@@ -1,1 +1,4 @@
 {"node_type": "model", "href": "/en/catalog/detomaso,1982,pantera", "payload": {"nodetype": "model", "ctx": {"make": "DETOMASO", "year": 1982, "model": "PANTERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/detomaso,1984,pantera,5.8l+v8,1391307", "payload": {"nodetype": "carcode", "ctx": {"make": "DETOMASO", "year": 1984, "model": "PANTERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/detomaso,1981,pantera,5.8l+v8,1391273", "payload": {"nodetype": "carcode", "ctx": {"make": "DETOMASO", "year": 1981, "model": "PANTERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/detomaso,1983,pantera,5.8l+v8,1391295", "payload": {"nodetype": "carcode", "ctx": {"make": "DETOMASO", "year": 1983, "model": "PANTERA"}}}

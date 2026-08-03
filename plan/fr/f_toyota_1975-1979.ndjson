@@ -1,2 +1,35 @@
 {"node_type": "model", "href": "/en/catalog/toyota,1979,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1979, "model": "LAND CRUISER"}}}
 {"node_type": "model", "href": "/en/catalog/toyota,1976,mark+ii", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1976, "model": "MARK II"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1977,corolla,1.2l+l4,1274565", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1977, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1979,corona,2.2l+l4,1276006", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1979, "model": "CORONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1979,corolla,1.6l+l4,1274633", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1979, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1976,land+cruiser,4.2l+l6,1276365", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1976, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1978,celica,2.2l+l4,1273777", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1978, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1975,pickup,2.2l+l4,1277074", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1975, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1978,land+cruiser,4.2l+l6,1276387", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1978, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1978,corolla,1.6l+l4,1274600", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1978, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1977,corona,2.2l+l4,1275960", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1977, "model": "CORONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1975,land+cruiser,4.2l+l6,1276354", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1975, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1977,celica,2.2l+l4,1273766", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1977, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1979,celica,2.6l+l6,1278378", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1979, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1978,cressida,2.6l+l6,1276062", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1978, "model": "CRESSIDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1977,corolla,1.6l+l4,1274576", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1977, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1976,corolla,1.6l+l4,1274554", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1976, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1979,pickup,2.2l+l4,1277119", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1979, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1976,pickup,2.2l+l4,1277085", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1976, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1975,corona,2.2l+l4,1275926", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1975, "model": "CORONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1976,corona,2.2l+l4,1275948", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1976, "model": "CORONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1977,land+cruiser,4.2l+l6,1276376", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1977, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1975,corolla,1.2l+l4,1438468", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1975, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1979,celica,2.2l+l4,1273788", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1979, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1975,corolla,1.6l+l4,1274521", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1975, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1977,pickup,2.2l+l4,1277096", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1977, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1975,mark+ii,2.6l+l6,1276747", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1975, "model": "MARK II"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1979,cressida,2.6l+l6,1276073", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1979, "model": "CRESSIDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1979,corolla,1.2l+l4,1274622", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1979, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1976,corolla,1.2l+l4,1438467", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1976, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1978,corolla,1.2l+l4,1274598", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1978, "model": "COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1978,pickup,2.2l+l4,1277108", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1978, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1978,corona,2.2l+l4,1275982", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1978, "model": "CORONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1976,celica,2.2l+l4,1273755", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1976, "model": "CELICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1975,celica,2.2l+l4,1273744", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1975, "model": "CELICA"}}}

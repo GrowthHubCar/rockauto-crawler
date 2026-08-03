@@ -14,3 +14,4 @@
 {"node_type": "model", "href": "/en/catalog/byd,2024,shark", "payload": {"nodetype": "model", "ctx": {"make": "BYD", "year": 2024, "model": "SHARK"}}}
 {"node_type": "model", "href": "/en/catalog/byd,2024,king", "payload": {"nodetype": "model", "ctx": {"make": "BYD", "year": 2024, "model": "KING"}}}
 {"node_type": "model", "href": "/en/catalog/byd,2024,dolphin+mini", "payload": {"nodetype": "model", "ctx": {"make": "BYD", "year": 2024, "model": "DOLPHIN MINI"}}}
+{"node_type": "carcode", "href": "/en/catalog/byd,2023,dolphin,electric,3455219", "payload": {"nodetype": "carcode", "ctx": {"make": "BYD", "year": 2023, "model": "DOLPHIN"}}}

@@ -18,3 +18,4 @@
 {"node_type": "model", "href": "/en/catalog/daimler,1954,empress", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1954, "model": "EMPRESS"}}}
 {"node_type": "model", "href": "/en/catalog/daimler,1953,conquest", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1953, "model": "CONQUEST"}}}
 {"node_type": "model", "href": "/en/catalog/daimler,1954,conquest", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1954, "model": "CONQUEST"}}}
+{"node_type": "carcode", "href": "/en/catalog/daimler,1951,db18,2.5l+l6,1436597", "payload": {"nodetype": "carcode", "ctx": {"make": "DAIMLER", "year": 1951, "model": "DB18"}}}

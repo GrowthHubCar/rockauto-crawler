@@ -15,3 +15,4 @@
 {"node_type": "model", "href": "/en/catalog/fargo,1954,fc1c+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1954, "model": "FC1C PICKUP"}}}
 {"node_type": "model", "href": "/en/catalog/fargo,1954,fc1b+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1954, "model": "FC1B PICKUP"}}}
 {"node_type": "model", "href": "/en/catalog/fargo,1954,fc1b+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1954, "model": "FC1B PANEL DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/fargo,1950,f2b+pickup,3.6l+218cid+l6,1487170", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1950, "model": "F2B PICKUP"}}}

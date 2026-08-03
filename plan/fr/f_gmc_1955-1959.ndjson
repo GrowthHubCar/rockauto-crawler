@@ -3,3 +3,14 @@
 {"node_type": "model", "href": "/en/catalog/gmc,1957,truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1957, "model": "TRUCK"}}}
 {"node_type": "model", "href": "/en/catalog/gmc,1958,truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1958, "model": "TRUCK"}}}
 {"node_type": "model", "href": "/en/catalog/gmc,1959,truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1959, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1959,truck,6.1l+370cid+v8,1489314", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1959, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1957,truck,5.7l+347cid+v8,1341065", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1957, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1956,truck,4.4l+270cid+l6,1341076", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1956, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1958,truck,4.4l+270cid+l6,1341032", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1958, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1955,truck,4.7l+288cid+v8,1341098", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1955, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1955,truck,5.2l+316cid+v8,1488082", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1955, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1958,truck,5.5l+337cid+v8,1488960", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1958, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1956,truck,5.3l+324cid+v8,1488353", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1956, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1958,truck,6.1l+370cid+v8,1488961", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1958, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1955,truck,5.3l+324cid+v8,1488083", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1955, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1957,truck,6.1l+370cid+v8,1488637", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1957, "model": "TRUCK"}}}

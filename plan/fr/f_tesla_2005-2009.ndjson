@@ -1,1 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/tesla,2009,roadster", "payload": {"nodetype": "model", "ctx": {"make": "TESLA", "year": 2009, "model": "ROADSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/tesla,2008,roadster,electric,1446141", "payload": {"nodetype": "carcode", "ctx": {"make": "TESLA", "year": 2008, "model": "ROADSTER"}}}

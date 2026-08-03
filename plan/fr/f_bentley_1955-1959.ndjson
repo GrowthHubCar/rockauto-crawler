@@ -7,3 +7,4 @@
 {"node_type": "model", "href": "/en/catalog/bentley,1957,s+series", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1957, "model": "S SERIES"}}}
 {"node_type": "model", "href": "/en/catalog/bentley,1958,s+series", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1958, "model": "S SERIES"}}}
 {"node_type": "model", "href": "/en/catalog/bentley,1959,s+series", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1959, "model": "S SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,1955,s+series,4.9l+l6,1436557", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1955, "model": "S SERIES"}}}

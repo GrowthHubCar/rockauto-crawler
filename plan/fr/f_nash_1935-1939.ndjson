@@ -5,3 +5,9 @@
 {"node_type": "model", "href": "/en/catalog/nash,1938,ambassador", "payload": {"nodetype": "model", "ctx": {"make": "NASH", "year": 1938, "model": "AMBASSADOR"}}}
 {"node_type": "model", "href": "/en/catalog/nash,1939,ambassador", "payload": {"nodetype": "model", "ctx": {"make": "NASH", "year": 1939, "model": "AMBASSADOR"}}}
 {"node_type": "model", "href": "/en/catalog/nash,1936,400+series", "payload": {"nodetype": "model", "ctx": {"make": "NASH", "year": 1936, "model": "400 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1937,lafayette,235cid+l6,2002263", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1937, "model": "LAFAYETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1936,ambassador,4.3l+261cid+l8,1485735", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1936, "model": "AMBASSADOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1935,lafayette,3.6l+218cid+l6,2002155", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1935, "model": "LAFAYETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1938,lafayette,235cid+l6,2002328", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1938, "model": "LAFAYETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1936,lafayette,3.6l+218cid+l6,2002215", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1936, "model": "LAFAYETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1939,lafayette,235cid+l6,2002383", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1939, "model": "LAFAYETTE"}}}

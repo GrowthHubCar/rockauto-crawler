@@ -12,3 +12,91 @@
 {"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,cl600", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "CL600"}}}
 {"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,g500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "G500"}}}
 {"node_type": "model", "href": "/en/catalog/mercedes-benz,1998,clk430", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "CLK430"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1996,c220,2.2l+l4,1195444", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "C220"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,s500,5.0l+v8,1195804", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "S500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,e430,4.3l+v8,1316413", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "E430"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1999,clk430,4.3l+v8,1356342", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "CLK430"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,c43+amg,4.3l+v8,1359873", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "C43 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,e55+amg,5.5l+v8,3446353", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "E55 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1999,ml430,4.3l+v8,1356409", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "ML430"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1999,sl600,6.0l+v12,1356465", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "SL600"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1995,s420,4.2l+v8,1195747", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "S420"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1995,sl500,5.0l+v8,1195905", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "SL500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1999,e320,3.2l+v6,1409857", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "E320"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1999,e280,2.8l+v6,3318638", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "E280"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1999,e55+amg,5.5l+v8,1359648", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "E55 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,c280,2.8l+l6,3003324", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "C280"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1995,c36+amg,3.6l+l6,1195501", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "C36 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,sl500,5.0l+v8,1316473", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "SL500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,s500,5.0l+v8,1316453", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "S500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1996,c230,2.3l+l4+supercharged,3003500", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "C230"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1999,s600,6.0l+v12,1356443", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "S600"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,slk230,2.3l+l4+supercharged,3018378", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "SLK230"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,c280,2.8l+v6,1316353", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "C280"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1996,sl500,5.0l+v8,1195916", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "SL500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,sl320,3.2l+l6,1195882", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "SL320"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1999,slk230,2.3l+l4+supercharged,1356476", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "SLK230"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1995,e420,4.2l+v8,1195613", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "E420"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1996,c280,2.8l+l6,1195488", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "C280"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1995,c280,2.8l+l6,1195477", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "C280"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,c230,2.3l+l4,1195455", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "C230"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1999,e300,3.0l+l6+diesel+turbocharged,1376175", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "E300"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,s600,6.0l+v12,1316463", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "S600"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1999,s430,4.3l+v8,3018118", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "S430"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1999,cl500,5.0l+v8,1430268", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "CL500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,s420,4.2l+v8,1316443", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "S420"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,e320,3.2l+l6,1195590", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "E320"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1995,s500,5.0l+v8,1195781", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "S500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1999,ml320,3.2l+v6,1356397", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "ML320"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1995,s350,3.4l+l6+diesel+turbocharged,1195725", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "S350"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1999,c230,2.3l+l4+supercharged,1356285", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "C230"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,c220,2.2l+l4,3003283", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "C220"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1996,e300,3.0l+l6+diesel+turbocharged,3017972", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "E300"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1996,e320,3.2l+l6,1195589", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "E320"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,clk320,3.2l+v6,3017918", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "CLK320"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1995,e300,3.0l+l6+diesel,1195534", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "E300"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,cl600,6.0l+v12,1316373", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "CL600"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1995,s600,6.0l+v12,1195826", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "S600"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,c230,2.3l+l4,1316343", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "C230"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,s320,3.2l+l6,1195679", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "S320"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,sl500,5.0l+v8,1195927", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "SL500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,s600,6.0l+v12,1195848", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "S600"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,cl500,5.0l+v8,951500", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "CL500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,ml320,3.2l+v6,1316423", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "ML320"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1996,sl320,3.2l+l6,1195871", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "SL320"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1996,s600,6.0l+v12,1195837", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "S600"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,ml430,4.3l+v8+sohc,3318652", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "ML430"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1996,cl600,6.0l+v12,3018102", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "CL600"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1995,s600l,6.0l+v12,3442442", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "S600L"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1996,cl500,5.0l+v8,3442437", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "CL500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,e420,4.2l+v8,3318640", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "E420"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1996,e300,3.0l+l6+diesel,1195545", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "E300"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1996,c36+amg,3.6l+l6,1195512", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "C36 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1996,sl600,6.0l+v12,1195950", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "SL600"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1995,e320,3.2l+l6,1195578", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "E320"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1999,s500,5.0l+v8,1356432", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "S500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,c36+amg,3.6l+l6,1195523", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "C36 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,sl600,6.0l+v12,1316483", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "SL600"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,e300,3.0l+l6+diesel+turbocharged,1305188", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "E300"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,c230,2.3l+l4+supercharged,3003501", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "C230"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1999,clk320,3.2l+v6,1356331", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "CLK320"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1995,sl600,6.0l+v12,1195949", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "SL600"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,e420,4.2l+v8,1195624", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "E420"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1999,s420,4.2l+v8,1356421", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "S420"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,slk230,2.3l+l4+supercharged,1305199", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "SLK230"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,e300,3.0l+l6+diesel+turbocharged,3007983", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "E300"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1999,c43+amg,4.3l+v8,1356308", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "C43 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1996,s320,3.2l+l6,1195668", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "S320"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,cl500,5.0l+v8,1316363", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "CL500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,sl600,6.0l+v12,1195961", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "SL600"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1995,s320,3.2l+l6,1195657", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "S320"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1995,c220,2.2l+l4,1195433", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "C220"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,s320,3.2l+l6,1316433", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "S320"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,e320,3.2l+v6,1316403", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "E320"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,c280,2.8l+l6,1195499", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "C280"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,sl60+amg,6.0l+v8,951504", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "SL60 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,s-class,5.0l+8cyl,3133579", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "S-CLASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1995,sl320,3.2l+l6,1195860", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "SL320"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1996,s420,4.2l+v8,1195758", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "S420"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1996,s500,5.0l+v8,1195792", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "S500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,clk320,3.2l+v6,1376186", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "CLK320"}}}

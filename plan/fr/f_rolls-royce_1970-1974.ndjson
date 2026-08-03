@@ -7,3 +7,6 @@
 {"node_type": "model", "href": "/en/catalog/rolls-royce,1972,corniche", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1972, "model": "CORNICHE"}}}
 {"node_type": "model", "href": "/en/catalog/rolls-royce,1973,corniche", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1973, "model": "CORNICHE"}}}
 {"node_type": "model", "href": "/en/catalog/rolls-royce,1974,corniche", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1974, "model": "CORNICHE"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1971,silver+shadow,6.8l+v8,1405819", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1971, "model": "SILVER SHADOW"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1971,silver+shadow,6.2l+v8,1397099", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1971, "model": "SILVER SHADOW"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1971,corniche,6.8l+v8,1405808", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1971, "model": "CORNICHE"}}}

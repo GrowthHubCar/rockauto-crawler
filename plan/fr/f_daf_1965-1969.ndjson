@@ -1,3 +1,11 @@
 {"node_type": "model", "href": "/en/catalog/daf,1968,american", "payload": {"nodetype": "model", "ctx": {"make": "DAF", "year": 1968, "model": "AMERICAN"}}}
 {"node_type": "model", "href": "/en/catalog/daf,1968,55", "payload": {"nodetype": "model", "ctx": {"make": "DAF", "year": 1968, "model": "55"}}}
 {"node_type": "model", "href": "/en/catalog/daf,1968,44", "payload": {"nodetype": "model", "ctx": {"make": "DAF", "year": 1968, "model": "44"}}}
+{"node_type": "carcode", "href": "/en/catalog/daf,1969,44,844cc+h2,1438775", "payload": {"nodetype": "carcode", "ctx": {"make": "DAF", "year": 1969, "model": "44"}}}
+{"node_type": "carcode", "href": "/en/catalog/daf,1966,american,746cc+h2,1438721", "payload": {"nodetype": "carcode", "ctx": {"make": "DAF", "year": 1966, "model": "AMERICAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/daf,1967,american,746cc+h2,1438720", "payload": {"nodetype": "carcode", "ctx": {"make": "DAF", "year": 1967, "model": "AMERICAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/daf,1967,44,844cc+h2,1438777", "payload": {"nodetype": "carcode", "ctx": {"make": "DAF", "year": 1967, "model": "44"}}}
+{"node_type": "carcode", "href": "/en/catalog/daf,1967,55,1.1l+l4,1438985", "payload": {"nodetype": "carcode", "ctx": {"make": "DAF", "year": 1967, "model": "55"}}}
+{"node_type": "carcode", "href": "/en/catalog/daf,1969,55,1.1l+l4,1438983", "payload": {"nodetype": "carcode", "ctx": {"make": "DAF", "year": 1969, "model": "55"}}}
+{"node_type": "carcode", "href": "/en/catalog/daf,1965,american,746cc+h2,1438722", "payload": {"nodetype": "carcode", "ctx": {"make": "DAF", "year": 1965, "model": "AMERICAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/daf,1969,american,746cc+h2,1438718", "payload": {"nodetype": "carcode", "ctx": {"make": "DAF", "year": 1969, "model": "AMERICAN"}}}

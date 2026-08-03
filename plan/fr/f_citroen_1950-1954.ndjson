@@ -11,3 +11,5 @@
 {"node_type": "model", "href": "/en/catalog/citroen,1952,15", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1952, "model": "15"}}}
 {"node_type": "model", "href": "/en/catalog/citroen,1953,15", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1953, "model": "15"}}}
 {"node_type": "model", "href": "/en/catalog/citroen,1954,15", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1954, "model": "15"}}}
+{"node_type": "carcode", "href": "/en/catalog/citroen,1951,2cv,375cc+h2,1436322", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1951, "model": "2CV"}}}
+{"node_type": "carcode", "href": "/en/catalog/citroen,1951,11,1.9l+l4,1436367", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1951, "model": "11"}}}

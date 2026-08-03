@@ -14,3 +14,8 @@
 {"node_type": "model", "href": "/en/catalog/packard,1933,super+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1933, "model": "SUPER EIGHT"}}}
 {"node_type": "model", "href": "/en/catalog/packard,1933,model+1006", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1933, "model": "MODEL 1006"}}}
 {"node_type": "model", "href": "/en/catalog/packard,1933,custom+twelve", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1933, "model": "CUSTOM TWELVE"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1934,super+eight,385cid+l8,952688", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1934, "model": "SUPER EIGHT"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1933,twelve,456cid+v12,952605", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1933, "model": "TWELVE"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1932,twin+six+custom,456cid+v12,952531", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1932, "model": "TWIN SIX CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1930,standard+eight,320cid+l8,952384", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1930, "model": "STANDARD EIGHT"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1934,twelve,456cid+v12,952689", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1934, "model": "TWELVE"}}}

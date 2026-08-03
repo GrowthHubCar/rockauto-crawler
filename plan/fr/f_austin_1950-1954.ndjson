@@ -22,3 +22,5 @@
 {"node_type": "model", "href": "/en/catalog/austin,1954,somerset", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1954, "model": "SOMERSET"}}}
 {"node_type": "model", "href": "/en/catalog/austin,1952,seven", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1952, "model": "SEVEN"}}}
 {"node_type": "model", "href": "/en/catalog/austin,1954,seven", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1954, "model": "SEVEN"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin,1952,sheerline,4.0l+l6,1436539", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN", "year": 1952, "model": "SHEERLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin,1953,seven,803cc+l4,1436487", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN", "year": 1953, "model": "SEVEN"}}}

@@ -2,3 +2,13 @@
 {"node_type": "model", "href": "/en/catalog/peugeot,1979,504", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1979, "model": "504"}}}
 {"node_type": "model", "href": "/en/catalog/peugeot,1978,604", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1978, "model": "604"}}}
 {"node_type": "model", "href": "/en/catalog/peugeot,1979,604", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1979, "model": "604"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,1978,604,2.8l+v6,1503122", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1978, "model": "604"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,1977,604,2.8l+v6,1503121", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1977, "model": "604"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,1976,504,2.0l+l4,1227204", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1976, "model": "504"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,1979,604,2.8l+v6,1227978", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1979, "model": "604"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,1976,504,2.1l+l4+diesel,1227215", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1976, "model": "504"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,1977,604,2.7l+l6,1227956", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1977, "model": "604"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,1977,504,2.3l+l4+diesel,1227237", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1977, "model": "504"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,1977,504,2.0l+l4,1227226", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1977, "model": "504"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,1975,504,2.0l+l4,1227181", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1975, "model": "504"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,1975,504,2.1l+l4+diesel,1227192", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1975, "model": "504"}}}

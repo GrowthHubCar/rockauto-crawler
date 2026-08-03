@@ -14,3 +14,15 @@
 {"node_type": "model", "href": "/en/catalog/ferrari,1974,dino+308+gt4", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1974, "model": "DINO 308 GT4"}}}
 {"node_type": "model", "href": "/en/catalog/ferrari,1974,365+gt4+bb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1974, "model": "365 GT4 BB"}}}
 {"node_type": "model", "href": "/en/catalog/ferrari,1972,365+gtc/4", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1972, "model": "365 GTC/4"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1970,365+gtb/4,4.4l+v12,1291182", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1970, "model": "365 GTB/4"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1971,365+gt,4.4l+v12,1435868", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1971, "model": "365 GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1971,365+gts/4,4.4l+v12,1291968", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1971, "model": "365 GTS/4"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1970,365+gt,4.4l+v12,1291171", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1970, "model": "365 GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1971,365+gtc/4,4.4l+v12,1291957", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1971, "model": "365 GTC/4"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1970,365+gts,4.4l+v12,1291205", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1970, "model": "365 GTS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1971,365+gtb/4,4.4l+v12,1291946", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1971, "model": "365 GTB/4"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1970,dino+246+gt,2.4l+v6,1291227", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1970, "model": "DINO 246 GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1970,365+gtc,4.4l+v12,1291193", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1970, "model": "365 GTC"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1970,365+gts/4,4.4l+v12,1291216", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1970, "model": "365 GTS/4"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1971,dino+246+gt,2.4l+v6,1291979", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1971, "model": "DINO 246 GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1972,dino+246+gts,2.4l+v6,1292701", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1972, "model": "DINO 246 GTS"}}}

@@ -16,3 +16,22 @@
 {"node_type": "model", "href": "/en/catalog/renault,2008,euro+clio", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2008, "model": "EURO CLIO"}}}
 {"node_type": "model", "href": "/en/catalog/renault,2009,safrane", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2009, "model": "SAFRANE"}}}
 {"node_type": "model", "href": "/en/catalog/renault,2009,koleos", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2009, "model": "KOLEOS"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2009,megane,1.6l+l4,3009963", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2009, "model": "MEGANE"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2007,kangoo,1.6l+l4,950963", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2007, "model": "KANGOO"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2006,clio,2.0l+l4,950896", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2006, "model": "CLIO"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2007,clio,1.6l+l4,950955", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2007, "model": "CLIO"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2005,scenic+ii,2.0l+l4,2002629", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2005, "model": "SCENIC II"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2009,trafic,1.9l+l4+diesel+turbocharged,3353952", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2009, "model": "TRAFIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2005,laguna,2.9l+v6,950853", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2005, "model": "LAGUNA"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2008,kangoo,1.6l+l4,950986", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2008, "model": "KANGOO"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2007,euro+clio,1.6l+l4,2002663", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2007, "model": "EURO CLIO"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2007,megane,2.0l+l4,950975", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2007, "model": "MEGANE"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2009,kangoo,1.5l+l4+diesel+turbocharged,3006004", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2009, "model": "KANGOO"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2008,megane,2.0l+l4,951692", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2008, "model": "MEGANE"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2008,trafic,1.9l+l4+diesel+turbocharged,951697", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2008, "model": "TRAFIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2006,laguna,2.0l+l4+turbocharged,950919", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2006, "model": "LAGUNA"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2006,megane,2.0l+l4,950930", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2006, "model": "MEGANE"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2005,megane,2.0l+l4,950863", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2005, "model": "MEGANE"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2008,megane,1.6l+l4,3009962", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2008, "model": "MEGANE"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2007,scenic+ii,2.0l+l4,2002666", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2007, "model": "SCENIC II"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2005,megane,2.0l+l4+turbocharged,950864", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2005, "model": "MEGANE"}}}

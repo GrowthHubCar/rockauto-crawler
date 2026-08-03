@@ -21,3 +21,4 @@
 {"node_type": "model", "href": "/en/catalog/ferrari,1953,340+america", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1953, "model": "340 AMERICA"}}}
 {"node_type": "model", "href": "/en/catalog/ferrari,1954,250+gt", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1954, "model": "250 GT"}}}
 {"node_type": "model", "href": "/en/catalog/ferrari,1954,250+europa", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1954, "model": "250 EUROPA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1953,375+america,4.5l+v12,1435621", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1953, "model": "375 AMERICA"}}}

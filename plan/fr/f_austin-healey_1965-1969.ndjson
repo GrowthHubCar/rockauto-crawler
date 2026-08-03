@@ -2,3 +2,8 @@
 {"node_type": "model", "href": "/en/catalog/austin-healey,1969,sprite", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN-HEALEY", "year": 1969, "model": "SPRITE"}}}
 {"node_type": "model", "href": "/en/catalog/austin-healey,1966,3000", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN-HEALEY", "year": 1966, "model": "3000"}}}
 {"node_type": "model", "href": "/en/catalog/austin-healey,1967,3000", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN-HEALEY", "year": 1967, "model": "3000"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin-healey,1966,sprite,1.1l+l4,1318788", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN-HEALEY", "year": 1966, "model": "SPRITE"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin-healey,1966,sprite,1.3l+l4,1440317", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN-HEALEY", "year": 1966, "model": "SPRITE"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin-healey,1968,sprite,1.3l+l4,1403604", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN-HEALEY", "year": 1968, "model": "SPRITE"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin-healey,1965,3000,2.9l+l6,1492204", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN-HEALEY", "year": 1965, "model": "3000"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin-healey,1965,sprite,1.1l+l4,1318801", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN-HEALEY", "year": 1965, "model": "SPRITE"}}}

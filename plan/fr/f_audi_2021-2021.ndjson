@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2021,sq8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2021, "model": "SQ8"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2021,sq7", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2021, "model": "SQ7"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2021,s7", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2021, "model": "S7"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2021,s8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2021, "model": "S8"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2021,sq5", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2021, "model": "SQ5"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2021,tt", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2021, "model": "TT"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2021,s6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2021, "model": "S6"}}}

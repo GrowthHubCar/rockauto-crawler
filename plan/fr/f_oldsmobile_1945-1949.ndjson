@@ -11,3 +11,10 @@
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1946,series+66", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1946, "model": "SERIES 66"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1947,series+66", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1947, "model": "SERIES 66"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1948,series+66", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1948, "model": "SERIES 66"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1948,series+98,4.2l+257cid+l8,1486867", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1948, "model": "SERIES 98"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1946,series+98,4.2l+257cid+l8,1486538", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1946, "model": "SERIES 98"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1949,series+88,5.0l+303cid+v8,1487066", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1949, "model": "SERIES 88"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1949,series+76,4.2l+257cid+l6,1487064", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1949, "model": "SERIES 76"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1946,special,all+engines,124559", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1946, "model": "SPECIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1949,series+98,5.0l+303cid+v8,1487067", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1949, "model": "SERIES 98"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1947,series+98,4.2l+257cid+l8,1486703", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1947, "model": "SERIES 98"}}}

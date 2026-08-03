@@ -7,3 +7,39 @@
 {"node_type": "model", "href": "/en/catalog/volkswagen,1972,safari", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1972, "model": "SAFARI"}}}
 {"node_type": "model", "href": "/en/catalog/volkswagen,1973,safari", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1973, "model": "SAFARI"}}}
 {"node_type": "model", "href": "/en/catalog/volkswagen,1974,brasilia", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1974, "model": "BRASILIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1974,campmobile,1.8l+h4,1368930", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1974, "model": "CAMPMOBILE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1974,412,1.7l+h4,1280135", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1974, "model": "412"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1970,karmann+ghia,1.6l+h4,1284162", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1970, "model": "KARMANN GHIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1973,super+beetle,1.6l+h4,1370180", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1973, "model": "SUPER BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1971,safari,1.5l+h4,3441786", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1971, "model": "SAFARI"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1972,squareback,1.6l+h4,1370056", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1972, "model": "SQUAREBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1971,411,1.7l+h4,1368783", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1971, "model": "411"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1973,411,1.7l+h4,1499737", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1973, "model": "411"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1972,transporter,1.6l+h4,1441343", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1972, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1973,combi,1.5l+h4,3441489", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1973, "model": "COMBI"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1973,campmobile,1.7l+h4,1280607", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1973, "model": "CAMPMOBILE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1971,fastback,1.6l+h4,1369201", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1971, "model": "FASTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1973,thing,1.6l+h4,1285770", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1973, "model": "THING"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1970,squareback,1.6l+h4,1370102", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1970, "model": "SQUAREBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1973,beetle,1.6l+h4,1368851", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1973, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1970,transporter,1.6l+h4,1285815", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1970, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1970,beetle,1.6l+h4,1280179", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1970, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1972,beetle,1.6l+h4,1280191", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1972, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1970,campmobile,1.6l+h4,1280573", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1970, "model": "CAMPMOBILE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1972,combi,1.5l+h4,3441488", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1972, "model": "COMBI"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1972,karmann+ghia,1.6l+h4,1284184", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1972, "model": "KARMANN GHIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1971,squareback,1.6l+h4,1370089", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1971, "model": "SQUAREBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1974,dasher,1.5l+l4,1280821", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1974, "model": "DASHER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1973,transporter,1.7l+h4,1441346", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1973, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1973,transporter,1.6l+h4,1499742", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1973, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1971,transporter,1.6l+h4,1370483", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1971, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1972,campmobile,1.7l+h4,1280595", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1972, "model": "CAMPMOBILE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1971,beetle,1.6l+h4,1280180", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1971, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1972,411,1.7l+h4,1368772", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1972, "model": "411"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1971,campmobile,1.6l+h4,1368996", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1971, "model": "CAMPMOBILE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1972,super+beetle,1.6l+h4,1409352", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1972, "model": "SUPER BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1971,super+beetle,1.6l+h4,1409341", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1971, "model": "SUPER BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1973,412,1.7l+h4,1280124", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1973, "model": "412"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1973,karmann+ghia,1.6l+h4,1369885", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1973, "model": "KARMANN GHIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1972,transporter,1.7l+h4,1370472", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1972, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1973,squareback,1.6l+h4,1370023", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1973, "model": "SQUAREBACK"}}}

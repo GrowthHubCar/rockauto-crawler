@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1973,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1973, "model": "LESABRE"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1973,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1973, "model": "RIVIERA"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1973,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1973, "model": "CENTURY"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1973,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1973, "model": "REGAL"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,1960,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1960, "model": "TRANSPORTER"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1960,karmann+ghia", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1960, "model": "KARMANN GHIA"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1960,beetle", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1960, "model": "BEETLE"}}}

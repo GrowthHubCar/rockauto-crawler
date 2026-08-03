@@ -7,3 +7,7 @@
 {"node_type": "model", "href": "/en/catalog/porsche,1957,carrera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1957, "model": "CARRERA"}}}
 {"node_type": "model", "href": "/en/catalog/porsche,1958,carrera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1958, "model": "CARRERA"}}}
 {"node_type": "model", "href": "/en/catalog/porsche,1959,carrera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1959, "model": "CARRERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1956,356a,1.6l+h4,1435132", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1956, "model": "356A"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1956,carrera,1.5l+h4,1396481", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1956, "model": "CARRERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1955,356a,1.6l+h4,1488150", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1955, "model": "356A"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1955,356,1.3l+h4,1396324", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1955, "model": "356"}}}

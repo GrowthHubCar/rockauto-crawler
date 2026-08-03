@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2007,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2007, "model": "SONATA"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2007,tiburon", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2007, "model": "TIBURON"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2007,tucson", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2007, "model": "TUCSON"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2007,santa+fe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2007, "model": "SANTA FE"}}}

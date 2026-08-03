@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jeep,2010,commander", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2010, "model": "COMMANDER"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,2010,grand+cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2010, "model": "GRAND CHEROKEE"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,2010,compass", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2010, "model": "COMPASS"}}}

@@ -1,2 +1,5 @@
 {"node_type": "model", "href": "/en/catalog/honda,1970,600", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1970, "model": "600"}}}
 {"node_type": "model", "href": "/en/catalog/honda,1971,600", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1971, "model": "600"}}}
+{"node_type": "carcode", "href": "/en/catalog/honda,1974,civic,1.2l+l4,1167566", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 1974, "model": "CIVIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/honda,1972,600,598cc+l2,1438290", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 1972, "model": "600"}}}
+{"node_type": "carcode", "href": "/en/catalog/honda,1973,civic,1.2l+l4,1167555", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 1973, "model": "CIVIC"}}}

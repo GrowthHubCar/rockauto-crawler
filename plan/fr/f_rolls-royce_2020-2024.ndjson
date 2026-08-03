@@ -8,3 +8,13 @@
 {"node_type": "model", "href": "/en/catalog/rolls-royce,2023,cullinan", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2023, "model": "CULLINAN"}}}
 {"node_type": "model", "href": "/en/catalog/rolls-royce,2024,cullinan", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2024, "model": "CULLINAN"}}}
 {"node_type": "model", "href": "/en/catalog/rolls-royce,2024,spectre", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2024, "model": "SPECTRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2020,phantom,6.7l+v12+turbocharged,3445485", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2020, "model": "PHANTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2021,phantom,6.7l+v12+turbocharged,3450293", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2021, "model": "PHANTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2021,ghost,6.7l+v12+turbocharged,3450291", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2021, "model": "GHOST"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2020,dawn,6.6l+v12+turbocharged,3446825", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2020, "model": "DAWN"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2021,cullinan,6.7l+v12+turbocharged,3450289", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2021, "model": "CULLINAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2021,wraith,6.6l+v12+turbocharged,3450294", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2021, "model": "WRAITH"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2020,ghost,6.6l+v12+turbocharged,3446826", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2020, "model": "GHOST"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2020,cullinan,6.7l+v12+turbocharged,3445484", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2020, "model": "CULLINAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2020,wraith,6.6l+v12+turbocharged,3446827", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2020, "model": "WRAITH"}}}
+{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2021,dawn,6.6l+v12+turbocharged,3450290", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2021, "model": "DAWN"}}}

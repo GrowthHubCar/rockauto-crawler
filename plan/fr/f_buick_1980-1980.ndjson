@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1980,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1980, "model": "SKYLARK"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1980,skyhawk", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1980, "model": "SKYHAWK"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1980,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1980, "model": "RIVIERA"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1980,electra", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1980, "model": "ELECTRA"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1980,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1980, "model": "LESABRE"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1980,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1980, "model": "REGAL"}}}

@@ -22,3 +22,9 @@
 {"node_type": "model", "href": "/en/catalog/ferrari,1984,400i", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1984, "model": "400I"}}}
 {"node_type": "model", "href": "/en/catalog/ferrari,1983,mondial", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1983, "model": "MONDIAL"}}}
 {"node_type": "model", "href": "/en/catalog/ferrari,1984,mondial", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1984, "model": "MONDIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1980,512+bb,4.9l+h12,1297908", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1980, "model": "512 BB"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1981,512+bb,4.9l+h12,907683", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1981, "model": "512 BB"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1983,308+gtb,3.0l+v8,1299393", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1983, "model": "308 GTB"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1983,308+gts,3.0l+v8,1299405", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1983, "model": "308 GTS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1980,308+gts,3.0l+v8,1297896", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1980, "model": "308 GTS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,1980,308+gtb,3.0l+v8,1297885", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1980, "model": "308 GTB"}}}

@@ -1,1 +1,5 @@
 {"node_type": "model", "href": "/en/catalog/plymouth,1994,sundance", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1994, "model": "SUNDANCE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1990,colt+gl,1.5l+90cid+l4,1231119", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1990, "model": "COLT GL"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1990,laser,2.0l+122cid+l4+turbocharged,1238239", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1990, "model": "LASER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1990,colt+dl,1.8l+107cid+l4,1231108", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1990, "model": "COLT DL"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1990,laser,1.8l+107cid+l4,1238206", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1990, "model": "LASER"}}}

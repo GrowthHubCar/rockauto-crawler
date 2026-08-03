@@ -3,3 +3,52 @@
 {"node_type": "model", "href": "/en/catalog/plymouth,1997,neon", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1997, "model": "NEON"}}}
 {"node_type": "model", "href": "/en/catalog/plymouth,1998,breeze", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1998, "model": "BREEZE"}}}
 {"node_type": "model", "href": "/en/catalog/plymouth,1995,acclaim", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1995, "model": "ACCLAIM"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1997,prowler,3.5l+v6,1303232", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1997, "model": "PROWLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1999,grand+voyager,3.0l+v6,1356971", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1999, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1996,neon,2.0l+l4+dohc,1238420", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1996, "model": "NEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1997,voyager,3.8l+v6,1441737", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1997, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1996,neon,2.0l+l4+sohc,1238419", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1996, "model": "NEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1997,grand+voyager,3.0l+v6,1237452", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1997, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1997,voyager,3.3l+v6,1244584", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1997, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1999,breeze,2.4l+l4,1356960", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1999, "model": "BREEZE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1995,neon,2.0l+l4+dohc,1238385", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1995, "model": "NEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1995,voyager,electric,1244461", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1995, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1998,breeze,2.0l+l4,1316943", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1998, "model": "BREEZE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1998,voyager,3.8l+v6,1359929", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1998, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1995,voyager,3.3l+v6,1244449", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1995, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1998,grand+voyager,3.8l+v6,1441736", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1998, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1995,grand+voyager,3.8l+v6,1237328", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1995, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1999,neon,2.0l+l4+dohc,1357006", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1999, "model": "NEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1998,voyager,electric,1401905", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1998, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1999,voyager,3.0l+v6,1357039", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1999, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1999,voyager,3.8l+v6,1364352", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1999, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1998,neon,2.0l+l4+dohc,1316973", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1998, "model": "NEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1999,grand+voyager,3.8l+v6,1364341", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1999, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1995,colt,1.5l+l4,1438576", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1995, "model": "COLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1996,grand+voyager,3.3l+v6,1237430", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1996, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1996,grand+voyager,3.0l+v6,1237373", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1996, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1999,neon,2.0l+l4+sohc,1356993", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1999, "model": "NEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1996,breeze,2.0l+l4,1229284", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1996, "model": "BREEZE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1995,grand+voyager,3.3l+v6,1310005", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1995, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1999,voyager,electric,1359671", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1999, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1996,grand+voyager,2.4l+l4,1237362", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1996, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1997,voyager,3.0l+v6,1244573", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1997, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1999,grand+voyager,3.3l+v6,1356982", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1999, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1998,grand+voyager,3.3l+v6,1359895", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1998, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1998,voyager,3.3l+v6,1317003", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1998, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1996,grand+voyager,3.8l+v6,1517", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1996, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1995,acclaim,3.0l+v6,1228294", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1995, "model": "ACCLAIM"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1995,voyager,2.5l+l4,1244427", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1995, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1997,voyager,2.4l+l4,1244562", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1997, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1995,voyager,3.0l+v6,1244438", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1995, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1996,voyager,3.0l+v6,1244528", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1996, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1996,voyager,2.4l+l4,1244517", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1996, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1995,grand+voyager,3.0l+v6,1237317", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1995, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1997,grand+voyager,2.4l+l4,1237441", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1997, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1998,voyager,3.0l+v6,1316993", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1998, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1998,neon,2.0l+l4+sohc,1316963", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1998, "model": "NEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1997,neon,2.0l+l4+dohc,1238486", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1997, "model": "NEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1996,voyager,3.3l+v6,1244551", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1996, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1996,breeze,2.4l+l4,1438517", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1996, "model": "BREEZE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1999,prowler,3.5l+v6,1357017", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1999, "model": "PROWLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1995,neon,2.0l+l4+sohc,1238363", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1995, "model": "NEON"}}}

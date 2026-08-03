@@ -6,3 +6,112 @@
 {"node_type": "model", "href": "/en/catalog/dodge,2004,sprinter+2500", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2004, "model": "SPRINTER 2500"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,2003,intrepid", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2003, "model": "INTREPID"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,2000,caravan", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2000, "model": "CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,stratus,3.0l+v6,1424764", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,ram+4000,5.9l+v8,951348", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "RAM 4000"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,ram+3500+van,5.9l+v8,1372092", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "RAM 3500 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,grand+caravan,3.0l+v6,1361854", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "GRAND CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,verna,1.6l+l4,951359", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "VERNA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,ram+1500+pickup,5.7l+v8,1424630", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "RAM 1500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+4000,5.7l+v8,951342", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 4000"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,ram+1500+van,5.9l+v8,1372014", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "RAM 1500 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,grand+caravan,3.3l+v6,1424528", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "GRAND CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,stratus,2.4l+l4+sohc,1431887", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,stratus,2.4l+l4+turbocharged,951353", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+4000,5.9l+v8,3444056", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 4000"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,stratus,2.4l+l4+turbocharged,951354", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+1500+pickup,3.7l+v6,1384725", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 1500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,grand+caravan,3.8l+v6,1384657", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "GRAND CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,stratus,2.0l+l4,3038770", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+3500+van,5.2l+v8,1391420", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 3500 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,ram+1500+pickup,8.3l+v10,1431797", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "RAM 1500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,ram+3500+pickup,5.9l+v8,1366657", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "RAM 3500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,stratus,2.7l+v6,1413638", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,dakota,3.9l+v6,1384590", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "DAKOTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,durango,3.7l+v6,1429231", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "DURANGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,ram+3500+pickup,8.0l+v10,1413571", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "RAM 3500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,intrepid,2.7l+v6,1424540", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "INTREPID"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,ram+2500+pickup,5.9l+v8,1362013", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "RAM 2500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,sprinter+3500,2.7l+l5+diesel+turbocharged,1434746", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "SPRINTER 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+2500+pickup,5.9l+l6+diesel+turbocharged,1440064", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 2500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,dakota,4.7l+v8,1361809", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "DAKOTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,dakota,5.9l+v8,1371899", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "DAKOTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,stratus,2.4l+l4+sohc,1431889", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,stratus,2.4l+l4+dohc,1384860", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,ram+3500+van,5.9l+v8,1413627", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "RAM 3500 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+1500+pickup,3.9l+v6,3048957", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 1500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,ram+2500+van,5.9l+v8,1413548", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "RAM 2500 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,dakota,2.5l+l4,1380428", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "DAKOTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,dakota,4.7l+v8,1430082", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "DAKOTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,ram+3500+van,5.2l+v8,1413605", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "RAM 3500 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,neon,2.0l+l4,1432877", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "NEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,stratus,3.0l+v6,1384882", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,sprinter+2500,2.7l+l5+diesel+turbocharged,1441895", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "SPRINTER 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,stratus,2.4l+l4+dohc,1400544", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,ramcharger,5.9l+v8,3049116", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "RAMCHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+3500+pickup,5.9l+l6+diesel+turbocharged,1441320", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 3500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,neon,2.4l+l4+turbocharged,1424607", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "NEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,ram+2500+van,5.9l+v8,1362046", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "RAM 2500 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,stratus,2.4l+l4+sohc,1431885", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,stratus,2.4l+l4+turbocharged,951355", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,sx+2.0,2.0l+l4,1438561", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "SX 2.0"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,ram+3500+pickup,5.7l+v8,1424719", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "RAM 3500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,ram+3500+pickup,8.0l+v10,1366646", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "RAM 3500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,intrepid,3.2l+v6,1431786", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "INTREPID"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+3500+van,5.9l+v8,1391442", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 3500 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,ram+3500+pickup,5.9l+v8,1413593", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "RAM 3500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,atos,1000cc+l4,951318", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "ATOS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,viper,8.0l+v10,1384893", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "VIPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,viper,8.0l+v10,1372148", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "VIPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,ram+2500+pickup,5.9l+l6+diesel+turbocharged,1424641", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "RAM 2500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+3500+pickup,5.9l+v8,1384804", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 3500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,neon,2.0l+l4,1424595", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "NEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,ram+2500+pickup,5.9l+v8,1366624", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "RAM 2500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,viper,8.3l+v10,1424775", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "VIPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,ramcharger,5.2l+v8,3049113", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "RAMCHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,stratus,2.7l+v6,1413661", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,sprinter+3500,2.7l+l5+diesel+turbocharged,1441894", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "SPRINTER 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,stratus,2.4l+l4+dohc,1413650", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,ram+2500+pickup,5.7l+v8,1413504", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "RAM 2500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,grand+caravan,3.8l+v6,1424539", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "GRAND CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,viper,8.3l+v10,1410556", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "VIPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,ram+2500+van,3.9l+v6,1438409", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "RAM 2500 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,ram+2500+pickup,5.9l+l6+diesel+turbocharged,1366602", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "RAM 2500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,neon,2.0l+l4,1432876", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "NEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,stratus,2.5l+v6,1362147", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,ram+2500+pickup,8.0l+v10,1413492", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "RAM 2500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+3500+pickup,8.0l+v10,1384792", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 3500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,durango,5.7l+v8,1429253", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "DURANGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,grand+caravan,3.3l+v6,1434720", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "GRAND CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+2500+van,5.9l+v8,1391419", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 2500 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,stratus,2.0l+l4,1362125", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,stratus,2.7l+v6,1384848", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,ram+1500+pickup,3.9l+v6,1366578", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "RAM 1500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,caravan,2.4l+l4,1430077", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,stratus,2.4l+l4+turbocharged,951352", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,stratus,2.4l+l4+turbocharged,951351", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,verna,1.5l+l4,3043681", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "VERNA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,durango,4.7l+v8,1384624", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "DURANGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,ramcharger,5.2l+v8,3049112", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "RAMCHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,ram+2500+pickup,5.9l+l6+diesel+turbocharged,1361999", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "RAM 2500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,stratus,2.7l+v6,1433860", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,stratus,3.0l+v6,1372137", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,intrepid,2.7l+v6,1361898", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "INTREPID"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,neon,2.0l+l4,1413234", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "NEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,dakota,2.5l+l4,1361786", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "DAKOTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,dakota,5.9l+v8,1413021", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "DAKOTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,intrepid,3.5l+v6,1400566", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "INTREPID"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,ram+1500+pickup,5.2l+v8,1361944", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "RAM 1500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,ram+3500+pickup,5.9l+l6+diesel+turbocharged,1424696", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "RAM 3500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+1500+pickup,4.7l+v8,1384736", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 1500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,ram+3500+pickup,5.9l+v8,1362079", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "RAM 3500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,durango,5.9l+v8,1413122", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "DURANGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,ram+2500+pickup,5.2l+v8,3289200", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "RAM 2500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,viper,8.0l+v10,1362158", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "VIPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,ram+3500+van,5.2l+v8,1362091", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "RAM 3500 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,stratus,2.4l+l4,1362136", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,caravan,2.4l+l4,1371844", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,ram+2500+pickup,5.7l+v8,1424674", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "RAM 2500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,stratus,3.0l+v6,1413672", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,sx+2.0,2.0l+l4,1438562", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "SX 2.0"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,intrepid,3.2l+v6,1371967", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "INTREPID"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,ram+2500+pickup,8.0l+v10,1366613", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "RAM 2500 PICKUP"}}}

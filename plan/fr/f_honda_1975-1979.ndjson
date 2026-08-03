@@ -1,2 +1,17 @@
 {"node_type": "model", "href": "/en/catalog/honda,1979,accord", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1979, "model": "ACCORD"}}}
 {"node_type": "model", "href": "/en/catalog/honda,1979,prelude", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1979, "model": "PRELUDE"}}}
+{"node_type": "carcode", "href": "/en/catalog/honda,1975,civic,1.5l+l4,1167588", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 1975, "model": "CIVIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/honda,1979,civic,1.2l+l4,1167656", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 1979, "model": "CIVIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/honda,1979,civic,1.5l+l4,1167667", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 1979, "model": "CIVIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/honda,1977,civic,1.2l+l4,1167612", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 1977, "model": "CIVIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/honda,1979,prelude,1.8l+l4,1169546", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 1979, "model": "PRELUDE"}}}
+{"node_type": "carcode", "href": "/en/catalog/honda,1979,accord,1.8l+l4,1166554", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 1979, "model": "ACCORD"}}}
+{"node_type": "carcode", "href": "/en/catalog/honda,1975,civic,1.2l+l4,1167577", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 1975, "model": "CIVIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/honda,1978,civic,1.2l+l4,1167634", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 1978, "model": "CIVIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/honda,1976,civic,1.2l+l4,1167599", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 1976, "model": "CIVIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/honda,1978,accord,1.6l+l4,1166521", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 1978, "model": "ACCORD"}}}
+{"node_type": "carcode", "href": "/en/catalog/honda,1977,civic,1.5l+l4,1167623", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 1977, "model": "CIVIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/honda,1977,accord,1.6l+l4,1166510", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 1977, "model": "ACCORD"}}}
+{"node_type": "carcode", "href": "/en/catalog/honda,1976,civic,1.5l+l4,1365533", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 1976, "model": "CIVIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/honda,1976,accord,1.6l+l4,1166509", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 1976, "model": "ACCORD"}}}
+{"node_type": "carcode", "href": "/en/catalog/honda,1978,civic,1.5l+l4,1167645", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 1978, "model": "CIVIC"}}}

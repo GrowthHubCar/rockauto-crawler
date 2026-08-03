@@ -7,3 +7,10 @@
 {"node_type": "model", "href": "/en/catalog/pontiac,1948,silver+streak", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1948, "model": "SILVER STREAK"}}}
 {"node_type": "model", "href": "/en/catalog/pontiac,1949,silver+streak", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1949, "model": "SILVER STREAK"}}}
 {"node_type": "model", "href": "/en/catalog/pontiac,1949,chieftain", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1949, "model": "CHIEFTAIN"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1947,torpedo,3.9l+239cid+l6,1351516", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1947, "model": "TORPEDO"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1946,torpedo,4.1l+249cid+l8,1431936", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1946, "model": "TORPEDO"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1947,torpedo,4.1l+249cid+l8,1431934", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1947, "model": "TORPEDO"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1949,silver+streak,4.1l+249cid+l8,1487078", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1949, "model": "SILVER STREAK"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1949,chieftain,4.1l+249cid+l8,1431931", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1949, "model": "CHIEFTAIN"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1948,torpedo,4.1l+249cid+l8,1431932", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1948, "model": "TORPEDO"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1949,streamliner,4.1l+249cid+l8,1431930", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1949, "model": "STREAMLINER"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,1973,fox", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1973, "model": "FOX"}}}
-{"node_type": "model", "href": "/en/catalog/audi,1973,100", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1973, "model": "100"}}}

@@ -11,3 +11,53 @@
 {"node_type": "model", "href": "/en/catalog/isuzu,1988,f+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1988, "model": "F SERIES TRUCK"}}}
 {"node_type": "model", "href": "/en/catalog/isuzu,1989,f+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1989, "model": "F SERIES TRUCK"}}}
 {"node_type": "model", "href": "/en/catalog/isuzu,1988,nrr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1988, "model": "NRR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1987,pickup,1.9l+l4,1176421", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1987, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1989,trooper,2.8l+v6,1309306", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1989, "model": "TROOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1988,f+series+truck,8.4l+l6+diesel+turbocharged,3296978", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1988, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1987,trooper,2.2l+l4+diesel+turbocharged,3310298", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1987, "model": "TROOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1989,nrr,6.5l+l6+diesel,3298325", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1989, "model": "NRR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1986,pickup,1.9l+l4,1176353", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1986, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1988,f+series+truck,6.5l+l6+diesel,3298300", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1988, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1989,i-mark,1.5l+l4,1176016", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1989, "model": "I-MARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1987,f+series+truck,5.8l+l6+diesel,3441298", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1987, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1988,impulse,2.3l+l4,1176139", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1988, "model": "IMPULSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1987,pickup,2.3l+l4,1176410", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1987, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1989,impulse,2.3l+l4,1176151", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1989, "model": "IMPULSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1988,trooper,2.6l+l4,1177309", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1988, "model": "TROOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1987,trooper,2.3l+l4,1177297", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1987, "model": "TROOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1988,i-mark,1.5l+l4+turbocharged,1176005", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1988, "model": "I-MARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1986,pickup,2.3l+l4,1176386", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1986, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1988,i-mark,1.5l+l4,1175992", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1988, "model": "I-MARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1986,npr,3.9l+l4+diesel+turbocharged,3296990", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1986, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1986,pickup,2.2l+l4+diesel,1176364", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1986, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1987,i-mark,1.5l+l4+turbocharged,1175981", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1987, "model": "I-MARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1986,trooper,2.2l+l4+diesel+turbocharged,3310297", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1986, "model": "TROOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1987,impulse,2.0l+l4+turbocharged,1176117", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1987, "model": "IMPULSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1987,pickup,2.2l+l4+diesel+turbocharged,1176409", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1987, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1987,f+series+truck,5.8l+l6+diesel+turbocharged,3298297", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1987, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1985,i-mark,1.5l+l4,1175947", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1985, "model": "I-MARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1986,i-mark,1.5l+l4,1175969", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1986, "model": "I-MARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1989,f+series+truck,5.8l+l6+diesel+turbocharged,3297378", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1989, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1986,npr,3.9l+l4+diesel,3296991", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1986, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1989,i-mark,1.6l+l4,1176049", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1989, "model": "I-MARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1986,impulse,1.9l+l4,1176094", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1986, "model": "IMPULSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1986,pickup,2.2l+l4+diesel+turbocharged,1176375", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1986, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1987,pickup,2.2l+l4+diesel,1176397", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1987, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1988,pickup,2.3l+l4,1176487", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1988, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1989,pickup,2.3l+l4,1176533", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1989, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1989,amigo,2.3l+l4,1175699", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1989, "model": "AMIGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1985,impulse,2.0l+l4+turbocharged,1176083", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1985, "model": "IMPULSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1987,impulse,1.9l+l4,1415966", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1987, "model": "IMPULSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1986,trooper,2.3l+l4,1177275", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1986, "model": "TROOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1987,npr,3.9l+l4+diesel+turbocharged,3296992", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1987, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1988,pickup,2.6l+l4,1176476", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1988, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1989,f+series+truck,6.5l+l6+diesel+turbocharged,3441299", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1989, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1989,f+series+truck,8.4l+l6+diesel+turbocharged,3298310", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1989, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1988,impulse,2.0l+l4+turbocharged,1176128", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1988, "model": "IMPULSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1985,i-mark,1.8l+l4,1175958", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1985, "model": "I-MARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1988,pickup,1.9l+l4,7791", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1988, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1987,f+series+truck,6.5l+l6+diesel,3298298", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1987, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1986,impulse,2.0l+l4+turbocharged,1176106", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1986, "model": "IMPULSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1989,npr,3.9l+l4+diesel+turbocharged,3298333", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1989, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1989,amigo,2.6l+l4,1175701", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1989, "model": "AMIGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1987,i-mark,1.5l+l4,1175970", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1987, "model": "I-MARK"}}}

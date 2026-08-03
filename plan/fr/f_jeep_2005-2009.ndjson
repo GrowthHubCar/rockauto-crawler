@@ -1,3 +1,61 @@
 {"node_type": "model", "href": "/en/catalog/jeep,2007,grand+cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2007, "model": "GRAND CHEROKEE"}}}
 {"node_type": "model", "href": "/en/catalog/jeep,2009,compass", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2009, "model": "COMPASS"}}}
 {"node_type": "model", "href": "/en/catalog/jeep,2006,commander", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2006, "model": "COMMANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2008,patriot,2.0l+l4,1441553", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2008, "model": "PATRIOT"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2006,grand+cherokee,3.7l+v6,1432215", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2006, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2009,compass,2.4l+l4,1444135", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2009, "model": "COMPASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2008,compass,2.4l+l4,1441550", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2008, "model": "COMPASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2008,grand+cherokee,6.1l+v8,1441692", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2008, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2006,grand+cherokee,4.7l+v8,1432218", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2006, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2005,grand+cherokee,4.7l+v8,1430896", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2005, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2005,liberty,2.8l+l4+diesel+turbocharged,1431569", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2005, "model": "LIBERTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2006,grand+cherokee,5.7l+v8,1432222", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2006, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2006,grand+cherokee,6.1l+v8,1432984", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2006, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2005,wrangler,2.4l+l4,1430904", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2005, "model": "WRANGLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2006,liberty,2.8l+l4+diesel+turbocharged,1432225", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2006, "model": "LIBERTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2008,wrangler,3.8l+v6,1441555", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2008, "model": "WRANGLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2008,liberty,3.7l+v6,1441543", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2008, "model": "LIBERTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2007,grand+cherokee,6.1l+v8,1434483", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2007, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2008,grand+cherokee,3.0l+v6+diesel+turbocharged,1441551", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2008, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2008,compass,2.0l+l4,1441554", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2008, "model": "COMPASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2009,grand+cherokee,3.7l+v6,1443413", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2009, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2005,grand+cherokee,3.7l+v6,1430895", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2005, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2009,grand+cherokee,4.7l+v8,1443406", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2009, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2007,commander,3.7l+v6,1433829", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2007, "model": "COMMANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2006,wrangler,4.0l+l6,1432231", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2006, "model": "WRANGLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2009,grand+cherokee,3.0l+v6+diesel+turbocharged,1443405", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2009, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2007,grand+cherokee,3.0l+v6+diesel+turbocharged,1434743", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2007, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2007,grand+cherokee,3.7l+v6,1433828", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2007, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2007,compass,2.4l+l4,1433554", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2007, "model": "COMPASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2006,commander,3.7l+v6,1432216", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2006, "model": "COMMANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2008,grand+cherokee,5.7l+v8,1441539", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2008, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2009,wrangler,3.8l+v6,1443395", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2009, "model": "WRANGLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2006,wrangler,2.4l+l4,1432232", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2006, "model": "WRANGLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2009,commander,4.7l+v8,1443799", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2009, "model": "COMMANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2006,liberty,3.7l+v6,1432214", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2006, "model": "LIBERTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2009,commander,5.7l+v8,1443812", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2009, "model": "COMMANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2007,grand+cherokee,4.7l+v8,1434485", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2007, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2007,commander,4.7l+v8,1434535", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2007, "model": "COMMANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2008,grand+cherokee,4.7l+v8,1441536", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2008, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2008,grand+cherokee,3.7l+v6,1441545", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2008, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2005,liberty,3.7l+v6,1430900", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2005, "model": "LIBERTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2009,grand+cherokee,5.7l+v8,1443404", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2009, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2008,commander,4.7l+v8,1441538", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2008, "model": "COMMANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2008,commander,5.7l+v8,1441541", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2008, "model": "COMMANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2006,commander,5.7l+v8,1432223", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2006, "model": "COMMANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2009,grand+cherokee,6.1l+v8,1443403", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2009, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2007,wrangler,3.8l+v6,1433839", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2007, "model": "WRANGLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2008,patriot,2.4l+l4,1441548", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2008, "model": "PATRIOT"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2007,patriot,2.4l+l4,1433552", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2007, "model": "PATRIOT"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2007,commander,5.7l+v8,1433833", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2007, "model": "COMMANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2005,liberty,2.4l+l4,1430903", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2005, "model": "LIBERTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2005,grand+cherokee,5.7l+v8,1430899", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2005, "model": "GRAND CHEROKEE"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2007,compass,2.0l+l4,1440410", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2007, "model": "COMPASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2009,patriot,2.0l+l4,1443813", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2009, "model": "PATRIOT"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2007,patriot,2.0l+l4,1440409", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2007, "model": "PATRIOT"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2009,liberty,3.7l+v6,1443401", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2009, "model": "LIBERTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2009,patriot,2.4l+l4,1444133", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2009, "model": "PATRIOT"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2009,commander,3.7l+v6,1443804", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2009, "model": "COMMANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2007,liberty,3.7l+v6,1433762", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2007, "model": "LIBERTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2008,commander,3.7l+v6,1441546", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2008, "model": "COMMANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,2005,wrangler,4.0l+l6,1430906", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 2005, "model": "WRANGLER"}}}

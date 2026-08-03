@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lexus,2020,ux200", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2020, "model": "UX200"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2020,ux250h", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2020, "model": "UX250H"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2020,rx450h", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2020, "model": "RX450H"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2020,rx350", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2020, "model": "RX350"}}}

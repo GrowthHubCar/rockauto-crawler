@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jeep,2015,renegade", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2015, "model": "RENEGADE"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,2015,patriot", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2015, "model": "PATRIOT"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,2015,compass", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2015, "model": "COMPASS"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,2015,cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2015, "model": "CHEROKEE"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,2015,grand+cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2015, "model": "GRAND CHEROKEE"}}}

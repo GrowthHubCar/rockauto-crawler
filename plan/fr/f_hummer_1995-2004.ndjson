@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hummer,1996,h1", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 1996, "model": "H1"}}}
-{"node_type": "model", "href": "/en/catalog/hummer,1997,h1", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 1997, "model": "H1"}}}
-{"node_type": "model", "href": "/en/catalog/hummer,1998,h1", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 1998, "model": "H1"}}}
-{"node_type": "model", "href": "/en/catalog/hummer,2002,h1", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 2002, "model": "H1"}}}
-{"node_type": "model", "href": "/en/catalog/hummer,1999,h1", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 1999, "model": "H1"}}}
-{"node_type": "model", "href": "/en/catalog/hummer,2003,h2", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 2003, "model": "H2"}}}
-{"node_type": "model", "href": "/en/catalog/hummer,2003,h1", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 2003, "model": "H1"}}}
-{"node_type": "model", "href": "/en/catalog/hummer,1996,hummer+2+passenger+hardtop", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 1996, "model": "HUMMER 2 PASSENGER HARDTOP"}}}

@@ -2,3 +2,4 @@
 {"node_type": "model", "href": "/en/catalog/bugatti,1937,type+57", "payload": {"nodetype": "model", "ctx": {"make": "BUGATTI", "year": 1937, "model": "TYPE 57"}}}
 {"node_type": "model", "href": "/en/catalog/bugatti,1938,type+57", "payload": {"nodetype": "model", "ctx": {"make": "BUGATTI", "year": 1938, "model": "TYPE 57"}}}
 {"node_type": "model", "href": "/en/catalog/bugatti,1939,type+57", "payload": {"nodetype": "model", "ctx": {"make": "BUGATTI", "year": 1939, "model": "TYPE 57"}}}
+{"node_type": "carcode", "href": "/en/catalog/bugatti,1936,type+57,all+engines,952773", "payload": {"nodetype": "carcode", "ctx": {"make": "BUGATTI", "year": 1936, "model": "TYPE 57"}}}

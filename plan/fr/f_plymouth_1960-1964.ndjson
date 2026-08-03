@@ -26,3 +26,36 @@
 {"node_type": "model", "href": "/en/catalog/plymouth,1962,fleet+special", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1962, "model": "FLEET SPECIAL"}}}
 {"node_type": "model", "href": "/en/catalog/plymouth,1963,fleet+special", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1963, "model": "FLEET SPECIAL"}}}
 {"node_type": "model", "href": "/en/catalog/plymouth,1964,barracuda", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1964, "model": "BARRACUDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1960,fury,6.3l+383cid+v8,1417654", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1960, "model": "FURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1961,fleet+special,6.3l+383cid+v8,1417621", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1961, "model": "FLEET SPECIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1963,belvedere,6.7l+413cid+v8,1491411", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1963, "model": "BELVEDERE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1963,valiant,3.7l+225cid+l6,1491417", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1963, "model": "VALIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1960,belvedere,3.7l+225cid+l6,1348501", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1960, "model": "BELVEDERE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1960,belvedere,6.3l+383cid+v8,1417519", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1960, "model": "BELVEDERE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1961,valiant,3.7l+225cid+l6,1348499", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1961, "model": "VALIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1962,savoy,6.7l+413cid+v8,1490794", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1962, "model": "SAVOY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1962,fury,6.7l+413cid+v8,1490793", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1962, "model": "FURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1962,savoy,5.2l+318cid+v8,1348185", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1962, "model": "SAVOY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1962,savoy,3.7l+225cid+l6,1348163", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1962, "model": "SAVOY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1963,belvedere,5.2l+318cid+v8,1347892", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1963, "model": "BELVEDERE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1963,belvedere,3.7l+225cid+l6,1347870", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1963, "model": "BELVEDERE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1964,fury,6.7l+413cid+v8,1492008", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1964, "model": "FURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1964,fury,5.2l+318cid+v8,1435912", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1964, "model": "FURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1960,savoy,3.7l+225cid+l6,1348657", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1960, "model": "SAVOY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1962,valiant,2.8l+170cid+l6,1348208", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1962, "model": "VALIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1961,fury,6.7l+413cid+v8,1490221", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1961, "model": "FURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1960,fury,5.2l+318cid+v8,1348635", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1960, "model": "FURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1961,savoy,6.3l+383cid+v8,1417788", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1961, "model": "SAVOY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1962,savoy,5.9l+361cid+v8,1348174", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1962, "model": "SAVOY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1964,fury,7.0l+426cid+v8,1347780", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1964, "model": "FURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1964,barracuda,2.8l+170cid+l6,1492005", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1964, "model": "BARRACUDA"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1962,savoy,6.3l+383cid+v8,1417799", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1962, "model": "SAVOY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1960,fury,3.7l+225cid+l6,1348613", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1960, "model": "FURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1961,fury,5.9l+361cid+v8,1348332", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1961, "model": "FURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1962,valiant,3.7l+225cid+l6,1490795", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1962, "model": "VALIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1961,savoy,3.7l+225cid+l6,1348365", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1961, "model": "SAVOY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1962,belvedere,6.7l+413cid+v8,1435053", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1962, "model": "BELVEDERE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1961,fury,5.2l+318cid+v8,1348343", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1961, "model": "FURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1960,suburban,6.3l+383cid+v8,1417845", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1960, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1960,valiant,2.8l+170cid+l6,1348770", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1960, "model": "VALIANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1964,barracuda,5.9l+361cid+v8,1347678", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1964, "model": "BARRACUDA"}}}

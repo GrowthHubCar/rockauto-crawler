@@ -9,3 +9,6 @@
 {"node_type": "model", "href": "/en/catalog/rover,1962,100", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1962, "model": "100"}}}
 {"node_type": "model", "href": "/en/catalog/rover,1963,100", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1963, "model": "100"}}}
 {"node_type": "model", "href": "/en/catalog/rover,1963,2000", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1963, "model": "2000"}}}
+{"node_type": "carcode", "href": "/en/catalog/rover,1964,2000,2.0l+l4,1437297", "payload": {"nodetype": "carcode", "ctx": {"make": "ROVER", "year": 1964, "model": "2000"}}}
+{"node_type": "carcode", "href": "/en/catalog/rover,1961,80,2.3l+l4,1490332", "payload": {"nodetype": "carcode", "ctx": {"make": "ROVER", "year": 1961, "model": "80"}}}
+{"node_type": "carcode", "href": "/en/catalog/rover,1962,80,2.3l+l4,1490936", "payload": {"nodetype": "carcode", "ctx": {"make": "ROVER", "year": 1962, "model": "80"}}}

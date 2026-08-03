@@ -2,3 +2,31 @@
 {"node_type": "model", "href": "/en/catalog/nissan,1973,b110", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1973, "model": "B110"}}}
 {"node_type": "model", "href": "/en/catalog/nissan,1971,1200", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1971, "model": "1200"}}}
 {"node_type": "model", "href": "/en/catalog/nissan,1973,1300", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1973, "model": "1300"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1972,b110,1.2l+l4,1498500", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1972, "model": "B110"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1970,b110,1.2l+l4,1496442", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1970, "model": "B110"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1973,240z,2.4l+l6,1209170", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1973, "model": "240Z"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1971,240z,2.4l+l6,1209158", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1971, "model": "240Z"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1974,610,2.0l+l4,1210059", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1974, "model": "610"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1972,510,1.6l+l4,1209989", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1972, "model": "510"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1972,240z,2.4l+l6,1209169", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1972, "model": "240Z"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1973,610,1.8l+l4,1210048", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1973, "model": "610"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1973,620+pickup,1.6l+l4,1210093", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1973, "model": "620 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1973,510,1.6l+l4,1209990", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1973, "model": "510"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1971,521+pickup,1.6l+l4,1212321", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1971, "model": "521 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1974,b210,1.3l+l4,1210789", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1974, "model": "B210"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1974,260z,2.6l+l6,1209181", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1974, "model": "260Z"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1974,710,1.8l+l4,1210161", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1974, "model": "710"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1970,510,1.6l+l4,1209967", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1970, "model": "510"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1970,srl311,2.0l+l4,14330", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1970, "model": "SRL311"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1972,620+pickup,1.6l+l4,1210082", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1972, "model": "620 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1973,1200,1.2l+l4,1208494", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1973, "model": "1200"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1974,620+pickup,1.8l+l4,1210105", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1974, "model": "620 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1972,1300,1.3l+l4,1498499", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1972, "model": "1300"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1970,1600,1.6l+l4,1378021", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1970, "model": "1600"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1972,521+pickup,1.6l+l4,1212332", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1972, "model": "521 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1970,521+pickup,1.6l+l4,1212310", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1970, "model": "521 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1972,1200,1.2l+l4,1208483", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1972, "model": "1200"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1970,2000,2.0l+l4,1378054", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1970, "model": "2000"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1970,spl311,1.6l+l4,14329", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1970, "model": "SPL311"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1970,240z,2.4l+l6,1209147", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1970, "model": "240Z"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1971,510,1.6l+l4,1209978", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1971, "model": "510"}}}

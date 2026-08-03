@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1973,sprint", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1973, "model": "SPRINT"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1973,p35/p3500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1973, "model": "P35/P3500 VAN"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1973,transmode", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1973, "model": "TRANSMODE"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1973,k35/k3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1973, "model": "K35/K3500 PICKUP"}}}

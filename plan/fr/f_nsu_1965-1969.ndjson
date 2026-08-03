@@ -9,3 +9,18 @@
 {"node_type": "model", "href": "/en/catalog/nsu,1968,sport+bertone", "payload": {"nodetype": "model", "ctx": {"make": "NSU", "year": 1968, "model": "SPORT BERTONE"}}}
 {"node_type": "model", "href": "/en/catalog/nsu,1968,ro+80", "payload": {"nodetype": "model", "ctx": {"make": "NSU", "year": 1968, "model": "RO 80"}}}
 {"node_type": "model", "href": "/en/catalog/nsu,1968,tts", "payload": {"nodetype": "model", "ctx": {"make": "NSU", "year": 1968, "model": "TTS"}}}
+{"node_type": "carcode", "href": "/en/catalog/nsu,1969,ro+80,1000cc+r2,1437169", "payload": {"nodetype": "carcode", "ctx": {"make": "NSU", "year": 1969, "model": "RO 80"}}}
+{"node_type": "carcode", "href": "/en/catalog/nsu,1969,spider,500cc+r1,1442207", "payload": {"nodetype": "carcode", "ctx": {"make": "NSU", "year": 1969, "model": "SPIDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nsu,1969,1000,996cc+l4,1437183", "payload": {"nodetype": "carcode", "ctx": {"make": "NSU", "year": 1969, "model": "1000"}}}
+{"node_type": "carcode", "href": "/en/catalog/nsu,1968,1000,996cc+l4,1437184", "payload": {"nodetype": "carcode", "ctx": {"make": "NSU", "year": 1968, "model": "1000"}}}
+{"node_type": "carcode", "href": "/en/catalog/nsu,1969,1000,1.1l+l4,1495531", "payload": {"nodetype": "carcode", "ctx": {"make": "NSU", "year": 1969, "model": "1000"}}}
+{"node_type": "carcode", "href": "/en/catalog/nsu,1969,1200c,1.2l+l4,1437202", "payload": {"nodetype": "carcode", "ctx": {"make": "NSU", "year": 1969, "model": "1200C"}}}
+{"node_type": "carcode", "href": "/en/catalog/nsu,1969,tt,1.1l+l4,1437188", "payload": {"nodetype": "carcode", "ctx": {"make": "NSU", "year": 1969, "model": "TT"}}}
+{"node_type": "carcode", "href": "/en/catalog/nsu,1969,tts,996cc+l4,1437174", "payload": {"nodetype": "carcode", "ctx": {"make": "NSU", "year": 1969, "model": "TTS"}}}
+{"node_type": "carcode", "href": "/en/catalog/nsu,1968,110,996cc+l4,1494693", "payload": {"nodetype": "carcode", "ctx": {"make": "NSU", "year": 1968, "model": "110"}}}
+{"node_type": "carcode", "href": "/en/catalog/nsu,1969,110,1.1l+l4,1437197", "payload": {"nodetype": "carcode", "ctx": {"make": "NSU", "year": 1969, "model": "110"}}}
+{"node_type": "carcode", "href": "/en/catalog/nsu,1968,1000,1.1l+l4,1494692", "payload": {"nodetype": "carcode", "ctx": {"make": "NSU", "year": 1968, "model": "1000"}}}
+{"node_type": "carcode", "href": "/en/catalog/nsu,1968,110,1.1l+l4,1437198", "payload": {"nodetype": "carcode", "ctx": {"make": "NSU", "year": 1968, "model": "110"}}}
+{"node_type": "carcode", "href": "/en/catalog/nsu,1969,110,996cc+l4,1495532", "payload": {"nodetype": "carcode", "ctx": {"make": "NSU", "year": 1969, "model": "110"}}}
+{"node_type": "carcode", "href": "/en/catalog/nsu,1968,1200c,1.2l+l4,1437203", "payload": {"nodetype": "carcode", "ctx": {"make": "NSU", "year": 1968, "model": "1200C"}}}
+{"node_type": "carcode", "href": "/en/catalog/nsu,1969,sport+bertone,598cc+l2,1442212", "payload": {"nodetype": "carcode", "ctx": {"make": "NSU", "year": 1969, "model": "SPORT BERTONE"}}}

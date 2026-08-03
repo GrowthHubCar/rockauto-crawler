@@ -1,2 +1,5 @@
 {"node_type": "model", "href": "/en/catalog/bristol,1972,411", "payload": {"nodetype": "model", "ctx": {"make": "BRISTOL", "year": 1972, "model": "411"}}}
 {"node_type": "model", "href": "/en/catalog/bristol,1973,411", "payload": {"nodetype": "model", "ctx": {"make": "BRISTOL", "year": 1973, "model": "411"}}}
+{"node_type": "carcode", "href": "/en/catalog/bristol,1970,411,6.3l+v8,1439910", "payload": {"nodetype": "carcode", "ctx": {"make": "BRISTOL", "year": 1970, "model": "411"}}}
+{"node_type": "carcode", "href": "/en/catalog/bristol,1974,411,6.6l+v8,1439916", "payload": {"nodetype": "carcode", "ctx": {"make": "BRISTOL", "year": 1974, "model": "411"}}}
+{"node_type": "carcode", "href": "/en/catalog/bristol,1971,411,6.3l+v8,1439909", "payload": {"nodetype": "carcode", "ctx": {"make": "BRISTOL", "year": 1971, "model": "411"}}}

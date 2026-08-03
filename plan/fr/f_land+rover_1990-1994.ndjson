@@ -1,1 +1,10 @@
 {"node_type": "model", "href": "/en/catalog/land+rover,1994,range+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 1994, "model": "RANGE ROVER"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,1994,defender+90,3.9l+v8,1187063", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 1994, "model": "DEFENDER 90"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,1993,range+rover,4.2l+v8,1187209", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 1993, "model": "RANGE ROVER"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,1994,range+rover,4.2l+v8,1187221", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 1994, "model": "RANGE ROVER"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,1993,range+rover,3.9l+v8,1187197", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 1993, "model": "RANGE ROVER"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,1990,range+rover,3.9l+v8,1187164", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 1990, "model": "RANGE ROVER"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,1991,range+rover,3.9l+v8,1187175", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 1991, "model": "RANGE ROVER"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,1992,range+rover,3.9l+v8,1187186", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 1992, "model": "RANGE ROVER"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,1994,discovery,3.9l+v8,1187096", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 1994, "model": "DISCOVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,1993,defender+110,3.9l+v8,1187041", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 1993, "model": "DEFENDER 110"}}}

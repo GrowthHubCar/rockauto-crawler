@@ -1,0 +1,8 @@
+{"node_type": "carcode", "href": "/en/catalog/datsun,1983,pickup,1.6l+l4,3437585", "payload": {"nodetype": "carcode", "ctx": {"make": "DATSUN", "year": 1983, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/datsun,1983,sakura,1.8l+l4,3438998", "payload": {"nodetype": "carcode", "ctx": {"make": "DATSUN", "year": 1983, "model": "SAKURA"}}}
+{"node_type": "carcode", "href": "/en/catalog/datsun,1982,sakura,1.8l+l4,3441545", "payload": {"nodetype": "carcode", "ctx": {"make": "DATSUN", "year": 1982, "model": "SAKURA"}}}
+{"node_type": "carcode", "href": "/en/catalog/datsun,1982,sedan,1.6l+l4,3441857", "payload": {"nodetype": "carcode", "ctx": {"make": "DATSUN", "year": 1982, "model": "SEDAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/datsun,1984,samurai,1.5l+l4,3438999", "payload": {"nodetype": "carcode", "ctx": {"make": "DATSUN", "year": 1984, "model": "SAMURAI"}}}
+{"node_type": "carcode", "href": "/en/catalog/datsun,1980,pickup,1.6l+l4,3437582", "payload": {"nodetype": "carcode", "ctx": {"make": "DATSUN", "year": 1980, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/datsun,1982,pickup,1.6l+l4,3437584", "payload": {"nodetype": "carcode", "ctx": {"make": "DATSUN", "year": 1982, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/datsun,1981,pickup,1.6l+l4,3437583", "payload": {"nodetype": "carcode", "ctx": {"make": "DATSUN", "year": 1981, "model": "PICKUP"}}}

@@ -2,3 +2,12 @@
 {"node_type": "model", "href": "/en/catalog/jeep,1951,willys", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1951, "model": "WILLYS"}}}
 {"node_type": "model", "href": "/en/catalog/jeep,1953,willys", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1953, "model": "WILLYS"}}}
 {"node_type": "model", "href": "/en/catalog/jeep,1954,willys", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1954, "model": "WILLYS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,1951,willys,2.2l+134cid+l4,1420984", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1951, "model": "WILLYS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,1950,willys,2.2l+134cid+l4,1420940", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1950, "model": "WILLYS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,1952,willys,2.6l+161cid+l6,1487514", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1952, "model": "WILLYS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,1950,willys,3.7l+226cid+l6,1487220", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1950, "model": "WILLYS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,1953,willys,3.7l+226cid+l6,1487698", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1953, "model": "WILLYS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,1952,willys,3.7l+226cid+l6,1487517", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1952, "model": "WILLYS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,1954,willys,3.7l+226cid+l6,1441893", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1954, "model": "WILLYS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,1952,willys,2.2l+134cid+l4,1421020", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1952, "model": "WILLYS"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,1950,willys,2.6l+161cid+l6,1487216", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1950, "model": "WILLYS"}}}

@@ -6,3 +6,14 @@
 {"node_type": "model", "href": "/en/catalog/freightliner,1982,flc", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 1982, "model": "FLC"}}}
 {"node_type": "model", "href": "/en/catalog/freightliner,1983,flc", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 1983, "model": "FLC"}}}
 {"node_type": "model", "href": "/en/catalog/freightliner,1984,flc", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 1984, "model": "FLC"}}}
+{"node_type": "carcode", "href": "/en/catalog/freightliner,1981,flt,14.8l+v8+diesel+turbocharged,3461228", "payload": {"nodetype": "carcode", "ctx": {"make": "FREIGHTLINER", "year": 1981, "model": "FLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/freightliner,1981,flc,18.8l+l6+diesel+turbocharged,3460781", "payload": {"nodetype": "carcode", "ctx": {"make": "FREIGHTLINER", "year": 1981, "model": "FLC"}}}
+{"node_type": "carcode", "href": "/en/catalog/freightliner,1982,flc,9.0l+v6+diesel,3460782", "payload": {"nodetype": "carcode", "ctx": {"make": "FREIGHTLINER", "year": 1982, "model": "FLC"}}}
+{"node_type": "carcode", "href": "/en/catalog/freightliner,1984,flt,14.6l+l6+diesel+turbocharged,3461244", "payload": {"nodetype": "carcode", "ctx": {"make": "FREIGHTLINER", "year": 1984, "model": "FLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/freightliner,1981,flc,14.6l+l6+diesel+turbocharged,3460778", "payload": {"nodetype": "carcode", "ctx": {"make": "FREIGHTLINER", "year": 1981, "model": "FLC"}}}
+{"node_type": "carcode", "href": "/en/catalog/freightliner,1982,flc,14.0l+l6+diesel+turbocharged,3460784", "payload": {"nodetype": "carcode", "ctx": {"make": "FREIGHTLINER", "year": 1982, "model": "FLC"}}}
+{"node_type": "carcode", "href": "/en/catalog/freightliner,1981,flt,18.8l+l6+diesel+turbocharged,3461229", "payload": {"nodetype": "carcode", "ctx": {"make": "FREIGHTLINER", "year": 1981, "model": "FLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/freightliner,1981,flt,12.1l+v8+diesel,3461225", "payload": {"nodetype": "carcode", "ctx": {"make": "FREIGHTLINER", "year": 1981, "model": "FLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/freightliner,1981,flt,14.0l+l6+diesel+turbocharged,3461226", "payload": {"nodetype": "carcode", "ctx": {"make": "FREIGHTLINER", "year": 1981, "model": "FLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/freightliner,1981,flt,9.3l+v8+diesel,3461224", "payload": {"nodetype": "carcode", "ctx": {"make": "FREIGHTLINER", "year": 1981, "model": "FLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/freightliner,1981,flc,14.0l+l6+diesel+turbocharged,3460777", "payload": {"nodetype": "carcode", "ctx": {"make": "FREIGHTLINER", "year": 1981, "model": "FLC"}}}

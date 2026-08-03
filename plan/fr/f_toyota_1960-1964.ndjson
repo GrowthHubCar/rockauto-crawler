@@ -4,3 +4,19 @@
 {"node_type": "model", "href": "/en/catalog/toyota,1961,toyopet+crown", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1961, "model": "TOYOPET CROWN"}}}
 {"node_type": "model", "href": "/en/catalog/toyota,1961,tiara", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1961, "model": "TIARA"}}}
 {"node_type": "model", "href": "/en/catalog/toyota,1963,tiara", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1963, "model": "TIARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1962,toyopet+tiara,1.5l+l4,1435108", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1962, "model": "TOYOPET TIARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1962,toyopet+crown,1.9l+l4,1435117", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1962, "model": "TOYOPET CROWN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1960,tiara,1.5l+l4,1489859", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1960, "model": "TIARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1962,tiara,1.5l+l4,1490992", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1962, "model": "TIARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1964,tiara,1.5l+l4,1435106", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1964, "model": "TIARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1964,land+cruiser,3.9l+l6,1492178", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1964, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1962,crown,1.9l+l4,1490990", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1962, "model": "CROWN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1960,crown,1.5l+l4,1489857", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1960, "model": "CROWN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1961,crown,1.9l+l4,1490380", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1961, "model": "CROWN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1964,crown,1.9l+l4,1492177", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1964, "model": "CROWN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1963,crown,1.9l+l4,1491595", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1963, "model": "CROWN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1962,land+cruiser,3.9l+l6,1490991", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1962, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1960,land+cruiser,3.9l+l6,1489858", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1960, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1963,toyopet+crown,1.9l+l4,1435116", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1963, "model": "TOYOPET CROWN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1960,toyopet+crown,1.5l+l4,1435110", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1960, "model": "TOYOPET CROWN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1963,toyopet+tiara,1.5l+l4,1435107", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1963, "model": "TOYOPET TIARA"}}}

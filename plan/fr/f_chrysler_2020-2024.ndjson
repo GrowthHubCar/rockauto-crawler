@@ -1,2 +1,28 @@
 {"node_type": "model", "href": "/en/catalog/chrysler,2023,300", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 2023, "model": "300"}}}
 {"node_type": "model", "href": "/en/catalog/chrysler,2024,pacifica", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 2024, "model": "PACIFICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2023,300,6.4l+v8,3453504", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2023, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2020,pacifica,3.6l+v6+electric/gas,3444686", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2020, "model": "PACIFICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2020,voyager,3.6l+v6,3444687", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2020, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2022,grand+caravan,3.6l+v6,3450573", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2022, "model": "GRAND CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2022,300,3.6l+v6,3450572", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2022, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2021,pacifica,3.6l+v6+electric/gas,3446547", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2021, "model": "PACIFICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2024,pacifica,3.6l+v6+electric/gas,3455039", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2024, "model": "PACIFICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2021,voyager,3.6l+v6,3447312", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2021, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2023,300,5.7l+v8,3453502", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2023, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2022,pacifica,3.6l+v6,3450574", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2022, "model": "PACIFICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2020,300,3.6l+v6,3445149", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2020, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2023,voyager,3.6l+v6,3454307", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2023, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2023,grand+caravan,3.6l+v6,3453505", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2023, "model": "GRAND CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2023,pacifica,3.6l+v6+electric/gas,3454082", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2023, "model": "PACIFICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2021,300,5.7l+v8,3447310", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2021, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2024,grand+caravan,3.6l+v6,3455038", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2024, "model": "GRAND CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2023,pacifica,3.6l+v6,3452750", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2023, "model": "PACIFICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2022,pacifica,3.6l+v6+electric/gas,3450575", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2022, "model": "PACIFICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2021,pacifica,3.6l+v6,3446546", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2021, "model": "PACIFICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2021,300,3.6l+v6,3447311", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2021, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2024,voyager,3.6l+v6,3455041", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2024, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2020,pacifica,3.6l+v6,3444685", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2020, "model": "PACIFICA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2022,voyager,3.6l+v6,3450577", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2022, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2022,300,5.7l+v8,3450571", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2022, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2021,grand+caravan,3.6l+v6,3446897", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2021, "model": "GRAND CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,2020,300,5.7l+v8,3445148", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2020, "model": "300"}}}

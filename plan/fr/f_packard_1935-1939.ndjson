@@ -4,3 +4,17 @@
 {"node_type": "model", "href": "/en/catalog/packard,1936,super+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1936, "model": "SUPER EIGHT"}}}
 {"node_type": "model", "href": "/en/catalog/packard,1937,super+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1937, "model": "SUPER EIGHT"}}}
 {"node_type": "model", "href": "/en/catalog/packard,1938,super+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1938, "model": "SUPER EIGHT"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1937,one+twenty,282cid+l8,952859", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1937, "model": "ONE TWENTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1938,six,245cid+l6,124578", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1938, "model": "SIX"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1938,eight,282cid+l8,952903", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1938, "model": "EIGHT"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1936,twelve,473cid+v12,952818", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1936, "model": "TWELVE"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1938,twelve,473cid+v12,952905", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1938, "model": "TWELVE"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1939,one+twenty,282cid+l8,952952", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1939, "model": "ONE TWENTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1937,twelve,473cid+v12,952861", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1937, "model": "TWELVE"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1939,six,245cid+l6,952953", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1939, "model": "SIX"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1939,super+eight,320cid+l8,952954", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1939, "model": "SUPER EIGHT"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1936,one+twenty,282cid+l8,952816", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1936, "model": "ONE TWENTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1939,twelve,473cid+v12,952955", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1939, "model": "TWELVE"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1935,one+twenty,257cid+l8,952756", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1935, "model": "ONE TWENTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1935,twelve,473cid+v12,952758", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1935, "model": "TWELVE"}}}
+{"node_type": "carcode", "href": "/en/catalog/packard,1937,six,237cid+l6,124577", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1937, "model": "SIX"}}}

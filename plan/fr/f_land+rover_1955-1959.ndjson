@@ -3,3 +3,5 @@
 {"node_type": "model", "href": "/en/catalog/land+rover,1957,land+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 1957, "model": "LAND ROVER"}}}
 {"node_type": "model", "href": "/en/catalog/land+rover,1958,land+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 1958, "model": "LAND ROVER"}}}
 {"node_type": "model", "href": "/en/catalog/land+rover,1959,land+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 1959, "model": "LAND ROVER"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,1958,land+rover,2.3l+l4+diesel,1436983", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 1958, "model": "LAND ROVER"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,1959,land+rover,2.1l+l4+diesel,1436987", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 1959, "model": "LAND ROVER"}}}

@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jeep,2019,renegade", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2019, "model": "RENEGADE"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,2019,cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2019, "model": "CHEROKEE"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,2019,wrangler", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2019, "model": "WRANGLER"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,2019,grand+cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2019, "model": "GRAND CHEROKEE"}}}

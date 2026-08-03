@@ -27,3 +27,48 @@
 {"node_type": "model", "href": "/en/catalog/gmc,1962,3000", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1962, "model": "3000"}}}
 {"node_type": "model", "href": "/en/catalog/gmc,1963,3000", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1963, "model": "3000"}}}
 {"node_type": "model", "href": "/en/catalog/gmc,1964,3000", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1964, "model": "3000"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1962,1500+series,4.6l+283cid+v8,1490572", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1962, "model": "1500 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1961,pb1000+series,3.8l+235cid+l6,1490054", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1961, "model": "PB1000 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1963,suburban,5.3l+327cid+v8,1491222", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1963, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1963,v3000+forward+control,5.0l+305cid+v6,1048", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1963, "model": "V3000 FORWARD CONTROL"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1964,g1000+series,3.8l+230cid+l6,1340727", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1964, "model": "G1000 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1963,pb1000+series,3.8l+230cid+l6,1340794", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1963, "model": "PB1000 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1961,1500+series,4.3l+261cid+l6,1490042", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1961, "model": "1500 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1963,3000,4.8l+292cid+l6,1491212", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1963, "model": "3000"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1963,2500+series,5.0l+305cid+v6,1340772", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1963, "model": "2500 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1961,3500,4.4l+270cid+l6,1490051", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1961, "model": "3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1963,1500+series,5.0l+305cid+v6,1340761", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1963, "model": "1500 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1963,2500+series,4.8l+292cid+l6,1491209", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1963, "model": "2500 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1964,g1000+series,3.2l+194cid+l6,1491809", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1964, "model": "G1000 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1964,1000+series,4.8l+292cid+l6,1491795", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1964, "model": "1000 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1961,1000+series,4.4l+270cid+l6,1340918", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1961, "model": "1000 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1964,pb1000+series,2.5l+153cid+l4,1340738", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1964, "model": "PB1000 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1961,1000+series,5.0l+305cid+v6,1340929", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1961, "model": "1000 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1963,3000,5.0l+305cid+v6,1491213", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1963, "model": "3000"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1963,1500+series,3.8l+230cid+l6,1491204", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1963, "model": "1500 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1963,3500,4.8l+292cid+l6,1491216", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1963, "model": "3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1960,suburban,4.6l+283cid+v8,1489633", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1960, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1963,suburban,5.0l+305cid+v6,1440776", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1963, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1960,truck,4.6l+283cid+v8,1489635", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1960, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1964,g1000+series,2.5l+153cid+l4,1440777", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1964, "model": "G1000 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1960,suburban,3.8l+235cid+l6,1489632", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1960, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1961,1000+series,4.6l+283cid+v8,1490041", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1961, "model": "1000 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1964,1000+series,5.0l+305cid+v6,1340693", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1964, "model": "1000 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1962,1000+series,4.3l+261cid+l6,1490569", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1962, "model": "1000 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1964,pb1500+series,3.8l+230cid+l6,1438205", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1964, "model": "PB1500 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1962,1500+series,5.0l+305cid+v6,1340862", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1962, "model": "1500 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1960,truck,4.4l+270cid+l6,1340996", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1960, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1964,i1000,3.8l+230cid+l6,1491810", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1964, "model": "I1000"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1963,pb1000+series,2.5l+153cid+l4,1340783", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1963, "model": "PB1000 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1964,3500,4.8l+292cid+l6,1491806", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1964, "model": "3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1964,3500,5.0l+305cid+v6,1491807", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1964, "model": "3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1963,v3000+forward+control,4.4l+270cid+l6,1117", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1963, "model": "V3000 FORWARD CONTROL"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1961,1500+series,5.0l+305cid+v6,1340941", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1961, "model": "1500 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1964,2500+series,4.8l+292cid+l6,1491799", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1964, "model": "2500 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1964,2500+series,5.0l+305cid+v6,1440779", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1964, "model": "2500 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1964,b3500,5.0l+305cid+v6,1491808", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1964, "model": "B3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1960,truck,5.0l+305cid+v6,1341009", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1960, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1963,2500+series,4.6l+283cid+v8,1491208", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1963, "model": "2500 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1963,2500+series,3.8l+230cid+l6,1491207", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1963, "model": "2500 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1960,suburban,5.0l+305cid+v6,1489634", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1960, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1961,1000+series,4.3l+261cid+l6,1490040", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1961, "model": "1000 SERIES"}}}

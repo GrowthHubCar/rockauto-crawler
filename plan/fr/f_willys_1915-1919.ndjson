@@ -20,3 +20,4 @@
 {"node_type": "model", "href": "/en/catalog/willys,1918,model+89", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1918, "model": "MODEL 89"}}}
 {"node_type": "model", "href": "/en/catalog/willys,1919,model+89", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1919, "model": "MODEL 89"}}}
 {"node_type": "model", "href": "/en/catalog/willys,1919,light+four+90", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1919, "model": "LIGHT FOUR 90"}}}
+{"node_type": "carcode", "href": "/en/catalog/willys,1915,knight,4cyl,951940", "payload": {"nodetype": "carcode", "ctx": {"make": "WILLYS", "year": 1915, "model": "KNIGHT"}}}

@@ -1,1 +1,4 @@
 {"node_type": "model", "href": "/en/catalog/ac,1972,428", "payload": {"nodetype": "model", "ctx": {"make": "AC", "year": 1972, "model": "428"}}}
+{"node_type": "carcode", "href": "/en/catalog/ac,1973,428,7.0l+v8,1436031", "payload": {"nodetype": "carcode", "ctx": {"make": "AC", "year": 1973, "model": "428"}}}
+{"node_type": "carcode", "href": "/en/catalog/ac,1970,428,7.0l+v8,1436034", "payload": {"nodetype": "carcode", "ctx": {"make": "AC", "year": 1970, "model": "428"}}}
+{"node_type": "carcode", "href": "/en/catalog/ac,1971,428,7.0l+v8,1436033", "payload": {"nodetype": "carcode", "ctx": {"make": "AC", "year": 1971, "model": "428"}}}

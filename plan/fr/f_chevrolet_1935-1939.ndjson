@@ -1,2 +1,18 @@
 {"node_type": "model", "href": "/en/catalog/chevrolet,1935,standard", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1935, "model": "STANDARD"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1935,master", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1935, "model": "MASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1937,truck,3.5l+217cid+l6,952828", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1937, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1937,master,3.5l+217cid+l6,123990", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1937, "model": "MASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1939,master+deluxe,3.5l+217cid+l6,123998", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1939, "model": "MASTER DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1938,master+deluxe,217cid+l6,123997", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1938, "model": "MASTER DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1939,truck,3.5l+217cid+l6,952919", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1939, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1938,truck,3.5l+217cid+l6,952872", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1938, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1939,master+85,3.5l+217cid+l6,123992", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1939, "model": "MASTER 85"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1935,truck,3.4l+207cid+l6,1485648", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1935, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1936,standard,3.4l+207cid+l6,124047", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1936, "model": "STANDARD"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1938,master,3.5l+217cid+l6,123991", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1938, "model": "MASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1936,master+deluxe,3.5l+207cid+l6,123995", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1936, "model": "MASTER DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1936,master,3.4l+207cid+l6,3445529", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1936, "model": "MASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1937,master+deluxe,217cid+l6,123996", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1937, "model": "MASTER DELUXE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1935,standard,3.4l+207cid+l6,1485646", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1935, "model": "STANDARD"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1936,truck,3.4l+207cid+l6,1485698", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1936, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1935,master+deluxe,207cid+l6,123994", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1935, "model": "MASTER DELUXE"}}}

@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2009,750i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2009, "model": "750I"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2009,z4", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2009, "model": "Z4"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2009,750li", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2009, "model": "750LI"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2009,x3", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2009, "model": "X3"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2009,m6", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2009, "model": "M6"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2009,x5", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2009, "model": "X5"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2009,m3", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2009, "model": "M3"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2009,650i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2009, "model": "650I"}}}

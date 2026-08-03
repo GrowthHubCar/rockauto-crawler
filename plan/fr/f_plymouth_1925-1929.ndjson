@@ -1,1 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/plymouth,1928,model+q", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1928, "model": "MODEL Q"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1929,model+u,175cid+l4,952327", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1929, "model": "MODEL U"}}}

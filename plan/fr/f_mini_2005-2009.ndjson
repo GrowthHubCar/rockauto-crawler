@@ -1,1 +1,16 @@
 {"node_type": "model", "href": "/en/catalog/mini,2009,cooper", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2009, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2005,cooper,1.6l+l4,1430886", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2005, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2007,cooper,1.6l+l4+sohc,1438224", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2007, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2006,cooper,1.6l+l4,1432680", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2006, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2008,cooper,1.6l+l4+dohc,1441102", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2008, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2008,cooper,1.6l+l4+sohc,1441101", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2008, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2008,cooper,1.6l+l4+supercharged,1441104", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2008, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2009,cooper,1.6l+l4+supercharged,2002699", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2009, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2007,cooper,1.6l+l4+dohc,1434913", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2007, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2005,cooper,1.6l+l4+supercharged,1430887", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2005, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2007,cooper,1.6l+l4+supercharged,1438225", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2007, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2006,cooper,1.6l+l4+supercharged,1432681", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2006, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2007,cooper,1.6l+l4+turbocharged,1438260", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2007, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2009,cooper,1.6l+l4+sohc,3318666", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2009, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2008,cooper,1.6l+l4+turbocharged,1441103", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2008, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2009,cooper,1.6l+l4+turbocharged,1443792", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2009, "model": "COOPER"}}}

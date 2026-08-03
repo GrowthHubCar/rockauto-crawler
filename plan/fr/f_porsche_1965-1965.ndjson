@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/porsche,1965,912", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1965, "model": "912"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,1965,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1965, "model": "911"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,1965,356c", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1965, "model": "356C"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,1965,356sc", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1965, "model": "356SC"}}}

@@ -40,3 +40,29 @@
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1966,jetstar+88", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1966, "model": "JETSTAR 88"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1967,delmont+88", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1967, "model": "DELMONT 88"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1968,delmont+88", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1968, "model": "DELMONT 88"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1968,cutlass,6.6l+400cid+v8,1402827", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1968, "model": "CUTLASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1965,dynamic,7.0l+425cid+v8,1346464", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1965, "model": "DYNAMIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1968,vista+cruiser,7.5l+455cid+v8,1494737", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1968, "model": "VISTA CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1969,vista+cruiser,7.5l+455cid+v8,1495575", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1969, "model": "VISTA CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1965,f85,3.7l+225cid+v6,1346475", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1965, "model": "F85"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1967,vista+cruiser,6.6l+400cid+v8,1494020", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1967, "model": "VISTA CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1967,toronado,7.0l+425cid+v8,1346217", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1967, "model": "TORONADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1968,f85,5.7l+350cid+v8,1223558", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1968, "model": "F85"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1969,cutlass,5.7l+350cid+v8,1217449", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1969, "model": "CUTLASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1965,f85,6.6l+400cid+v8,1346497", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1965, "model": "F85"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1965,vista+cruiser,5.4l+330cid+v8,1346565", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1965, "model": "VISTA CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1965,jetstar+88,5.4l+330cid+v8,1346521", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1965, "model": "JETSTAR 88"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1967,f85,5.4l+330cid+v8,1346172", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1967, "model": "F85"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1969,f85,4.1l+250cid+l6,1223569", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1969, "model": "F85"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1966,442,6.6l+400cid+v8,1346251", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1966, "model": "442"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1967,f85,4.1l+250cid+l6,1346161", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1967, "model": "F85"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1967,vista+cruiser,5.4l+330cid+v8,1346240", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1967, "model": "VISTA CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1966,vista+cruiser,5.4l+330cid+v8,1346408", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1966, "model": "VISTA CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1965,cutlass,6.6l+400cid+v8,1346442", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1965, "model": "CUTLASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1969,442,6.6l+400cid+v8,1213456", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1969, "model": "442"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1965,cutlass,5.4l+330cid+v8,1346431", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1965, "model": "CUTLASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1965,jetstar+88,7.0l+425cid+v8,1346532", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1965, "model": "JETSTAR 88"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1965,vista+cruiser,6.6l+400cid+v8,1492667", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1965, "model": "VISTA CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1969,vista+cruiser,5.7l+350cid+v8,1226168", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1969, "model": "VISTA CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1965,jetstar+i,5.4l+330cid+v8,1492666", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1965, "model": "JETSTAR I"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1968,delta+88,7.5l+455cid+v8,1213513", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1968, "model": "DELTA 88"}}}

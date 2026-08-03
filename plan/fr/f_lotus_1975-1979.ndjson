@@ -5,3 +5,11 @@
 {"node_type": "model", "href": "/en/catalog/lotus,1978,esprit", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1978, "model": "ESPRIT"}}}
 {"node_type": "model", "href": "/en/catalog/lotus,1979,esprit", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1979, "model": "ESPRIT"}}}
 {"node_type": "model", "href": "/en/catalog/lotus,1978,eclat", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1978, "model": "ECLAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1975,europa,1.6l+l4,1394333", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1975, "model": "EUROPA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1977,eclat,2.0l+l4,1393635", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1977, "model": "ECLAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1975,seven,1.6l+l4,1394805", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1975, "model": "SEVEN"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1975,elan,1.6l+l4,1393804", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1975, "model": "ELAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1979,elite,2.0l+l4,1393938", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1979, "model": "ELITE"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1975,elite,2.0l+l4,2241", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1975, "model": "ELITE"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1975,seven,1.3l+l4,1394793", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1975, "model": "SEVEN"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1979,eclat,2.0l+l4,1393657", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1979, "model": "ECLAT"}}}

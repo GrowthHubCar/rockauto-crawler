@@ -1,3 +1,17 @@
 {"node_type": "model", "href": "/en/catalog/buick,1940,limited+series+90", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1940, "model": "LIMITED SERIES 90"}}}
 {"node_type": "model", "href": "/en/catalog/buick,1941,century+series+60", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1941, "model": "CENTURY SERIES 60"}}}
 {"node_type": "model", "href": "/en/catalog/buick,1941,special+series+40", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1941, "model": "SPECIAL SERIES 40"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1941,limited+series+90,5.2l+320cid+l8,1486065", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1941, "model": "LIMITED SERIES 90"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1942,special+series+40,4.1l+248cid+l8,1486186", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1942, "model": "SPECIAL SERIES 40"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1941,roadmaster+series+70,5.2l+320cid+l8,1486066", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1941, "model": "ROADMASTER SERIES 70"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1940,century+series+60,5.2l+320cid+l8,1485970", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1940, "model": "CENTURY SERIES 60"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1940,super+series+50,4.1l+248cid+l8,1485975", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1940, "model": "SUPER SERIES 50"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1940,roadmaster+series+70,5.2l+320cid+l8,1485973", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1940, "model": "ROADMASTER SERIES 70"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1942,century+series+60,5.2l+320cid+l8,1486183", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1942, "model": "CENTURY SERIES 60"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1940,roadmaster+series+80,all+engines,2002406", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1940, "model": "ROADMASTER SERIES 80"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1942,super+series+50,4.1l+248cid+l8,1486187", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1942, "model": "SUPER SERIES 50"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1942,limited+series+90,5.2l+320cid+l8,1486184", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1942, "model": "LIMITED SERIES 90"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1941,super+series+50,4.1l+248cid+l8,1486068", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1941, "model": "SUPER SERIES 50"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1940,limited+series+80,5.2l+320cid+l8,1485971", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1940, "model": "LIMITED SERIES 80"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1942,roadmaster+series+70,5.2l+320cid+l8,1486185", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1942, "model": "ROADMASTER SERIES 70"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1940,special+40,4.1l+248cid+l8,1485974", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1940, "model": "SPECIAL 40"}}}

@@ -1,1 +1,54 @@
 {"node_type": "model", "href": "/en/catalog/subaru,2014,legacy", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2014, "model": "LEGACY"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2014,tribeca,3.6l+h6,3307195", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2014, "model": "TRIBECA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2012,forester,2.5l+h4+sohc,3015448", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2012, "model": "FORESTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2012,impreza,2.5l+h4+turbocharged,1502994", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2012, "model": "IMPREZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2011,forester,2.5l+h4+dohc,1447439", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2011, "model": "FORESTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2013,impreza,2.0l+h4,1504984", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2013, "model": "IMPREZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2013,impreza,2.5l+h4+turbocharged,1504989", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2013, "model": "IMPREZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2011,forester,2.5l+h4+sohc,3015735", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2011, "model": "FORESTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2010,tribeca,3.6l+h6,1445544", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2010, "model": "TRIBECA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2013,outback,2.5l+h4+sohc,3299666", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2013, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2014,outback,3.6l+h6,3305967", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2014, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2012,outback,2.5l+h4,1503322", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2012, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2012,wrx,2.5l+h4+turbocharged,3294398", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2012, "model": "WRX"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2014,outback,2.5l+h4+sohc,3307712", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2014, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2012,impreza,2.0l+h4,1502661", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2012, "model": "IMPREZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2013,legacy,2.5l+h4+sohc,3307447", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2013, "model": "LEGACY"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2014,wrx,2.5l+h4+turbocharged,3307196", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2014, "model": "WRX"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2014,legacy,3.6l+h6,3305965", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2014, "model": "LEGACY"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2014,forester,2.0l+h4+turbocharged,3298416", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2014, "model": "FORESTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2012,impreza+r,2.0l+h4,3015738", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2012, "model": "IMPREZA R"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2013,forester,2.5l+h4,1504975", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2013, "model": "FORESTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2012,legacy,2.5l+h4,1503321", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2012, "model": "LEGACY"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2014,wrx+sti,2.5l+h4+turbocharged,3307197", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2014, "model": "WRX STI"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2013,outback,2.5l+h4+dohc,1504364", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2013, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2011,impreza+r,2.0l+h4,3015736", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2011, "model": "IMPREZA R"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2013,forester,2.5l+h4+turbocharged,1504982", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2013, "model": "FORESTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2011,impreza,2.5l+h4,1447459", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2011, "model": "IMPREZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2013,tribeca,3.6l+h6,1505888", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2013, "model": "TRIBECA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2012,forester,2.5l+h4+turbocharged,1502595", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2012, "model": "FORESTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2012,outback,3.6l+h6,1503315", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2012, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2014,impreza,2.5l+h4+turbocharged,3307194", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2014, "model": "IMPREZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2012,forester,2.5l+h4+dohc,1502589", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2012, "model": "FORESTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2013,outback,3.6l+h6,1503999", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2013, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2012,tribeca,3.6l+h6,1503318", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2012, "model": "TRIBECA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2013,xv+crosstrek,2.0l+h4,3299671", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2013, "model": "XV CROSSTREK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2013,legacy,2.5l+h4+turbocharged,3307448", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2013, "model": "LEGACY"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2014,xv+crosstrek,2.0l+h4,3200668", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2014, "model": "XV CROSSTREK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2012,legacy,2.5l+h4+turbocharged,1503311", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2012, "model": "LEGACY"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2014,outback,2.5l+h4+dohc,3305966", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2014, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2011,legacy,2.5l+h4,1446525", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2011, "model": "LEGACY"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2011,outback,3.6l+h6,1446528", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2011, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2013,brz,2.0l+h4,1504002", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2013, "model": "BRZ"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2012,legacy,3.6l+h6,1503309", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2012, "model": "LEGACY"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2011,impreza,2.5l+h4+turbocharged,1446521", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2011, "model": "IMPREZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2013,legacy,3.6l+h6,1503997", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2013, "model": "LEGACY"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2014,forester,2.5l+h4,3298415", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2014, "model": "FORESTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2011,impreza+sport,2.5l+h4,3015737", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2011, "model": "IMPREZA SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2011,tribeca,3.6l+h6,1446974", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2011, "model": "TRIBECA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2013,legacy,2.5l+h4+dohc,1504361", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2013, "model": "LEGACY"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2014,xv+crosstrek,2.0l+h4+electric/gas,3298544", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2014, "model": "XV CROSSTREK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2011,outback,2.5l+h4,1446527", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2011, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2011,forester,2.5l+h4+turbocharged,1447434", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2011, "model": "FORESTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2011,legacy,3.6l+h6,1446526", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2011, "model": "LEGACY"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2011,legacy,2.5l+h4+turbocharged,1446524", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2011, "model": "LEGACY"}}}

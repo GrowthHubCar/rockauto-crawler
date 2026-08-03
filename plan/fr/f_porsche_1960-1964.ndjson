@@ -4,3 +4,9 @@
 {"node_type": "model", "href": "/en/catalog/porsche,1964,carrera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1964, "model": "CARRERA"}}}
 {"node_type": "model", "href": "/en/catalog/porsche,1961,356b", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1961, "model": "356B"}}}
 {"node_type": "model", "href": "/en/catalog/porsche,1963,356c", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1963, "model": "356C"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1964,356c,1.6l+h4,1396470", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1964, "model": "356C"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1964,356sc,1.6l+h4,1435122", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1964, "model": "356SC"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1962,356b,1.6l+h4,1435124", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1962, "model": "356B"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1962,carrera,2.0l+h4,1396548", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1962, "model": "CARRERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1963,356b,1.6l+h4,1396458", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1963, "model": "356B"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,1960,356b,1.6l+h4,1435128", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1960, "model": "356B"}}}

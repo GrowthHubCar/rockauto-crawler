@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,1971,crown", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1971, "model": "CROWN"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1971,corona", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1971, "model": "CORONA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1971,carina", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1971, "model": "CARINA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1971,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1971, "model": "LAND CRUISER"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1971,celica", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1971, "model": "CELICA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1971,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1971, "model": "COROLLA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1971,pickup", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1971, "model": "PICKUP"}}}

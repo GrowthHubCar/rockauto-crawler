@@ -16,3 +16,5 @@
 {"node_type": "model", "href": "/en/catalog/humber,1952,imperial", "payload": {"nodetype": "model", "ctx": {"make": "HUMBER", "year": 1952, "model": "IMPERIAL"}}}
 {"node_type": "model", "href": "/en/catalog/humber,1953,imperial", "payload": {"nodetype": "model", "ctx": {"make": "HUMBER", "year": 1953, "model": "IMPERIAL"}}}
 {"node_type": "model", "href": "/en/catalog/humber,1954,imperial", "payload": {"nodetype": "model", "ctx": {"make": "HUMBER", "year": 1954, "model": "IMPERIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/humber,1954,hawk,2.3l+l4,1439477", "payload": {"nodetype": "carcode", "ctx": {"make": "HUMBER", "year": 1954, "model": "HAWK"}}}
+{"node_type": "carcode", "href": "/en/catalog/humber,1954,super+snipe,4.1l+l6,1439820", "payload": {"nodetype": "carcode", "ctx": {"make": "HUMBER", "year": 1954, "model": "SUPER SNIPE"}}}

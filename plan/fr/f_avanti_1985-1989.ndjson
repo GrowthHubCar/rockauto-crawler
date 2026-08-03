@@ -1,1 +1,4 @@
 {"node_type": "model", "href": "/en/catalog/avanti,1985,ii", "payload": {"nodetype": "model", "ctx": {"make": "AVANTI", "year": 1985, "model": "II"}}}
+{"node_type": "carcode", "href": "/en/catalog/avanti,1988,ii,5.0l+305cid+v8,1430581", "payload": {"nodetype": "carcode", "ctx": {"make": "AVANTI", "year": 1988, "model": "II"}}}
+{"node_type": "carcode", "href": "/en/catalog/avanti,1989,ii,5.0l+305cid+v8,1430582", "payload": {"nodetype": "carcode", "ctx": {"make": "AVANTI", "year": 1989, "model": "II"}}}
+{"node_type": "carcode", "href": "/en/catalog/avanti,1987,ii,5.0l+305cid+v8,1430580", "payload": {"nodetype": "carcode", "ctx": {"make": "AVANTI", "year": 1987, "model": "II"}}}

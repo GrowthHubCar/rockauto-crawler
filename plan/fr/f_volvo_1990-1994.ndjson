@@ -1,1 +1,14 @@
 {"node_type": "model", "href": "/en/catalog/volvo,1990,760", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1990, "model": "760"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1990,740,2.3l+l4+turbocharged,1288414", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1990, "model": "740"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1990,740,2.3l+l4+sohc,1288425", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1990, "model": "740"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1991,940,2.3l+l4,1433970", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1991, "model": "940"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1991,780,2.3l+l4+turbocharged,1288818", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1991, "model": "780"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1990,780,2.3l+l4+turbocharged,1288795", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1990, "model": "780"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1991,240,2.3l+l4,1287053", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1991, "model": "240"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1991,740,2.3l+l4+turbocharged,1288469", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1991, "model": "740"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1991,940,2.3l+l4+turbocharged,1288986", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1991, "model": "940"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1990,740,2.3l+l4+dohc,1419500", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1990, "model": "740"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1990,760,2.8l+v6,1288740", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1990, "model": "760"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1990,240,2.3l+l4,1287031", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1990, "model": "240"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1990,780,2.8l+v6,1288807", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1990, "model": "780"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,1991,740,2.3l+l4,1288458", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1991, "model": "740"}}}

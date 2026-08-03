@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/nissan,1982,stanza", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1982, "model": "STANZA"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1982,720+pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1982, "model": "720 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1982,sentra", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1982, "model": "SENTRA"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1982,maxima", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1982, "model": "MAXIMA"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1990,topaz", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1990, "model": "TOPAZ"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1990,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1990, "model": "THUNDERBIRD"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1990,tempo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1990, "model": "TEMPO"}}}

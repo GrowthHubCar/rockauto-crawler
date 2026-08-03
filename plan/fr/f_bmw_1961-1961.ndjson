@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,1961,1500", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1961, "model": "1500"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1961,isetta", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1961, "model": "ISETTA"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1961,2600", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1961, "model": "2600"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1961,3200", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1961, "model": "3200"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1961,502", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1961, "model": "502"}}}

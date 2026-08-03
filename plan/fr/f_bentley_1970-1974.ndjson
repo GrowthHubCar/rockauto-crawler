@@ -1,3 +1,10 @@
 {"node_type": "model", "href": "/en/catalog/bentley,1971,corniche", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1971, "model": "CORNICHE"}}}
 {"node_type": "model", "href": "/en/catalog/bentley,1972,corniche", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1972, "model": "CORNICHE"}}}
 {"node_type": "model", "href": "/en/catalog/bentley,1972,t1+series", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1972, "model": "T1 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,1973,corniche,6.8l+v8,1406225", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1973, "model": "CORNICHE"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,1974,corniche,6.8l+v8,1406506", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1974, "model": "CORNICHE"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,1971,t1+series,6.8l+v8,1405145", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1971, "model": "T1 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,1970,t1+series,6.2l+v8,1404593", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1970, "model": "T1 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,1974,t1+series,6.8l+v8,1406517", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1974, "model": "T1 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,1970,t1+series,6.8l+v8,1436581", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1970, "model": "T1 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,1973,t1+series,6.8l+v8,1406236", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1973, "model": "T1 SERIES"}}}

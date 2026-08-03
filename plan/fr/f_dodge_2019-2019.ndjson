@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/dodge,2019,attitude", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2019, "model": "ATTITUDE"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2019,journey", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2019, "model": "JOURNEY"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2019,durango", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2019, "model": "DURANGO"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2019,charger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2019, "model": "CHARGER"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2019,grand+caravan", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2019, "model": "GRAND CARAVAN"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2019,challenger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2019, "model": "CHALLENGER"}}}

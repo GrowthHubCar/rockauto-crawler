@@ -18,3 +18,4 @@
 {"node_type": "model", "href": "/en/catalog/crosley,1952,farm-o-road", "payload": {"nodetype": "model", "ctx": {"make": "CROSLEY", "year": 1952, "model": "FARM-O-ROAD"}}}
 {"node_type": "model", "href": "/en/catalog/crosley,1951,super+sports", "payload": {"nodetype": "model", "ctx": {"make": "CROSLEY", "year": 1951, "model": "SUPER SPORTS"}}}
 {"node_type": "model", "href": "/en/catalog/crosley,1952,super+shot", "payload": {"nodetype": "model", "ctx": {"make": "CROSLEY", "year": 1952, "model": "SUPER SHOT"}}}
+{"node_type": "carcode", "href": "/en/catalog/crosley,1950,super,0.7l+44cid+l4,1435965", "payload": {"nodetype": "carcode", "ctx": {"make": "CROSLEY", "year": 1950, "model": "SUPER"}}}

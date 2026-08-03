@@ -4,3 +4,48 @@
 {"node_type": "model", "href": "/en/catalog/ram,2012,2500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2012, "model": "2500"}}}
 {"node_type": "model", "href": "/en/catalog/ram,2014,2500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2014, "model": "2500"}}}
 {"node_type": "model", "href": "/en/catalog/ram,2014,h100+van", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2014, "model": "H100 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2014,4500,6.4l+v8,3307188", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2014, "model": "4500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2014,3500,6.7l+l6+diesel+turbocharged,3307064", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2014, "model": "3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2012,c/v,3.6l+v6,1503364", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2012, "model": "C/V"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2013,c/v,3.6l+v6,1505074", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2013, "model": "C/V"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2014,5500,6.7l+l6+diesel+turbocharged,3307189", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2014, "model": "5500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2014,2500,6.7l+l6+diesel+turbocharged,3307060", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2014, "model": "2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2011,4500,6.7l+l6+diesel+turbocharged,1503455", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2011, "model": "4500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2014,promaster+1500,3.0l+l4+diesel+turbocharged,3300434", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2014, "model": "PROMASTER 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2012,3500,6.7l+l6+diesel+turbocharged,1502379", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2012, "model": "3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2013,4000,6.7l+l6+diesel+turbocharged,3446820", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2013, "model": "4000"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2012,4000,5.7l+v8,3299645", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2012, "model": "4000"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2013,1500,5.7l+v8,3000991", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2013, "model": "1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2011,2500,6.7l+l6+diesel+turbocharged,1447852", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2011, "model": "2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2012,2500,5.7l+v8,3294150", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2012, "model": "2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2014,c/v,3.6l+v6,3305960", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2014, "model": "C/V"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2014,3500,6.4l+v8,3307065", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2014, "model": "3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2012,1500,5.7l+v8,1502255", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2012, "model": "1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2014,promaster+1500,3.6l+v6,3300435", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2014, "model": "PROMASTER 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2013,1500,4.7l+v8,3294210", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2013, "model": "1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2011,1500,5.7l+v8,1447844", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2011, "model": "1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2011,5500,6.7l+l6+diesel+turbocharged,1503456", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2011, "model": "5500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2013,2500,6.7l+l6+diesel+turbocharged,3294215", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2013, "model": "2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2014,promaster+3500,3.0l+l4+diesel+turbocharged,3300335", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2014, "model": "PROMASTER 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2011,dakota,3.7l+v6,1447839", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2011, "model": "DAKOTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2012,4000,6.7l+l6+diesel+turbocharged,3446819", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2012, "model": "4000"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2011,1500,3.7l+v6,1447848", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2011, "model": "1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2013,5500,6.7l+l6+diesel+turbocharged,3294220", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2013, "model": "5500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2011,3500,6.7l+l6+diesel+turbocharged,1447858", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2011, "model": "3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2011,1500,4.7l+v8,1447845", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2011, "model": "1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2014,4500,6.7l+l6+diesel+turbocharged,3307187", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2014, "model": "4500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2013,4500,6.7l+l6+diesel+turbocharged,3294219", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2013, "model": "4500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2011,3500,5.7l+v8,1447861", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2011, "model": "3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2014,h100+van,2.4l+l4,3445027", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2014, "model": "H100 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2012,4500,6.7l+l6+diesel+turbocharged,1503461", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2012, "model": "4500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2014,promaster+2500,3.6l+v6,3300381", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2014, "model": "PROMASTER 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2012,5500,6.7l+l6+diesel+turbocharged,1503464", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2012, "model": "5500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2011,2500,5.7l+v8,1447851", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2011, "model": "2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2014,promaster+3500,3.6l+v6,3300336", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2014, "model": "PROMASTER 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2013,3500,5.7l+v8,3294216", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2013, "model": "3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2012,1500,4.7l+v8,1502254", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2012, "model": "1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2013,2500,5.7l+v8,3294214", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2013, "model": "2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2011,dakota,4.7l+v8,3048609", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2011, "model": "DAKOTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2013,4000,5.7l+v8,3299646", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2013, "model": "4000"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2012,3500,5.7l+v8,1502378", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2012, "model": "3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2013,3500,6.7l+l6+diesel+turbocharged,3294217", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2013, "model": "3500"}}}

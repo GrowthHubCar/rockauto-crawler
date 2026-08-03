@@ -1,0 +1,8 @@
+{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2026,giulia,2.0l+l4+turbocharged,3459654", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2026, "model": "GIULIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2025,stelvio,2.0l+l4+turbocharged,3457709", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2025, "model": "STELVIO"}}}
+{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2025,tonale,2.0l+l4+turbocharged,3455755", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2025, "model": "TONALE"}}}
+{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2026,stelvio,2.0l+l4+turbocharged,3459655", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2026, "model": "STELVIO"}}}
+{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2026,tonale,2.0l+l4+turbocharged,3458813", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2026, "model": "TONALE"}}}
+{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2025,tonale,1.3l+l4+electric/gas+turbocharged+sohc,3455481", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2025, "model": "TONALE"}}}
+{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2025,giulia,2.0l+l4+turbocharged,3457708", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2025, "model": "GIULIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2025,tonale,1.3l+l4+electric/gas+turbocharged+dohc,3458811", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2025, "model": "TONALE"}}}

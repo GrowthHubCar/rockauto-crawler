@@ -1,3 +1,30 @@
 {"node_type": "model", "href": "/en/catalog/mg,2024,mg4", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 2024, "model": "MG4"}}}
 {"node_type": "model", "href": "/en/catalog/mg,2024,mg+gt", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 2024, "model": "MG GT"}}}
 {"node_type": "model", "href": "/en/catalog/mg,2024,hs", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 2024, "model": "HS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2022,zs,1.5l+l4,3450884", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2022, "model": "ZS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2023,hs,1.5l+l4+turbocharged,3454513", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2023, "model": "HS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2023,mg+gt,1.5l+l4+turbocharged,3453721", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2023, "model": "MG GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2020,zs,1.5l+l4,3450883", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2020, "model": "ZS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2020,mg5,1.5l+l4,3450881", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2020, "model": "MG5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2021,rx8,2.0l+l4+turbocharged,3451242", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2021, "model": "RX8"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2021,hs,1.5l+l4+turbocharged,3450183", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2021, "model": "HS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2024,zs,electric,3455674", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2024, "model": "ZS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2020,hs,2.0l+l4+turbocharged,3450880", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2020, "model": "HS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2022,mg+gt,1.5l+l4+turbocharged,3452434", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2022, "model": "MG GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2024,rx5,1.5l+l4+turbocharged,3454892", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2024, "model": "RX5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2024,rx8,2.0l+l4+turbocharged,3455402", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2024, "model": "RX8"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2023,zs,1.5l+l4,3453723", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2023, "model": "ZS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2022,hs,1.5l+l4+turbocharged,3451240", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2022, "model": "HS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2024,zs,1.5l+l4,3455675", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2024, "model": "ZS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2021,mg5,1.5l+l4,3450186", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2021, "model": "MG5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2024,one,1.5l+l4+turbocharged,3455401", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2024, "model": "ONE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2021,hs,2.0l+l4+turbocharged,3450184", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2021, "model": "HS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2024,mg5,1.5l+l4,3455673", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2024, "model": "MG5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2023,rx8,2.0l+l4+turbocharged,3454515", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2023, "model": "RX8"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2023,hs,2.0l+l4+turbocharged,3454514", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2023, "model": "HS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2020,hs,1.5l+l4+turbocharged,3450879", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2020, "model": "HS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2022,rx8,2.0l+l4+turbocharged,3451243", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2022, "model": "RX8"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2022,hs,2.0l+l4+turbocharged,3451241", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2022, "model": "HS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2023,mg5,1.5l+l4,3453722", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2023, "model": "MG5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2021,zs,1.5l+l4,3450188", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2021, "model": "ZS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,2022,mg5,1.5l+l4,3450882", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2022, "model": "MG5"}}}

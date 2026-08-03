@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2023,rvr", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2023, "model": "RVR"}}}
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2023,xpander", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2023, "model": "XPANDER"}}}
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2023,outlander+sport", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2023, "model": "OUTLANDER SPORT"}}}
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2023,outlander", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2023, "model": "OUTLANDER"}}}

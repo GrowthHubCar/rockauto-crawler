@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/acura,2014,rlx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2014, "model": "RLX"}}}
-{"node_type": "model", "href": "/en/catalog/acura,2014,ilx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2014, "model": "ILX"}}}
-{"node_type": "model", "href": "/en/catalog/acura,2014,tsx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2014, "model": "TSX"}}}
-{"node_type": "model", "href": "/en/catalog/acura,2014,tl", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2014, "model": "TL"}}}
-{"node_type": "model", "href": "/en/catalog/acura,2014,mdx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2014, "model": "MDX"}}}

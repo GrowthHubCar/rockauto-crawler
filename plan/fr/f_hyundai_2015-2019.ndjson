@@ -6,3 +6,103 @@
 {"node_type": "model", "href": "/en/catalog/hyundai,2017,santa+fe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2017, "model": "SANTA FE"}}}
 {"node_type": "model", "href": "/en/catalog/hyundai,2018,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "ELANTRA"}}}
 {"node_type": "model", "href": "/en/catalog/hyundai,2019,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,tucson,2.0l+l4,3309799", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,veloster,1.6l+l4,3309802", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "VELOSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,equus,5.0l+v8,3342428", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "EQUUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,kona,2.0l+l4,3441911", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "KONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2017,santa+fe,2.4l+l4,3435194", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2017, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,genesis,5.0l+v8,3342430", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "GENESIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,sonata,1.6l+l4+turbocharged,3446285", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,sonata,2.0l+l4+electric/gas,3442221", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,azera,3.3l+v6,3353568", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "AZERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,tucson,2.0l+l4,3346893", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,starex,2.4l+l4,3442817", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "STAREX"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2017,sonata,2.4l+l4,3436829", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2017, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2017,sonata,2.0l+l4+turbocharged,3436827", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2017, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,grand+i10,1.3l+l4,3309731", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "GRAND I10"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,veloster,1.6l+l4+turbocharged,3340802", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "VELOSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,sonata,2.0l+l4+turbocharged,3309733", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2017,accent,1.6l+l4,3436823", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2017, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,kona,1.6l+l4+turbocharged,3443706", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "KONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,santa+fe,2.0l+l4+turbocharged,3310203", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,sonata,2.0l+l4+turbocharged,3441260", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,santa+fe,3.3l+v6,3441257", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,sonata,2.4l+l4,3353780", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,genesis,3.8l+v6,3309729", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "GENESIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,ioniq,1.6l+l4+electric/gas,3443274", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "IONIQ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2017,sonata,1.6l+l4+turbocharged,3436826", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2017, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2017,tucson,electric,3454127", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2017, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2017,elantra,1.6l+l4+turbocharged,3437226", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2017, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,grand+i10,1.3l+l4,3346886", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "GRAND I10"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,tucson,1.6l+l4+turbocharged,3346892", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,sonata,2.4l+l4,3443282", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,sonata,2.0l+l4+turbocharged,3353779", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,sonata,2.4l+l4+electric/gas,3309798", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2017,azera,3.3l+v6,3436824", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2017, "model": "AZERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2017,elantra,1.4l+l4+turbocharged,3425826", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2017, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,elantra,2.0l+l4,3443271", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,genesis,5.0l+v8,3309730", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "GENESIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,tucson,2.4l+l4,3309800", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,grand+i10,1.2l+l4,3442209", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "GRAND I10"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,sonata,1.6l+l4+turbocharged,3310005", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,elantra+gt,2.0l+l4,3449608", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "ELANTRA GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,kona,1.6l+l4+turbocharged,3441910", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "KONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,genesis,3.8l+v6,3342429", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "GENESIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,santa+fe,2.4l+l4,3439961", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,veloster,1.6l+l4+turbocharged,3309801", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "VELOSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,tucson,electric,3454126", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,tucson,2.0l+l4,3441263", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,ioniq,electric,3441255", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "IONIQ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,elantra+gt,1.6l+l4+turbocharged,3449610", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "ELANTRA GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,sonata,2.0l+l4+turbocharged,3443280", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,santa+fe,2.0l+l4+turbocharged,3439960", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,genesis+coupe,3.8l+v6,3342431", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "GENESIS COUPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,elantra+gt,1.6l+l4+turbocharged,3449613", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "ELANTRA GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2017,santa+fe,3.3l+v6,3435195", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2017, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,tucson,electric,3454125", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,tucson,1.6l+l4+turbocharged,3441262", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,equus,5.0l+v8,3309797", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "EQUUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,santa+fe,2.4l+l4,3443081", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,santa+fe,2.4l+l4,3310204", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2017,elantra+gt,2.0l+l4,3449609", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2017, "model": "ELANTRA GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,veloster,2.0l+l4,3443437", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "VELOSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,veloster,1.6l+l4+turbocharged,3442405", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "VELOSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2017,veloster,1.6l+l4,3436830", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2017, "model": "VELOSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,accent,1.6l+l4,3310294", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,elantra,2.0l+l4,3332405", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,sonata,2.0l+l4+electric/gas,3443710", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,elantra,2.0l+l4,3309796", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,elantra+gt,2.0l+l4,3449612", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "ELANTRA GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2017,tucson,1.6l+l4+turbocharged,3435197", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2017, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,sonata,1.6l+l4+turbocharged,3353778", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,veloster,2.0l+l4+turbocharged,3442406", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "VELOSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,sonata,2.0l+l4+electric/gas,3353571", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,kona,electric,3443708", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "KONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2017,sonata,2.0l+l4+electric/gas,3436828", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2017, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,elantra,1.8l+l4,3342427", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,sonata,1.6l+l4+turbocharged,3441259", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,veloster,1.6l+l4,3340803", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "VELOSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,santa+fe,2.0l+l4+turbocharged,3346890", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2017,tucson,2.0l+l4,3435198", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2017, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,tucson,2.4l+l4,3443712", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,sonata,2.4l+l4,3309734", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,ioniq,1.6l+l4+electric/gas,3441256", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "IONIQ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,h350,2.5l+l4+diesel+turbocharged,3457908", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "H350"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,elantra,1.8l+l4,3309728", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,santa+fe,3.3l+v6,3353569", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,nexo,electric,3454119", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "NEXO"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,santa+fe,2.0l+l4+turbocharged,3443080", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,elantra+gt,2.0l+l4,3449611", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "ELANTRA GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,ioniq,electric,3443705", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "IONIQ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,accent,1.6l+l4,3441252", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,tucson,2.0l+l4,3443711", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2017,elantra,2.0l+l4,3393930", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2017, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2016,santa+fe,2.4l+l4,3346891", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,creta,1.6l+l4,3442208", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "CRETA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2019,santa+fe+xl,3.3l+v6,3443278", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2019, "model": "SANTA FE XL"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2017,veloster,1.6l+l4+turbocharged,3436831", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2017, "model": "VELOSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,tucson,2.4l+l4,3442222", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,sonata,2.4l+l4,3441261", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,genesis+coupe,3.8l+v6,3310202", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "GENESIS COUPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,santa+fe,3.3l+v6,3310205", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2015,ix35,2.0l+l4,3309732", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "IX35"}}}

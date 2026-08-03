@@ -1,2 +1,13 @@
 {"node_type": "model", "href": "/en/catalog/checker,1976,marathon", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1976, "model": "MARATHON"}}}
 {"node_type": "model", "href": "/en/catalog/checker,1978,marathon", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1978, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1976,marathon,5.7l+350cid+v8,1311833", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1976, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1979,marathon,5.0l+305cid+v8,1430067", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1979, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1975,marathon,4.1l+250cid+l6,1311803", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1975, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1977,marathon,4.1l+250cid+l6,1311843", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1977, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1979,marathon,5.7l+350cid+v8,1430068", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1979, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1978,marathon,5.7l+350cid+v8,1311883", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1978, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1977,marathon,5.7l+350cid+v8,1311853", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1977, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1979,marathon,4.1l+250cid+l6,1430066", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1979, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1978,marathon,5.0l+305cid+v8,1311873", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1978, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1975,marathon,5.7l+350cid+v8,1311813", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1975, "model": "MARATHON"}}}
+{"node_type": "carcode", "href": "/en/catalog/checker,1977,marathon,5.0l+305cid+v8,1430069", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1977, "model": "MARATHON"}}}

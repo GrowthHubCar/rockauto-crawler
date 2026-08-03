@@ -8,3 +8,4 @@
 {"node_type": "model", "href": "/en/catalog/renault,2025,kardian", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2025, "model": "KARDIAN"}}}
 {"node_type": "model", "href": "/en/catalog/renault,2025,master", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2025, "model": "MASTER"}}}
 {"node_type": "model", "href": "/en/catalog/renault,2025,arkana", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2025, "model": "ARKANA"}}}
+{"node_type": "carcode", "href": "/en/catalog/renault,2026,kwid,999cc+l3,3459766", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 2026, "model": "KWID"}}}

@@ -15,3 +15,103 @@
 {"node_type": "model", "href": "/en/catalog/volkswagen,2011,spacefox", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "SPACEFOX"}}}
 {"node_type": "model", "href": "/en/catalog/volkswagen,2013,gol", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "GOL"}}}
 {"node_type": "model", "href": "/en/catalog/volkswagen,2011,gol+sedan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "GOL SEDAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,touareg,3.0l+v6+electric/gas+supercharged,1502737", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "TOUAREG"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,jetta,2.0l+l4+turbocharged,1502710", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "JETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,transporter,2.0l+l4+diesel+turbocharged,3015476", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,jetta,2.0l+l4,1505269", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "JETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,eos,2.0l+l4+turbocharged,1501022", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "EOS"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,passat,2.0l+l4+turbocharged,1445580", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "PASSAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,jetta,2.0l+l4+diesel+turbocharged,1505276", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "JETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,jetta,2.0l+l4,3015462", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "JETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,transporter,2.0l+l4+diesel+turbocharged,3015465", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,clasico,1.9l+l4+diesel+turbocharged,3446865", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "CLASICO"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,jetta,2.5l+l5,3188", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "JETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,polo,1.2l+l4+turbocharged,3294269", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "POLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,polo,1.4l+l4+turbocharged,3276799", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "POLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,jetta,2.0l+l4+turbocharged,1505267", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "JETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,jetta,1.4l+l4+electric/gas+turbocharged,1505995", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "JETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,jetta,2.0l+l4,1447452", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "JETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,clasico,2.0l+l4,3015486", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "CLASICO"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,touareg,3.6l+v6,1505297", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "TOUAREG"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,passat,3.6l+v6,1502732", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "PASSAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,tiguan,1.4l+l4+turbocharged,3298435", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "TIGUAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,beetle+cabrio,2.5l+l5,3015458", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "BEETLE CABRIO"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,passat,3.6l+v6,1447326", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "PASSAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,tiguan,2.0l+l4+turbocharged,1445585", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "TIGUAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,jetta,2.5l+l5,1502698", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "JETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,gol,1.6l+l4,3262077", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "GOL"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,bora,1.9l+l4+diesel+turbocharged,3015460", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "BORA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,routan,4.0l+v6,1445583", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "ROUTAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,sportvan,1.6l+l4,3015755", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "SPORTVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,tiguan,2.0l+l4+turbocharged,1447498", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "TIGUAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,tiguan,2.0l+l4+turbocharged,1505290", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "TIGUAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,jetta,2.5l+l5,1505275", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "JETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,jetta,2.0l+l4,1502697", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "JETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,saveiro,1.6l+l4,3015489", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "SAVEIRO"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,beetle,2.5l+l5,1445561", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,gti,2.0l+l4+turbocharged,1505266", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "GTI"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,passat+cc,3.6l+v6,1445938", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "PASSAT CC"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,golf,2.0l+l4+turbocharged,1502987", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "GOLF"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,gol+sedan,1.6l+l4,3015488", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "GOL SEDAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,jetta,1.4l+l4+turbocharged,3267610", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "JETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,gti,2.0l+l4+turbocharged,1447793", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "GTI"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,passat,2.0l+l4+diesel+turbocharged,1502730", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "PASSAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,jetta,2.0l+l4+diesel+turbocharged,1502702", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "JETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,touareg,3.6l+v6,1502741", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "TOUAREG"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,golf,2.5l+l5,1505262", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "GOLF"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,golf,2.5l+l5,1447790", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "GOLF"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,touareg,4.2l+v8,3015771", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "TOUAREG"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,touareg,3.6l+v6,1447509", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "TOUAREG"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,golf,2.0l+l4+turbocharged,1505263", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "GOLF"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,jetta,1.8l+l4+turbocharged,3015753", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "JETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,routan,3.6l+v6,3278148", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "ROUTAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,passat+cc,2.0l+l4+turbocharged,3015761", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "PASSAT CC"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,touareg,3.0l+v6+diesel+turbocharged,1447507", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "TOUAREG"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,golf,1.4l+l4+turbocharged,3294309", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "GOLF"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,crafter+van,2.5l+l5+diesel+turbocharged+sohc,3445788", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "CRAFTER VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,cc,3.6l+v6,1504600", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "CC"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2014,vento,1.6l+l4+diesel+turbocharged,3310575", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2014, "model": "VENTO"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,touareg,3.0l+v6+diesel+turbocharged,1502738", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "TOUAREG"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,passat,2.0l+l4+diesel+turbocharged,1505288", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "PASSAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,pointer+truck,1.8l+l4,3435578", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "POINTER TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,passat+cc,2.0l+l4+turbocharged,1445937", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "PASSAT CC"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,crafter+van,2.5l+l5+diesel+turbocharged+dohc,3445787", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "CRAFTER VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2014,vento,1.6l+l4,3259087", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2014, "model": "VENTO"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,passat+cc,2.0l+l4+turbocharged,3015482", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "PASSAT CC"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,touareg,3.0l+v6+diesel+turbocharged,1505294", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "TOUAREG"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,touareg,3.0l+v6+electric/gas+supercharged,1447511", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "TOUAREG"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,gti,2.0l+l4+turbocharged,1502686", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "GTI"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,routan,3.6l+v6,3015473", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "ROUTAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2014,routan,3.6l+v6,3250005", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2014, "model": "ROUTAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,touareg,3.0l+v6+electric/gas+supercharged,1505293", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "TOUAREG"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,jetta,2.0l+l4+diesel+turbocharged,1445604", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "JETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,touareg,3.0l+v6+diesel+turbocharged,1445606", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "TOUAREG"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2014,transporter,2.0l+l4+diesel+turbocharged,3307657", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2014, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,touareg,3.6l+v6,1445588", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "TOUAREG"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,passat,2.5l+l5,1505278", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "PASSAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,gli,2.0l+l4+turbocharged,3015750", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "GLI"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,jetta,2.0l+l4+diesel+turbocharged,1447877", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "JETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,eos,2.0l+l4+turbocharged,1501018", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "EOS"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,eos,2.0l+l4+turbocharged,1505254", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "EOS"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,routan,3.6l+v6,3015769", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "ROUTAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,jetta,2.5l+l5,3101", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "JETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,beetle,2.0l+l4,3015748", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,passat+cc,3.6l+v6,3015483", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "PASSAT CC"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,golf,2.0l+l4+diesel+turbocharged,1447792", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "GOLF"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,bora,2.5l+l5,3015459", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "BORA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,transporter,2.0l+l4+diesel+turbocharged,3294338", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,jetta,2.0l+l4+turbocharged,1445578", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "JETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,touareg,4.2l+v8,3015475", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "TOUAREG"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,gti,2.0l+l4+turbocharged,1445496", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "GTI"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,golf,2.0l+l4+diesel+turbocharged,1446259", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "GOLF"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,passat,2.5l+l5,1502723", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "PASSAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,golf,2.0l+l4+diesel+turbocharged,1505264", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "GOLF"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2014,passat,2.5l+l5,3307098", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2014, "model": "PASSAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,crafter,2.5l+l5+diesel+turbocharged,3015749", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "CRAFTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,passat,3.6l+v6,1505282", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "PASSAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,golf,2.5l+l5,1502683", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "GOLF"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,transporter,2.0l+l4+diesel+turbocharged,3015772", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2010,routan,3.8l+v6,1445581", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "ROUTAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,passat+cc,3.6l+v6,3015762", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "PASSAT CC"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2014,touareg,4.2l+v8,3307609", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2014, "model": "TOUAREG"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,golf,2.0l+l4+diesel+turbocharged,1502694", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "GOLF"}}}

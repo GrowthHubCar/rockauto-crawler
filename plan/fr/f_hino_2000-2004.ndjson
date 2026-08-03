@@ -29,3 +29,5 @@
 {"node_type": "model", "href": "/en/catalog/hino,2003,fb1817", "payload": {"nodetype": "model", "ctx": {"make": "HINO", "year": 2003, "model": "FB1817"}}}
 {"node_type": "model", "href": "/en/catalog/hino,2003,fd2320", "payload": {"nodetype": "model", "ctx": {"make": "HINO", "year": 2003, "model": "FD2320"}}}
 {"node_type": "model", "href": "/en/catalog/hino,2004,fd2320", "payload": {"nodetype": "model", "ctx": {"make": "HINO", "year": 2004, "model": "FD2320"}}}
+{"node_type": "carcode", "href": "/en/catalog/hino,2004,fb1817,5.3l+l4+diesel+turbocharged,3297189", "payload": {"nodetype": "carcode", "ctx": {"make": "HINO", "year": 2004, "model": "FB1817"}}}
+{"node_type": "carcode", "href": "/en/catalog/hino,2002,fd2220,8.0l+l6+diesel+turbocharged,3297197", "payload": {"nodetype": "carcode", "ctx": {"make": "HINO", "year": 2002, "model": "FD2220"}}}

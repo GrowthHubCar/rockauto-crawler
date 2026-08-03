@@ -3,3 +3,5 @@
 {"node_type": "model", "href": "/en/catalog/essex,1932,standard", "payload": {"nodetype": "model", "ctx": {"make": "ESSEX", "year": 1932, "model": "STANDARD"}}}
 {"node_type": "model", "href": "/en/catalog/essex,1933,terraplane", "payload": {"nodetype": "model", "ctx": {"make": "ESSEX", "year": 1933, "model": "TERRAPLANE"}}}
 {"node_type": "model", "href": "/en/catalog/essex,1932,pacemaker", "payload": {"nodetype": "model", "ctx": {"make": "ESSEX", "year": 1932, "model": "PACEMAKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/essex,1932,terraplane,3.2l+193cid+l6,2001913", "payload": {"nodetype": "carcode", "ctx": {"make": "ESSEX", "year": 1932, "model": "TERRAPLANE"}}}
+{"node_type": "carcode", "href": "/en/catalog/essex,1933,terraplane,4.0l+244cid+l8,3309940", "payload": {"nodetype": "carcode", "ctx": {"make": "ESSEX", "year": 1933, "model": "TERRAPLANE"}}}

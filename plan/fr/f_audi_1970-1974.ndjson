@@ -1,0 +1,10 @@
+{"node_type": "carcode", "href": "/en/catalog/audi,1970,100,1.8l+l4,1404559", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1970, "model": "100"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1970,super+90,1.8l+l4,1404571", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1970, "model": "SUPER 90"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1971,100,1.8l+l4,1368008", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1971, "model": "100"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1974,fox,1.5l+l4,1009112", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1974, "model": "FOX"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1972,super+90,1.8l+l4,1009415", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1972, "model": "SUPER 90"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1973,fox,1.5l+l4,1009099", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1973, "model": "FOX"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1971,super+90,1.8l+l4,1009404", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1971, "model": "SUPER 90"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1973,100,1.9l+l4,1498832", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1973, "model": "100"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1974,100,1.9l+l4,1499827", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1974, "model": "100"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,1972,100,1.9l+l4,1367973", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1972, "model": "100"}}}

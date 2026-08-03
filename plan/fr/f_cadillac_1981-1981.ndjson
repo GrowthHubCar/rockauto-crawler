@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/cadillac,1981,eldorado", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1981, "model": "ELDORADO"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,1981,seville", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1981, "model": "SEVILLE"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,1981,commercial+chassis", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1981, "model": "COMMERCIAL CHASSIS"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,1981,fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1981, "model": "FLEETWOOD"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,1981,deville", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1981, "model": "DEVILLE"}}}

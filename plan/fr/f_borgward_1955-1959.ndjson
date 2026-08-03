@@ -17,3 +17,4 @@
 {"node_type": "model", "href": "/en/catalog/borgward,1957,goliath+1100", "payload": {"nodetype": "model", "ctx": {"make": "BORGWARD", "year": 1957, "model": "GOLIATH 1100"}}}
 {"node_type": "model", "href": "/en/catalog/borgward,1958,goliath+1100", "payload": {"nodetype": "model", "ctx": {"make": "BORGWARD", "year": 1958, "model": "GOLIATH 1100"}}}
 {"node_type": "model", "href": "/en/catalog/borgward,1959,goliath+1100", "payload": {"nodetype": "model", "ctx": {"make": "BORGWARD", "year": 1959, "model": "GOLIATH 1100"}}}
+{"node_type": "carcode", "href": "/en/catalog/borgward,1955,hansa+1800,1.8l+l4+diesel,1440521", "payload": {"nodetype": "carcode", "ctx": {"make": "BORGWARD", "year": 1955, "model": "HANSA 1800"}}}

@@ -23,3 +23,10 @@
 {"node_type": "model", "href": "/en/catalog/austin,1963,princess", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1963, "model": "PRINCESS"}}}
 {"node_type": "model", "href": "/en/catalog/austin,1964,princess", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1964, "model": "PRINCESS"}}}
 {"node_type": "model", "href": "/en/catalog/austin,1964,mini+moke", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1964, "model": "MINI MOKE"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin,1963,mini+850,848cc+l4,1491013", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN", "year": 1963, "model": "MINI 850"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin,1963,a60,1.6l+l4,1491009", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN", "year": 1963, "model": "A60"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin,1963,cambridge,1.6l+l4,1436524", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN", "year": 1963, "model": "CAMBRIDGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin,1963,mini,848cc+l4,1391004", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN", "year": 1963, "model": "MINI"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin,1960,westminster,2.9l+l6,1436534", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN", "year": 1960, "model": "WESTMINSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin,1961,mini+850,848cc+l4,1489874", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN", "year": 1961, "model": "MINI 850"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin,1960,mini,848cc+l4,1390979", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN", "year": 1960, "model": "MINI"}}}

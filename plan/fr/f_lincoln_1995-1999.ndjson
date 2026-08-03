@@ -1,1 +1,15 @@
 {"node_type": "model", "href": "/en/catalog/lincoln,1998,mark+viii", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1998, "model": "MARK VIII"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1995,mark+viii,4.6l+v8,1430243", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1995, "model": "MARK VIII"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1997,town+car,4.6l+v8,1188985", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1997, "model": "TOWN CAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1995,town+car,4.6l+v8,1188907", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1995, "model": "TOWN CAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1996,town+car,4.6l+v8,1188941", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1996, "model": "TOWN CAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1998,navigator,5.4l+v8,1305133", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1998, "model": "NAVIGATOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1995,continental,4.6l+v8,1188097", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1995, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1996,mark+viii,4.6l+v8,1188547", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1996, "model": "MARK VIII"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1997,mark+viii,4.6l+v8,1188558", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1997, "model": "MARK VIII"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1999,navigator,5.4l+v8+dohc,1381957", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1999, "model": "NAVIGATOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1997,continental,4.6l+v8,1188121", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1997, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1999,town+car,4.6l+v8,1356151", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1999, "model": "TOWN CAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1999,continental,4.6l+v8,1356139", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1999, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1999,navigator,5.4l+v8+sohc,1401792", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1999, "model": "NAVIGATOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1996,continental,4.6l+v8,1188109", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1996, "model": "CONTINENTAL"}}}

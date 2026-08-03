@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,1988,528e", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1988, "model": "528E"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1988,m6", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1988, "model": "M6"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1988,535i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1988, "model": "535I"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1988,m5", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1988, "model": "M5"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1988,325is", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1988, "model": "325IS"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1988,m3", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1988, "model": "M3"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1988,750il", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1988, "model": "750IL"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1988,325e", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1988, "model": "325E"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1988,325i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1988, "model": "325I"}}}

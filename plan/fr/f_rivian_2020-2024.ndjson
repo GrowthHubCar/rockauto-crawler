@@ -4,3 +4,16 @@
 {"node_type": "model", "href": "/en/catalog/rivian,2024,rcv-700", "payload": {"nodetype": "model", "ctx": {"make": "RIVIAN", "year": 2024, "model": "RCV-700"}}}
 {"node_type": "model", "href": "/en/catalog/rivian,2023,rcv-500", "payload": {"nodetype": "model", "ctx": {"make": "RIVIAN", "year": 2023, "model": "RCV-500"}}}
 {"node_type": "model", "href": "/en/catalog/rivian,2024,rcv-500", "payload": {"nodetype": "model", "ctx": {"make": "RIVIAN", "year": 2024, "model": "RCV-500"}}}
+{"node_type": "carcode", "href": "/en/catalog/rivian,2024,edv-500,electric,3455433", "payload": {"nodetype": "carcode", "ctx": {"make": "RIVIAN", "year": 2024, "model": "EDV-500"}}}
+{"node_type": "carcode", "href": "/en/catalog/rivian,2024,r1t,electric,3454567", "payload": {"nodetype": "carcode", "ctx": {"make": "RIVIAN", "year": 2024, "model": "R1T"}}}
+{"node_type": "carcode", "href": "/en/catalog/rivian,2023,r1s,electric,3451278", "payload": {"nodetype": "carcode", "ctx": {"make": "RIVIAN", "year": 2023, "model": "R1S"}}}
+{"node_type": "carcode", "href": "/en/catalog/rivian,2024,edv-900,electric,3455435", "payload": {"nodetype": "carcode", "ctx": {"make": "RIVIAN", "year": 2024, "model": "EDV-900"}}}
+{"node_type": "carcode", "href": "/en/catalog/rivian,2023,r1t,electric,3451279", "payload": {"nodetype": "carcode", "ctx": {"make": "RIVIAN", "year": 2023, "model": "R1T"}}}
+{"node_type": "carcode", "href": "/en/catalog/rivian,2023,edv-500,electric,3454563", "payload": {"nodetype": "carcode", "ctx": {"make": "RIVIAN", "year": 2023, "model": "EDV-500"}}}
+{"node_type": "carcode", "href": "/en/catalog/rivian,2022,edv-700,electric,3454921", "payload": {"nodetype": "carcode", "ctx": {"make": "RIVIAN", "year": 2022, "model": "EDV-700"}}}
+{"node_type": "carcode", "href": "/en/catalog/rivian,2024,edv-700,electric,3455434", "payload": {"nodetype": "carcode", "ctx": {"make": "RIVIAN", "year": 2024, "model": "EDV-700"}}}
+{"node_type": "carcode", "href": "/en/catalog/rivian,2023,edv-900,electric,3454565", "payload": {"nodetype": "carcode", "ctx": {"make": "RIVIAN", "year": 2023, "model": "EDV-900"}}}
+{"node_type": "carcode", "href": "/en/catalog/rivian,2023,rcv-700,electric,3454926", "payload": {"nodetype": "carcode", "ctx": {"make": "RIVIAN", "year": 2023, "model": "RCV-700"}}}
+{"node_type": "carcode", "href": "/en/catalog/rivian,2022,edv-900,electric,3454922", "payload": {"nodetype": "carcode", "ctx": {"make": "RIVIAN", "year": 2022, "model": "EDV-900"}}}
+{"node_type": "carcode", "href": "/en/catalog/rivian,2022,edv-500,electric,3454920", "payload": {"nodetype": "carcode", "ctx": {"make": "RIVIAN", "year": 2022, "model": "EDV-500"}}}
+{"node_type": "carcode", "href": "/en/catalog/rivian,2023,edv-700,electric,3454564", "payload": {"nodetype": "carcode", "ctx": {"make": "RIVIAN", "year": 2023, "model": "EDV-700"}}}

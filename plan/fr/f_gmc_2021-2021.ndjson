@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,2021,terrain", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2021, "model": "TERRAIN"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,2021,yukon+xl", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2021, "model": "YUKON XL"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,2021,yukon", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2021, "model": "YUKON"}}}

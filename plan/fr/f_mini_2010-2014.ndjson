@@ -1,1 +1,25 @@
 {"node_type": "model", "href": "/en/catalog/mini,2014,cooper+countryman", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2014, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2010,cooper,1.6l+l4+turbocharged+dohc,1445176", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2010, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2014,cooper,1.5l+l3+turbocharged,3308908", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2014, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2013,cooper+paceman,1.6l+l4,3298433", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2013, "model": "COOPER PACEMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2010,cooper,1.6l+l4+dohc,1445174", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2010, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2013,cooper+countryman,1.6l+l4,3294312", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2013, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2012,cooper+countryman,1.6l+l4,1503356", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2012, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2010,cooper,1.6l+l4+sohc,3015332", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2010, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2012,cooper,1.6l+l4+turbocharged,1503352", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2012, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2014,cooper+paceman,1.6l+l4+turbocharged,3307016", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2014, "model": "COOPER PACEMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2013,cooper+paceman,1.6l+l4+turbocharged,3298418", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2013, "model": "COOPER PACEMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2014,cooper,1.6l+l4,3307012", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2014, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2012,cooper,1.6l+l4,1503350", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2012, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2011,cooper+countryman,1.6l+l4+turbocharged,1447775", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2011, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2013,cooper,1.6l+l4,3015336", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2013, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2011,cooper+countryman,1.6l+l4,1447774", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2011, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2013,cooper+countryman,1.6l+l4+turbocharged,3015338", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2013, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2014,cooper,2.0l+l4+turbocharged,3308909", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2014, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2014,cooper+paceman,1.6l+l4,3307015", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2014, "model": "COOPER PACEMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2010,cooper,1.6l+l4+turbocharged+sohc,3015333", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2010, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2014,cooper,1.6l+l4+turbocharged,3307011", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2014, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2013,cooper,1.6l+l4+turbocharged,3015337", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2013, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2011,cooper,1.6l+l4+turbocharged,1447426", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2011, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2011,cooper,1.6l+l4,1501047", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2011, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2012,cooper+countryman,1.6l+l4+turbocharged,1503357", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2012, "model": "COOPER COUNTRYMAN"}}}

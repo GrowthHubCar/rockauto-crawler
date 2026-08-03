@@ -1,1 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/qvale,2002,mangusta", "payload": {"nodetype": "model", "ctx": {"make": "QVALE", "year": 2002, "model": "MANGUSTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/qvale,2001,mangusta,4.6l+v8,1374858", "payload": {"nodetype": "carcode", "ctx": {"make": "QVALE", "year": 2001, "model": "MANGUSTA"}}}

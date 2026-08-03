@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1977,sprint", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1977, "model": "SPRINT"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1977,k35+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1977, "model": "K35 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1977,p35", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1977, "model": "P35"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1977,p25", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1977, "model": "P25"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1977,p15/p1500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1977, "model": "P15/P1500 VAN"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1977,p35/p3500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1977, "model": "P35/P3500 VAN"}}}

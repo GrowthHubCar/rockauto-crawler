@@ -4,3 +4,33 @@
 {"node_type": "model", "href": "/en/catalog/suzuki,2008,swift", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2008, "model": "SWIFT"}}}
 {"node_type": "model", "href": "/en/catalog/suzuki,2009,swift", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2009, "model": "SWIFT"}}}
 {"node_type": "model", "href": "/en/catalog/suzuki,2007,reno", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2007, "model": "RENO"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2006,verona,2.5l+l6,1432824", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2006, "model": "VERONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2009,grand+vitara,2.4l+l4,1444296", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2009, "model": "GRAND VITARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2009,grand+vitara,3.2l+v6,1443753", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2009, "model": "GRAND VITARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2009,equator,4.0l+v6,1443892", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2009, "model": "EQUATOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2005,grand+vitara,2.5l+v6,1431425", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2005, "model": "GRAND VITARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2005,forenza,2.0l+l4,1431422", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2005, "model": "FORENZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2007,swift,1.5l+l4,951747", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2007, "model": "SWIFT"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2006,grand+vitara,2.7l+v6,1432823", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2006, "model": "GRAND VITARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2007,forenza,2.0l+l4,1434286", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2007, "model": "FORENZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2006,xl-7,2.7l+v6,1433179", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2006, "model": "XL-7"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2008,grand+vitara,2.7l+v6,1441788", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2008, "model": "GRAND VITARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2007,aerio,2.3l+l4,1434285", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2007, "model": "AERIO"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2008,swift,1.5l+l4,951748", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2008, "model": "SWIFT"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2009,equator,2.5l+l4,1443895", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2009, "model": "EQUATOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2007,xl-7,3.6l+v6,1434295", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2007, "model": "XL-7"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2006,reno,2.0l+l4,1432874", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2006, "model": "RENO"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2006,aerio,2.3l+l4,1432821", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2006, "model": "AERIO"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2006,forenza,2.0l+l4,1432820", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2006, "model": "FORENZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2007,sx4,2.0l+l4,1434292", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2007, "model": "SX4"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2008,sx4,2.0l+l4,1441792", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2008, "model": "SX4"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2007,grand+vitara,2.7l+v6,1434289", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2007, "model": "GRAND VITARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2009,sx4,2.0l+l4,1443751", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2009, "model": "SX4"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2005,verona,2.5l+l6,1431430", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2005, "model": "VERONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2005,reno,2.0l+l4,1431441", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2005, "model": "RENO"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2008,forenza,2.0l+l4,1441787", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2008, "model": "FORENZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2005,xl-7,2.7l+v6,1431433", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2005, "model": "XL-7"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2008,xl-7,3.6l+v6,1441794", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2008, "model": "XL-7"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2009,xl-7,3.6l+v6,1443748", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2009, "model": "XL-7"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2008,reno,2.0l+l4,1441791", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2008, "model": "RENO"}}}
+{"node_type": "carcode", "href": "/en/catalog/suzuki,2005,aerio,2.3l+l4,1433064", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2005, "model": "AERIO"}}}

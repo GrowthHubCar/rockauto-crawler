@@ -22,3 +22,30 @@
 {"node_type": "model", "href": "/en/catalog/mercury,1964,cyclone", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1964, "model": "CYCLONE"}}}
 {"node_type": "model", "href": "/en/catalog/mercury,1963,comet", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1963, "model": "COMET"}}}
 {"node_type": "model", "href": "/en/catalog/mercury,1963,meteor", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1963, "model": "METEOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1960,commuter,7.0l+430cid+v8,1489743", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1960, "model": "COMMUTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1960,commuter,6.3l+383cid+v8,1489742", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1960, "model": "COMMUTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1964,monterey,6.4l+390cid+v8,1344631", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1964, "model": "MONTEREY"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1962,comet,4.3l+260cid+v8,1490756", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1962, "model": "COMET"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1960,colony+park,5.1l+312cid+v8,1345137", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1960, "model": "COLONY PARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1963,villager,2.8l+170cid+l6,1491392", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1963, "model": "VILLAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1963,marauder,6.4l+390cid+v8,1344754", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1963, "model": "MARAUDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1964,monterey,7.0l+427cid+v8,1491966", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1964, "model": "MONTEREY"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1962,colony+park,6.4l+390cid+v8,1344855", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1962, "model": "COLONY PARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1961,comet,2.4l+144cid+l6,1344990", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1961, "model": "COMET"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1961,meteor,4.8l+292cid+v8,1345081", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1961, "model": "METEOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1963,colony+park,6.4l+390cid+v8,1344686", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1963, "model": "COLONY PARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1962,monterey,3.6l+223cid+l6,1344912", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1962, "model": "MONTEREY"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1960,country+cruiser,5.1l+312cid+v8,1345160", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1960, "model": "COUNTRY CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1963,marauder,6.6l+406cid+v8,1491378", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1963, "model": "MARAUDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1962,colony+park,4.8l+292cid+v8,1344844", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1962, "model": "COLONY PARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1961,meteor,2.8l+170cid+l6,1345069", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1961, "model": "METEOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1960,country+cruiser,6.3l+383cid+v8,1489744", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1960, "model": "COUNTRY CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1964,comet,2.8l+170cid+l6,1344530", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1964, "model": "COMET"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1961,meteor,5.8l+352cid+v8,1345070", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1961, "model": "METEOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1960,montclair,7.0l+430cid+v8,1489747", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1960, "model": "MONTCLAIR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1963,comet,3.6l+221cid+v8,1491365", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1963, "model": "COMET"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1960,monterey,6.3l+383cid+v8,1489748", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1960, "model": "MONTEREY"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1961,colony+park,5.8l+352cid+v8,1344978", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1961, "model": "COLONY PARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1961,meteor,6.4l+390cid+v8,1345092", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1961, "model": "METEOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1963,villager,3.3l+200cid+l6,1491393", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1963, "model": "VILLAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1962,monterey,4.8l+292cid+v8,1344934", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1962, "model": "MONTEREY"}}}

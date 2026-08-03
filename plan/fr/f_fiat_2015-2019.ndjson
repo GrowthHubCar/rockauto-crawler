@@ -14,3 +14,34 @@
 {"node_type": "model", "href": "/en/catalog/fiat,2017,mobi", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2017, "model": "MOBI"}}}
 {"node_type": "model", "href": "/en/catalog/fiat,2018,mobi", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2018, "model": "MOBI"}}}
 {"node_type": "model", "href": "/en/catalog/fiat,2019,mobi", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2019, "model": "MOBI"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2017,500x,1.4l+l4+turbocharged,3434444", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2017, "model": "500X"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2017,500,1.4l+l4+turbocharged,3434442", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2017, "model": "500"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2017,500,electric,3434440", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2017, "model": "500"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2018,500,1.4l+l4+turbocharged,3442164", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2018, "model": "500"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2015,500,1.4l+l4,3309787", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2015, "model": "500"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2017,ducato,2.3l+l4+diesel+turbocharged,3435969", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2017, "model": "DUCATO"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2018,500x,1.4l+l4+turbocharged,3441559", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2018, "model": "500X"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2018,500,electric,3442163", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2018, "model": "500"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2018,124+spider,1.4l+l4+turbocharged,3441557", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2018, "model": "124 SPIDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2017,124+spider,1.4l+l4+turbocharged,3434439", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2017, "model": "124 SPIDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2019,500,electric,3444059", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2019, "model": "500"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2016,500x,2.4l+l4+dohc,3330669", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2016, "model": "500X"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2016,500,1.4l+l4+turbocharged,3353548", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2016, "model": "500"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2017,500x,2.4l+l4,3434445", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2017, "model": "500X"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2019,500x,1.3l+l4+turbocharged,3444708", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2019, "model": "500X"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2019,ducato,2.3l+l4+diesel+turbocharged,3444061", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2019, "model": "DUCATO"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2018,500x,2.4l+l4,3441560", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2018, "model": "500X"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2019,500l,1.4l+l4+turbocharged,3443232", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2019, "model": "500L"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2019,500,1.4l+l4+turbocharged,3443661", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2019, "model": "500"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2016,500,1.4l+l4,3353547", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2016, "model": "500"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2015,500l,1.4l+l4+turbocharged,3309788", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2015, "model": "500L"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2016,500x,2.4l+l4+sohc,3356312", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2016, "model": "500X"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2019,124+spider,1.4l+l4+turbocharged,3443231", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2019, "model": "124 SPIDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2017,palio,1.6l+l4,3435970", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2017, "model": "PALIO"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2015,500,electric,3310365", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2015, "model": "500"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2016,500,electric,3353546", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2016, "model": "500"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2015,500,1.4l+l4+turbocharged,3309786", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2015, "model": "500"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2018,500l,1.4l+l4+turbocharged,3441558", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2018, "model": "500L"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2016,500x,1.4l+l4+turbocharged,3330668", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2016, "model": "500X"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2016,500l,1.4l+l4+turbocharged,3340683", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2016, "model": "500L"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2017,500,1.4l+l4,3434441", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2017, "model": "500"}}}

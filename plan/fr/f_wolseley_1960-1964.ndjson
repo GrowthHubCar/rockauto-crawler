@@ -2,3 +2,14 @@
 {"node_type": "model", "href": "/en/catalog/wolseley,1964,1500", "payload": {"nodetype": "model", "ctx": {"make": "WOLSELEY", "year": 1964, "model": "1500"}}}
 {"node_type": "model", "href": "/en/catalog/wolseley,1963,15/60", "payload": {"nodetype": "model", "ctx": {"make": "WOLSELEY", "year": 1963, "model": "15/60"}}}
 {"node_type": "model", "href": "/en/catalog/wolseley,1964,15/60", "payload": {"nodetype": "model", "ctx": {"make": "WOLSELEY", "year": 1964, "model": "15/60"}}}
+{"node_type": "carcode", "href": "/en/catalog/wolseley,1961,6/90,2.6l+l6,1439575", "payload": {"nodetype": "carcode", "ctx": {"make": "WOLSELEY", "year": 1961, "model": "6/90"}}}
+{"node_type": "carcode", "href": "/en/catalog/wolseley,1963,1500,1.5l+l4,1439221", "payload": {"nodetype": "carcode", "ctx": {"make": "WOLSELEY", "year": 1963, "model": "1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/wolseley,1962,6/90,2.6l+l6,1439574", "payload": {"nodetype": "carcode", "ctx": {"make": "WOLSELEY", "year": 1962, "model": "6/90"}}}
+{"node_type": "carcode", "href": "/en/catalog/wolseley,1962,15/60,1.5l+l4,1439211", "payload": {"nodetype": "carcode", "ctx": {"make": "WOLSELEY", "year": 1962, "model": "15/60"}}}
+{"node_type": "carcode", "href": "/en/catalog/wolseley,1960,1500,1.5l+l4,1439224", "payload": {"nodetype": "carcode", "ctx": {"make": "WOLSELEY", "year": 1960, "model": "1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/wolseley,1962,1500,1.5l+l4,1439222", "payload": {"nodetype": "carcode", "ctx": {"make": "WOLSELEY", "year": 1962, "model": "1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/wolseley,1961,15/60,1.5l+l4,1439212", "payload": {"nodetype": "carcode", "ctx": {"make": "WOLSELEY", "year": 1961, "model": "15/60"}}}
+{"node_type": "carcode", "href": "/en/catalog/wolseley,1961,1500,1.5l+l4,1439223", "payload": {"nodetype": "carcode", "ctx": {"make": "WOLSELEY", "year": 1961, "model": "1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/wolseley,1963,6/90,2.6l+l6,1439573", "payload": {"nodetype": "carcode", "ctx": {"make": "WOLSELEY", "year": 1963, "model": "6/90"}}}
+{"node_type": "carcode", "href": "/en/catalog/wolseley,1960,15/60,1.5l+l4,1439213", "payload": {"nodetype": "carcode", "ctx": {"make": "WOLSELEY", "year": 1960, "model": "15/60"}}}
+{"node_type": "carcode", "href": "/en/catalog/wolseley,1960,6/90,2.6l+l6,1439576", "payload": {"nodetype": "carcode", "ctx": {"make": "WOLSELEY", "year": 1960, "model": "6/90"}}}

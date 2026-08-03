@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/subaru,2018,xv", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2018, "model": "XV"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2018,wrx+sti", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2018, "model": "WRX STI"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2018,wrx", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2018, "model": "WRX"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2018,legacy", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2018, "model": "LEGACY"}}}

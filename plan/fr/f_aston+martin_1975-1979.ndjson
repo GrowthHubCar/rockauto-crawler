@@ -5,3 +5,4 @@
 {"node_type": "model", "href": "/en/catalog/aston+martin,1977,v-8", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1977, "model": "V-8"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,1978,v-8", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1978, "model": "V-8"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,1979,v-8", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1979, "model": "V-8"}}}
+{"node_type": "carcode", "href": "/en/catalog/aston+martin,1976,v-8,5.3l+v8,1390519", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1976, "model": "V-8"}}}

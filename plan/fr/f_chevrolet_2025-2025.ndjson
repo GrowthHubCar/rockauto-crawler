@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2025,tornado+van", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2025, "model": "TORNADO VAN"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2025,tracker", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2025, "model": "TRACKER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2025,traverse", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2025, "model": "TRAVERSE"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2025,trax", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2025, "model": "TRAX"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2025,trailblazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2025, "model": "TRAILBLAZER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2025,tahoe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2025, "model": "TAHOE"}}}

@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jeep,1981,cj7", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1981, "model": "CJ7"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1981,j10", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1981, "model": "J10"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1981,wagoneer", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1981, "model": "WAGONEER"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1981,dj5", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1981, "model": "DJ5"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1981,cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1981, "model": "CHEROKEE"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1981,scrambler", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1981, "model": "SCRAMBLER"}}}

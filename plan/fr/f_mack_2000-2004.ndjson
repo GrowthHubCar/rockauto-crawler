@@ -1,1 +1,11 @@
 {"node_type": "model", "href": "/en/catalog/mack,2000,cs200p+mid-liner", "payload": {"nodetype": "model", "ctx": {"make": "MACK", "year": 2000, "model": "CS200P MID-LINER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mack,2001,ms200p+mid-liner,6.2l+l6+diesel+turbocharged,3297435", "payload": {"nodetype": "carcode", "ctx": {"make": "MACK", "year": 2001, "model": "MS200P MID-LINER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mack,2000,ms200p+mid-liner,6.2l+l6+diesel+turbocharged,3298373", "payload": {"nodetype": "carcode", "ctx": {"make": "MACK", "year": 2000, "model": "MS200P MID-LINER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mack,2000,cs250p+mid-liner,6.2l+l6+diesel+turbocharged,3298365", "payload": {"nodetype": "carcode", "ctx": {"make": "MACK", "year": 2000, "model": "CS250P MID-LINER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mack,2001,cs300p+mid-liner,6.2l+l6+diesel+turbocharged,3297426", "payload": {"nodetype": "carcode", "ctx": {"make": "MACK", "year": 2001, "model": "CS300P MID-LINER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mack,2001,ms250p+mid-liner,6.2l+l6+diesel+turbocharged,3297438", "payload": {"nodetype": "carcode", "ctx": {"make": "MACK", "year": 2001, "model": "MS250P MID-LINER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mack,2000,cs300p+mid-liner,6.2l+l6+diesel+turbocharged,3298368", "payload": {"nodetype": "carcode", "ctx": {"make": "MACK", "year": 2000, "model": "CS300P MID-LINER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mack,2000,ms250p+mid-liner,6.2l+l6+diesel+turbocharged,3295499", "payload": {"nodetype": "carcode", "ctx": {"make": "MACK", "year": 2000, "model": "MS250P MID-LINER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mack,2000,ms300p+mid-liner,6.2l+l6+diesel+turbocharged,3295504", "payload": {"nodetype": "carcode", "ctx": {"make": "MACK", "year": 2000, "model": "MS300P MID-LINER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mack,2001,cs200p+mid-liner,6.2l+l6+diesel+turbocharged,3297414", "payload": {"nodetype": "carcode", "ctx": {"make": "MACK", "year": 2001, "model": "CS200P MID-LINER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mack,2001,ms300p+mid-liner,6.2l+l6+diesel+turbocharged,3295505", "payload": {"nodetype": "carcode", "ctx": {"make": "MACK", "year": 2001, "model": "MS300P MID-LINER"}}}

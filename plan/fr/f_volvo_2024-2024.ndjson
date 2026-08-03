@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volvo,2024,ex30", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2024, "model": "EX30"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2024,xc40", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2024, "model": "XC40"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2024,s90", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2024, "model": "S90"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2024,xc60", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2024, "model": "XC60"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2024,c40", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2024, "model": "C40"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2024,xc90", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2024, "model": "XC90"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2024,s60", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2024, "model": "S60"}}}

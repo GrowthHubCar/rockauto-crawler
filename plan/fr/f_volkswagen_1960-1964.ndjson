@@ -1,2 +1,16 @@
 {"node_type": "model", "href": "/en/catalog/volkswagen,1964,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1964, "model": "TRANSPORTER"}}}
 {"node_type": "model", "href": "/en/catalog/volkswagen,1962,karmann+ghia", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1962, "model": "KARMANN GHIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1962,beetle,1.2l+h4,1352023", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1962, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1960,transporter,1.2l+h4,1352135", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1960, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1961,beetle,1.2l+h4,1352089", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1961, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1961,karmann+ghia,1.2l+h4,1352090", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1961, "model": "KARMANN GHIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1964,beetle,1.2l+h4,1351909", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1964, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1961,transporter,1.2l+h4,1352102", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1961, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1963,karmann+ghia,1.2l+h4,1351987", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1963, "model": "KARMANN GHIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1963,transporter,1.2l+h4,1352001", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1963, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1963,transporter,1.5l+h4,1352012", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1963, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1963,beetle,1.2l+h4,1351965", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1963, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1962,transporter,1.2l+h4,1352067", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1962, "model": "TRANSPORTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1964,karmann+ghia,1.2l+h4,1351921", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1964, "model": "KARMANN GHIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1960,beetle,1.2l+h4,1352124", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1960, "model": "BEETLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1960,karmann+ghia,1.2l+h4,1366062", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1960, "model": "KARMANN GHIA"}}}

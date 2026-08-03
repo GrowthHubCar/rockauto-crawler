@@ -12,3 +12,5 @@
 {"node_type": "model", "href": "/en/catalog/vam,1980,lerma", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1980, "model": "LERMA"}}}
 {"node_type": "model", "href": "/en/catalog/vam,1981,lerma", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1981, "model": "LERMA"}}}
 {"node_type": "model", "href": "/en/catalog/vam,1982,lerma", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1982, "model": "LERMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/vam,1981,gremlin,4.6l+l6,3442933", "payload": {"nodetype": "carcode", "ctx": {"make": "VAM", "year": 1981, "model": "GREMLIN"}}}
+{"node_type": "carcode", "href": "/en/catalog/vam,1984,rally,4.6l+l6,3442947", "payload": {"nodetype": "carcode", "ctx": {"make": "VAM", "year": 1984, "model": "RALLY"}}}

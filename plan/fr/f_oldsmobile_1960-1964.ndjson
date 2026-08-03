@@ -6,3 +6,42 @@
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1960,dynamic", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1960, "model": "DYNAMIC"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1964,jetstar+i", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1964, "model": "JETSTAR I"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1964,442", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1964, "model": "442"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1964,98,6.5l+394cid+v8,1346576", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1964, "model": "98"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1964,cutlass,3.7l+225cid+v6,1491991", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1964, "model": "CUTLASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1961,cutlass,3.5l+215cid+v8,1490216", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1961, "model": "CUTLASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1964,fiesta,6.5l+394cid+v8,1491992", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1964, "model": "FIESTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1961,fiesta,6.5l+394cid+v8,1346914", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1961, "model": "FIESTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1964,f85,5.4l+330cid+v8,1346611", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1964, "model": "F85"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1962,starfire,6.5l+394cid+v8,1346868", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1962, "model": "STARFIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1964,starfire,6.5l+394cid+v8,1346666", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1964, "model": "STARFIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1964,super+88,6.5l+394cid+v8,1346677", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1964, "model": "SUPER 88"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1963,f85,3.5l+215cid+v8,1346734", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1963, "model": "F85"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1961,f85,3.5l+215cid+v8,1346903", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1961, "model": "F85"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1961,classic+98,6.5l+394cid+v8,1490212", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1961, "model": "CLASSIC 98"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1962,f85,3.5l+215cid+v8,1346824", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1962, "model": "F85"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1962,dynamic,6.5l+394cid+v8,1346813", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1962, "model": "DYNAMIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1963,jetfire,3.5l+215cid+v8+turbocharged,1434754", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1963, "model": "JETFIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1964,jetstar+i,6.5l+394cid+v8,1435828", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1964, "model": "JETSTAR I"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1960,super+88,6.5l+394cid+v8,1382318", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1960, "model": "SUPER 88"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1961,dynamic,6.5l+394cid+v8,1346891", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1961, "model": "DYNAMIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1962,cutlass,3.5l+215cid+v8,1346802", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1962, "model": "CUTLASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1961,98,6.5l+394cid+v8,1346880", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1961, "model": "98"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1964,vista+cruiser,5.4l+330cid+v8,1346699", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1964, "model": "VISTA CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1962,super+88,6.5l+394cid+v8,1346879", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1962, "model": "SUPER 88"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1963,fiesta,6.5l+394cid+v8,1346745", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1963, "model": "FIESTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1963,super+88,6.5l+394cid+v8,1346789", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1963, "model": "SUPER 88"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1961,starfire,6.5l+394cid+v8,1346936", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1961, "model": "STARFIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1962,jetfire,3.5l+215cid+v8+turbocharged,1434755", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1962, "model": "JETFIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1964,dynamic,6.5l+394cid+v8,1346598", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1964, "model": "DYNAMIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1962,98,6.5l+394cid+v8,1346790", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1962, "model": "98"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1960,98,6.5l+394cid+v8,1382161", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1960, "model": "98"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1964,cutlass,5.4l+330cid+v8,1346587", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1964, "model": "CUTLASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1964,jetstar+88,5.4l+330cid+v8,1346655", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1964, "model": "JETSTAR 88"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1960,dynamic,6.1l+371cid+v8,1382228", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1960, "model": "DYNAMIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1961,super+88,6.5l+394cid+v8,1346947", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1961, "model": "SUPER 88"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1963,dynamic,6.5l+394cid+v8,1346723", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1963, "model": "DYNAMIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1964,f85,3.7l+225cid+v6,1346600", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1964, "model": "F85"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1963,starfire,6.5l+394cid+v8,1346778", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1963, "model": "STARFIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1963,98,6.5l+394cid+v8,1346701", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1963, "model": "98"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1960,fiesta,6.5l+394cid+v8,1382273", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1960, "model": "FIESTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1964,jetstar+88,6.5l+394cid+v8,1346644", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1964, "model": "JETSTAR 88"}}}

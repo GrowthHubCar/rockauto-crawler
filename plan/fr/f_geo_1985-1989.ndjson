@@ -1,0 +1,5 @@
+{"node_type": "carcode", "href": "/en/catalog/geo,1989,spectrum,1.5l+l4+turbocharged,1142064", "payload": {"nodetype": "carcode", "ctx": {"make": "GEO", "year": 1989, "model": "SPECTRUM"}}}
+{"node_type": "carcode", "href": "/en/catalog/geo,1989,tracker,1.6l+l4,1142198", "payload": {"nodetype": "carcode", "ctx": {"make": "GEO", "year": 1989, "model": "TRACKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/geo,1989,metro,993cc+l3,1141681", "payload": {"nodetype": "carcode", "ctx": {"make": "GEO", "year": 1989, "model": "METRO"}}}
+{"node_type": "carcode", "href": "/en/catalog/geo,1989,spectrum,1.5l+l4,1430200", "payload": {"nodetype": "carcode", "ctx": {"make": "GEO", "year": 1989, "model": "SPECTRUM"}}}
+{"node_type": "carcode", "href": "/en/catalog/geo,1989,prizm,1.6l+l4,1141883", "payload": {"nodetype": "carcode", "ctx": {"make": "GEO", "year": 1989, "model": "PRIZM"}}}

@@ -3,3 +3,12 @@
 {"node_type": "model", "href": "/en/catalog/lamborghini,1987,jalpa", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1987, "model": "JALPA"}}}
 {"node_type": "model", "href": "/en/catalog/lamborghini,1988,jalpa", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1988, "model": "JALPA"}}}
 {"node_type": "model", "href": "/en/catalog/lamborghini,1988,lm002", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1988, "model": "LM002"}}}
+{"node_type": "carcode", "href": "/en/catalog/lamborghini,1985,countach,5.2l+v12,1393589", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1985, "model": "COUNTACH"}}}
+{"node_type": "carcode", "href": "/en/catalog/lamborghini,1985,jalpa,3.5l+v8,1408441", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1985, "model": "JALPA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lamborghini,1988,countach,5.2l+v12,1393613", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1988, "model": "COUNTACH"}}}
+{"node_type": "carcode", "href": "/en/catalog/lamborghini,1986,countach,5.2l+v12,1393590", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1986, "model": "COUNTACH"}}}
+{"node_type": "carcode", "href": "/en/catalog/lamborghini,1985,countach,4.8l+v12,1393578", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1985, "model": "COUNTACH"}}}
+{"node_type": "carcode", "href": "/en/catalog/lamborghini,1986,lm002,5.2l+v12,1438478", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1986, "model": "LM002"}}}
+{"node_type": "carcode", "href": "/en/catalog/lamborghini,1989,lm002,5.2l+v12,1434336", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1989, "model": "LM002"}}}
+{"node_type": "carcode", "href": "/en/catalog/lamborghini,1987,lm002,5.2l+v12,1438477", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1987, "model": "LM002"}}}
+{"node_type": "carcode", "href": "/en/catalog/lamborghini,1986,jalpa,3.5l+v8,1408575", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1986, "model": "JALPA"}}}

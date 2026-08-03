@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lincoln,1994,mark+viii", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1994, "model": "MARK VIII"}}}
-{"node_type": "model", "href": "/en/catalog/lincoln,1994,continental", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1994, "model": "CONTINENTAL"}}}
-{"node_type": "model", "href": "/en/catalog/lincoln,1994,town+car", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1994, "model": "TOWN CAR"}}}

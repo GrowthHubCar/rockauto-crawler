@@ -1,2 +1,36 @@
 {"node_type": "model", "href": "/en/catalog/buick,2000,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2000, "model": "REGAL"}}}
 {"node_type": "model", "href": "/en/catalog/buick,2000,park+avenue", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2000, "model": "PARK AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2004,regal,3.8l+v6,1423752", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2004, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2003,century,3.1l+v6,1410321", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2003, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2004,rendezvous,3.6l+v6,1431686", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2004, "model": "RENDEZVOUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2002,lesabre,3.8l+v6,1379796", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2002, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2003,regal,3.8l+v6+supercharged,1410365", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2003, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2003,park+avenue,3.8l+v6,1411771", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2003, "model": "PARK AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2002,park+avenue,3.8l+v6+supercharged,1383511", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2002, "model": "PARK AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2002,rendezvous,3.4l+v6,1377109", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2002, "model": "RENDEZVOUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2003,rendezvous,3.4l+v6,1410387", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2003, "model": "RENDEZVOUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2002,regal,3.8l+v6+supercharged,1379831", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2002, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2001,century,3.1l+v6,1377086", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2001, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2000,lesabre,3.8l+v6,1358018", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2000, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2000,century,3.1l+v6,1383421", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2000, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2004,century,3.1l+v6,1423695", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2004, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2004,lesabre,3.8l+v6,1423707", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2004, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2004,regal,3.8l+v6+supercharged,1423741", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2004, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2004,rainier,4.2l+l6,1422357", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2004, "model": "RAINIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2001,lesabre,3.8l+v6,1371079", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2001, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2001,regal,3.8l+v6,1371125", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2001, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2001,park+avenue,3.8l+v6+supercharged,1371103", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2001, "model": "PARK AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2004,park+avenue,3.8l+v6,1423730", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2004, "model": "PARK AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2002,park+avenue,3.8l+v6,1383500", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2002, "model": "PARK AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2000,regal,3.8l+v6+supercharged,1358434", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2000, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2001,regal,3.8l+v6+supercharged,1371114", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2001, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2003,lesabre,3.8l+v6,1410343", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2003, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2004,rendezvous,3.4l+v6,1423763", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2004, "model": "RENDEZVOUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2003,regal,3.8l+v6,1410376", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2003, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2004,park+avenue,3.8l+v6+supercharged,1423729", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2004, "model": "PARK AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2001,park+avenue,3.8l+v6,1371091", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2001, "model": "PARK AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2002,regal,3.8l+v6,1379842", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2002, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2003,park+avenue,3.8l+v6+supercharged,1411782", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2003, "model": "PARK AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2004,rainier,5.3l+v8,1422368", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2004, "model": "RAINIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2000,park+avenue,3.8l+v6+supercharged,1358412", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2000, "model": "PARK AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,2002,century,3.1l+v6,1391161", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2002, "model": "CENTURY"}}}

@@ -13,3 +13,14 @@
 {"node_type": "model", "href": "/en/catalog/nash,1952,ambassador+custom", "payload": {"nodetype": "model", "ctx": {"make": "NASH", "year": 1952, "model": "AMBASSADOR CUSTOM"}}}
 {"node_type": "model", "href": "/en/catalog/nash,1953,ambassador+custom", "payload": {"nodetype": "model", "ctx": {"make": "NASH", "year": 1953, "model": "AMBASSADOR CUSTOM"}}}
 {"node_type": "model", "href": "/en/catalog/nash,1954,ambassador+custom", "payload": {"nodetype": "model", "ctx": {"make": "NASH", "year": 1954, "model": "AMBASSADOR CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1950,statesman,3.0l+184cid+l6,1435392", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1950, "model": "STATESMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1950,rambler,2.8l+173cid+l6,1435364", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1950, "model": "RAMBLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1954,statesman,3.2l+196cid+l6,1435421", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1954, "model": "STATESMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1952,ambassador+super,4.1l+253cid+l6,1435579", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1952, "model": "AMBASSADOR SUPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1954,ambassador+super,4.1l+253cid+l6,1435577", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1954, "model": "AMBASSADOR SUPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1951,rambler,2.8l+173cid+l6,1435363", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1951, "model": "RAMBLER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1951,statesman,3.0l+184cid+l6,1435388", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1951, "model": "STATESMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1954,metropolitan+series+a,1.5l+91cid+l4,1487874", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1954, "model": "METROPOLITAN SERIES A"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1953,ambassador+super,4.1l+253cid+l6,1435578", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1953, "model": "AMBASSADOR SUPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1950,ambassador+super,3.8l+235cid+l6,1435550", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1950, "model": "AMBASSADOR SUPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/nash,1952,statesman,3.2l+196cid+l6,1435425", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1952, "model": "STATESMAN"}}}

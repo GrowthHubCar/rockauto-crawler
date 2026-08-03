@@ -5,3 +5,5 @@
 {"node_type": "model", "href": "/en/catalog/lasalle,1932,series+345b", "payload": {"nodetype": "model", "ctx": {"make": "LASALLE", "year": 1932, "model": "SERIES 345B"}}}
 {"node_type": "model", "href": "/en/catalog/lasalle,1933,series+345c", "payload": {"nodetype": "model", "ctx": {"make": "LASALLE", "year": 1933, "model": "SERIES 345C"}}}
 {"node_type": "model", "href": "/en/catalog/lasalle,1934,series+350", "payload": {"nodetype": "model", "ctx": {"make": "LASALLE", "year": 1934, "model": "SERIES 350"}}}
+{"node_type": "carcode", "href": "/en/catalog/lasalle,1931,series+345a,5.8l+353cid+v8,1485497", "payload": {"nodetype": "carcode", "ctx": {"make": "LASALLE", "year": 1931, "model": "SERIES 345A"}}}
+{"node_type": "carcode", "href": "/en/catalog/lasalle,1930,series+340,5.6l+340cid+v8,952375", "payload": {"nodetype": "carcode", "ctx": {"make": "LASALLE", "year": 1930, "model": "SERIES 340"}}}

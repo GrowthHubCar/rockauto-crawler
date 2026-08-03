@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2014,viano", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2014, "model": "VIANO"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2014,sprinter+3500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2014, "model": "SPRINTER 3500"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2014,sprinter+2500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2014, "model": "SPRINTER 2500"}}}

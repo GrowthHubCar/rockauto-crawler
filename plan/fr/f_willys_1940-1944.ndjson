@@ -1,2 +1,5 @@
 {"node_type": "model", "href": "/en/catalog/willys,1943,willys", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1943, "model": "WILLYS"}}}
 {"node_type": "model", "href": "/en/catalog/willys,1944,willys", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1944, "model": "WILLYS"}}}
+{"node_type": "carcode", "href": "/en/catalog/willys,1941,441,2.2l+134cid+l4,1486180", "payload": {"nodetype": "carcode", "ctx": {"make": "WILLYS", "year": 1941, "model": "441"}}}
+{"node_type": "carcode", "href": "/en/catalog/willys,1940,440,2.2l+134cid+l4,1486061", "payload": {"nodetype": "carcode", "ctx": {"make": "WILLYS", "year": 1940, "model": "440"}}}
+{"node_type": "carcode", "href": "/en/catalog/willys,1942,442,2.2l+134cid+l4,1486301", "payload": {"nodetype": "carcode", "ctx": {"make": "WILLYS", "year": 1942, "model": "442"}}}

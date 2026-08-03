@@ -4,3 +4,32 @@
 {"node_type": "model", "href": "/en/catalog/mini,2023,cooper+countryman", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2023, "model": "COOPER COUNTRYMAN"}}}
 {"node_type": "model", "href": "/en/catalog/mini,2021,cooper+clubman", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2021, "model": "COOPER CLUBMAN"}}}
 {"node_type": "model", "href": "/en/catalog/mini,2023,cooper+clubman", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2023, "model": "COOPER CLUBMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2024,cooper,1.5l+l3+turbocharged,3454894", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2024, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2022,cooper+clubman,2.0l+l4+turbocharged,3450885", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2022, "model": "COOPER CLUBMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2024,cooper,2.0l+l4+turbocharged,3454895", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2024, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2020,cooper+clubman,1.5l+l3+turbocharged,3446372", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2020, "model": "COOPER CLUBMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2024,cooper+countryman,2.0l+l4+turbocharged,3454899", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2024, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2022,cooper+countryman,1.5l+l3+electric/gas+turbocharged,3452440", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2022, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2022,cooper,electric,3449280", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2022, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2024,cooper+countryman,1.5l+l3+electric/gas+turbocharged,3454898", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2024, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2020,cooper+countryman,2.0l+l4+turbocharged,3444984", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2020, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2024,cooper,electric,3454893", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2024, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2024,cooper+clubman,2.0l+l4+turbocharged,3454896", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2024, "model": "COOPER CLUBMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2020,cooper,1.5l+l3+turbocharged,3445562", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2020, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2020,cooper,2.0l+l4+turbocharged,3445563", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2020, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2021,cooper+clubman,2.0l+l4+turbocharged,3447097", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2021, "model": "COOPER CLUBMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2021,cooper,1.5l+l3+turbocharged,3449278", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2021, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2022,cooper+countryman,2.0l+l4+turbocharged,3450888", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2022, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2022,cooper,2.0l+l4+turbocharged,3449282", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2022, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2021,cooper+countryman,1.5l+l3+turbocharged,3449285", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2021, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2022,cooper+countryman,1.5l+l3+turbocharged,3450887", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2022, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2021,cooper,electric,3447096", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2021, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2024,cooper+countryman,1.5l+l3+turbocharged,3454897", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2024, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2022,cooper,1.5l+l3+turbocharged,3449281", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2022, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2021,cooper+countryman,2.0l+l4+turbocharged,3449286", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2021, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2020,cooper+clubman,2.0l+l4+turbocharged,3445564", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2020, "model": "COOPER CLUBMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2024,cooper+clubman,1.5l+l3+turbocharged,3455138", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2024, "model": "COOPER CLUBMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2023,cooper+clubman,1.5l+l3+turbocharged,3452832", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2023, "model": "COOPER CLUBMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2021,cooper,2.0l+l4+turbocharged,3449279", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2021, "model": "COOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2022,cooper+clubman,1.5l+l3+turbocharged,3451244", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2022, "model": "COOPER CLUBMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2020,cooper+countryman,1.5l+l3+electric/gas+turbocharged,3444983", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2020, "model": "COOPER COUNTRYMAN"}}}

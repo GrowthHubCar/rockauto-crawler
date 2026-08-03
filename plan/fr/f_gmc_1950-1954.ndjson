@@ -1,1 +1,6 @@
 {"node_type": "model", "href": "/en/catalog/gmc,1953,truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1953, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1953,truck,4.1l+248cid+l6,1487689", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1953, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1951,truck,3.7l+228cid+l6,1440374", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1951, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1952,truck,3.7l+228cid+l6,1440373", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1952, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1950,truck,3.7l+228cid+l6,1440375", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1950, "model": "TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1954,truck,4.1l+248cid+l6,1341100", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1954, "model": "TRUCK"}}}

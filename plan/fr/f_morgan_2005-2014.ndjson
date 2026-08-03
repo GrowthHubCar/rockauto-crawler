@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/morgan,2006,roadster", "payload": {"nodetype": "model", "ctx": {"make": "MORGAN", "year": 2006, "model": "ROADSTER"}}}
-{"node_type": "model", "href": "/en/catalog/morgan,2006,aero+8", "payload": {"nodetype": "model", "ctx": {"make": "MORGAN", "year": 2006, "model": "AERO 8"}}}
-{"node_type": "model", "href": "/en/catalog/morgan,2007,aero+8", "payload": {"nodetype": "model", "ctx": {"make": "MORGAN", "year": 2007, "model": "AERO 8"}}}
-{"node_type": "model", "href": "/en/catalog/morgan,2005,aero+8", "payload": {"nodetype": "model", "ctx": {"make": "MORGAN", "year": 2005, "model": "AERO 8"}}}

@@ -14,3 +14,6 @@
 {"node_type": "model", "href": "/en/catalog/pierce-arrow,1934,model+1250a", "payload": {"nodetype": "model", "ctx": {"make": "PIERCE-ARROW", "year": 1934, "model": "MODEL 1250A"}}}
 {"node_type": "model", "href": "/en/catalog/pierce-arrow,1934,model+1248a", "payload": {"nodetype": "model", "ctx": {"make": "PIERCE-ARROW", "year": 1934, "model": "MODEL 1248A"}}}
 {"node_type": "model", "href": "/en/catalog/pierce-arrow,1934,model+1240a", "payload": {"nodetype": "model", "ctx": {"make": "PIERCE-ARROW", "year": 1934, "model": "MODEL 1240A"}}}
+{"node_type": "carcode", "href": "/en/catalog/pierce-arrow,1934,model+840a,385cid+l8,952692", "payload": {"nodetype": "carcode", "ctx": {"make": "PIERCE-ARROW", "year": 1934, "model": "MODEL 840A"}}}
+{"node_type": "carcode", "href": "/en/catalog/pierce-arrow,1932,model+54,366cid+l8,952534", "payload": {"nodetype": "carcode", "ctx": {"make": "PIERCE-ARROW", "year": 1932, "model": "MODEL 54"}}}
+{"node_type": "carcode", "href": "/en/catalog/pierce-arrow,1933,model+836,366cid+l8,952609", "payload": {"nodetype": "carcode", "ctx": {"make": "PIERCE-ARROW", "year": 1933, "model": "MODEL 836"}}}

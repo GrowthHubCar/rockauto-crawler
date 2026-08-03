@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volvo,2014,xc90", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2014, "model": "XC90"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2014,v60", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2014, "model": "V60"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2014,xc60", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2014, "model": "XC60"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2014,v40", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2014, "model": "V40"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2014,xc70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2014, "model": "XC70"}}}

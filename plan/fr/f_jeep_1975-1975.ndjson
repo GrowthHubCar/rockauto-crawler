@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jeep,1975,wagoneer", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1975, "model": "WAGONEER"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1975,j10", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1975, "model": "J10"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1975,j20", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1975, "model": "J20"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1975,dj5", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1975, "model": "DJ5"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1975,cj6", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1975, "model": "CJ6"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1975,cj5", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1975, "model": "CJ5"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1975,cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1975, "model": "CHEROKEE"}}}

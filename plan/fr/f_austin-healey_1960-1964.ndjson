@@ -2,3 +2,11 @@
 {"node_type": "model", "href": "/en/catalog/austin-healey,1961,sprite", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN-HEALEY", "year": 1961, "model": "SPRITE"}}}
 {"node_type": "model", "href": "/en/catalog/austin-healey,1960,3000", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN-HEALEY", "year": 1960, "model": "3000"}}}
 {"node_type": "model", "href": "/en/catalog/austin-healey,1961,3000", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN-HEALEY", "year": 1961, "model": "3000"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin-healey,1962,sprite,1.1l+l4,1438396", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN-HEALEY", "year": 1962, "model": "SPRITE"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin-healey,1962,3000,2.9l+l6,1490418", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN-HEALEY", "year": 1962, "model": "3000"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin-healey,1964,sprite,1.1l+l4,1318823", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN-HEALEY", "year": 1964, "model": "SPRITE"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin-healey,1963,3000,2.9l+l6,1491010", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN-HEALEY", "year": 1963, "model": "3000"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin-healey,1960,sprite,948cc+l4,1440314", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN-HEALEY", "year": 1960, "model": "SPRITE"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin-healey,1962,sprite,1000cc+l4,1318867", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN-HEALEY", "year": 1962, "model": "SPRITE"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin-healey,1963,sprite,1.1l+l4,1318845", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN-HEALEY", "year": 1963, "model": "SPRITE"}}}
+{"node_type": "carcode", "href": "/en/catalog/austin-healey,1964,3000,2.9l+l6,1318812", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN-HEALEY", "year": 1964, "model": "3000"}}}

@@ -12,3 +12,70 @@
 {"node_type": "model", "href": "/en/catalog/ford,2025,f-750", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2025, "model": "F-750"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2026,f-600+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2026, "model": "F-600 SUPER DUTY"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2026,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2026, "model": "EXPLORER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,mustang,5.2l+v8+supercharged,3459095", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,transit+350,3.5l+v6+turbocharged,3459371", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "TRANSIT 350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,ranger,3.0l+v6+turbocharged,3458539", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,ranger,3.0l+v6+turbocharged,3455559", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,f-350+super+duty,6.8l+v8,3457855", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,transit+350,3.5l+v6,3459370", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "TRANSIT 350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,f-250+super+duty,6.8l+v8,3459088", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "F-250 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,bronco,2.3l+l4+turbocharged,3459711", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "BRONCO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,f-150,5.2l+v8+supercharged,3457850", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "F-150"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,f-250+super+duty,7.3l+v8,3459089", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "F-250 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,bronco,3.0l+v6+turbocharged,3459712", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "BRONCO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,mustang,5.2l+v8+supercharged,3459364", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,escape,2.5l+l4+electric/gas,3457844", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "ESCAPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,transit+250,3.5l+v6,3459368", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "TRANSIT 250"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,f-600+super+duty,6.7l+v8+diesel+turbocharged,3458823", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "F-600 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,f-350+super+duty,6.7l+v8+diesel+turbocharged,3457854", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,f-650,7.3l+v8,3458826", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "F-650"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,f53,7.3l+v8,3458525", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "F53"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,f-550+super+duty,7.3l+v8,3458524", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "F-550 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,e-450,7.3l+v8,3455552", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "E-450"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,escape,2.0l+l4+turbocharged,3457843", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "ESCAPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,mustang,2.3l+l4+turbocharged,3455556", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,f-350+super+duty,7.3l+v8,3457856", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,f-450+super+duty,6.7l+v8+diesel+turbocharged,3459093", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,mustang,5.0l+v8,3459097", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,f-350+super+duty,6.7l+v8+diesel+turbocharged,3459090", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,transit+250,3.5l+v6+turbocharged,3459369", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "TRANSIT 250"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,transit+150,3.5l+v6+turbocharged,3459367", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "TRANSIT 150"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,ranger,2.3l+l4+turbocharged,3458538", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,territory,1.8l+l4+turbocharged,3457860", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "TERRITORY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,ranger,2.0l+l4+diesel+turbocharged,3459867", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,transit+custom,2.0l+l4+diesel+turbocharged,3459714", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "TRANSIT CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,bronco,2.0l+l4+turbocharged,3458514", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "BRONCO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,f-650,6.7l+v8+diesel+turbocharged,3458825", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "F-650"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,police+suv,3.3l+v6+electric/gas,3458534", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "POLICE SUV"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,f-550+super+duty,7.3l+v8,3459595", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "F-550 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,f-750,6.7l+v8+diesel+turbocharged,3458827", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "F-750"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,mustang,2.3l+l4+turbocharged,3459096", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,f-650,6.7l+v8+diesel+turbocharged,3455794", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "F-650"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,f-750,7.3l+v8,3458828", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "F-750"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,ranger,2.7l+v6+turbocharged,3458537", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,f-600+super+duty,7.3l+v8,3459796", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "F-600 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,police+suv,3.0l+v6+turbocharged,3455911", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "POLICE SUV"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,transit+350,3.5l+v6+turbocharged,3458546", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "TRANSIT 350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,maverick,2.5l+l4+electric/gas,3458531", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "MAVERICK"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,f-550+super+duty,6.7l+v8+diesel+turbocharged,3458523", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "F-550 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,maverick,2.0l+l4+turbocharged,3457858", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "MAVERICK"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,escape,1.5l+l3+turbocharged,3457842", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "ESCAPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,f-450+super+duty,7.3l+v8,3458522", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,mustang,electric,3458532", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,ranger,2.7l+v6+turbocharged,3455799", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,f59,7.3l+v8,3458526", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "F59"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,ranger,2.3l+l4+turbocharged,3455558", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,police+suv,3.3l+v6,3455913", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "POLICE SUV"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,maverick,2.5l+l4+electric/gas,3457859", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "MAVERICK"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,mustang,electric,3459866", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,f-450+super+duty,6.7l+v8+diesel+turbocharged,3458521", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,f-150,electric,3458520", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "F-150"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,f-150,2.7l+v6+turbocharged,3457846", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "F-150"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,mustang,5.0l+v8,3455557", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,transit+150,3.5l+v6+turbocharged,3458542", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "TRANSIT 150"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,transit+350,3.5l+v6,3458545", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "TRANSIT 350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,police+suv,3.3l+v6+electric/gas,3455912", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "POLICE SUV"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,f-150,5.2l+v8+supercharged,3459593", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "F-150"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,f-750,6.7l+v8+diesel+turbocharged,3455796", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "F-750"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,transit+150,3.5l+v6,3459366", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "TRANSIT 150"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,maverick,2.0l+l4+turbocharged,3458530", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "MAVERICK"}}}

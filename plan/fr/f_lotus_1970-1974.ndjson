@@ -12,3 +12,6 @@
 {"node_type": "model", "href": "/en/catalog/lotus,1971,elan", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1971, "model": "ELAN"}}}
 {"node_type": "model", "href": "/en/catalog/lotus,1972,elan", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1972, "model": "ELAN"}}}
 {"node_type": "model", "href": "/en/catalog/lotus,1974,elan", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1974, "model": "ELAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1970,europa,1.5l+l4,1404931", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1970, "model": "EUROPA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1973,elan,1.6l+l4,1406393", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1973, "model": "ELAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/lotus,1973,europa,1.6l+l4,1394300", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1973, "model": "EUROPA"}}}

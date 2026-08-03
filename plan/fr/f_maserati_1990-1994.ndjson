@@ -1,0 +1,4 @@
+{"node_type": "carcode", "href": "/en/catalog/maserati,1990,430i,2.8l+v6+turbocharged,1434230", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1990, "model": "430I"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,1990,spyder,2.8l+v6+turbocharged,1434232", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1990, "model": "SPYDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,1991,spyder,2.8l+v6+turbocharged,1434231", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1991, "model": "SPYDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,1990,228i,2.8l+v6+turbocharged,1434228", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1990, "model": "228I"}}}

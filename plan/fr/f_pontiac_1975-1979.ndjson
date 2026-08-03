@@ -1,1 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/pontiac,1975,parisienne", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1975, "model": "PARISIENNE"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1975,ventura,5.7l+350cid+v8,1262001", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1975, "model": "VENTURA"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1975,grandville,7.5l+455cid+v8,1256341", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1975, "model": "GRANDVILLE"}}}

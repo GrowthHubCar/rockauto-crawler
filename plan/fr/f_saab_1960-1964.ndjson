@@ -2,3 +2,24 @@
 {"node_type": "model", "href": "/en/catalog/saab,1961,gt750", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1961, "model": "GT750"}}}
 {"node_type": "model", "href": "/en/catalog/saab,1962,gt750", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1962, "model": "GT750"}}}
 {"node_type": "model", "href": "/en/catalog/saab,1960,93f", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1960, "model": "93F"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1962,95,841cc+l3,1397426", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1962, "model": "95"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1964,95,841cc+l3,1397448", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1964, "model": "95"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1964,gt750,748cc+l3,1492117", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1964, "model": "GT750"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1963,96,841cc+l3,1397482", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1963, "model": "96"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1960,95,841cc+l3,1397404", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1960, "model": "95"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1961,95,841cc+l3,1397415", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1961, "model": "95"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1963,95,841cc+l3,1397437", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1963, "model": "95"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1962,96+sport,841cc+l3,1490938", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1962, "model": "96 SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1962,96,841cc+l3,1397471", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1962, "model": "96"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1964,96+sport,841cc+l3,1492116", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1964, "model": "96 SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1961,96+gt,748cc+l3,1490333", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1961, "model": "96 GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1962,96+gt,748cc+l3,1490937", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1962, "model": "96 GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1964,96,841cc+l3,1397493", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1964, "model": "96"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1963,gt850,841cc+l3,1437360", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1963, "model": "GT850"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1963,gt750,748cc+l3,1491538", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1963, "model": "GT750"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1964,96+gt,748cc+l3,1492115", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1964, "model": "96 GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1961,96+sport,841cc+l3,1490334", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1961, "model": "96 SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1961,96,841cc+l3,1397460", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1961, "model": "96"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1964,monte+carlo,841cc+l3,1437359", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1964, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1963,96+sport,841cc+l3,1491537", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1963, "model": "96 SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1963,96+gt,748cc+l3,1491536", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1963, "model": "96 GT"}}}

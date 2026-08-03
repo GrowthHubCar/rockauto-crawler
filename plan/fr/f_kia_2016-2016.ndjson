@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/kia,2016,sportage", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2016, "model": "SPORTAGE"}}}
-{"node_type": "model", "href": "/en/catalog/kia,2016,rondo", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2016, "model": "RONDO"}}}
-{"node_type": "model", "href": "/en/catalog/kia,2016,soul", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2016, "model": "SOUL"}}}
-{"node_type": "model", "href": "/en/catalog/kia,2016,sorento", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2016, "model": "SORENTO"}}}
-{"node_type": "model", "href": "/en/catalog/kia,2016,optima", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2016, "model": "OPTIMA"}}}
-{"node_type": "model", "href": "/en/catalog/kia,2016,k900", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2016, "model": "K900"}}}
-{"node_type": "model", "href": "/en/catalog/kia,2016,forte5", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2016, "model": "FORTE5"}}}
-{"node_type": "model", "href": "/en/catalog/kia,2016,sedona", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2016, "model": "SEDONA"}}}
-{"node_type": "model", "href": "/en/catalog/kia,2016,rio", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2016, "model": "RIO"}}}

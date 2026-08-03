@@ -7,3 +7,62 @@
 {"node_type": "model", "href": "/en/catalog/mitsubishi,2013,l200", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2013, "model": "L200"}}}
 {"node_type": "model", "href": "/en/catalog/mitsubishi,2014,l200", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2014, "model": "L200"}}}
 {"node_type": "model", "href": "/en/catalog/mitsubishi,2014,asx", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2014, "model": "ASX"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2011,l200,2.4l+l4+turbocharged,3446375", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2011, "model": "L200"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2012,eclipse,3.8l+v6,1501583", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2012, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2014,i-miev,electric,3310371", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2014, "model": "I-MIEV"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2014,outlander,2.4l+l4,3300357", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2014, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2012,lancer,2.4l+l4,1503362", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2012, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2013,l200,2.5l+l4+diesel+turbocharged,3298398", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2013, "model": "L200"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2013,montero+sport,3.0l+v6,3298481", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2013, "model": "MONTERO SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2010,endeavor,3.8l+v6,1445155", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2010, "model": "ENDEAVOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2012,montero+sport,3.0l+v6,3015344", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2012, "model": "MONTERO SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2011,endeavor,3.8l+v6,1447303", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2011, "model": "ENDEAVOR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2011,galant,2.4l+l4,1447305", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2011, "model": "GALANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2010,outlander,2.4l+l4,1445535", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2010, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2012,galant,2.4l+l4,1503336", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2012, "model": "GALANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2014,montero,3.8l+v6,3307576", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2014, "model": "MONTERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2012,outlander,3.0l+v6,1503341", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2012, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2011,montero+sport,3.5l+v6,3015666", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2011, "model": "MONTERO SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2012,l200,2.5l+l4+diesel+turbocharged,3015668", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2012, "model": "L200"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2012,lancer,2.0l+l4,1503343", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2012, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2012,montero,3.8l+v6,3015343", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2012, "model": "MONTERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2010,lancer,2.0l+l4+turbocharged,1445158", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2010, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2014,outlander+sport,2.0l+l4,3307018", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2014, "model": "OUTLANDER SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2014,outlander,3.0l+v6,3300423", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2014, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2010,montero,3.8l+v6,3015662", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2010, "model": "MONTERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2014,l200,2.4l+l4+turbocharged,3446378", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2014, "model": "L200"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2010,l200,2.5l+l4+diesel+turbocharged,3015341", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2010, "model": "L200"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2011,lancer,2.0l+l4,1501587", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2011, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2010,lancer,2.0l+l4,1445162", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2010, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2010,outlander,3.0l+v6,1445537", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2010, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2011,montero,3.8l+v6,3015342", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2011, "model": "MONTERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2014,mirage,1.2l+l3,3307017", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2014, "model": "MIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2012,eclipse,2.4l+l4,1502005", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2012, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2014,lancer,2.4l+l4,3305769", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2014, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2011,lancer,2.0l+l4+turbocharged,1447450", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2011, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2012,l200,2.4l+l4+turbocharged,3446376", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2012, "model": "L200"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2010,montero+sport,3.5l+v6,3015663", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2010, "model": "MONTERO SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2014,rvr,2.0l+l4,3307420", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2014, "model": "RVR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2011,rvr,2.0l+l4,1502057", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2011, "model": "RVR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2011,outlander,3.0l+v6,1447539", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2011, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2012,rvr,2.0l+l4,3294370", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2012, "model": "RVR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2014,lancer,2.0l+l4,3305767", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2014, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2013,lancer,2.0l+l4,1505475", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2013, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2013,lancer,2.0l+l4+turbocharged,1505480", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2013, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2013,asx,2.0l+l4,3141656", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2013, "model": "ASX"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2011,outlander+sport,2.0l+l4,1447547", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2011, "model": "OUTLANDER SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2011,l200,2.5l+l4+diesel+turbocharged,3015664", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2011, "model": "L200"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2011,lancer,2.4l+l4,1501589", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2011, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2011,eclipse,2.4l+l4,1446404", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2011, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2010,lancer,2.4l+l4,1445161", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2010, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2012,outlander+sport,2.0l+l4,1503338", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2012, "model": "OUTLANDER SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2011,outlander,2.4l+l4,1447541", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2011, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2013,outlander+sport,2.0l+l4,3000990", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2013, "model": "OUTLANDER SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2013,montero,3.8l+v6,3294402", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2013, "model": "MONTERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2011,eclipse,3.8l+v6,1446406", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2011, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2012,outlander,2.4l+l4,1503340", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2012, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2013,outlander,3.0l+v6,1505483", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2013, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2010,galant,2.4l+l4,1445172", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2010, "model": "GALANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2014,lancer,2.0l+l4+turbocharged,3305768", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2014, "model": "LANCER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2013,outlander,2.4l+l4,1505482", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2013, "model": "OUTLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2012,lancer,2.0l+l4+turbocharged,1503346", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2012, "model": "LANCER"}}}

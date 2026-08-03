@@ -1,1 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/cord,1932,l-29", "payload": {"nodetype": "model", "ctx": {"make": "CORD", "year": 1932, "model": "L-29"}}}
+{"node_type": "carcode", "href": "/en/catalog/cord,1930,l-29,4.9l+298cid+l8,3309925", "payload": {"nodetype": "carcode", "ctx": {"make": "CORD", "year": 1930, "model": "L-29"}}}
+{"node_type": "carcode", "href": "/en/catalog/cord,1931,l-29,4.9l+298cid+l8,3309926", "payload": {"nodetype": "carcode", "ctx": {"make": "CORD", "year": 1931, "model": "L-29"}}}
