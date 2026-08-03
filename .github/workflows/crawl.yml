@@ -42,7 +42,7 @@ on:
         description: "Max delay per request (s)."
         default: "0.15"
       offset:
-        description: "Which 120 of the 360 fleet-plan units to crawl (0-2). Blank = rotate automatically with the run number, so three consecutive runs cover the whole catalog."
+        description: "Pin the unit block (0..cycle-1) instead of rotating with the run number. Use it to run the same units twice and confirm the frontier resumed. Blank = rotate."
         default: ""
   # Every 2h: with runs taking ~1.5-2h, the 20 job slots stay near-continuously
   # busy (a new run's shards queue behind the finishing ones), maxing the free
@@ -137,6 +137,7 @@ jobs:
           ACCOUNT_SLOT:  ${{ vars.ACCOUNT_SLOT  || '0' }}
           ACCOUNT_COUNT: ${{ vars.ACCOUNT_COUNT || '1' }}
           RUN_NUMBER:    ${{ github.run_number }}
+          BLOCK:         ${{ github.event.inputs.offset }}
           MATRIX_INDEX:  ${{ matrix.index }}
           MATRIX_SIZE:   "120"
         run: |
@@ -149,11 +150,17 @@ jobs:
           slot  = int(os.environ.get("ACCOUNT_SLOT") or 0)
           count = int(os.environ.get("ACCOUNT_COUNT") or 1)
           run   = int(os.environ["RUN_NUMBER"])
+          # BLOCK pins which slice of units this run takes. Without it a unit only recurs
+          # every `cycle` runs, so proving the frontier actually resumed would mean waiting
+          # hours. Dispatch the same block twice and the second run must print
+          # "[frontier] resumed from cache" instead of "[frontier] seeded".
+          pin   = os.environ.get("BLOCK", "").strip()
           idx   = int(os.environ["MATRIX_INDEX"])
           jobs  = int(os.environ["MATRIX_SIZE"])
           mine  = units[slot::count]
           cycle = max(1, math.ceil(len(mine) / jobs))
-          unit  = mine[((run % cycle) * jobs + idx) % len(mine)]
+          block = int(pin) % cycle if pin else (run % cycle)
+          unit  = mine[(block * jobs + idx) % len(mine)]
           make, band = unit.rsplit("_", 1)
           lo, hi = band.split("-")
           print("UNIT=" + unit)
