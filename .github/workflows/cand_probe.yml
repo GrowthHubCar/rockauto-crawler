@@ -1,0 +1,53 @@
+name: Candidate-leaf probe
+
+# Do the PREDICTED missing leaves actually exist?
+#
+# For every crawled vehicle we can compute the part-type triples its engine-scoped family
+# has but it lacks: 3,407,670 candidates. Fetching those directly would skip all group and
+# part-type nav — ~1.2 h at the fleet's 776 req/s instead of 17-53 h of walking.
+#
+# That is only true if the URLs return real listings. The buyers-guide route looked just as
+# good on paper and returned 0 rows from 450 requests, so this measures the hit rate on 200
+# real candidates BEFORE any of it ships.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - run: pip install -r requirements.txt
+      - name: Probe predicted leaves
+        env:
+          SP_USE_PROXIES: "0"
+          SP_SOLVE_CAPTCHA: "0"
+          SP_DOWNLOAD_IMAGES: "0"
+        run: |
+          python - <<'PY'
+          import sys, time
+          sys.path.insert(0,"scraper")
+          import parsers
+          from ra_client import RAClient
+          from proxy_manager import ProxyManager
+          urls=[l.strip() for l in open("plan/cand_probe.txt",encoding="utf-8") if l.strip()]
+          c=RAClient(ProxyManager()); c.new_session()
+          hit=miss=err=rows=0
+          for u in urls:
+              try:
+                  html=c.get(u)
+                  ls=parsers.parse_listings(html) or []
+                  if ls: hit+=1; rows+=len(ls)
+                  else:  miss+=1
+              except Exception:
+                  err+=1
+              time.sleep(0.05)
+          n=hit+miss
+          print(f"RESULT hit={hit} empty={miss} err={err} rows={rows}")
+          print(f"HIT RATE {100*hit/max(n,1):.1f}%  rows/request {rows/max(n,1):.2f}")
+          PY
