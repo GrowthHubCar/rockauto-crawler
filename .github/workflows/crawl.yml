@@ -141,6 +141,7 @@ jobs:
           REPEAT:        ${{ vars.REPEAT || '6' }}
           MATRIX_INDEX:  ${{ matrix.index }}
           MATRIX_SIZE:   "120"
+          LANES:         ${{ vars.LANES || '6' }}
         run: |
           python - >> "$GITHUB_ENV" <<'PYEOF'
           import glob, math, os
@@ -151,37 +152,27 @@ jobs:
           slot  = int(os.environ.get("ACCOUNT_SLOT") or 0)
           count = int(os.environ.get("ACCOUNT_COUNT") or 1)
           run   = int(os.environ["RUN_NUMBER"])
-          # BLOCK pins which slice of units this run takes. Without it a unit only recurs
-          # every `cycle` runs, so proving the frontier actually resumed would mean waiting
-          # hours. Dispatch the same block twice and the second run must print
-          # "[frontier] resumed from cache" instead of "[frontier] seeded".
-          pin   = os.environ.get("BLOCK", "").strip()
           idx   = int(os.environ["MATRIX_INDEX"])
           jobs  = int(os.environ["MATRIX_SIZE"])
+          lanes = int(os.environ.get("LANES") or 6)
+          pin   = os.environ.get("BLOCK", "").strip()
           mine  = units[slot::count]
-          cycle = max(1, math.ceil(len(mine) / jobs))
-          # REPEAT: stay on the same 120 units for this many consecutive runs before
-          # rotating. Rotating every run gave each unit one 300 s visit per 8 runs, so no
-          # unit ever got past its nav walk (make->year->model->carcode->group) into the
-          # leaves — measured rows/request stuck at 0.54 against the 4.445 target even after
-          # the frontier resume was fixed. The AWS fleet never rotated: unit_supervisor.sh
-          # re-launched the SAME unit until it returned exit 42 (frontier drained), so its
-          # nav cost was paid once and everything after was leaves.
+          # Each job now owns LANES units and crawls them in PARALLEL, so a block covers
+          # jobs*lanes units instead of jobs.
+          per   = jobs * lanes
+          cycle = max(1, math.ceil(len(mine) / per))
           repeat = int(os.environ.get("REPEAT") or 6)
           block = int(pin) % cycle if pin else ((run // repeat) % cycle)
-          unit  = mine[(block * jobs + idx) % len(mine)]
-          make, band = unit.rsplit("_", 1)
-          lo, hi = band.split("-")
-          print("UNIT=" + unit)
-          print("SHARD_MAKES=" + make)
-          print("SP_YEAR_MIN=" + lo)
-          print("SP_YEAR_MAX=" + hi)
+          base  = block * per + idx * lanes
+          picked = [mine[(base + k) % len(mine)] for k in range(lanes)]
+          print("UNITS=" + " ".join(picked))
+          print("UNIT=" + picked[0])          # cache key + log label
           print("UNITS_MINE=" + str(len(mine)))
           print("CYCLE=" + str(cycle))
           PYEOF
 
       - name: Show unit
-        run: echo "[unit] $UNIT (slot ${{ vars.ACCOUNT_SLOT || '0' }}/${{ vars.ACCOUNT_COUNT || '1' }}, $UNITS_MINE units, cycle $CYCLE)"
+        run: echo "[units] $UNITS (slot ${{ vars.ACCOUNT_SLOT || '0' }}/${{ vars.ACCOUNT_COUNT || '1' }}, $UNITS_MINE units, cycle $CYCLE)"
 
       # Resume: this shard's un-expanded frontier from its previous run (per-GLOBAL
       # cache). Continuing the DFS here instead of re-seeding from makes is the core
@@ -190,7 +181,7 @@ jobs:
         if: ${{ (github.event.inputs.mode || 'full') != 'tree' }}
         uses: actions/cache/restore@v4
         with:
-          path: frontier/in.ndjson
+          path: frontier
           key: rockauto-frontier-${{ env.UNIT }}-${{ github.run_id }}
           restore-keys: rockauto-frontier-${{ env.UNIT }}-
 
@@ -226,7 +217,17 @@ jobs:
           sort -u coverage/visited.txt -o coverage/visited.txt
           echo "skip-set: cache=$before  +seed  ->  $(wc -l < coverage/visited.txt)"
 
-      - name: Crawl ${{ env.UNIT }} (idx ${{ matrix.index }})
+      # PARALLEL LANES — the throughput fix.
+      #
+      # scraper/crawl_jsonl.py is strictly sequential: `while frontier:` with no threading,
+      # no concurrent.futures, and it never reads SP_CONCURRENCY (setting that did nothing).
+      # Measured: one job = 359 requests in 300 s = 1.2 req/s, while bin/qualify.sh sustains
+      # 12-24 req/s on the same runner. The AWS/GCP boxes got their throughput by running
+      # TARGET=6..96 crawl_jsonl PROCESSES per box (bin/unit_supervisor.sh); every Actions
+      # job was running exactly one.
+      #
+      # Each lane owns its own unit, frontier and output file, so lanes never collide.
+      - name: Crawl ${{ env.UNITS }}
         env:
           SP_USE_PROXIES: "0"        # each runner already has its own fresh IP
           # THE ABORT RAILS. Measured on run 30776903933: 120 jobs made only 24,225
@@ -269,32 +270,38 @@ jobs:
           VISITED_FILE: ${{ (github.event.inputs.mode || 'full') == 'tree' && '' || 'coverage/visited.txt' }}
           VISITED_OUT: ${{ (github.event.inputs.mode || 'full') == 'tree' && '' || format('artifacts/visited-{0}.txt', matrix.index) }}
         run: |
-          MODE="${{ github.event.inputs.mode || 'full' }}"
-          EXTRA=""
-          if [ "$MODE" = "tree" ]; then EXTRA="--tree-only"; fi
-          mkdir -p frontier
-          # Seed from the committed targeted frontier on this unit's FIRST run. The
-          # cache restore above wins on every later run, so the DFS resumes rather
-          # than restarting from the unit root.
-          if [ ! -s frontier/in.ndjson ]; then
-            cp "plan/fr/f_${UNIT}.ndjson" frontier/in.ndjson
-            echo "[frontier] seeded plan/fr/f_${UNIT}.ndjson ($(wc -l < frontier/in.ndjson) nodes)"
-          else
-            echo "[frontier] resumed from cache ($(wc -l < frontier/in.ndjson) nodes)"
-          fi
-          # --only-makes "$SHARD_MAKES" scopes to this unit's make-group; SP_YEAR_MIN/MAX
-          # (from the fleet plan) scope the year-band. --frontier-file resumes the DFS.
-          python scraper/crawl_jsonl.py \
-            --shard-index 0 --shard-total 1 \
-            --only-makes "$SHARD_MAKES" \
-            --frontier-file "frontier/in.ndjson" \
-            --frontier-out "frontier/out.ndjson" \
-            --out "artifacts/shard-${{ matrix.index }}.ndjson" \
-            --budget "${{ github.event.inputs.budget || '1800' }}" \
-            --max-seconds "${{ github.event.inputs.max_seconds || (( github.event.inputs.mode || 'full') == 'tree' && '10800' || '300') }}" \
-            $EXTRA
+          mkdir -p frontier artifacts logs
+          n=0
+          for U in $UNITS; do
+            IN="frontier/in_${U}.ndjson"
+            if [ ! -s "$IN" ]; then
+              cp "plan/fr/f_${U}.ndjson" "$IN" 2>/dev/null || { echo "[lane $n] no seed for $U"; n=$((n+1)); continue; }
+              echo "[lane $n] $U seeded ($(wc -l < "$IN") nodes)"
+            else
+              echo "[lane $n] $U resumed ($(wc -l < "$IN") nodes)"
+            fi
+            MK="${U%_*}"; BAND="${U##*_}"
+            # per-lane VISITED_OUT: six lanes sharing one path would race on a whole-file
+            # rewrite (crawl_jsonl writes prior|new with open("w")) and corrupt it.
+            SP_YEAR_MIN="${BAND%-*}" SP_YEAR_MAX="${BAND#*-}" \
+            VISITED_OUT="artifacts/visited-${{ matrix.index }}-${n}.txt" \
+            python scraper/crawl_jsonl.py \
+              --shard-index 0 --shard-total 1 \
+              --only-makes "$MK" \
+              --frontier-file "$IN" \
+              --frontier-out "frontier/out_${U}.ndjson" \
+              --out "artifacts/shard-${{ matrix.index }}-${n}.ndjson" \
+              --budget "${{ github.event.inputs.budget || '1800' }}" \
+              --max-seconds "${{ github.event.inputs.max_seconds || '300' }}" \
+              > "logs/lane_${n}.log" 2>&1 &
+            n=$((n+1))
+          done
+          wait
+          echo "=== lanes finished ==="
+          grep -h "^\[final\]" logs/lane_*.log 2>/dev/null | head -20 || true
+          grep -ho "'requests': [0-9]*" logs/lane_*.log 2>/dev/null \
+            | awk -F': ' '{t+=$2} END{print "TOTAL REQUESTS THIS JOB:", t+0}'
 
-      # Persist this shard's remaining frontier so its NEXT run resumes the DFS here.
       # THE RESUME BUG (fixed 2026-08-03): this saved frontier/out.ndjson while the restore
       # step above asks for frontier/in.ndjson. actions/cache restores files to the paths
       # they were ARCHIVED under, so the restore could never produce in.ndjson — the seed
@@ -314,19 +321,26 @@ jobs:
       - name: Stage frontier for caching
         if: ${{ always() && (github.event.inputs.mode || 'full') != 'tree' }}
         run: |
-          if [ -s frontier/out.ndjson ]; then
-            cp frontier/out.ndjson frontier/in.ndjson
-            echo "[frontier] carrying $(wc -l < frontier/in.ndjson) nodes to next run"
-          else
-            echo "[frontier] out.ndjson empty — unit may be drained; not caching a truncation"
-            rm -f frontier/in.ndjson
-          fi
+          # Cache what the NEXT run will read (in_*), not what this run wrote (out_*).
+          # actions/cache restores files under the path they were archived with, so caching
+          # out_* left the restore unable to produce in_* and every unit re-seeded forever.
+          kept=0
+          for f in frontier/out_*.ndjson; do
+            [ -e "$f" ] || continue
+            U=$(basename "$f" .ndjson); U=${U#out_}
+            if [ -s "$f" ]; then
+              mv "$f" "frontier/in_${U}.ndjson"; kept=$((kept+1))
+            else
+              rm -f "$f" "frontier/in_${U}.ndjson"   # drained: do not carry an empty frontier
+            fi
+          done
+          echo "[frontier] carrying $kept unit frontiers to next run"
 
       - name: Save frontier (for next run's resume)
-        if: ${{ always() && (github.event.inputs.mode || 'full') != 'tree' && hashFiles('frontier/in.ndjson') != '' }}
+        if: ${{ always() && (github.event.inputs.mode || 'full') != 'tree' && hashFiles('frontier/**') != '' }}
         uses: actions/cache/save@v4
         with:
-          path: frontier/in.ndjson
+          path: frontier
           key: rockauto-frontier-${{ env.UNIT }}-${{ github.run_id }}
 
       # Upload only the leaves crawled THIS run, not the whole cache.
@@ -343,14 +357,14 @@ jobs:
         run: |
           mkdir -p coverage artifacts
           touch coverage/visited.txt
-          V="artifacts/visited-${{ matrix.index }}.txt"
-          if [ -s "$V" ]; then
-            sort -u coverage/visited.txt -o coverage/visited.txt
+          sort -u coverage/visited.txt -o coverage/visited.txt
+          for V in artifacts/visited-${{ matrix.index }}-*.txt; do
+            [ -s "$V" ] || continue
             sort -u "$V" -o "$V"
             comm -13 coverage/visited.txt "$V" > "$V.new"
-            echo "visited: cache=$(wc -l < coverage/visited.txt) total=$(wc -l < "$V") new=$(wc -l < "$V.new")"
             mv "$V.new" "$V"
-          fi
+            echo "visited $(basename "$V"): $(wc -l < "$V") new"
+          done
 
       - name: Upload shard artifact (NDJSON + thumbnails + new-leaves list)
         if: always()
@@ -358,9 +372,9 @@ jobs:
         with:
           name: rockauto-shard-${{ matrix.index }}
           path: |
-            artifacts/shard-${{ matrix.index }}.ndjson
+            artifacts/shard-${{ matrix.index }}-*.ndjson
             artifacts/images/
-            artifacts/visited-${{ matrix.index }}.txt
+            artifacts/visited-${{ matrix.index }}-*.txt
           if-no-files-found: warn
 
   # After all shards: merge the newly-crawled leaves into the shared cache so the
