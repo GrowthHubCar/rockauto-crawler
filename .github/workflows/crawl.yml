@@ -44,11 +44,11 @@ on:
       offset:
         description: "Pin the unit block (0..cycle-1) instead of rotating with the run number. Use it to run the same units twice and confirm the frontier resumed. Blank = rotate."
         default: ""
-  # Every 2h: with runs taking ~1.5-2h, the 20 job slots stay near-continuously
-  # busy (a new run's shards queue behind the finishing ones), maxing the free
-  # 20-IP throughput. Loader dedupes, so overlap just accumulates coverage.
-  schedule:
-    - cron: "0 */2 * * *"
+  # NO schedule cron. It fought the self-relaunch: both entered the crawl-fleet
+  # concurrency group, and GitHub keeps one running + one pending and CANCELS the rest.
+  # Observed repeatedly today — 30771129575, 30772285531, 30774441468 all cancelled
+  # before starting a single job, so whole 25-minute slots produced nothing. The relaunch
+  # job at the end of every run is enough to keep the loop continuous.
 
 # One run at a time per account; a queued run (from the self-dispatch relaunch or the
 # watchdog cron) waits instead of stacking, and GitHub keeps only the latest pending —
