@@ -818,6 +818,50 @@ def _style_by_index(html: str) -> dict:
 
 _ALT_NUM_RE = re.compile(r"\{Alternate Inventory Numbers:\s*([^}]+)\}")
 
+# /en/catalog/<make>,<year>,<model>,<engine>,<carcode> — the buyers-guide fallback
+# shape when the fragment renders plain links instead of jsn inputs.
+_BG_HREF_RE = re.compile(
+    r"/en/catalog/([^,/\"'>]+),(\d{4}),([^,/\"'>]+),([^,/\"'>]+),(\d+)")
+
+
+def _unslug(s: str) -> str:
+    """'land+rover' -> 'land rover'. The loader slugifies make/model/engine before
+    keying, so case/spacing here is cosmetic — only the token sequence matters."""
+    from urllib.parse import unquote_plus
+    return unquote_plus(s or "").strip()
+
+
+def parse_buyers_guide(html: str) -> list[dict]:
+    """Every vehicle a part fits, from a `func=getbuyersguide` fragment.
+
+    ONE request per part replaces one leaf fetch per (vehicle, parttype) that the
+    part appears under — the fan-out is the whole point, so this returns vehicle
+    coords only (make/model/year/engine/carcode); the part itself is already known
+    from the leaf crawl that first found it.
+
+    Two shapes are accepted because the popup markup is not contractual:
+      1. jsn nodes (nodetype=carcode) — reuses parse_nav, so make/model/year/engine
+         come back EXACTLY as the leaf crawl produces them (no name drift).
+      2. plain /en/catalog/... links — parsed from the href.
+    Deduped on carcode, so a fragment carrying both shapes counts each vehicle once.
+    """
+    out: dict[str, dict] = {}
+    for n in parse_nav(html or ""):
+        if n.get("nodetype") != "carcode" or not n.get("carcode"):
+            continue
+        out[str(n["carcode"])] = {
+            "make_name": n.get("make"), "model_name": n.get("model"),
+            "year": n.get("year"), "engine_name": n.get("engine"),
+            "carcode": str(n["carcode"]),
+        }
+    for mk, yr, mo, en, cc in _BG_HREF_RE.findall(html or ""):
+        if cc in out:
+            continue
+        out[cc] = {"make_name": _unslug(mk), "model_name": _unslug(mo),
+                   "year": int(yr), "engine_name": _unslug(en), "carcode": cc}
+    return [v for v in out.values()
+            if v.get("make_name") and v.get("model_name") and v.get("year")]
+
 
 def parse_moreinfo(html: str) -> dict:
     """Parse a part's `moreinfo.php` detail page — the content the listing DOESN'T

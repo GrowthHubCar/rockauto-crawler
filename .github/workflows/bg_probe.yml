@@ -1,0 +1,65 @@
+name: Buyers-guide fan-out probe
+
+# Measures the ONE unverified number behind the part-centric route: how many
+# vehicles `func=getbuyersguide` returns per part when partData is SYNTHESISED from
+# parts.moreinfo_key ("pk,cc,pt") instead of lifted off a leaf page.
+#
+# The leaf route costs 6,183,851 requests at 4.445 new rows/req. If this probe
+# reports rows/req >> 4.445 with empty ~= 0, the same 27.5M rows cost 1,476,594
+# requests (one per part we already own) — a 76% cut, 9.5h -> 2.3h at today's
+# 181 req/s. If it reports empty == every part, the synthesised partData is
+# rejected and the leaf route stands. Five minutes to settle it.
+#
+# Input keys.tsv is produced on the laptop, one query:
+#   mysql -u root -P 3307 -h 127.0.0.1 supreme_parts -N -B -e \
+#     "select sku, moreinfo_key from parts \
+#      where moreinfo_key is not null and moreinfo_key<>'' order by rand() limit 400" \
+#     > plan/bg_probe_keys.tsv     # commit it, then dispatch this workflow
+
+on:
+  workflow_dispatch:
+    inputs:
+      keys:
+        description: "TSV of sku<TAB>pk,cc,pt committed to the repo."
+        default: "plan/bg_probe_keys.tsv"
+      limit:
+        description: "Parts to fetch per job. 40 is enough to separate 'works' from 'rejected'."
+        default: "40"
+
+jobs:
+  probe:
+    strategy:
+      fail-fast: false
+      matrix:
+        n: [0, 1, 2, 3]      # 4 distinct runner IPs, disjoint slices of the key file
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install -q -r requirements.txt
+
+      - name: Offline selftest first (never burn an IP on broken code)
+        run: python bin/crawl_bg_jsonl.py --selftest
+
+      - name: Fan-out probe
+        env:
+          SP_USE_PROXIES: "0"
+          SP_MIN_DELAY: "0.2"
+          SP_MAX_DELAY: "0.6"
+        run: |
+          python bin/crawl_bg_jsonl.py \
+            --keys "${{ github.event.inputs.keys || 'plan/bg_probe_keys.tsv' }}" \
+            --out "out/bg_probe_${{ matrix.n }}.ndjson" \
+            --shard-index ${{ matrix.n }} --shard-total 4 \
+            --limit "${{ github.event.inputs.limit || '40' }}" \
+            --budget 400 --max-seconds 600
+          echo "=== sample rows ==="
+          head -5 "out/bg_probe_${{ matrix.n }}.ndjson" || true
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: bg-probe-${{ matrix.n }}
+          path: out/bg_probe_${{ matrix.n }}.ndjson
+          if-no-files-found: warn

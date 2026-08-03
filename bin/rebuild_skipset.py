@@ -56,7 +56,7 @@ def split_leaf(href: str) -> tuple[str, str] | None:
     return ",".join(f[:PREFIX_FIELDS]), ",".join(f[PREFIX_FIELDS:])
 
 
-def build() -> int:
+def build(max_fitment_id: int | None = None) -> int:
     import db  # noqa: PLC0415
     import config  # noqa: PLC0415
     import pymysql.cursors  # noqa: PLC0415
@@ -109,8 +109,21 @@ def build() -> int:
     print(f"[3] parts with a triple {len(triple_by_pid):,} ({time.time()-t0:.0f}s)", flush=True)
 
     # 4. stream part_fitment — server-side cursor, 36M rows will not fit in memory
+    #
+    # THE KEY INSIGHT ABOVE HOLDS ONLY FOR LEAF-DERIVED FITMENTS. bin/crawl_bg_jsonl.py
+    # gets fitments from `func=getbuyersguide` — it proves part P fits vehicle V without
+    # ever loading leaf(V, P's parttype), and that leaf may list OTHER parts we do not
+    # have. Feeding those rows in here would make the crawler permanently skip ground it
+    # has never crawled: silent, unrecoverable loss. So: record max(part_fitment.id)
+    # BEFORE the first `bin/ingest_bg.py` run and pass it as --max-fitment-id forever
+    # after. Default None = pre-BG behaviour, unchanged.
     ss = conn.cursor(pymysql.cursors.SSCursor)
-    ss.execute("SELECT vehicle_id, part_id FROM part_fitment")
+    if max_fitment_id:
+        ss.execute("SELECT vehicle_id, part_id FROM part_fitment WHERE id <= %s",
+                   [int(max_fitment_id)])
+        print(f"[4] leaf-derived fitments only (id <= {int(max_fitment_id):,})", flush=True)
+    else:
+        ss.execute("SELECT vehicle_id, part_id FROM part_fitment")
     added = seen = 0
     for vid, pid in ss:
         seen += 1
@@ -155,5 +168,10 @@ if __name__ == "__main__":
         _selftest()
         raise SystemExit(0)
     ap = argparse.ArgumentParser(description=__doc__)
-    ap.parse_args()
-    raise SystemExit(build())
+    ap.add_argument("--max-fitment-id", type=int, default=None,
+                    help="only trust part_fitment rows with id <= N as proof a leaf was "
+                         "crawled. Set this to max(id) taken BEFORE the first "
+                         "bin/ingest_bg.py run — buyers-guide fitments prove a FITMENT, "
+                         "not a leaf visit, and would make the crawler skip uncrawled ground.")
+    a = ap.parse_args()
+    raise SystemExit(build(a.max_fitment_id))
