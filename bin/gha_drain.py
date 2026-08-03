@@ -104,7 +104,10 @@ def drain(tagged: str, keep: bool = False) -> bool:
     shutil.rmtree(d, ignore_errors=True)
     os.makedirs(d, exist_ok=True)
 
-    rc, out = _sh(["gh", "run", "download", run_id, "--repo", repo, "-D", d])
+    # Only the crawl output. The visited deltas ride in their own rockauto-visited-*
+    # artifacts, which this would otherwise download and then ignore.
+    rc, out = _sh(["gh", "run", "download", run_id, "--repo", repo,
+                   "--pattern", "rockauto-shard-*", "-D", d])
     files = glob.glob(os.path.join(d, "**", "*.ndjson"), recursive=True)
     if not files:
         # No NDJSON is a legitimate outcome (every shard drew a burned IP), and it is

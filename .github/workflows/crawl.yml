@@ -373,7 +373,7 @@ jobs:
             echo "visited $(basename "$V"): $(wc -l < "$V") new"
           done
 
-      - name: Upload shard artifact (NDJSON + thumbnails + new-leaves list)
+      - name: Upload shard artifact (crawl output)
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -381,8 +381,19 @@ jobs:
           path: |
             artifacts/shard-${{ matrix.index }}-*.ndjson
             artifacts/images/
-            artifacts/visited-${{ matrix.index }}-*.txt
           if-no-files-found: warn
+
+      # Visited lists go in a SEPARATE artifact so `aggregate` can download just these.
+      # Bundled together, aggregate pulled all 720 shard artifacts (~700 MB) purely to
+      # merge a few MB of leaf keys, and `relaunch` waits on aggregate — measured a
+      # 40-minute cycle for ~25 minutes of crawling.
+      - name: Upload visited delta
+        if: ${{ always() && (github.event.inputs.mode || 'full') != 'tree' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: rockauto-visited-${{ matrix.index }}
+          path: artifacts/visited-${{ matrix.index }}-*.txt
+          if-no-files-found: ignore
 
   # After all shards: merge the newly-crawled leaves into the shared cache so the
   # NEXT run skips them and pushes deeper into the catalog.
@@ -397,9 +408,10 @@ jobs:
           path: coverage/visited.txt
           key: rockauto-visited-agg-${{ github.run_id }}
           restore-keys: rockauto-visited-
-      - name: Download shard artifacts
+      - name: Download visited artifacts only
         uses: actions/download-artifact@v4
         with:
+          pattern: rockauto-visited-*
           path: dl
       - name: Merge new leaves into coverage
         run: |
