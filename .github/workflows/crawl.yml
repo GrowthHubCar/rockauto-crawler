@@ -252,8 +252,11 @@ jobs:
           # same runners at 6 connections, so concurrency is the lever, not the budget.
           SP_CONCURRENCY: "12"
           SP_SOLVE_CAPTCHA: "0"      # NEVER solve CAPTCHAs — rotate to a fresh runner IP instead
-          SP_MIN_DELAY: ${{ github.event.inputs.min_delay || '0.4' }}   # aggressive default; measure per-IP survival at this pace
-          SP_MAX_DELAY: ${{ github.event.inputs.max_delay || '0.9' }}
+          # FALLBACKS MUST MATCH THE INPUT DEFAULTS. The self-relaunch dispatches with NO
+          # inputs, so `|| '0.4'` — not the input default — is what almost every run used.
+          # Every chained run since the retune crawled at the old 0.4-0.9 s pace.
+          SP_MIN_DELAY: ${{ github.event.inputs.min_delay || '0.05' }}
+          SP_MAX_DELAY: ${{ github.event.inputs.max_delay || '0.15' }}
           # SP_YEAR_MIN / SP_YEAR_MAX come from the fleet plan (resolve step -> $GITHUB_ENV):
           # each unit is one (make-group × year-band) slice, so the year scope is per-unit.
           SP_MARKETS: ""             # empty = worldwide (all markets); market saved to vehicles.market
@@ -287,8 +290,8 @@ jobs:
             --frontier-file "frontier/in.ndjson" \
             --frontier-out "frontier/out.ndjson" \
             --out "artifacts/shard-${{ matrix.index }}.ndjson" \
-            --budget "${{ github.event.inputs.budget || '2500' }}" \
-            --max-seconds "${{ github.event.inputs.max_seconds || (( github.event.inputs.mode || 'full') == 'tree' && '10800' || '19000') }}" \
+            --budget "${{ github.event.inputs.budget || '1800' }}" \
+            --max-seconds "${{ github.event.inputs.max_seconds || (( github.event.inputs.mode || 'full') == 'tree' && '10800' || '300') }}" \
             $EXTRA
 
       # Persist this shard's remaining frontier so its NEXT run resumes the DFS here.
