@@ -227,7 +227,7 @@ jobs:
           touch coverage/visited.txt
           before=$(wc -l < coverage/visited.txt)
           gunzip -c coverage/visited_seed.txt.gz >> coverage/visited.txt
-          sort -u coverage/visited.txt -o coverage/visited.txt
+          LC_ALL=C sort -u --parallel=4 -S 50% coverage/visited.txt -o coverage/visited.txt
           echo "skip-set: cache=$before  +seed  ->  $(wc -l < coverage/visited.txt)"
 
       # PARALLEL LANES — the throughput fix.
@@ -284,6 +284,42 @@ jobs:
           VISITED_OUT: ${{ (github.event.inputs.mode || 'full') == 'tree' && '' || format('artifacts/visited-{0}.txt', matrix.index) }}
         run: |
           mkdir -p frontier artifacts logs
+          UA='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36'
+          PROBE='https://www.rockauto.com/en/catalog/ac,1947,two-litre,2.0l+122cid+l6,1486554,cooling+system,coolant+/+antifreeze,11393'
+
+          # PREFLIGHT — 25% of runners are born WALLED. Measured over runs 596/600/604:
+          # exactly 15 of 60 jobs each run made 2 requests per lane, 0 nodes, 0 listings,
+          # then sat in retry backoff for the full 300 s while holding one of the 20
+          # concurrent slots for ~392 s. One leaf fetch says so in a second; exiting hands
+          # the slot to the next matrix job, which is a different runner = a different IP.
+          # exit 0 (not 1) so the post steps still run and the matrix does not go red.
+          live=0
+          for _ in 1 2; do   # twice: one dropped connection must not cost a whole job
+            curl -sS --compressed --max-time 10 -A "$UA" "$PROBE" \
+              | grep -q 'ranavnode\|navlabellink\|listing-\|nchildren' && { live=1; break; }
+            sleep 2
+          done
+          if [ "$live" != 1 ]; then
+            echo "[preflight] runner IP is walled — exiting so the slot goes to a fresh runner"
+            exit 0
+          fi
+
+          # SHRINK THE SKIP-SET TO THIS JOB'S MAKES — the OOM fix.
+          # crawl_jsonl loads VISITED_FILE into a Python set PER LANE. Measured on this
+          # laptop: 5,980,428 keys = 1,081 MB of set, and run 605 merged cache+seed to
+          # 8,605,929 keys => ~1.56 GB per lane. 14 lanes = 21.8 GB on a 16 GB runner, so
+          # the VM OOM'd, GitHub reclaimed it ("The runner has received a shutdown signal",
+          # exit 143) and EVERY step after Crawl was skipped — the whole job's artifact
+          # lost. 23 of 60 jobs in run 605 died exactly that way.
+          # A lane only ever tests keys for its own make+year, so filter once (Aho-Corasick,
+          # one pass) then per lane. Per-lane set drops from ~1.56 GB to <20 MB.
+          # ${MK%.s*} drops the shard suffix that bin/split_frontiers.py adds
+          # (chevrolet.s3_2000-2000 -> chevrolet), so the grep pattern still matches keys.
+          for U in $UNITS; do M="${U%_*}"; echo "/en/catalog/$(echo "${M%.s*}" | tr '_' '+'),"; done \
+            | sort -u > mk.pat
+          LC_ALL=C grep -F -f mk.pat coverage/visited.txt > job_skip.txt || :
+          echo "skip-set: $(wc -l < coverage/visited.txt) keys -> $(wc -l < job_skip.txt) for this job's makes"
+
           n=0
           for U in $UNITS; do
             IN="frontier/in_${U}.ndjson"
@@ -294,19 +330,49 @@ jobs:
               echo "[lane $n] $U resumed ($(wc -l < "$IN") nodes)"
             fi
             MK="${U%_*}"; BAND="${U##*_}"
-            # per-lane VISITED_OUT: six lanes sharing one path would race on a whole-file
-            # rewrite (crawl_jsonl writes prior|new with open("w")) and corrupt it.
-            SP_YEAR_MIN="${BAND%-*}" SP_YEAR_MAX="${BAND#*-}" \
-            VISITED_OUT="artifacts/visited-${{ matrix.index }}-${n}.txt" \
-            python scraper/crawl_jsonl.py \
-              --shard-index 0 --shard-total 1 \
-              --only-makes "$MK" \
-              --frontier-file "$IN" \
-              --frontier-out "frontier/out_${U}.ndjson" \
-              --out "artifacts/shard-${{ matrix.index }}-${n}.ndjson" \
-              --budget "${{ github.event.inputs.budget || '1800' }}" \
-              --max-seconds "${{ github.event.inputs.max_seconds || '300' }}" \
-              > "logs/lane_${n}.log" 2>&1 &
+            LO="${BAND%-*}"; HI="${BAND#*-}"
+            # PER-LANE SKIP-SET. The merged coverage/visited.txt is ~8.6M keys and
+            # crawl_jsonl loads it into a python set — measured 1.03 GiB resident. With
+            # 14+ lanes on a 16 GB runner that OOMs the box: run 30807344572 lost 45 of
+            # 62 jobs to exit 143, each discarding its entire crawl.
+            #
+            # A lane crawls exactly ONE unit (make x year-band), so it can only ever skip
+            # keys for that make and those years. One awk pass takes the per-lane set
+            # from ~8.6M keys to a few thousand (toyota 2015: 8,900; ford 1990-99: 36,401).
+            awk -F, -v mk="/en/catalog/${MK}" -v lo="$LO" -v hi="$HI" \
+                '$1==mk && $2+0>=lo+0 && $2+0<=hi+0' coverage/visited.txt \
+                > "coverage/v_${U}.txt" 2>/dev/null || : > "coverage/v_${U}.txt"
+            echo "[lane $n] $U skip-keys $(wc -l < "coverage/v_${U}.txt")"
+            Y0="${BAND%-*}"; Y1="${BAND#*-}"
+            MKU=$(echo "${MK%.s*}" | tr '_' '+') # _ -> + (alfa_romeo -> alfa+romeo); .sN = shard suffix, not part of the make
+            SKIP="coverage/skip_${U}.txt"
+            # Each lane in its own subshell so the per-lane grep runs IN PARALLEL with the
+            # other lanes' crawling instead of 24 x ~1 s serialised before any lane starts.
+            (
+              # This lane's slice of the skip-set: make (+ year when the band is one year).
+              # Keys are /en/catalog/<make>,<year>,... so a fixed-string prefix match is exact.
+              # Measured: 5.98M keys -> 657..23,568 per unit. That is the difference between
+              # a 1.56 GB Python set per lane and a 0.1..4 MB one.
+              if [ "$Y0" = "$Y1" ]; then
+                LC_ALL=C grep -F "/en/catalog/${MKU},${Y0}," job_skip.txt > "$SKIP" || :
+              else
+                LC_ALL=C grep -F "/en/catalog/${MKU}," job_skip.txt > "$SKIP" || :
+              fi
+              # per-lane VISITED_OUT: lanes sharing one path would race on a whole-file
+              # rewrite (crawl_jsonl writes with open("w")) and corrupt it.
+              SP_YEAR_MIN="$Y0" SP_YEAR_MAX="$Y1" \
+              VISITED_FILE="$SKIP" \
+              VISITED_OUT="artifacts/visited-${{ matrix.index }}-${n}.txt" \
+            VISITED_FILE="coverage/v_${U}.txt" \
+              exec python scraper/crawl_jsonl.py \
+                --shard-index 0 --shard-total 1 \
+                --only-makes "$MK" \
+                --frontier-file "$IN" \
+                --frontier-out "frontier/out_${U}.ndjson" \
+                --out "artifacts/shard-${{ matrix.index }}-${n}.ndjson" \
+                --budget "${{ github.event.inputs.budget || '1800' }}" \
+                --max-seconds "${{ github.event.inputs.max_seconds || '300' }}"
+            ) > "logs/lane_${n}.log" 2>&1 &
             n=$((n+1))
           done
           wait
@@ -365,19 +431,10 @@ jobs:
       # cache: measured run 1 at 3.19 GB of visited-*.txt against 199 MB of actual crawl
       # data. `aggregate` cats every shard onto the restored cache and sort -u's it, so the
       # delta carries exactly the same information.
-      - name: Reduce visited to this run's NEW keys
-        if: ${{ always() && (github.event.inputs.mode || 'full') != 'tree' }}
-        run: |
-          mkdir -p coverage artifacts
-          touch coverage/visited.txt
-          sort -u coverage/visited.txt -o coverage/visited.txt
-          for V in artifacts/visited-${{ matrix.index }}-*.txt; do
-            [ -s "$V" ] || continue
-            sort -u "$V" -o "$V"
-            comm -13 coverage/visited.txt "$V" > "$V.new"
-            mv "$V.new" "$V"
-            echo "visited $(basename "$V"): $(wc -l < "$V") new"
-          done
+      # (The "Reduce visited to this run's NEW keys" step is gone: crawl_jsonl now writes
+      # only new_keys when visited_out is a separate path, so there is nothing to subtract.
+      # It cost a median 29 s per job — 7.4% of the 392 s job wall — to sort an 8.6M-line
+      # file 60 times per run and then throw the result away.)
 
       - name: Upload shard artifact (crawl output)
         if: always()
@@ -424,7 +481,10 @@ jobs:
           mkdir -p coverage
           touch coverage/visited.txt
           find dl -name 'visited-*.txt' -exec cat {} + >> coverage/visited.txt 2>/dev/null || true
-          sort -u coverage/visited.txt -o coverage/visited.txt
+          # LC_ALL=C: byte order, not UTF-8 collation. Measured 154 s for this one sort on
+          # an 8.6M-line file (12% of the whole 1,626 s cycle, and the next run cannot start
+          # until it finishes because the concurrency group waits for THIS run to complete).
+          LC_ALL=C sort -u --parallel=4 -S 50% coverage/visited.txt -o coverage/visited.txt
           echo "total leaves crawled to date: $(wc -l < coverage/visited.txt)"
       - name: Save updated crawled-leaves cache
         uses: actions/cache/save@v4
@@ -453,6 +513,7 @@ jobs:
                                                 # which made every relaunch exit immediately.
           NOW=$(date -u +%Y-%m-%dT%H:%M:%SZ)
           if [[ "$NOW" > "$UNTIL" ]]; then echo "past deadline $UNTIL — halting."; exit 0; fi
-          sleep 30
+          # no sleep: the concurrency group already serialises runs (1 running + 1 pending),
+          # so the 30 s was pure idle at the head of every 1,626 s cycle.
           gh workflow run crawl.yml --ref master
           echo "relaunched crawl.yml on master"
