@@ -1,0 +1,79 @@
+name: moreinfo buyers-guide probe
+
+# Does /en/moreinfo.php?pk&cc&pt carry the BUYER'S GUIDE (every vehicle a part fits)?
+#
+# WHY THIS EXISTS: the part-centric route is worth 4x (1,476,594 requests instead of
+# 6,183,851, and 4.2x more rows per burned runner IP). bg_probe.yml proved the
+# catalogapi func=getbuyersguide route DEAD as built — parts=40 rows=0 empty=40 — because
+# a synthesised partData with opts:{} is missing listing_data_essential, which the server
+# requires (see ra_client.fetch_buyers_guide's own docstring).
+#
+# But moreinfo.php is a plain GET on the SAME identity (pk, cc, pt) and is already proven
+# in production: bin/crawl_moreinfo_jsonl.py backfilled 1.47M parts through it. RockAuto's
+# moreinfo popup has a Buyer's Guide tab. If that vehicle list is in the HTML, the whole
+# part-centric route works with an endpoint we know is not blocked and needs no synthesised
+# blob at all.
+#
+# Prints raw evidence, not a verdict: byte size, carcode-marker counts, and what
+# parse_buyers_guide extracts.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - run: pip install -r requirements.txt
+
+      - name: Fetch moreinfo.php and look for the buyers guide
+        env:
+          SP_USE_PROXIES: "0"
+          SP_SOLVE_CAPTCHA: "0"
+          SP_DOWNLOAD_IMAGES: "0"
+        run: |
+          python - <<'PY'
+          import os, sys, re
+          sys.path.insert(0, "scraper")
+          from ra_client import RAClient
+          from proxy_manager import ProxyManager
+          import parsers
+
+          keys = []
+          with open("plan/bg_probe_keys.tsv", encoding="utf-8") as fh:
+              for ln in fh:
+                  b = ln.rstrip("\n").split("\t")
+                  if len(b) >= 2 and b[1].count(",") == 2:
+                      keys.append((b[0], b[1]))
+          keys = keys[:12]
+          print(f"probing {len(keys)} parts via moreinfo.php", flush=True)
+
+          c = RAClient(ProxyManager()); c.new_session()
+          tot_v = 0
+          for sku, mi in keys:
+              pk, cc, pt = mi.split(",")
+              try:
+                  html = c.get(f"/en/moreinfo.php?pk={pk}&cc={cc}&pt={pt}")
+              except Exception as e:
+                  print(f"  {sku}: FETCH {type(e).__name__}"); continue
+              # raw evidence
+              ncc = len(re.findall(r"carcode", html, re.I))
+              ncat = len(re.findall(r"/en/catalog/[a-z0-9\-]+,\d{4},", html, re.I))
+              try:
+                  v = parsers.parse_buyers_guide(html)
+              except Exception as e:
+                  v = []
+                  print(f"  parse err {type(e).__name__}: {e}")
+              tot_v += len(v)
+              print(f"  {sku}: {len(html):>7}B  carcode-mentions={ncc:<4} "
+                    f"catalog-links={ncat:<4} parsed_vehicles={len(v)}", flush=True)
+              if v:
+                  print(f"      sample: {v[0]}")
+          print(f"\nTOTAL parsed vehicles across {len(keys)} parts: {tot_v}")
+          print(f"rows/req = {tot_v/max(1,len(keys)):.1f}   (leaf route is 4.445)")
+          PY
