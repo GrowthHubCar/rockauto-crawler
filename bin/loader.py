@@ -232,7 +232,12 @@ class Loader:
 
     # -- apply a staged table with CHUNK-level savepoints ------------------
     def _load_chunked(self, rows: list, load_one, label: str, counts: dict,
-                      ok_key: str, fail_key: str, chunk: int = 4000) -> list[int]:
+                      ok_key: str, fail_key: str, chunk: int = 1000) -> list[int]:
+        # chunk stays 1000. Raising it to 4000 to cut savepoint traffic brought back
+        # "TransactionLost: server rolled back the transaction (savepoint sp_chunk gone)"
+        # within minutes — a bigger chunk holds row locks ~4x longer and trips the lock
+        # wait timeout. _flush_fitment's 4000-row INSERT is unaffected: that is one
+        # statement, not a longer-held transaction.
         """Apply load_one to every row, taking one SAVEPOINT per `chunk` rows instead of
         one per row.
 
