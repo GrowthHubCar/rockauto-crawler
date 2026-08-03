@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/jaguar,2010,xkr", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2010, "model": "XKR"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2010,xf", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2010, "model": "XF"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2010,xj", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2010, "model": "XJ"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2010,xk", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2010, "model": "XK"}}}

@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,1998,pointer", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1998, "model": "POINTER"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1998,pointer+truck", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1998, "model": "POINTER TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1998,derby", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1998, "model": "DERBY"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1998,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1998, "model": "JETTA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1998,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1998, "model": "PASSAT"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1998,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1998, "model": "GOLF"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1998,cabrio", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1998, "model": "CABRIO"}}}

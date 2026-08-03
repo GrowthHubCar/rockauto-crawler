@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/gmc,2026,sierra+ev", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2026, "model": "SIERRA EV"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2026,yukon+xl", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2026, "model": "YUKON XL"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2026,yukon", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2026, "model": "YUKON"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2026,sierra+3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2026, "model": "SIERRA 3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2026,terrain", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2026, "model": "TERRAIN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2026,sierra+1500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2026, "model": "SIERRA 1500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2026,sierra+2500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2026, "model": "SIERRA 2500"}}}

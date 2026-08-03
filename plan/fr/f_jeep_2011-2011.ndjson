@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/jeep,2011,patriot", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2011, "model": "PATRIOT"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2011,compass", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2011, "model": "COMPASS"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2011,liberty", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2011, "model": "LIBERTY"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2011,grand+cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2011, "model": "GRAND CHEROKEE"}}}

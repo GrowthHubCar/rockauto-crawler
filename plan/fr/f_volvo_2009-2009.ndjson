@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/volvo,2009,xc90", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2009, "model": "XC90"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2009,xc70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2009, "model": "XC70"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2009,s40", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2009, "model": "S40"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2009,s80", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2009, "model": "S80"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2009,v50", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2009, "model": "V50"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2009,c30", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2009, "model": "C30"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2009,s60", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2009, "model": "S60"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2009,c70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2009, "model": "C70"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2009,v70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2009, "model": "V70"}}}

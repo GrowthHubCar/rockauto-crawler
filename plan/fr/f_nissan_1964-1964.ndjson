@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/nissan,1964,410", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1964, "model": "410"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1964,411", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1964, "model": "411"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1964,patrol", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1964, "model": "PATROL"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1964,320", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1964, "model": "320"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1964,1500", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1964, "model": "1500"}}}

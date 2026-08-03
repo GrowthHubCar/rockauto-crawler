@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/dodge,1994,ramcharger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1994, "model": "RAMCHARGER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1994,spirit", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1994, "model": "SPIRIT"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1994,stealth", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1994, "model": "STEALTH"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1994,shadow", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1994, "model": "SHADOW"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1994,viper", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1994, "model": "VIPER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1994,ram+3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1994, "model": "RAM 3500 PICKUP"}}}

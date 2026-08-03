@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/volvo,1999,s70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1999, "model": "S70"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,1999,v70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1999, "model": "V70"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,1999,s80", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1999, "model": "S80"}}}

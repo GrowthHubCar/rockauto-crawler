@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2014,vento", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2014, "model": "VENTO"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2014,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2014, "model": "TRANSPORTER"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2014,touareg", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2014, "model": "TOUAREG"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2014,tiguan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2014, "model": "TIGUAN"}}}

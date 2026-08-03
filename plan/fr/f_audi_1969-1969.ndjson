@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/audi,1969,super+90", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1969, "model": "SUPER 90"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1969,100", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1969, "model": "100"}}}

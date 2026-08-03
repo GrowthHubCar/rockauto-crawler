@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mazda,1990,rx-7", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1990, "model": "RX-7"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1990,626", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1990, "model": "626"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1990,929", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1990, "model": "929"}}}

@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2025,x7", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2025, "model": "X7"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2025,xm", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2025, "model": "XM"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2025,x6", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2025, "model": "X6"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2025,z4", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2025, "model": "Z4"}}}

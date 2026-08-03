@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/jaguar,2020,f-pace", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2020, "model": "F-PACE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2020,f-type", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2020, "model": "F-TYPE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2020,xf", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2020, "model": "XF"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2020,xe", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2020, "model": "XE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2020,e-pace", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2020, "model": "E-PACE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2020,i-pace", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2020, "model": "I-PACE"}}}

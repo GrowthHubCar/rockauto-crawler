@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/toyota,1985,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1985, "model": "LAND CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1985,tercel", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1985, "model": "TERCEL"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1985,mr2", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1985, "model": "MR2"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1985,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1985, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1985,celica", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1985, "model": "CELICA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1985,pickup", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1985, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1985,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1985, "model": "4RUNNER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1985,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1985, "model": "CAMRY"}}}

@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/ford,2001,sable", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2001, "model": "SABLE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2001,fiesta", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2001, "model": "FIESTA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2001,ka", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2001, "model": "KA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2001,mondeo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2001, "model": "MONDEO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2001,f-750", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2001, "model": "F-750"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2001,f-650", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2001, "model": "F-650"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2001,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2001, "model": "RANGER"}}}

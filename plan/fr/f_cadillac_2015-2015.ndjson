@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,2015,escalade", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2015, "model": "ESCALADE"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,2015,cts", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2015, "model": "CTS"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,2015,ats", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2015, "model": "ATS"}}}

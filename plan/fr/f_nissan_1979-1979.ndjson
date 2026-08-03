@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/nissan,1979,210", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1979, "model": "210"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1979,310", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1979, "model": "310"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1979,200sx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1979, "model": "200SX"}}}

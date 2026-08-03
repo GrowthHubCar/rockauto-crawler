@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/lexus,2012,ls600h", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2012, "model": "LS600H"}}}
+{"node_type": "model", "href": "/en/catalog/lexus,2012,rx350", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2012, "model": "RX350"}}}
+{"node_type": "model", "href": "/en/catalog/lexus,2012,lfa", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2012, "model": "LFA"}}}

@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/volvo,1987,740", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1987, "model": "740"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,1987,760", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1987, "model": "760"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,1987,780", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1987, "model": "780"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,1987,244", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1987, "model": "244"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,1987,245", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1987, "model": "245"}}}

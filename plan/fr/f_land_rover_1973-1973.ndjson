@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/land+rover,1973,land+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 1973, "model": "LAND ROVER"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,1973,range+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 1973, "model": "RANGE ROVER"}}}

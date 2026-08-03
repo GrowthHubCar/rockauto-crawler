@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/kia,2025,sportage", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2025, "model": "SPORTAGE"}}}
+{"node_type": "model", "href": "/en/catalog/kia,2025,telluride", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2025, "model": "TELLURIDE"}}}
+{"node_type": "model", "href": "/en/catalog/kia,2025,soul", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2025, "model": "SOUL"}}}

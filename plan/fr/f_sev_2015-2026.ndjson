@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/sev,2025,friday", "payload": {"nodetype": "model", "ctx": {"make": "SEV", "year": 2025, "model": "FRIDAY"}}}
+{"node_type": "model", "href": "/en/catalog/sev,2024,friday", "payload": {"nodetype": "model", "ctx": {"make": "SEV", "year": 2024, "model": "FRIDAY"}}}
+{"node_type": "model", "href": "/en/catalog/sev,2024,e-nat", "payload": {"nodetype": "model", "ctx": {"make": "SEV", "year": 2024, "model": "E-NAT"}}}
+{"node_type": "model", "href": "/en/catalog/sev,2023,e-nat", "payload": {"nodetype": "model", "ctx": {"make": "SEV", "year": 2023, "model": "E-NAT"}}}

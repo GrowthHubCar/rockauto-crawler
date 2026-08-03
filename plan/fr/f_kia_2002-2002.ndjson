@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/kia,2002,magentis", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2002, "model": "MAGENTIS"}}}
+{"node_type": "model", "href": "/en/catalog/kia,2002,optima", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2002, "model": "OPTIMA"}}}
+{"node_type": "model", "href": "/en/catalog/kia,2002,spectra", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2002, "model": "SPECTRA"}}}
+{"node_type": "model", "href": "/en/catalog/kia,2002,sportage", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2002, "model": "SPORTAGE"}}}
+{"node_type": "model", "href": "/en/catalog/kia,2002,rio", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2002, "model": "RIO"}}}

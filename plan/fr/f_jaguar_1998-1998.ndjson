@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/jaguar,1998,xk8", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1998, "model": "XK8"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1998,xj8", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1998, "model": "XJ8"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1998,vanden+plas", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1998, "model": "VANDEN PLAS"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1998,xjr", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1998, "model": "XJR"}}}

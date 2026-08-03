@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2018,prius+v", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2018, "model": "PRIUS V"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2018,rav4", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2018, "model": "RAV4"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2018,yaris", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2018, "model": "YARIS"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2018,sequoia", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2018, "model": "SEQUOIA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2018,yaris+ia", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2018, "model": "YARIS IA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2018,tacoma", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2018, "model": "TACOMA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2018,prius+c", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2018, "model": "PRIUS C"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2018,sienna", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2018, "model": "SIENNA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2018,tundra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2018, "model": "TUNDRA"}}}

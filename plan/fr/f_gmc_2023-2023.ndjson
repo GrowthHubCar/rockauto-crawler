@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/gmc,2023,savana+4500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2023, "model": "SAVANA 4500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2023,terrain", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2023, "model": "TERRAIN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2023,yukon+xl", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2023, "model": "YUKON XL"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2023,savana+3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2023, "model": "SAVANA 3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2023,sierra+2500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2023, "model": "SIERRA 2500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2023,yukon", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2023, "model": "YUKON"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2023,sierra+3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2023, "model": "SIERRA 3500"}}}

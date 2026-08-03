@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "TILTMASTER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,w3500+tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "W3500 TILTMASTER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,w4500+tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "W4500 TILTMASTER"}}}

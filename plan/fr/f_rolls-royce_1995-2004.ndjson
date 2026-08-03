@@ -1,0 +1,16 @@
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1995,silver+spur", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1995, "model": "SILVER SPUR"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1995,silver+spirit", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1995, "model": "SILVER SPIRIT"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1995,silver+dawn", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1995, "model": "SILVER DAWN"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1995,corniche+iv", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1995, "model": "CORNICHE IV"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1995,corniche+s", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1995, "model": "CORNICHE S"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1995,flying+spur", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1995, "model": "FLYING SPUR"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1997,silver+spur", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1997, "model": "SILVER SPUR"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1996,silver+spur", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1996, "model": "SILVER SPUR"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1998,silver+spur", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1998, "model": "SILVER SPUR"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1996,silver+dawn", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1996, "model": "SILVER DAWN"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1997,silver+dawn", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1997, "model": "SILVER DAWN"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,2000,corniche", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2000, "model": "CORNICHE"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,2001,corniche", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2001, "model": "CORNICHE"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1999,silver+seraph", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1999, "model": "SILVER SERAPH"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,2001,silver+seraph", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2001, "model": "SILVER SERAPH"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,2002,park+ward", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2002, "model": "PARK WARD"}}}

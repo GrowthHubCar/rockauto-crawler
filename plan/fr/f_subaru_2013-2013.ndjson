@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/subaru,2013,outback", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2013, "model": "OUTBACK"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,2013,legacy", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2013, "model": "LEGACY"}}}

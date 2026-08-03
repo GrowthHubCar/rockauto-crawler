@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/honda,1994,passport", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1994, "model": "PASSPORT"}}}
+{"node_type": "model", "href": "/en/catalog/honda,1994,prelude", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1994, "model": "PRELUDE"}}}

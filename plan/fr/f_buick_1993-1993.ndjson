@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/buick,1993,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1993, "model": "SKYLARK"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1993,roadmaster", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1993, "model": "ROADMASTER"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1993,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1993, "model": "RIVIERA"}}}

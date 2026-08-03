@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1999,z3", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1999, "model": "Z3"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1999,850ci", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1999, "model": "850CI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1999,m5", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1999, "model": "M5"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1999,318i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1999, "model": "318I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1999,540i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1999, "model": "540I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1999,328i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1999, "model": "328I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1999,m3", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1999, "model": "M3"}}}

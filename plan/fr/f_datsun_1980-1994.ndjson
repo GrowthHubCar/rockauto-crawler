@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/datsun,1981,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1981, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/datsun,1980,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1980, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/datsun,1982,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1982, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/datsun,1983,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1983, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/datsun,1982,sedan", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1982, "model": "SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/datsun,1983,sakura", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1983, "model": "SAKURA"}}}
+{"node_type": "model", "href": "/en/catalog/datsun,1982,sakura", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1982, "model": "SAKURA"}}}
+{"node_type": "model", "href": "/en/catalog/datsun,1984,samurai", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1984, "model": "SAMURAI"}}}

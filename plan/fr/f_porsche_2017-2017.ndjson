@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/porsche,2017,macan", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2017, "model": "MACAN"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2017,panamera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2017, "model": "PANAMERA"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2017,cayenne", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2017, "model": "CAYENNE"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2017,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2017, "model": "911"}}}

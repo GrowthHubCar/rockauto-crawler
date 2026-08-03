@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/jeep,1991,cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1991, "model": "CHEROKEE"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1991,wagoneer", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1991, "model": "WAGONEER"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1991,wrangler", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1991, "model": "WRANGLER"}}}

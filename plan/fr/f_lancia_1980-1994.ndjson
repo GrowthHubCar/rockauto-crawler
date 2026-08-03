@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/lancia,1981,beta", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1981, "model": "BETA"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1982,zagato", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1982, "model": "ZAGATO"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1981,zagato", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1981, "model": "ZAGATO"}}}

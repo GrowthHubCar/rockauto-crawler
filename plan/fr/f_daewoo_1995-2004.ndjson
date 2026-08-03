@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/daewoo,1999,lanos", "payload": {"nodetype": "model", "ctx": {"make": "DAEWOO", "year": 1999, "model": "LANOS"}}}
+{"node_type": "model", "href": "/en/catalog/daewoo,2001,lanos", "payload": {"nodetype": "model", "ctx": {"make": "DAEWOO", "year": 2001, "model": "LANOS"}}}
+{"node_type": "model", "href": "/en/catalog/daewoo,2002,lanos", "payload": {"nodetype": "model", "ctx": {"make": "DAEWOO", "year": 2002, "model": "LANOS"}}}
+{"node_type": "model", "href": "/en/catalog/daewoo,2000,lanos", "payload": {"nodetype": "model", "ctx": {"make": "DAEWOO", "year": 2000, "model": "LANOS"}}}
+{"node_type": "model", "href": "/en/catalog/daewoo,1999,nubira", "payload": {"nodetype": "model", "ctx": {"make": "DAEWOO", "year": 1999, "model": "NUBIRA"}}}
+{"node_type": "model", "href": "/en/catalog/daewoo,1999,leganza", "payload": {"nodetype": "model", "ctx": {"make": "DAEWOO", "year": 1999, "model": "LEGANZA"}}}
+{"node_type": "model", "href": "/en/catalog/daewoo,2000,nubira", "payload": {"nodetype": "model", "ctx": {"make": "DAEWOO", "year": 2000, "model": "NUBIRA"}}}
+{"node_type": "model", "href": "/en/catalog/daewoo,2000,leganza", "payload": {"nodetype": "model", "ctx": {"make": "DAEWOO", "year": 2000, "model": "LEGANZA"}}}
+{"node_type": "model", "href": "/en/catalog/daewoo,2001,leganza", "payload": {"nodetype": "model", "ctx": {"make": "DAEWOO", "year": 2001, "model": "LEGANZA"}}}
+{"node_type": "model", "href": "/en/catalog/daewoo,2002,leganza", "payload": {"nodetype": "model", "ctx": {"make": "DAEWOO", "year": 2002, "model": "LEGANZA"}}}
+{"node_type": "model", "href": "/en/catalog/daewoo,1998,nubira+sx", "payload": {"nodetype": "model", "ctx": {"make": "DAEWOO", "year": 1998, "model": "NUBIRA SX"}}}
+{"node_type": "model", "href": "/en/catalog/daewoo,1998,lanos", "payload": {"nodetype": "model", "ctx": {"make": "DAEWOO", "year": 1998, "model": "LANOS"}}}

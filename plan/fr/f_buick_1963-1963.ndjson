@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/buick,1963,invicta", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1963, "model": "INVICTA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1963,wildcat", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1963, "model": "WILDCAT"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1963,special", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1963, "model": "SPECIAL"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1963,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1963, "model": "ESTATE WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1963,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1963, "model": "RIVIERA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1963,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1963, "model": "SKYLARK"}}}

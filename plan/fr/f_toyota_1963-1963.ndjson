@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/toyota,1963,toyopet+tiara", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1963, "model": "TOYOPET TIARA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1963,crown", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1963, "model": "CROWN"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1963,toyopet+crown", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1963, "model": "TOYOPET CROWN"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1963,tiara", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1963, "model": "TIARA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1963,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1963, "model": "LAND CRUISER"}}}

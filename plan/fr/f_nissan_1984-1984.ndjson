@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/nissan,1984,tsuru", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1984, "model": "TSURU"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1984,micra", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1984, "model": "MICRA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1984,sakura", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1984, "model": "SAKURA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1984,pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1984, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1984,stanza", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1984, "model": "STANZA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1984,720+pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1984, "model": "720 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1984,sentra", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1984, "model": "SENTRA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1984,maxima", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1984, "model": "MAXIMA"}}}

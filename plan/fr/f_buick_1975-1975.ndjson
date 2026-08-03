@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/buick,1975,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1975, "model": "SKYLARK"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1975,apollo", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1975, "model": "APOLLO"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1975,skyhawk", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1975, "model": "SKYHAWK"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1975,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1975, "model": "RIVIERA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1975,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1975, "model": "LESABRE"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1975,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1975, "model": "CENTURY"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1975,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1975, "model": "REGAL"}}}

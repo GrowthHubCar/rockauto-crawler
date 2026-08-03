@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/nissan,2000,tsuru", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2000, "model": "TSURU"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2000,sentra", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2000, "model": "SENTRA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2000,lucino", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2000, "model": "LUCINO"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2000,urvan", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2000, "model": "URVAN"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2000,tsubame", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2000, "model": "TSUBAME"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2000,pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2000, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2000,xterra", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2000, "model": "XTERRA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2000,frontier", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2000, "model": "FRONTIER"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2000,altra+ev", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2000, "model": "ALTRA EV"}}}

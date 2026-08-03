@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1973,p20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1973, "model": "P20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1973,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1973, "model": "P30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1973,monte+carlo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1973, "model": "MONTE CARLO"}}}

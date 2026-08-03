@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/lincoln,1991,continental", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1991, "model": "CONTINENTAL"}}}
+{"node_type": "model", "href": "/en/catalog/lincoln,1991,town+car", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1991, "model": "TOWN CAR"}}}
+{"node_type": "model", "href": "/en/catalog/lincoln,1991,mark+vii", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1991, "model": "MARK VII"}}}

@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/gmc,2019,savana+4500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2019, "model": "SAVANA 4500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2019,yukon", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2019, "model": "YUKON"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2019,terrain", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2019, "model": "TERRAIN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2019,sierra+1500+limited", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2019, "model": "SIERRA 1500 LIMITED"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2019,sierra+3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2019, "model": "SIERRA 3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2019,sierra+1500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2019, "model": "SIERRA 1500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2019,sierra+2500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2019, "model": "SIERRA 2500"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/lincoln,1990,town+car", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1990, "model": "TOWN CAR"}}}
+{"node_type": "model", "href": "/en/catalog/lincoln,1990,mark+vii", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1990, "model": "MARK VII"}}}

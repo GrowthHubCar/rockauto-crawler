@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/ford,2013,lobo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "LOBO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,ikon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "IKON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,transit", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "TRANSIT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "RANGER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,police+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "POLICE SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,fusion", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "FUSION"}}}

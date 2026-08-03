@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/land+rover,1996,discovery", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 1996, "model": "DISCOVERY"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,1996,range+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 1996, "model": "RANGE ROVER"}}}

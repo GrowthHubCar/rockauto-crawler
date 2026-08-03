@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/mazda,1995,xedos+9", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1995, "model": "XEDOS 9"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1995,protege", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1995, "model": "PROTEGE"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1995,rx-7", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1995, "model": "RX-7"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1995,b4000", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1995, "model": "B4000"}}}

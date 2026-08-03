@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/toyota,1992,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1992, "model": "CAMRY"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1992,celica", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1992, "model": "CELICA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1992,mr2", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1992, "model": "MR2"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1992,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1992, "model": "LAND CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1992,pickup", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1992, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1992,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1992, "model": "4RUNNER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1992,cressida", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1992, "model": "CRESSIDA"}}}

@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2018,vento", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2018, "model": "VENTO"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2018,up!", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2018, "model": "UP!"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2018,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2018, "model": "TRANSPORTER"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2018,touareg", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2018, "model": "TOUAREG"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2018,tiguan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2018, "model": "TIGUAN"}}}

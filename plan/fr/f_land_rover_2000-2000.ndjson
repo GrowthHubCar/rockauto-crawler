@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/land+rover,2000,freelander", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2000, "model": "FREELANDER"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2000,discovery", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2000, "model": "DISCOVERY"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2000,range+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2000, "model": "RANGE ROVER"}}}

@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/nissan,1996,tsuru", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1996, "model": "TSURU"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1996,lucino", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1996, "model": "LUCINO"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1996,tsubame", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1996, "model": "TSUBAME"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1996,pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1996, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1996,pathfinder", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1996, "model": "PATHFINDER"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1996,sentra", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1996, "model": "SENTRA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1996,300zx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1996, "model": "300ZX"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1996,240sx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1996, "model": "240SX"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1996,200sx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1996, "model": "200SX"}}}

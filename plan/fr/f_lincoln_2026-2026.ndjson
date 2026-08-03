@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/lincoln,2026,corsair", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2026, "model": "CORSAIR"}}}
+{"node_type": "model", "href": "/en/catalog/lincoln,2026,nautilus", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2026, "model": "NAUTILUS"}}}
+{"node_type": "model", "href": "/en/catalog/lincoln,2026,navigator", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2026, "model": "NAVIGATOR"}}}
+{"node_type": "model", "href": "/en/catalog/lincoln,2026,aviator", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2026, "model": "AVIATOR"}}}

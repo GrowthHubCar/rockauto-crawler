@@ -1,0 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2001,prius", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2001, "model": "PRIUS"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2001,rav4", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2001, "model": "RAV4"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2001,avalon", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2001, "model": "AVALON"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2001,echo", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2001, "model": "ECHO"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2001,highlander", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2001, "model": "HIGHLANDER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2001,celica", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2001, "model": "CELICA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2001,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2001, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2001,sienna", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2001, "model": "SIENNA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2001,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2001, "model": "4RUNNER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2001,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2001, "model": "CAMRY"}}}

@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/lincoln,2017,mkz", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2017, "model": "MKZ"}}}
+{"node_type": "model", "href": "/en/catalog/lincoln,2017,mkc", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2017, "model": "MKC"}}}
+{"node_type": "model", "href": "/en/catalog/lincoln,2017,mkx", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2017, "model": "MKX"}}}
+{"node_type": "model", "href": "/en/catalog/lincoln,2017,mkt", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2017, "model": "MKT"}}}

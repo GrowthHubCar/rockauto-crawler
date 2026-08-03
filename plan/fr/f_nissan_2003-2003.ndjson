@@ -1,0 +1,15 @@
+{"node_type": "model", "href": "/en/catalog/nissan,2003,x-trail", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2003, "model": "X-TRAIL"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2003,urvan", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2003, "model": "URVAN"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2003,tsuru", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2003, "model": "TSURU"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2003,almera", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2003, "model": "ALMERA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2003,platina", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2003, "model": "PLATINA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2003,tsubame", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2003, "model": "TSUBAME"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2003,pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2003, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2003,frontier", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2003, "model": "FRONTIER"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2003,350z", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2003, "model": "350Z"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2003,murano", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2003, "model": "MURANO"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2003,sentra", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2003, "model": "SENTRA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2003,maxima", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2003, "model": "MAXIMA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2003,altima", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2003, "model": "ALTIMA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2003,pathfinder", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2003, "model": "PATHFINDER"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2003,xterra", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2003, "model": "XTERRA"}}}

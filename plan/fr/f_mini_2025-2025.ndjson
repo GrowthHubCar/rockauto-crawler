@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mini,2025,aceman", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2025, "model": "ACEMAN"}}}
+{"node_type": "model", "href": "/en/catalog/mini,2025,cooper", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2025, "model": "COOPER"}}}
+{"node_type": "model", "href": "/en/catalog/mini,2025,countryman", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2025, "model": "COUNTRYMAN"}}}

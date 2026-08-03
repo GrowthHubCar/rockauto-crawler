@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ram,2011,4000", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2011, "model": "4000"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2011,4500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2011, "model": "4500"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2011,3500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2011, "model": "3500"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2011,2500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2011, "model": "2500"}}}

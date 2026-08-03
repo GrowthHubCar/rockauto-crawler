@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/mazda,2007,rx-8", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2007, "model": "RX-8"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,2007,cx-9", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2007, "model": "CX-9"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,2007,6", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2007, "model": "6"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,2007,3", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2007, "model": "3"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,2007,b4000", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2007, "model": "B4000"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,2007,b3000", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2007, "model": "B3000"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,2007,5", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2007, "model": "5"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,2007,b2300", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2007, "model": "B2300"}}}

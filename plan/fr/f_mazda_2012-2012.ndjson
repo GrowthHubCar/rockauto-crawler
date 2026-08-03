@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mazda,2012,6", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2012, "model": "6"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,2012,3", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2012, "model": "3"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,2012,5", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2012, "model": "5"}}}

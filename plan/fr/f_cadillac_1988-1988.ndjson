@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,1988,seville", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1988, "model": "SEVILLE"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1988,eldorado", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1988, "model": "ELDORADO"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1988,brougham", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1988, "model": "BROUGHAM"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1988,deville", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1988, "model": "DEVILLE"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1988,allante", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1988, "model": "ALLANTE"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1988,fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1988, "model": "FLEETWOOD"}}}

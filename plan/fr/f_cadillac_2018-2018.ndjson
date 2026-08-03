@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,2018,cts", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2018, "model": "CTS"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,2018,ats", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2018, "model": "ATS"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,2018,escalade", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2018, "model": "ESCALADE"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,2018,xts", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2018, "model": "XTS"}}}

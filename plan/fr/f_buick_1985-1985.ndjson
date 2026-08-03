@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/buick,1985,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1985, "model": "REGAL"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1985,skyhawk", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1985, "model": "SKYHAWK"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1985,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1985, "model": "SKYLARK"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1985,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1985, "model": "RIVIERA"}}}

@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2015,grand+i10", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "GRAND I10"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2015,ix35", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "IX35"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2015,tucson", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "TUCSON"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2015,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "SONATA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2015,genesis", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "GENESIS"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2015,santa+fe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "SANTA FE"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2015,genesis+coupe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "GENESIS COUPE"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2015,equus", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "EQUUS"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2015,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2015, "model": "ELANTRA"}}}

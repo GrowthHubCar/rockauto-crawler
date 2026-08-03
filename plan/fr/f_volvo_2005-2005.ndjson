@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/volvo,2005,xc90", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2005, "model": "XC90"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2005,xc70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2005, "model": "XC70"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2005,s40", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2005, "model": "S40"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2005,v50", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2005, "model": "V50"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2005,s60", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2005, "model": "S60"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2005,v70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2005, "model": "V70"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2005,c70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2005, "model": "C70"}}}

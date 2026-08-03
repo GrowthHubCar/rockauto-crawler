@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/toyota,1970,corona", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1970, "model": "CORONA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1970,2000gt", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1970, "model": "2000GT"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1970,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1970, "model": "LAND CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1970,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1970, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1970,pickup", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1970, "model": "PICKUP"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1974,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1974, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1974,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1974, "model": "P30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1974,nova", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1974, "model": "NOVA"}}}

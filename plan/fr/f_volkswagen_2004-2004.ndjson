@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2004,pointer+truck", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2004, "model": "POINTER TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2004,sharan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2004, "model": "SHARAN"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2004,van", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2004, "model": "VAN"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2004,polo", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2004, "model": "POLO"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2004,pointer", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2004, "model": "POINTER"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2004,touareg", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2004, "model": "TOUAREG"}}}

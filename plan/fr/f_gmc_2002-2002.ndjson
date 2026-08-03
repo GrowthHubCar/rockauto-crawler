@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/gmc,2002,topkick", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2002, "model": "TOPKICK"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2002,t+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2002, "model": "T SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2002,yukon+xl+2500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2002, "model": "YUKON XL 2500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2002,sonoma", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2002, "model": "SONOMA"}}}

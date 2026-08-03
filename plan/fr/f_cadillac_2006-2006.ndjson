@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,2006,sts", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2006, "model": "STS"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,2006,xlr", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2006, "model": "XLR"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,2006,srx", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2006, "model": "SRX"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,2006,cts", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2006, "model": "CTS"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,2006,dts", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2006, "model": "DTS"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,2006,escalade", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2006, "model": "ESCALADE"}}}

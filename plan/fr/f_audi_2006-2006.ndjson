@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/audi,2006,a6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2006, "model": "A6"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2006,a8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2006, "model": "A8"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2006,a4", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2006, "model": "A4"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2006,tt", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2006, "model": "TT"}}}

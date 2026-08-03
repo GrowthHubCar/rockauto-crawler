@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/land+rover,2006,freelander", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2006, "model": "FREELANDER"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2006,range+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2006, "model": "RANGE ROVER"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2006,lr3", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2006, "model": "LR3"}}}

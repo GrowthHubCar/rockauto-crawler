@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2007,hilux", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2007, "model": "HILUX"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2007,avanza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2007, "model": "AVANZA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2007,hiace", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2007, "model": "HIACE"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2007,fj+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2007, "model": "FJ CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2007,avalon", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2007, "model": "AVALON"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2007,highlander", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2007, "model": "HIGHLANDER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2007,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2007, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2007,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2007, "model": "CAMRY"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2007,tacoma", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2007, "model": "TACOMA"}}}

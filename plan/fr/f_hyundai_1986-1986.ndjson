@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,1986,pony", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 1986, "model": "PONY"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,1986,stellar+sl+deluxe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 1986, "model": "STELLAR SL DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,1986,stellar+gsl+super", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 1986, "model": "STELLAR GSL SUPER"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,1986,stellar", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 1986, "model": "STELLAR"}}}

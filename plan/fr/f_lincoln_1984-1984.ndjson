@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/lincoln,1984,town+car", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1984, "model": "TOWN CAR"}}}
+{"node_type": "model", "href": "/en/catalog/lincoln,1984,continental", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1984, "model": "CONTINENTAL"}}}
+{"node_type": "model", "href": "/en/catalog/lincoln,1984,mark+vii", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1984, "model": "MARK VII"}}}

@@ -1,0 +1,60 @@
+{"node_type": "model", "href": "/en/catalog/isuzu,2023,elf", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2023, "model": "ELF"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2024,elf", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2024, "model": "ELF"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2024,f+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2024, "model": "F SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2023,f+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2023, "model": "F SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2025,elf", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2025, "model": "ELF"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2015,elf", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2015, "model": "ELF"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2016,elf", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2016, "model": "ELF"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2017,elf", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2017, "model": "ELF"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2018,elf", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2018, "model": "ELF"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2019,elf", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2019, "model": "ELF"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2020,elf", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2020, "model": "ELF"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2016,f+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2016, "model": "F SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2017,f+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2017, "model": "F SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2015,f+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2015, "model": "F SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2022,elf", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2022, "model": "ELF"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2021,elf", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2021, "model": "ELF"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2019,f+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2019, "model": "F SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2020,f+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2020, "model": "F SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2018,f+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2018, "model": "F SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2021,f+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2021, "model": "F SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2022,f+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2022, "model": "F SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2023,nqr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2023, "model": "NQR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2023,npr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2023, "model": "NPR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2023,nrr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2023, "model": "NRR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2024,npr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2024, "model": "NPR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2024,nqr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2024, "model": "NQR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2024,nrr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2024, "model": "NRR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2025,npr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2025, "model": "NPR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2025,nrr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2025, "model": "NRR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2025,nqr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2025, "model": "NQR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2025,f+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2025, "model": "F SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2026,f+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2026, "model": "F SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2026,nqr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2026, "model": "NQR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2026,nrr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2026, "model": "NRR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2026,npr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2026, "model": "NPR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2015,npr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2015, "model": "NPR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2016,npr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2016, "model": "NPR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2017,npr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2017, "model": "NPR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2018,npr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2018, "model": "NPR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2019,npr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2019, "model": "NPR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2015,nqr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2015, "model": "NQR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2016,nqr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2016, "model": "NQR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2016,nrr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2016, "model": "NRR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2015,nrr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2015, "model": "NRR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2017,nqr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2017, "model": "NQR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2018,nqr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2018, "model": "NQR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2017,nrr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2017, "model": "NRR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2018,nrr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2018, "model": "NRR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2019,nqr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2019, "model": "NQR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2020,npr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2020, "model": "NPR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2019,nrr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2019, "model": "NRR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2020,nqr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2020, "model": "NQR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2021,npr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2021, "model": "NPR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2020,nrr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2020, "model": "NRR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2021,nqr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2021, "model": "NQR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2022,nqr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2022, "model": "NQR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2022,npr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2022, "model": "NPR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2021,nrr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2021, "model": "NRR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2022,nrr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2022, "model": "NRR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2015,reach", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2015, "model": "REACH"}}}

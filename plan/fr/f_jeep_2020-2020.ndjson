@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/jeep,2020,renegade", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2020, "model": "RENEGADE"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2020,grand+cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2020, "model": "GRAND CHEROKEE"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2020,wrangler", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2020, "model": "WRANGLER"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2020,gladiator", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2020, "model": "GLADIATOR"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2020,compass", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2020, "model": "COMPASS"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2020,cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2020, "model": "CHEROKEE"}}}

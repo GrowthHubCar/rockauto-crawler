@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/buick,1991,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1991, "model": "CENTURY"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1991,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1991, "model": "SKYLARK"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1991,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1991, "model": "RIVIERA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1991,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1991, "model": "REGAL"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1991,park+avenue", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1991, "model": "PARK AVENUE"}}}

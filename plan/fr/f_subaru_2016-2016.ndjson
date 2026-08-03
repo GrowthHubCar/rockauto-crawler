@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/subaru,2016,xv", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2016, "model": "XV"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,2016,legacy", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2016, "model": "LEGACY"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,2016,outback", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2016, "model": "OUTBACK"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,2016,forester", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2016, "model": "FORESTER"}}}

@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,1992,eldorado", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1992, "model": "ELDORADO"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1992,fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1992, "model": "FLEETWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1992,allante", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1992, "model": "ALLANTE"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1992,deville", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1992, "model": "DEVILLE"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1992,seville", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1992, "model": "SEVILLE"}}}

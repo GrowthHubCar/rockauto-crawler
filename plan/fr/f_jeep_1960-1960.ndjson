@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/jeep,1960,dj3", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1960, "model": "DJ3"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1960,truck", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1960, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1960,cj6", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1960, "model": "CJ6"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1960,cj5", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1960, "model": "CJ5"}}}

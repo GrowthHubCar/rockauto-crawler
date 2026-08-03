@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/dodge,2017,vision", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2017, "model": "VISION"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2017,neon", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2017, "model": "NEON"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2017,journey", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2017, "model": "JOURNEY"}}}

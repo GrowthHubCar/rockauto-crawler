@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/acura,2015,ilx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2015, "model": "ILX"}}}
+{"node_type": "model", "href": "/en/catalog/acura,2015,rlx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2015, "model": "RLX"}}}
+{"node_type": "model", "href": "/en/catalog/acura,2015,mdx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2015, "model": "MDX"}}}
+{"node_type": "model", "href": "/en/catalog/acura,2015,rdx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2015, "model": "RDX"}}}

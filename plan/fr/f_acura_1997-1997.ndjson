@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/acura,1997,el", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 1997, "model": "EL"}}}
+{"node_type": "model", "href": "/en/catalog/acura,1997,nsx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 1997, "model": "NSX"}}}
+{"node_type": "model", "href": "/en/catalog/acura,1997,tl", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 1997, "model": "TL"}}}

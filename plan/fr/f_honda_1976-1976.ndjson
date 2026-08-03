@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/honda,1976,civic", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1976, "model": "CIVIC"}}}
+{"node_type": "model", "href": "/en/catalog/honda,1976,accord", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1976, "model": "ACCORD"}}}

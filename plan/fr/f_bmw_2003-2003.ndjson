@@ -1,0 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2003,320i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2003, "model": "320I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2003,330ci", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2003, "model": "330CI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2003,325ci", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2003, "model": "325CI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2003,x5", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2003, "model": "X5"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2003,z4", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2003, "model": "Z4"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2003,760li", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2003, "model": "760LI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2003,540i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2003, "model": "540I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2003,325i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2003, "model": "325I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2003,745li", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2003, "model": "745LI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2003,745i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2003, "model": "745I"}}}

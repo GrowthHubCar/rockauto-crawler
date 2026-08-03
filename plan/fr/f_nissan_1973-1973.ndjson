@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/nissan,1973,610", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1973, "model": "610"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1973,620+pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1973, "model": "620 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1973,510", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1973, "model": "510"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1973,b110", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1973, "model": "B110"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1973,1300", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1973, "model": "1300"}}}

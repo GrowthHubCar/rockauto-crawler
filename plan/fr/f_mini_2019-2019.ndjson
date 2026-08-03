@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mini,2019,cooper+clubman", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2019, "model": "COOPER CLUBMAN"}}}
+{"node_type": "model", "href": "/en/catalog/mini,2019,cooper+countryman", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2019, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "model", "href": "/en/catalog/mini,2019,cooper", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2019, "model": "COOPER"}}}

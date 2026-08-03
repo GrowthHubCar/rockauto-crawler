@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ford,1962,zodiac", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1962, "model": "ZODIAC"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1962,zephyr", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1962, "model": "ZEPHYR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1962,victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1962, "model": "VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1962,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1962, "model": "THUNDERBIRD"}}}

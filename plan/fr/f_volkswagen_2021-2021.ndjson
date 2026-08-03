@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2021,teramont", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2021, "model": "TERAMONT"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2021,virtus", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2021, "model": "VIRTUS"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2021,vento", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2021, "model": "VENTO"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2021,taos", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2021, "model": "TAOS"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2021,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2021, "model": "TRANSPORTER"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2021,tiguan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2021, "model": "TIGUAN"}}}

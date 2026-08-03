@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/kia,2007,spectra", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2007, "model": "SPECTRA"}}}
+{"node_type": "model", "href": "/en/catalog/kia,2007,rio", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2007, "model": "RIO"}}}
+{"node_type": "model", "href": "/en/catalog/kia,2007,rondo", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2007, "model": "RONDO"}}}
+{"node_type": "model", "href": "/en/catalog/kia,2007,optima", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2007, "model": "OPTIMA"}}}

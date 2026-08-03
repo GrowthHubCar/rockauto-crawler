@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,2007,bls", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2007, "model": "BLS"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,2007,sts", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2007, "model": "STS"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,2007,srx", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2007, "model": "SRX"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,2007,dts", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2007, "model": "DTS"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,2007,cts", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2007, "model": "CTS"}}}

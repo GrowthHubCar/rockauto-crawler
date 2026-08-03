@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/jeep,2017,renegade", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2017, "model": "RENEGADE"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2017,patriot", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2017, "model": "PATRIOT"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2017,grand+cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2017, "model": "GRAND CHEROKEE"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2017,compass", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2017, "model": "COMPASS"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2017,cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2017, "model": "CHEROKEE"}}}

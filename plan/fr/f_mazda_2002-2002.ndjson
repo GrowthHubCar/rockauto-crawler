@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/mazda,2002,protege", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2002, "model": "PROTEGE"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,2002,millenia", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2002, "model": "MILLENIA"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,2002,tribute", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2002, "model": "TRIBUTE"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,2002,b2300", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2002, "model": "B2300"}}}

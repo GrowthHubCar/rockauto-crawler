@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/toyota,1960,tiara", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1960, "model": "TIARA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1960,toyopet+crown", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1960, "model": "TOYOPET CROWN"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1960,crown", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1960, "model": "CROWN"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1960,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1960, "model": "LAND CRUISER"}}}

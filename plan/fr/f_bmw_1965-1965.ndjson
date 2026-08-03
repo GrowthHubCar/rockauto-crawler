@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1965,1600", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1965, "model": "1600"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1965,1800ti", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1965, "model": "1800TI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1965,1800", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1965, "model": "1800"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1965,2000cs", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1965, "model": "2000CS"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1965,2000c", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1965, "model": "2000C"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1965,isetta", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1965, "model": "ISETTA"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1965,3200cs", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1965, "model": "3200CS"}}}

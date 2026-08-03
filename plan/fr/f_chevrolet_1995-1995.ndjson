@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1995,tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1995, "model": "TILTMASTER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1995,stepvan", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1995, "model": "STEPVAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1995,w3500+tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1995, "model": "W3500 TILTMASTER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1995,s10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1995, "model": "S10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1995,tahoe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1995, "model": "TAHOE"}}}

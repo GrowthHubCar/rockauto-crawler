@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/subaru,1973,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1973, "model": "DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,1973,1400", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1973, "model": "1400"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,1973,gl", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1973, "model": "GL"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,1973,1300", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1973, "model": "1300"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,1973,dl", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1973, "model": "DL"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1992,320i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1992, "model": "320I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1992,750il", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1992, "model": "750IL"}}}

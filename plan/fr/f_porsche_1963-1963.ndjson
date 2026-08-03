@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/porsche,1963,356b", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1963, "model": "356B"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,1963,carrera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1963, "model": "CARRERA"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,1963,356c", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1963, "model": "356C"}}}

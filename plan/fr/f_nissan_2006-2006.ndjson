@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/nissan,2006,x-trail", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2006, "model": "X-TRAIL"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2006,tsuru", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2006, "model": "TSURU"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2006,urvan", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2006, "model": "URVAN"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2006,platina", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2006, "model": "PLATINA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2006,micra", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2006, "model": "MICRA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2006,pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2006, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2006,frontier", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2006, "model": "FRONTIER"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2006,maxima", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2006, "model": "MAXIMA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2006,350z", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2006, "model": "350Z"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2006,armada", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2006, "model": "ARMADA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2006,altima", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2006, "model": "ALTIMA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2006,titan", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2006, "model": "TITAN"}}}

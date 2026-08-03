@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,1982,seville", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1982, "model": "SEVILLE"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1982,fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1982, "model": "FLEETWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1982,eldorado", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1982, "model": "ELDORADO"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1982,deville", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1982, "model": "DEVILLE"}}}

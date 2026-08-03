@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1972,p10", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1972, "model": "P10"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1972,nova", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1972, "model": "NOVA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1972,p20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1972, "model": "P20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1972,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1972, "model": "P30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1972,townsman", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1972, "model": "TOWNSMAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1972,monte+carlo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1972, "model": "MONTE CARLO"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/ford,1975,torino", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1975, "model": "TORINO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1975,ranchero", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1975, "model": "RANCHERO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1975,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1975, "model": "THUNDERBIRD"}}}

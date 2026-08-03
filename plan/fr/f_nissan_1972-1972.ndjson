@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/nissan,1972,620+pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1972, "model": "620 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1972,510", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1972, "model": "510"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1972,b110", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1972, "model": "B110"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1972,1300", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1972, "model": "1300"}}}

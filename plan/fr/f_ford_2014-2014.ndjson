@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/ford,2014,transit", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2014, "model": "TRANSIT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2014,transit+custom", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2014, "model": "TRANSIT CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2014,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2014, "model": "RANGER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2014,police+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2014, "model": "POLICE SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2014,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2014, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2014,transit+connect", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2014, "model": "TRANSIT CONNECT"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/dodge,2001,stratus", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2001, "model": "STRATUS"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2001,ramcharger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2001, "model": "RAMCHARGER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2001,viper", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2001, "model": "VIPER"}}}

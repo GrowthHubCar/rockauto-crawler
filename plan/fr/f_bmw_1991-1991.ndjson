@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1991,318is", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1991, "model": "318IS"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1991,318i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1991, "model": "318I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1991,325is", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1991, "model": "325IS"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1991,325i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1991, "model": "325I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1991,750il", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1991, "model": "750IL"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1991,m3", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1991, "model": "M3"}}}

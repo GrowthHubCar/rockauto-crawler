@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/ford,2007,mondeo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2007, "model": "MONDEO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2007,ka", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2007, "model": "KA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2007,transit", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2007, "model": "TRANSIT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2007,ikon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2007, "model": "IKON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2007,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2007, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2007,lcf", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2007, "model": "LCF"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2007,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2007, "model": "RANGER"}}}

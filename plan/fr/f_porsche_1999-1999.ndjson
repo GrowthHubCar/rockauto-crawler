@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/porsche,1999,boxster", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1999, "model": "BOXSTER"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,1999,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1999, "model": "911"}}}

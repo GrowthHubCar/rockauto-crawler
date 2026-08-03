@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/mazda,2015,2", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2015, "model": "2"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,2015,mx-5+miata", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2015, "model": "MX-5 MIATA"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,2015,6", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2015, "model": "6"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,2015,3", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2015, "model": "3"}}}

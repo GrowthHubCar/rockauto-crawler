@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/buick,1979,opel+by+isuzu", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1979, "model": "OPEL BY ISUZU"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1979,skyhawk", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1979, "model": "SKYHAWK"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1979,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1979, "model": "SKYLARK"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1979,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1979, "model": "RIVIERA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1979,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1979, "model": "REGAL"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1979,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1979, "model": "LESABRE"}}}

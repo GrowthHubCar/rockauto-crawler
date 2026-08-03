@@ -1,0 +1,80 @@
+{"node_type": "model", "href": "/en/catalog/ferrari,1985,mondial+8", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1985, "model": "MONDIAL 8"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1982,308+gts", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1982, "model": "308 GTS"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1982,308+gtb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1982, "model": "308 GTB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1985,328+gtb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1985, "model": "328 GTB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1985,328+gts", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1985, "model": "328 GTS"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1984,mondial+8", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1984, "model": "MONDIAL 8"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1983,mondial+8", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1983, "model": "MONDIAL 8"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1983,512+bb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1983, "model": "512 BB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1981,512+bb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1981, "model": "512 BB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1980,512+bb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1980, "model": "512 BB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1984,512+bb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1984, "model": "512 BB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1982,512+bb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1982, "model": "512 BB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1986,gto", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1986, "model": "GTO"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1987,gto", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1987, "model": "GTO"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1984,gto", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1984, "model": "GTO"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1985,gto", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1985, "model": "GTO"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1985,512+bb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1985, "model": "512 BB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1987,testarossa", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1987, "model": "TESTAROSSA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1989,testarossa", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1989, "model": "TESTAROSSA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1988,testarossa", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1988, "model": "TESTAROSSA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1989,348", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1989, "model": "348"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1986,328+gts", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1986, "model": "328 GTS"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1987,328+gts", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1987, "model": "328 GTS"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1986,328+gtb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1986, "model": "328 GTB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1987,328+gtb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1987, "model": "328 GTB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1988,328+gtb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1988, "model": "328 GTB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1989,328+gts", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1989, "model": "328 GTS"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1989,328+gtb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1989, "model": "328 GTB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1988,328+gts", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1988, "model": "328 GTS"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1989,mondial+t", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1989, "model": "MONDIAL T"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1986,testarossa", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1986, "model": "TESTAROSSA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1985,308+gts", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1985, "model": "308 GTS"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1985,308+gtb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1985, "model": "308 GTB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1985,testarossa", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1985, "model": "TESTAROSSA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1988,mondial+3.2", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1988, "model": "MONDIAL 3.2"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1987,mondial+3.2", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1987, "model": "MONDIAL 3.2"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1983,308+gts", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1983, "model": "308 GTS"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1983,308+gtb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1983, "model": "308 GTB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1984,308+gts", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1984, "model": "308 GTS"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1984,308+gtb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1984, "model": "308 GTB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1985,mondial", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1985, "model": "MONDIAL"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1982,308+gtbi", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1982, "model": "308 GTBI"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1986,mondial+3.2", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1986, "model": "MONDIAL 3.2"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1981,308+gtsi", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1981, "model": "308 GTSI"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1982,308+gtsi", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1982, "model": "308 GTSI"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1981,308+gtbi", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1981, "model": "308 GTBI"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1980,308+gts", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1980, "model": "308 GTS"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1980,308+gtb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1980, "model": "308 GTB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1984,mondial", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1984, "model": "MONDIAL"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1983,mondial", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1983, "model": "MONDIAL"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1982,mondial+8", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1982, "model": "MONDIAL 8"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1981,mondial+8", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1981, "model": "MONDIAL 8"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1980,mondial+8", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1980, "model": "MONDIAL 8"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1989,412", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1989, "model": "412"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1985,400i", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1985, "model": "400I"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1984,400i", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1984, "model": "400I"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1983,400i", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1983, "model": "400I"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1982,400i", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1982, "model": "400I"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1981,400+a", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1981, "model": "400 A"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1980,400+a", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1980, "model": "400 A"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1992,348", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1992, "model": "348"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1991,348", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1991, "model": "348"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1992,mondial+t", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1992, "model": "MONDIAL T"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1993,348", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1993, "model": "348"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1993,mondial+t", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1993, "model": "MONDIAL T"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1991,mondial+t", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1991, "model": "MONDIAL T"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1994,348", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1994, "model": "348"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1990,348", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1990, "model": "348"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1992,512+tr", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1992, "model": "512 TR"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1993,512+tr", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1993, "model": "512 TR"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1990,mondial+t", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1990, "model": "MONDIAL T"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1994,512+tr", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1994, "model": "512 TR"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1994,f355+gts", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1994, "model": "F355 GTS"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1991,f40", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1991, "model": "F40"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1992,f40", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1992, "model": "F40"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1994,f355+berlinetta", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1994, "model": "F355 BERLINETTA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1990,f40", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1990, "model": "F40"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1990,testarossa", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1990, "model": "TESTAROSSA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1991,testarossa", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1991, "model": "TESTAROSSA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1993,f40", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1993, "model": "F40"}}}

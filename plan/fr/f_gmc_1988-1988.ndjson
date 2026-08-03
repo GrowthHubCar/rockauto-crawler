@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/gmc,1988,v3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1988, "model": "V3500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1988,s15+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1988, "model": "S15 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1988,v2500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1988, "model": "V2500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1988,topkick", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1988, "model": "TOPKICK"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1988,v1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1988, "model": "V1500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1988,safari", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1988, "model": "SAFARI"}}}

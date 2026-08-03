@@ -1,0 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2018,trax", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "TRAX"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2018,tornado", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "TORNADO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2018,spark", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "SPARK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2018,traverse", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "TRAVERSE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2018,tahoe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "TAHOE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2018,silverado+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "SILVERADO 2500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2018,silverado+3500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "SILVERADO 3500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2018,sonic", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "SONIC"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2018,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2018,silverado+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "SILVERADO 1500"}}}

@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2026,venue", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "VENUE"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2026,santa+cruz", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "SANTA CRUZ"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2026,tucson", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "TUCSON"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2026,santa+fe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "SANTA FE"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2026,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "SONATA"}}}

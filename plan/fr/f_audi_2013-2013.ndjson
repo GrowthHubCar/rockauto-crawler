@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/audi,2013,tt", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2013, "model": "TT"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2013,s8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2013, "model": "S8"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2013,s5", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2013, "model": "S5"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2013,s6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2013, "model": "S6"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2013,s4", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2013, "model": "S4"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2013,s7", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2013, "model": "S7"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2013,rs5", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2013, "model": "RS5"}}}

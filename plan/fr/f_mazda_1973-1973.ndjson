@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/mazda,1973,b1600", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1973, "model": "B1600"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1973,rx-2", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1973, "model": "RX-2"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1973,rx-3", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1973, "model": "RX-3"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1973,618", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1973, "model": "618"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1973,1200", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1973, "model": "1200"}}}

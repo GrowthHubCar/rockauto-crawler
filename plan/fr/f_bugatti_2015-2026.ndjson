@@ -1,0 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/bugatti,2024,mistral", "payload": {"nodetype": "model", "ctx": {"make": "BUGATTI", "year": 2024, "model": "MISTRAL"}}}
+{"node_type": "model", "href": "/en/catalog/bugatti,2023,chiron", "payload": {"nodetype": "model", "ctx": {"make": "BUGATTI", "year": 2023, "model": "CHIRON"}}}
+{"node_type": "model", "href": "/en/catalog/bugatti,2015,veyron+16.4", "payload": {"nodetype": "model", "ctx": {"make": "BUGATTI", "year": 2015, "model": "VEYRON 16.4"}}}
+{"node_type": "model", "href": "/en/catalog/bugatti,2020,chiron", "payload": {"nodetype": "model", "ctx": {"make": "BUGATTI", "year": 2020, "model": "CHIRON"}}}
+{"node_type": "model", "href": "/en/catalog/bugatti,2018,chiron", "payload": {"nodetype": "model", "ctx": {"make": "BUGATTI", "year": 2018, "model": "CHIRON"}}}
+{"node_type": "model", "href": "/en/catalog/bugatti,2021,divo", "payload": {"nodetype": "model", "ctx": {"make": "BUGATTI", "year": 2021, "model": "DIVO"}}}
+{"node_type": "model", "href": "/en/catalog/bugatti,2020,divo", "payload": {"nodetype": "model", "ctx": {"make": "BUGATTI", "year": 2020, "model": "DIVO"}}}
+{"node_type": "model", "href": "/en/catalog/bugatti,2021,chiron", "payload": {"nodetype": "model", "ctx": {"make": "BUGATTI", "year": 2021, "model": "CHIRON"}}}
+{"node_type": "model", "href": "/en/catalog/bugatti,2022,divo", "payload": {"nodetype": "model", "ctx": {"make": "BUGATTI", "year": 2022, "model": "DIVO"}}}
+{"node_type": "model", "href": "/en/catalog/bugatti,2022,chiron", "payload": {"nodetype": "model", "ctx": {"make": "BUGATTI", "year": 2022, "model": "CHIRON"}}}

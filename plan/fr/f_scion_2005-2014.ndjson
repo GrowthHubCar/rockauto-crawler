@@ -1,0 +1,13 @@
+{"node_type": "model", "href": "/en/catalog/scion,2013,iq", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2013, "model": "IQ"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2012,iq", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2012, "model": "IQ"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2013,xb", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2013, "model": "XB"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2009,xb", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2009, "model": "XB"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2011,tc", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2011, "model": "TC"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2012,tc", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2012, "model": "TC"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2013,tc", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2013, "model": "TC"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2014,fr-s", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2014, "model": "FR-S"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2014,iq", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2014, "model": "IQ"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2014,xd", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2014, "model": "XD"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2012,xb", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2012, "model": "XB"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2014,xb", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2014, "model": "XB"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2014,tc", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2014, "model": "TC"}}}

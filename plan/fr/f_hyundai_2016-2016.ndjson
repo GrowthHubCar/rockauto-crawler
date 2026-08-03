@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2016,grand+i10", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "GRAND I10"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2016,tucson", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "TUCSON"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2016,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "SONATA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2016,genesis+coupe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "GENESIS COUPE"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2016,santa+fe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "SANTA FE"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2016,equus", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "EQUUS"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2016,genesis", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2016, "model": "GENESIS"}}}

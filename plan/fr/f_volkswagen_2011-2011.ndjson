@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2011,passat+cc", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "PASSAT CC"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2011,saveiro", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "SAVEIRO"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2011,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "TRANSPORTER"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2011,touareg", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "TOUAREG"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2011,tiguan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "TIGUAN"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2011,routan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "ROUTAN"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2011,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "JETTA"}}}

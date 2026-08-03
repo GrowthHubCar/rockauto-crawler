@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2005,van", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "VAN"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2005,touareg", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "TOUAREG"}}}

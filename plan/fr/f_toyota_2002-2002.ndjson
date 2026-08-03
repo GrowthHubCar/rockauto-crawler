@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2002,prius", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2002, "model": "PRIUS"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2002,rav4", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2002, "model": "RAV4"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2002,avalon", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2002, "model": "AVALON"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2002,celica", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2002, "model": "CELICA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2002,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2002, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2002,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2002, "model": "4RUNNER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2002,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2002, "model": "CAMRY"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2002,tundra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2002, "model": "TUNDRA"}}}

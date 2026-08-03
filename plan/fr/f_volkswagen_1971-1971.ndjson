@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,1971,safari", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1971, "model": "SAFARI"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1971,411", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1971, "model": "411"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1971,beetle", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1971, "model": "BEETLE"}}}

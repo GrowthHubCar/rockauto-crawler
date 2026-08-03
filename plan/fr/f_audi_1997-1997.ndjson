@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/audi,1997,s6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1997, "model": "S6"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1997,cabriolet", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1997, "model": "CABRIOLET"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1997,a8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1997, "model": "A8"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1997,a4", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1997, "model": "A4"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1997,a6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1997, "model": "A6"}}}

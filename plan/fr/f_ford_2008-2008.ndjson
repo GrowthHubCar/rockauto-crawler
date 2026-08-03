@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/ford,2008,transit", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2008, "model": "TRANSIT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2008,lobo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2008, "model": "LOBO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2008,focus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2008, "model": "FOCUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2008,f-550+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2008, "model": "F-550 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2008,taurus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2008, "model": "TAURUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2008,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2008, "model": "RANGER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2008,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2008, "model": "MUSTANG"}}}

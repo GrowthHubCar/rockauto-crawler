@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/volvo,1963,122", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1963, "model": "122"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,1963,544", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1963, "model": "544"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,1963,1800", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1963, "model": "1800"}}}

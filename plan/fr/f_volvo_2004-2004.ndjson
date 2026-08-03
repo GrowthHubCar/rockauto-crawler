@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/volvo,2004,xc70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2004, "model": "XC70"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2004,v70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2004, "model": "V70"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2004,v40", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2004, "model": "V40"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2004,s40", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2004, "model": "S40"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2004,xc90", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2004, "model": "XC90"}}}

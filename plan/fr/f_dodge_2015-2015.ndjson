@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/dodge,2015,attitude", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2015, "model": "ATTITUDE"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2015,vision", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2015, "model": "VISION"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2015,challenger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2015, "model": "CHALLENGER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2015,dart", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2015, "model": "DART"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2015,charger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2015, "model": "CHARGER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2015,durango", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2015, "model": "DURANGO"}}}
