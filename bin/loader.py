@@ -184,6 +184,13 @@ class Loader:
         # holds ~19 rows per distinct part (one per fitting vehicle); this collapses
         # the redundant re-work to a single fitment upsert on every repeat.
         self._part_done: set[str] = set()
+        # Buffered part_fitment upserts. One INSERT round-trip per row caps the loader
+        # at ~400-500 rows/s (measured); batching them into multi-row INSERTs removes
+        # that ceiling. Flushed at each chunk boundary, so a chunk still rolls back and
+        # replays row-by-row exactly as before. `_fit_immediate` forces unbuffered
+        # writes during that per-row replay, preserving failure attribution.
+        self._fit_buf: list[tuple] = []
+        self._fit_immediate = False
 
     # -- discard identity caches after a rollback --------------------------
     def _drop_caches(self) -> None:
@@ -200,6 +207,8 @@ class Loader:
         self._category.clear()
         self._part.clear()
         self._part_done.clear()
+        # a rollback discarded whatever these rows referenced — never replay them
+        self._fit_buf.clear()
 
     # -- rollback that tolerates the server having killed our transaction ---
     def _rollback_to(self, name: str) -> None:
@@ -223,7 +232,7 @@ class Loader:
 
     # -- apply a staged table with CHUNK-level savepoints ------------------
     def _load_chunked(self, rows: list, load_one, label: str, counts: dict,
-                      ok_key: str, fail_key: str, chunk: int = 1000) -> list[int]:
+                      ok_key: str, fail_key: str, chunk: int = 4000) -> list[int]:
         """Apply load_one to every row, taking one SAVEPOINT per `chunk` rows instead of
         one per row.
 
@@ -240,31 +249,87 @@ class Loader:
             try:
                 for row in block:
                     load_one(row)
+                # inside the try: a failing flush must trigger the same rollback +
+                # per-row replay as a failing row, never escape as a hard error
+                self._flush_fitment()
             except TransactionLost:
                 raise
             except Exception:  # noqa: BLE001 — replay this block with per-row isolation
                 self._rollback_to("sp_chunk")
                 self._drop_caches()          # the rollback undid rows these point at
-                for row in block:
-                    self.cur.execute("SAVEPOINT sp_row")
-                    try:
-                        load_one(row)
-                        self.cur.execute("RELEASE SAVEPOINT sp_row")
-                        counts[ok_key] += 1
-                        done.append(row["raw_id"])
-                    except TransactionLost:
-                        raise
-                    except Exception as exc:  # noqa: BLE001
-                        self._rollback_to("sp_row")
-                        self._drop_caches()
-                        counts[fail_key] += 1
-                        print(f"[loader] {label} raw_id={row.get('raw_id')} failed: {exc}",
-                              file=sys.stderr)
+                self._fit_immediate = True   # unbuffered, so failures stay row-isolated
+                try:
+                    self._replay_rows(block, load_one, counts, ok_key, fail_key, label, done)
+                finally:
+                    self._fit_immediate = False
             else:
                 self.cur.execute("RELEASE SAVEPOINT sp_chunk")
                 counts[ok_key] += len(block)
                 done.extend(r["raw_id"] for r in block)
         return done
+
+    def _replay_rows(self, block: list, load_one, counts: dict, ok_key: str,
+                     fail_key: str, label: str, done: list[int]) -> None:
+        """Re-apply a failed chunk one row at a time, isolating the bad row(s).
+
+        Identical behaviour to the original inline replay: every good row in the
+        chunk still lands, and only the genuinely bad row is counted as failed.
+        """
+        for row in block:
+            self.cur.execute("SAVEPOINT sp_row")
+            try:
+                load_one(row)
+                self.cur.execute("RELEASE SAVEPOINT sp_row")
+                counts[ok_key] += 1
+                done.append(row["raw_id"])
+            except TransactionLost:
+                raise
+            except Exception as exc:  # noqa: BLE001
+                self._rollback_to("sp_row")
+                self._drop_caches()
+                counts[fail_key] += 1
+                print(f"[loader] {label} raw_id={row.get('raw_id')} failed: {exc}",
+                      file=sys.stderr)
+
+    # -- resolve every sku in one query instead of one per cache miss -------
+    def _warm_part_cache(self, rows: list, chunk: int = 2000) -> None:
+        """Bulk-load sku -> part_id for the skus this batch references.
+
+        load_fitment falls back to a single-row SELECT on every cache miss; across a
+        batch that is one round-trip per distinct sku. Resolving them in bulk turns
+        thousands of round-trips into a handful. Purely a cache warm — any sku still
+        missing afterwards takes the original per-row path (and its error).
+        """
+        want = {r.get("sku") for r in rows if r.get("sku")} - set(self._part)
+        skus = [s for s in want if s]
+        for i in range(0, len(skus), chunk):
+            block = skus[i:i + chunk]
+            ph = ",".join(["%s"] * len(block))
+            self.cur.execute(f"SELECT sku, id FROM parts WHERE sku IN ({ph})", block)
+            for r in self.cur.fetchall():
+                self._part[r["sku"]] = r["id"]
+
+    # -- buffered part_fitment writes --------------------------------------
+    def _flush_fitment(self, max_rows: int = 4000) -> None:
+        """Write buffered fitment rows as multi-row INSERTs.
+
+        Semantically identical to the per-row upsert it replaces: `uq_fitment`
+        (part_id, vehicle_id) makes it idempotent and `note` is still the only
+        updated column, so a re-ingest never clobbers enriched data. Capped at
+        `max_rows` per statement to stay well inside max_allowed_packet.
+        """
+        if not self._fit_buf:
+            return
+        buf, self._fit_buf = self._fit_buf, []
+        for i in range(0, len(buf), max_rows):
+            block = buf[i:i + max_rows]
+            sql = ("INSERT INTO `part_fitment` (`part_id`,`vehicle_id`,`note`) VALUES "
+                   + ",".join(["(%s,%s,%s)"] * len(block))
+                   + " ON DUPLICATE KEY UPDATE `note`=VALUES(`note`)")
+            flat: list = []
+            for r in block:
+                flat.extend(r)
+            self.cur.execute(sql, flat)
 
     # -- generic idempotent upsert that returns the row id ------------------
     def _upsert_id(self, table: str, vals: dict, update_cols: list[str] | None = None,
@@ -463,12 +528,12 @@ class Loader:
         sku = sku_for(row.get("brand_name"), row.get("part_number"))
         if sku in self._part_done:
             if vehicle_id is not None:
-                self._upsert_id(
-                    "part_fitment",
-                    {"part_id": self._part[sku], "vehicle_id": vehicle_id,
-                     "note": _t(row.get("fitment_note"), 255)},
-                    update_cols=["note"],
-                )
+                # hottest path in the loader (~19 of 20 staged rows land here) —
+                # buffered, flushed at the chunk boundary. See _flush_fitment.
+                self._fit_buf.append((self._part[sku], vehicle_id,
+                                      _t(row.get("fitment_note"), 255)))
+                if self._fit_immediate:
+                    self._flush_fitment()
             return
 
         # 2. brand + category + part
@@ -616,11 +681,12 @@ class Loader:
                              row.get("trim"))
         vid = self.vehicle_id(mk, mo, year, eng, row.get("trim"), vslug)
 
-        self._upsert_id(
-            "part_fitment",
-            {"part_id": pid, "vehicle_id": vid, "note": _t(row.get("note"), 255)},
-            update_cols=["note"],
-        )
+        # Buffered (flushed at the chunk boundary) — see _flush_fitment. During the
+        # per-row replay of a failed chunk we write immediately so a bad row is still
+        # isolated to its own savepoint.
+        self._fit_buf.append((pid, vid, _t(row.get("note"), 255)))
+        if self._fit_immediate:
+            self._flush_fitment()
 
     # -- drain one batch (does NOT commit; caller owns the transaction) -----
     def process_batch(self, batch_id: str, limit: int | None = None) -> dict:
@@ -647,6 +713,7 @@ class Loader:
             [batch_id])
         frows = self.cur.fetchall()
         counts["fitment_seen"] = len(frows)
+        self._warm_part_cache(frows)
         fdone = self._load_chunked(frows, self.load_fitment, "fitment", counts,
                                    "fitment_ok", "fitment_failed")
         if fdone:
