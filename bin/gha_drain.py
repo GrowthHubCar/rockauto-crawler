@@ -180,6 +180,22 @@ def db_counts() -> str:
         return f"(db unavailable: {type(exc).__name__})"
 
 
+def sweep_orphans() -> None:
+    """Delete .gha_dl directories whose run is already drained.
+
+    The delete happens after _mark(), so a kill in that window strands the download
+    forever. Measured: one orphan held 14 GB on a volume with 5.3 GB free — the same
+    volume as MariaDB's datadir."""
+    dl = os.path.join(ROOT, ".gha_dl")
+    if not os.path.isdir(dl):
+        return
+    done = {t.partition("#")[2] for t in _state()}
+    for name in os.listdir(dl):
+        if name in done:
+            shutil.rmtree(os.path.join(dl, name), ignore_errors=True)
+            log(f"swept orphan download {name} (already drained)")
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--once", action="store_true")
@@ -196,6 +212,7 @@ def main() -> int:
     open(LOCK, "w").write(str(os.getpid()))
     try:
         while True:
+            sweep_orphans()
             done = _state()
             todo = [r for r in finished_runs() if r not in done]
             if todo:
