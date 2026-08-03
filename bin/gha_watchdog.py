@@ -81,7 +81,39 @@ def poke(repo: str, token: str | None) -> bool:
     return True
 
 
+def drain_alive() -> bool:
+    """True if a gha_drain.py process is running. Checked by name because the lock file
+    survives a hard kill and would read as 'alive' forever."""
+    rc, out = _run(["powershell", "-NoProfile", "-Command",
+                    "(Get-CimInstance Win32_Process -Filter \"Name='python.exe'\" | "
+                    "Where-Object { $_.CommandLine -like '*gha_drain*' }).Count"])
+    for ln in reversed(out.strip().splitlines()):
+        t = ln.strip()
+        if t.isdigit():
+            return int(t) > 0
+    return True          # unknown -> assume alive; never spawn a second loader on a guess
+
+
+def ensure_drain() -> None:
+    """The drain is what actually moves crawled rows into the DB. It died once mid-run
+    (staging held 1.95M rows while the DB sat flat), and nothing noticed until a human
+    looked. A dead drain is invisible: the crawl keeps producing artifacts and everything
+    looks healthy."""
+    if drain_alive():
+        return
+    lock = os.path.join(ROOT, ".gha_drain.lock")
+    try:
+        os.remove(lock)          # stale: the holder is gone
+    except OSError:
+        pass
+    subprocess.Popen([sys.executable, "bin/gha_drain.py", "--interval", "300"],
+                     cwd=ROOT, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+                     creationflags=getattr(subprocess, "CREATE_NO_WINDOW", 0))
+    log("drain was DEAD — restarted")
+
+
 def tick() -> None:
+    ensure_drain()
     for user, repo in SHARDS:
         tok = token_for(user)
         if not tok:

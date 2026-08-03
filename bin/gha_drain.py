@@ -120,10 +120,17 @@ def drain(tagged: str, keep: bool = False) -> bool:
             rows += sum(1 for ln in fh if ln.strip())
     log(f"run {tagged}: {len(files)} artifacts, {rows:,} rows — staging")
 
-    rc, out = _sh([sys.executable, "bin/ingest_artifacts.py"] + files)
-    if rc != 0:
-        log(f"run {tagged}: STAGING FAILED rc={rc} :: {out.strip()[-300:]}")
-        return False                      # keep the directory; retry next pass
+    # CHUNKED, because the whole list does not fit in a command line. A 462-artifact run
+    # produced ~55,000 characters of paths against Windows' 32,768 limit, and the drain
+    # died mid-staging — silently, leaving 1.95M rows in staging while the DB sat flat and
+    # the crawl kept happily producing more. (Same trap as `cat out/*` blowing ARG_MAX.)
+    CHUNK = 40
+    for i in range(0, len(files), CHUNK):
+        part = files[i:i + CHUNK]
+        rc, out = _sh([sys.executable, "bin/ingest_artifacts.py"] + part)
+        if rc != 0:
+            log(f"run {tagged}: STAGING FAILED at {i}/{len(files)} rc={rc} :: {out.strip()[-260:]}")
+            return False                  # keep the directory; retry next pass
 
     rc, out = _sh([sys.executable, "bin/loader.py"])
     if rc != 0:
