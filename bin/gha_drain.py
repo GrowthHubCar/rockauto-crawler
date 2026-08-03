@@ -106,17 +106,23 @@ def finished_runs() -> list[str]:
 
 
 MIN_FREE_GB = 6.0
+WORK = os.environ.get("RA_WORK_DIR", r"D:\rockauto_work\gha_dl")
 
 
 def free_gb() -> float:
-    return shutil.disk_usage(ROOT).free / 1e9
+    """Free space on the volume DOWNLOADS land on, which is no longer ROOT."""
+    os.makedirs(WORK, exist_ok=True)
+    return shutil.disk_usage(WORK).free / 1e9
 
 
 def drain(tagged: str, keep: bool = False) -> bool:
     # "<owner>/<repo>#<run_id>" — run ids are globally unique, but carrying the repo is
     # what lets `gh run download` find the run at all.
     repo, _, run_id = tagged.partition("#")
-    d = os.path.join(ROOT, ".gha_dl", run_id)
+    # Downloads go to D:, NOT the volume MariaDB's datadir is on. C: hit 94% while a
+    # single run's artifacts held 12 GB; filling it takes the DATABASE down, not just the
+    # crawl. WORK_DIR is overridable so this is not hardcoded to one machine's layout.
+    d = os.path.join(WORK, run_id)
     shutil.rmtree(d, ignore_errors=True)
     os.makedirs(d, exist_ok=True)
 

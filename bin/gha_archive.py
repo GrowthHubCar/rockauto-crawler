@@ -32,7 +32,7 @@ import sys
 import time
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OUT = os.path.join(ROOT, "backups", "gha")
+OUT = os.environ.get("RA_ARCHIVE_DIR", r"D:\rockauto_work\backups_gha")
 STATE = os.path.join(ROOT, ".gha_archived.json")
 LOG = os.path.join(ROOT, "logs", "gha_archive.log")
 WORKFLOW = "crawl.yml"
@@ -83,9 +83,9 @@ def token_for(user: str) -> str | None:
 def archive_run(repo: str, run_id: str, token: str) -> bool:
     tag = f"{repo}#{run_id}"
     dest = os.path.join(OUT, f"{repo.split('/')[0]}-{run_id}.ndjson.gz")
-    tmpd = os.path.join(ROOT, ".gha_arc", run_id)
-    if shutil.disk_usage(ROOT).free / 1e9 < MIN_FREE_GB:
-        log(f"{tag}: SKIPPED — {shutil.disk_usage(ROOT).free/1e9:.1f} GB free")
+    tmpd = os.path.join(os.environ.get("RA_ARC_TMP", r"D:\rockauto_work\gha_arc"), run_id)
+    if shutil.disk_usage(os.path.dirname(OUT) or OUT).free / 1e9 < MIN_FREE_GB:
+        log(f"{tag}: SKIPPED — {shutil.disk_usage(os.path.dirname(OUT) or OUT).free/1e9:.1f} GB free")
         return False
     shutil.rmtree(tmpd, ignore_errors=True)
     os.makedirs(tmpd, exist_ok=True)
