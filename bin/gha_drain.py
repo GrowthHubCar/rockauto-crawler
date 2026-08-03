@@ -96,6 +96,13 @@ def finished_runs() -> list[str]:
     return ids
 
 
+MIN_FREE_GB = 6.0
+
+
+def free_gb() -> float:
+    return shutil.disk_usage(ROOT).free / 1e9
+
+
 def drain(tagged: str, keep: bool = False) -> bool:
     # "<owner>/<repo>#<run_id>" — run ids are globally unique, but carrying the repo is
     # what lets `gh run download` find the run at all.
@@ -106,6 +113,15 @@ def drain(tagged: str, keep: bool = False) -> bool:
 
     # Only the crawl output. The visited deltas ride in their own rockauto-visited-*
     # artifacts, which this would otherwise download and then ignore.
+    # DISK GUARD. Artifacts land on the same volume as MariaDB's datadir. The laptop sat
+    # at 98% (7.9 GB free) with a single run's download holding 12 GB, and filling that
+    # volume takes the DATABASE down, not just the crawl. Skip the download rather than
+    # risk it; the run stays un-drained and retries once space frees.
+    if free_gb() < MIN_FREE_GB:
+        log(f"run {tagged}: SKIPPED — only {free_gb():.1f} GB free (need {MIN_FREE_GB})")
+        shutil.rmtree(d, ignore_errors=True)
+        return False
+
     rc, out = _sh(["gh", "run", "download", run_id, "--repo", repo,
                    "--pattern", "rockauto-shard-*", "-D", d])
     files = glob.glob(os.path.join(d, "**", "*.ndjson"), recursive=True)
@@ -133,11 +149,13 @@ def drain(tagged: str, keep: bool = False) -> bool:
         rc, out = _sh([sys.executable, "bin/ingest_artifacts.py"] + part)
         if rc != 0:
             log(f"run {tagged}: STAGING FAILED at {i}/{len(files)} rc={rc} :: {out.strip()[-260:]}")
-            return False                  # keep the directory; retry next pass
+            shutil.rmtree(d, ignore_errors=True)   # reclaim; a retry re-downloads anyway
+            return False
 
     rc, out = _sh([sys.executable, "bin/loader.py"])
     if rc != 0:
         log(f"run {tagged}: LOADER FAILED rc={rc} :: {out.strip()[-300:]}")
+        shutil.rmtree(d, ignore_errors=True)
         return False
     log(f"run {tagged}: loaded :: {out.strip().splitlines()[-1][:160] if out.strip() else 'ok'}")
 
@@ -184,7 +202,7 @@ def main() -> int:
                 log(f"pending runs: {len(todo)} -> {todo[:5]}")
             for run_id in todo:
                 drain(run_id, keep=a.keep)
-            log(f"DB: {db_counts()}")
+            log(f"DB: {db_counts()}  free={free_gb():.1f}GB")
             if a.once:
                 return 0
             time.sleep(a.interval)
