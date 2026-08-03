@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/toyota,1979,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1979, "model": "LAND CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1976,mark+ii", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1976, "model": "MARK II"}}}

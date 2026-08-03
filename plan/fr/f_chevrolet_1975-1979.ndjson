@@ -1,0 +1,50 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1978,bel+air", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "BEL AIR"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1975,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "P30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1976,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "P30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1977,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "P30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1978,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "P30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1976,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "IMPALA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1977,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "IMPALA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1978,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "IMPALA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1975,p20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "P20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1977,p20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "P20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1978,p20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "P20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1979,p20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "P20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1976,vega", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "VEGA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1977,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1978,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1975,nova", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "NOVA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1979,nova", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "NOVA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1976,monte+carlo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "MONTE CARLO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1977,monte+carlo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "MONTE CARLO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1976,k10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "K10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1976,p10", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "P10"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1977,p10", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "P10"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1978,p10", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "P10"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1979,p10", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "P10"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1979,monza", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "MONZA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1977,k20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "K20 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1975,laguna", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "LAGUNA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1977,k30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "K30 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1978,k30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "K30 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1979,k30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "K30 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1977,k10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "K10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1978,k10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "K10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1975,g30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "G30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1976,g30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "G30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1979,g30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "G30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1975,g20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "G20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1978,g20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "G20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1977,g10", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "G10"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1978,el+camino", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "EL CAMINO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1975,caprice", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "CAPRICE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1977,caprice", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "CAPRICE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1977,camaro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1977, "model": "CAMARO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1976,c30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1976, "model": "C30 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1978,c30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1978, "model": "C30 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1979,c30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "C30 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1979,c20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "C20 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1975,c20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "C20 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1979,c10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "C10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1975,c10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1975, "model": "C10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1979,c10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1979, "model": "C10 PICKUP"}}}

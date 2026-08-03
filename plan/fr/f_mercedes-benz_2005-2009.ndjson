@@ -1,0 +1,11 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2005,s600", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2005, "model": "S600"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2008,s600", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2008, "model": "S600"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2005,e320", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2005, "model": "E320"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2005,cl500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2005, "model": "CL500"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2007,sl600", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2007, "model": "SL600"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2006,g500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2006, "model": "G500"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2009,g500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2009, "model": "G500"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2008,g55+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2008, "model": "G55 AMG"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2009,gl320", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2009, "model": "GL320"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2009,gl500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2009, "model": "GL500"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2008,r350", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2008, "model": "R350"}}}

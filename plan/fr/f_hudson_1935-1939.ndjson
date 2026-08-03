@@ -1,0 +1,20 @@
+{"node_type": "model", "href": "/en/catalog/hudson,1936,deluxe+eight", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1936, "model": "DELUXE EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/hudson,1937,deluxe+eight", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1937, "model": "DELUXE EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/hudson,1938,deluxe+eight", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1938, "model": "DELUXE EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/hudson,1935,terraplane", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1935, "model": "TERRAPLANE"}}}
+{"node_type": "model", "href": "/en/catalog/hudson,1935,six", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1935, "model": "SIX"}}}
+{"node_type": "model", "href": "/en/catalog/hudson,1935,eight", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1935, "model": "EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/hudson,1936,custom+six", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1936, "model": "CUSTOM SIX"}}}
+{"node_type": "model", "href": "/en/catalog/hudson,1937,custom+six", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1937, "model": "CUSTOM SIX"}}}
+{"node_type": "model", "href": "/en/catalog/hudson,1938,custom+six", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1938, "model": "CUSTOM SIX"}}}
+{"node_type": "model", "href": "/en/catalog/hudson,1936,custom+eight", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1936, "model": "CUSTOM EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/hudson,1937,custom+eight", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1937, "model": "CUSTOM EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/hudson,1938,custom+eight", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1938, "model": "CUSTOM EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/hudson,1938,custom+series+85", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1938, "model": "CUSTOM SERIES 85"}}}
+{"node_type": "model", "href": "/en/catalog/hudson,1939,series+92", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1939, "model": "SERIES 92"}}}
+{"node_type": "model", "href": "/en/catalog/hudson,1939,pacemaker+series+91", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1939, "model": "PACEMAKER SERIES 91"}}}
+{"node_type": "model", "href": "/en/catalog/hudson,1939,deluxe+series+112", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1939, "model": "DELUXE SERIES 112"}}}
+{"node_type": "model", "href": "/en/catalog/hudson,1939,country+club+series+95", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1939, "model": "COUNTRY CLUB SERIES 95"}}}
+{"node_type": "model", "href": "/en/catalog/hudson,1939,country+club+series+93", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1939, "model": "COUNTRY CLUB SERIES 93"}}}
+{"node_type": "model", "href": "/en/catalog/hudson,1939,country+club+eight+series+95/97", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1939, "model": "COUNTRY CLUB EIGHT SERIES 95/97"}}}
+{"node_type": "model", "href": "/en/catalog/hudson,1939,big+boy+series+96", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1939, "model": "BIG BOY SERIES 96"}}}

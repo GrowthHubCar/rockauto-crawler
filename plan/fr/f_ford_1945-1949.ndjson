@@ -1,0 +1,44 @@
+{"node_type": "model", "href": "/en/catalog/ford,1946,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1946, "model": "SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1947,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1947, "model": "SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1945,3/4+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1945, "model": "3/4 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1946,3/4+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1946, "model": "3/4 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1947,3/4+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1947, "model": "3/4 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1945,1/2+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1945, "model": "1/2 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1946,1/2+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1946, "model": "1/2 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1947,1/2+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1947, "model": "1/2 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1945,1+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1945, "model": "1 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1946,1+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1946, "model": "1 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1947,1+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1947, "model": "1 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1946,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1946, "model": "DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1947,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1947, "model": "DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1948,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1948, "model": "DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1949,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1949, "model": "DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1945,1-1/2+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1945, "model": "1-1/2 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1946,1-1/2+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1946, "model": "1-1/2 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1945,gpw", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1945, "model": "GPW"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1946,anglia", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1946, "model": "ANGLIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1947,anglia", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1947, "model": "ANGLIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1948,anglia", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1948, "model": "ANGLIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1949,anglia", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1949, "model": "ANGLIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1948,taunus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1948, "model": "TAUNUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1949,f3", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1949, "model": "F3"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1948,f2", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1948, "model": "F2"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1949,f2", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1949, "model": "F2"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1949,f1", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1949, "model": "F1"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1946,prefect", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1946, "model": "PREFECT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1947,prefect", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1947, "model": "PREFECT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1948,prefect", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1948, "model": "PREFECT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1949,prefect", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1949, "model": "PREFECT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1949,ford", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1949, "model": "FORD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1948,f7", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1948, "model": "F7"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1948,f6", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1948, "model": "F6"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1948,f59", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1948, "model": "F59"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1948,f5", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1948, "model": "F5"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1949,f5", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1949, "model": "F5"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1948,f+series", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1948, "model": "F SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1949,f+series", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1949, "model": "F SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1948,c6", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1948, "model": "C6"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1948,c5", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1948, "model": "C5"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1948,b6", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1948, "model": "B6"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1948,b5", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1948, "model": "B5"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1949,custom", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1949, "model": "CUSTOM"}}}

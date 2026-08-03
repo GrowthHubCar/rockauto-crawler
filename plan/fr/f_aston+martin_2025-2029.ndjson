@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/aston+martin,2025,vantage", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2025, "model": "VANTAGE"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,2026,vantage", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2026, "model": "VANTAGE"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,2025,vanquish", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2025, "model": "VANQUISH"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,2026,vanquish", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2026, "model": "VANQUISH"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,2025,dbx707", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2025, "model": "DBX707"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,2026,dbx707", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2026, "model": "DBX707"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,2025,db12", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2025, "model": "DB12"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,2026,db12", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2026, "model": "DB12"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,2026,valhalla", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2026, "model": "VALHALLA"}}}

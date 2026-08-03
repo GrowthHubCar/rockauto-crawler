@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2025,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2025, "model": "SONATA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2026,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "ELANTRA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2025,nexo", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2025, "model": "NEXO"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2025,creta", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2025, "model": "CRETA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2026,creta", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "CRETA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2025,hb20", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2025, "model": "HB20"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2026,creta+grand", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "CRETA GRAND"}}}

@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/bentley,2016,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2016, "model": "CONTINENTAL"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2017,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2017, "model": "CONTINENTAL"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2018,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2018, "model": "CONTINENTAL"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2019,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2019, "model": "CONTINENTAL"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2018,mulsanne", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2018, "model": "MULSANNE"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2019,mulsanne", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2019, "model": "MULSANNE"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2016,flying+spur", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2016, "model": "FLYING SPUR"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2017,flying+spur", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2017, "model": "FLYING SPUR"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2018,flying+spur", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2018, "model": "FLYING SPUR"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2019,flying+spur", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2019, "model": "FLYING SPUR"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2017,bentayga", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2017, "model": "BENTAYGA"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2019,bentayga", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2019, "model": "BENTAYGA"}}}

@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/dodge,2004,durango", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2004, "model": "DURANGO"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2000,ramcharger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2000, "model": "RAMCHARGER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2004,stratus", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2004, "model": "STRATUS"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2000,ram+4000", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2000, "model": "RAM 4000"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2001,ram+3500+van", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2001, "model": "RAM 3500 VAN"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2004,sprinter+2500", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2004, "model": "SPRINTER 2500"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2003,intrepid", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2003, "model": "INTREPID"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2000,caravan", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2000, "model": "CARAVAN"}}}

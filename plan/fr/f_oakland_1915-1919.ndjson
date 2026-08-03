@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/oakland,1915,model+50", "payload": {"nodetype": "model", "ctx": {"make": "OAKLAND", "year": 1915, "model": "MODEL 50"}}}
+{"node_type": "model", "href": "/en/catalog/oakland,1916,model+50", "payload": {"nodetype": "model", "ctx": {"make": "OAKLAND", "year": 1916, "model": "MODEL 50"}}}
+{"node_type": "model", "href": "/en/catalog/oakland,1917,model+50", "payload": {"nodetype": "model", "ctx": {"make": "OAKLAND", "year": 1917, "model": "MODEL 50"}}}
+{"node_type": "model", "href": "/en/catalog/oakland,1915,model+49", "payload": {"nodetype": "model", "ctx": {"make": "OAKLAND", "year": 1915, "model": "MODEL 49"}}}
+{"node_type": "model", "href": "/en/catalog/oakland,1915,model+38+truck", "payload": {"nodetype": "model", "ctx": {"make": "OAKLAND", "year": 1915, "model": "MODEL 38 TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/oakland,1916,model+38+truck", "payload": {"nodetype": "model", "ctx": {"make": "OAKLAND", "year": 1916, "model": "MODEL 38 TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/oakland,1915,model+37", "payload": {"nodetype": "model", "ctx": {"make": "OAKLAND", "year": 1915, "model": "MODEL 37"}}}
+{"node_type": "model", "href": "/en/catalog/oakland,1916,model+37", "payload": {"nodetype": "model", "ctx": {"make": "OAKLAND", "year": 1916, "model": "MODEL 37"}}}
+{"node_type": "model", "href": "/en/catalog/oakland,1916,model+32", "payload": {"nodetype": "model", "ctx": {"make": "OAKLAND", "year": 1916, "model": "MODEL 32"}}}
+{"node_type": "model", "href": "/en/catalog/oakland,1917,model+34", "payload": {"nodetype": "model", "ctx": {"make": "OAKLAND", "year": 1917, "model": "MODEL 34"}}}
+{"node_type": "model", "href": "/en/catalog/oakland,1918,model+34-b", "payload": {"nodetype": "model", "ctx": {"make": "OAKLAND", "year": 1918, "model": "MODEL 34-B"}}}
+{"node_type": "model", "href": "/en/catalog/oakland,1919,model+34-b", "payload": {"nodetype": "model", "ctx": {"make": "OAKLAND", "year": 1919, "model": "MODEL 34-B"}}}

@@ -1,0 +1,23 @@
+{"node_type": "model", "href": "/en/catalog/gmc,1989,topkick", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "TOPKICK"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1986,p3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1986, "model": "P3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1988,p3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1988, "model": "P3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1985,s15+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1985, "model": "S15 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1988,v3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1988, "model": "V3500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1989,v3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "V3500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1985,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1985, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1989,s15+jimmy", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "S15 JIMMY"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1989,k3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "K3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1988,k2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1988, "model": "K2500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1986,p2500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1986, "model": "P2500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1989,v2500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "V2500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1987,v1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1987, "model": "V1500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1989,v1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "V1500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1989,r3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "R3500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1986,g2500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1986, "model": "G2500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1988,g2500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1988, "model": "G2500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1985,forward", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1985, "model": "FORWARD"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1988,r2500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1988, "model": "R2500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1989,r2500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "R2500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1987,g3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1987, "model": "G3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1989,r2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "R2500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1988,r1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1988, "model": "R1500 SUBURBAN"}}}

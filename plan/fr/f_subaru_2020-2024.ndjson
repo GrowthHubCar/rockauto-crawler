@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/subaru,2021,crosstrek", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2021, "model": "CROSSTREK"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,2023,crosstrek", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2023, "model": "CROSSTREK"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,2021,xv", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2021, "model": "XV"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,2023,brz", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2023, "model": "BRZ"}}}

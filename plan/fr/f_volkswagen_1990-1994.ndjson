@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,1993,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1993, "model": "TRANSPORTER"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1993,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1993, "model": "PASSAT"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1994,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1994, "model": "PASSAT"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1991,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1991, "model": "JETTA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1992,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1992, "model": "JETTA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1993,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1993, "model": "JETTA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1994,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1994, "model": "JETTA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1990,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1990, "model": "GOLF"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1991,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1991, "model": "GOLF"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1994,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1994, "model": "GOLF"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1990,fox", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1990, "model": "FOX"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1992,combi", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1992, "model": "COMBI"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1992,cabriolet", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1992, "model": "CABRIOLET"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1993,cabriolet", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1993, "model": "CABRIOLET"}}}

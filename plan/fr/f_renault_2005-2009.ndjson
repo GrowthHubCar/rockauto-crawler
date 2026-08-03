@@ -1,0 +1,18 @@
+{"node_type": "model", "href": "/en/catalog/renault,2007,megane", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2007, "model": "MEGANE"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2008,megane", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2008, "model": "MEGANE"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2009,megane", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2009, "model": "MEGANE"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2005,clio", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2005, "model": "CLIO"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2006,clio", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2006, "model": "CLIO"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2008,clio", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2008, "model": "CLIO"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2009,clio", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2009, "model": "CLIO"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2006,laguna", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2006, "model": "LAGUNA"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2005,kangoo", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2005, "model": "KANGOO"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2006,kangoo", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2006, "model": "KANGOO"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2008,kangoo", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2008, "model": "KANGOO"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2009,kangoo", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2009, "model": "KANGOO"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2006,scenic+ii", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2006, "model": "SCENIC II"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2008,scenic+ii", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2008, "model": "SCENIC II"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2007,trafic", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2007, "model": "TRAFIC"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2008,euro+clio", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2008, "model": "EURO CLIO"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2009,safrane", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2009, "model": "SAFRANE"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2009,koleos", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2009, "model": "KOLEOS"}}}

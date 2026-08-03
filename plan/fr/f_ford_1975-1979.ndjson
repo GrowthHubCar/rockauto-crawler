@@ -1,0 +1,23 @@
+{"node_type": "model", "href": "/en/catalog/ford,1979,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1979, "model": "THUNDERBIRD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1975,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1975, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1976,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1976, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1976,ranchero", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1976, "model": "RANCHERO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1979,ranchero", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1979, "model": "RANCHERO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1975,p-500", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1975, "model": "P-500"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1977,p-500", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1977, "model": "P-500"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1977,ltd", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1977, "model": "LTD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1977,f-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1977, "model": "F-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1978,f-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1978, "model": "F-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1976,f-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1976, "model": "F-100"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1979,f-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1979, "model": "F-100"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1976,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1976, "model": "F-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1978,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1978, "model": "F-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1976,custom", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1976, "model": "CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1977,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1977, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1976,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1976, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1978,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1978, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1977,bronco", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1977, "model": "BRONCO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1975,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1975, "model": "E-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1975,gran+torino", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1975, "model": "GRAN TORINO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1977,ltd+ii", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1977, "model": "LTD II"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1976,elite", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1976, "model": "ELITE"}}}

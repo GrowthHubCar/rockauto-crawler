@@ -1,0 +1,91 @@
+{"node_type": "model", "href": "/en/catalog/ford,1995,taurus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "TAURUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,taurus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "TAURUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "RANGER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "RANGER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1997,lobo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1997, "model": "LOBO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,lobo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "LOBO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,lobo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "LOBO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,windstar", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "WINDSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,windstar", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "WINDSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,sable", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "SABLE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,f53", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "F53"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,f53", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "F53"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,f-450+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "P-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,f-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "F-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,f-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "F-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,f-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "F-100"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,probe", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "PROBE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,probe", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "PROBE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,mystique", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "MYSTIQUE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,mystique", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "MYSTIQUE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,mystique", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "MYSTIQUE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "L SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "L SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "L SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,f-800", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "F-800"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,f-800", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "F-800"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,f-800", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "F-800"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,f-800", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "F-800"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "F-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "F-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "F-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "F-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,fiesta", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "FIESTA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,f59", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "F59"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,grand+marquis", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "GRAND MARQUIS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,grand+marquis", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "GRAND MARQUIS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,grand+marquis", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "GRAND MARQUIS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,f-350+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,f-250+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "F-250 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "EXPLORER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "EXPLORER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "EXPLORER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,expedition", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "EXPEDITION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,e-450", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "E-450"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,e-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "E-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,e-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "E-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,f-700", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "F-700"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1997,f-700", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1997, "model": "F-700"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,f-700", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "F-700"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,f+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "F SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,f+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "F SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,c+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "C SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,bronco", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "BRONCO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,econoline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "ECONOLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "E-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "E-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "E-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "CROWN VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "CROWN VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "CROWN VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "CROWN VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,escort", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "ESCORT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,escort", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "ESCORT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,escort", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "ESCORT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,contour", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "CONTOUR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,contour", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "CONTOUR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,contour", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "CONTOUR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,club+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "CLUB WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,club+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "CLUB WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,club+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "CLUB WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,b+series+bus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "B SERIES BUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,b+series+bus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "B SERIES BUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,b+series+bus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "B SERIES BUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,aspire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "ASPIRE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,aspire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "ASPIRE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,aerostar", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "AEROSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,econoline+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "ECONOLINE SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,econoline+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "ECONOLINE SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,econoline+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "ECONOLINE SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,a+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "A SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,a+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "A SERIES TRUCK"}}}

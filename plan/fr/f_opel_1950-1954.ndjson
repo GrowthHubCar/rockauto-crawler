@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/opel,1950,olympia", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1950, "model": "OLYMPIA"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1951,olympia", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1951, "model": "OLYMPIA"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1952,olympia", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1952, "model": "OLYMPIA"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1950,kapitan", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1950, "model": "KAPITAN"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1951,kapitan", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1951, "model": "KAPITAN"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1952,kapitan", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1952, "model": "KAPITAN"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1953,kapitan", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1953, "model": "KAPITAN"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1954,kapitan", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1954, "model": "KAPITAN"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1953,olympia+rekord", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1953, "model": "OLYMPIA REKORD"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1954,olympia+rekord", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1954, "model": "OLYMPIA REKORD"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1953,caravan", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1953, "model": "CARAVAN"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1954,caravan", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1954, "model": "CARAVAN"}}}

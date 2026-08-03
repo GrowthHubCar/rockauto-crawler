@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/wartburg,1965,1000", "payload": {"nodetype": "model", "ctx": {"make": "WARTBURG", "year": 1965, "model": "1000"}}}
-{"node_type": "model", "href": "/en/catalog/wartburg,1964,1000", "payload": {"nodetype": "model", "ctx": {"make": "WARTBURG", "year": 1964, "model": "1000"}}}
-{"node_type": "model", "href": "/en/catalog/wartburg,1963,1000", "payload": {"nodetype": "model", "ctx": {"make": "WARTBURG", "year": 1963, "model": "1000"}}}
-{"node_type": "model", "href": "/en/catalog/wartburg,1966,1000", "payload": {"nodetype": "model", "ctx": {"make": "WARTBURG", "year": 1966, "model": "1000"}}}
-{"node_type": "model", "href": "/en/catalog/wartburg,1961,wartburg", "payload": {"nodetype": "model", "ctx": {"make": "WARTBURG", "year": 1961, "model": "WARTBURG"}}}
-{"node_type": "model", "href": "/en/catalog/wartburg,1962,wartburg", "payload": {"nodetype": "model", "ctx": {"make": "WARTBURG", "year": 1962, "model": "WARTBURG"}}}
-{"node_type": "model", "href": "/en/catalog/wartburg,1960,wartburg", "payload": {"nodetype": "model", "ctx": {"make": "WARTBURG", "year": 1960, "model": "WARTBURG"}}}

@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/lancia,1965,flaminia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1965, "model": "FLAMINIA"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1967,flaminia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1967, "model": "FLAMINIA"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1969,2000", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1969, "model": "2000"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1965,flavia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1965, "model": "FLAVIA"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1967,flavia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1967, "model": "FLAVIA"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1969,flavia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1969, "model": "FLAVIA"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1965,fulvia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1965, "model": "FULVIA"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1967,fulvia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1967, "model": "FULVIA"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1969,fulvia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1969, "model": "FULVIA"}}}

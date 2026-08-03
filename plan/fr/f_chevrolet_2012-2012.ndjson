@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2012,orlando", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "ORLANDO"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2012,suburban+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "SUBURBAN 1500"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2012,tornado", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "TORNADO"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2012,sonic", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "SONIC"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2012,matiz", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "MATIZ"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2012,spark", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "SPARK"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2012,silverado+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "SILVERADO 2500"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2012,tahoe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "TAHOE"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2012,silverado+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "SILVERADO 1500"}}}

@@ -1,0 +1,82 @@
+{"node_type": "model", "href": "/en/catalog/ford,1950,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1950, "model": "DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1951,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1951, "model": "DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1950,anglia", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1950, "model": "ANGLIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1951,anglia", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1951, "model": "ANGLIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1952,anglia", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1952, "model": "ANGLIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1953,anglia", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "ANGLIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1954,anglia", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1954, "model": "ANGLIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1951,taunus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1951, "model": "TAUNUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1952,taunus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1952, "model": "TAUNUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1953,taunus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "TAUNUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1954,taunus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1954, "model": "TAUNUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1950,f4", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1950, "model": "F4"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1952,f4", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1952, "model": "F4"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1950,f3", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1950, "model": "F3"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1951,f3", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1951, "model": "F3"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1952,f3", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1952, "model": "F3"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1950,f2", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1950, "model": "F2"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1951,f2", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1951, "model": "F2"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1952,f2", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1952, "model": "F2"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1950,f1", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1950, "model": "F1"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1951,f1", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1951, "model": "F1"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1952,f1", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1952, "model": "F1"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1950,prefect", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1950, "model": "PREFECT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1951,prefect", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1951, "model": "PREFECT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1952,prefect", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1952, "model": "PREFECT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1953,prefect", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "PREFECT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1954,prefect", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1954, "model": "PREFECT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1954,zephyr", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1954, "model": "ZEPHYR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1951,victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1951, "model": "VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1953,victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1954,victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1954, "model": "VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1954,skyliner", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1954, "model": "SKYLINER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1950,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1950, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1951,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1951, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1952,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1952, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1953,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1954,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1954, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1952,sunliner", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1952, "model": "SUNLINER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1953,sunliner", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "SUNLINER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1954,sunliner", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1954, "model": "SUNLINER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1952,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1952, "model": "P-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1953,f-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "F-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1954,f-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1954, "model": "F-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1953,f-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "F-100"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1954,f-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1954, "model": "F-100"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1953,mainline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "MAINLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1954,mainline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1954, "model": "MAINLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1953,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "F-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1954,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1954, "model": "F-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1950,f+series", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1950, "model": "F SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1951,f+series", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1951, "model": "F SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1952,f+series", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1952, "model": "F SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1953,f+series", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "F SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1954,f+series", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1954, "model": "F SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1950,custom", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1950, "model": "CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1951,custom", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1951, "model": "CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1952,custom", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1952, "model": "CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1950,crestline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1950, "model": "CRESTLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1951,crestline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1951, "model": "CRESTLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1952,crestline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1952, "model": "CRESTLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1953,crestline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "CRESTLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1954,crestline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1954, "model": "CRESTLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1950,country+squire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1950, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1951,country+squire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1951, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1952,country+squire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1952, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1953,country+squire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1950,country+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1950, "model": "COUNTRY SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1951,country+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1951, "model": "COUNTRY SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1952,country+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1952, "model": "COUNTRY SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1953,country+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "COUNTRY SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1954,country+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1954, "model": "COUNTRY SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1951,consul", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1951, "model": "CONSUL"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1952,consul", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1952, "model": "CONSUL"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1953,consul", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "CONSUL"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1954,consul", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1954, "model": "CONSUL"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1952,customline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1952, "model": "CUSTOMLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1953,customline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "CUSTOMLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1954,customline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1954, "model": "CUSTOMLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1952,courier+sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1952, "model": "COURIER SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1953,courier+sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "COURIER SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1954,courier+sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1954, "model": "COURIER SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1953,club", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1953, "model": "CLUB"}}}

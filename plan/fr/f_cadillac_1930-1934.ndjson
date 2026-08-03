@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,1930,452", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1930, "model": "452"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1930,353", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1930, "model": "353"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1931,452+a", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1931, "model": "452 A"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1931,370+a", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1931, "model": "370 A"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1931,355+a", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1931, "model": "355 A"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1932,452+b", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1932, "model": "452 B"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1932,355+b", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1932, "model": "355 B"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1933,452+c", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1933, "model": "452 C"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1933,370+c", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1933, "model": "370 C"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1933,355+c", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1933, "model": "355 C"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1934,452+d", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1934, "model": "452 D"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1934,355+d", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1934, "model": "355 D"}}}

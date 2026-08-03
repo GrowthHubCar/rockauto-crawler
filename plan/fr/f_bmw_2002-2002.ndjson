@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2002,z3", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2002, "model": "Z3"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2002,z8", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2002, "model": "Z8"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2002,745li", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2002, "model": "745LI"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2002,x5", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2002, "model": "X5"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2002,530i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2002, "model": "530I"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2002,325xi", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2002, "model": "325XI"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2002,m3", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2002, "model": "M3"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2002,540i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2002, "model": "540I"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2002,325i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2002, "model": "325I"}}}

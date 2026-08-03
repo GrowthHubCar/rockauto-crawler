@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,2009,allure", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2009, "model": "ALLURE"}}}
-{"node_type": "model", "href": "/en/catalog/buick,2009,lucerne", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2009, "model": "LUCERNE"}}}
-{"node_type": "model", "href": "/en/catalog/buick,2009,lacrosse", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2009, "model": "LACROSSE"}}}
-{"node_type": "model", "href": "/en/catalog/buick,2009,enclave", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2009, "model": "ENCLAVE"}}}

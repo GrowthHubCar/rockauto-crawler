@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/volvo,2005,s60", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2005, "model": "S60"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2008,c30", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2008, "model": "C30"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,2009,c30", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2009, "model": "C30"}}}

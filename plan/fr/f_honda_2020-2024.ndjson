@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/honda,2022,civic", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2022, "model": "CIVIC"}}}
+{"node_type": "model", "href": "/en/catalog/honda,2021,accord", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2021, "model": "ACCORD"}}}
+{"node_type": "model", "href": "/en/catalog/honda,2020,city", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2020, "model": "CITY"}}}
+{"node_type": "model", "href": "/en/catalog/honda,2022,city", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2022, "model": "CITY"}}}
+{"node_type": "model", "href": "/en/catalog/honda,2023,city", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2023, "model": "CITY"}}}
+{"node_type": "model", "href": "/en/catalog/honda,2020,br-v", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2020, "model": "BR-V"}}}
+{"node_type": "model", "href": "/en/catalog/honda,2021,br-v", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2021, "model": "BR-V"}}}
+{"node_type": "model", "href": "/en/catalog/honda,2022,br-v", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2022, "model": "BR-V"}}}

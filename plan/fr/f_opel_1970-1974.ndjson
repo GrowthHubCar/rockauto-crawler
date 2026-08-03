@@ -1,0 +1,11 @@
+{"node_type": "model", "href": "/en/catalog/opel,1971,manta", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1971, "model": "MANTA"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1972,1900", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1972, "model": "1900"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1973,1900", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1973, "model": "1900"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1974,1900", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1974, "model": "1900"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1970,kadett", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1970, "model": "KADETT"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1971,kadett", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1971, "model": "KADETT"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1972,kadett", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1972, "model": "KADETT"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1970,rallye", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1970, "model": "RALLYE"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1970,gt", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1970, "model": "GT"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1971,gt", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1971, "model": "GT"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1971,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1971, "model": "DELUXE"}}}

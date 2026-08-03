@@ -1,0 +1,77 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2020,z4", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2020, "model": "Z4"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2022,z4", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "Z4"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2021,840i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "840I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,840i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "840I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2020,740i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2020, "model": "740I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,740i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "740I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2021,530i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "530I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2023,m5", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2023, "model": "M5"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2020,540i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2020, "model": "540I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2023,x5", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2023, "model": "X5"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,330i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "330I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2021,x3", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "X3"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,760i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "760I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2021,320i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "320I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2022,550i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "550I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2020,x6", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2020, "model": "X6"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2022,x6", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "X6"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,x6", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "X6"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2020,x1", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2020, "model": "X1"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2021,x1", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "X1"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2023,x1", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2023, "model": "X1"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,x1", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "X1"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2021,m235i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "M235I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2022,m235i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "M235I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2023,m235i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2023, "model": "M235I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2021,m135i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "M135I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2022,m135i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "M135I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2023,m135i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2023, "model": "M135I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,m135i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "M135I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2021,i3", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "I3"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2021,x4", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "X4"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2022,x4", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "X4"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2023,x4", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2023, "model": "X4"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2020,m4", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2020, "model": "M4"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2022,m4", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "M4"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,m4", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "M4"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2020,228i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2020, "model": "228I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,228i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "228I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2022,m760i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "M760I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2023,m2", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2023, "model": "M2"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,m2", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "M2"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2020,m760li", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2020, "model": "M760LI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2021,440i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "440I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2022,440i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "440I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2020,x7", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2020, "model": "X7"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2022,x7", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "X7"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,x7", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "X7"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2020,m850i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2020, "model": "M850I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2021,m850i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "M850I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2022,m850i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "M850I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2023,m850i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2023, "model": "M850I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,m850i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "M850I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2020,m550i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2020, "model": "M550I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2022,x2", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "X2"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2023,x2", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2023, "model": "X2"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2020,m8", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2020, "model": "M8"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2021,m8", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "M8"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2023,m8", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2023, "model": "M8"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,m8", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "M8"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,m440i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "M440I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2022,745le+xdrive", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "745LE XDRIVE"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2021,alpina+xb7", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "ALPINA XB7"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,alpina+xb7", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "ALPINA XB7"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,xm", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "XM"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2022,ix", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "IX"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2023,alpina+b8", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2023, "model": "ALPINA B8"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,alpina+b8", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "ALPINA B8"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2022,m550i+xdrive", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "M550I XDRIVE"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,i7", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "I7"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2023,i4", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2023, "model": "I4"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2021,120i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "120I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2021,118i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "118I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,118i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "118I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,750e", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "750E"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,530e", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "530E"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2022,128ti", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "128TI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,128ti", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "128TI"}}}

@@ -1,0 +1,17 @@
+{"node_type": "model", "href": "/en/catalog/renault,2010,megane", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2010, "model": "MEGANE"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2011,kangoo", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2011, "model": "KANGOO"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2013,kangoo", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2013, "model": "KANGOO"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2010,trafic", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2010, "model": "TRAFIC"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2011,trafic", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2011, "model": "TRAFIC"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2010,safrane", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2010, "model": "SAFRANE"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2011,safrane", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2011, "model": "SAFRANE"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2013,safrane", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2013, "model": "SAFRANE"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2013,koleos", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2013, "model": "KOLEOS"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2011,stepway", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2011, "model": "STEPWAY"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2013,stepway", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2013, "model": "STEPWAY"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2010,sandero", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2010, "model": "SANDERO"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2011,sandero", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2011, "model": "SANDERO"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2013,sandero", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2013, "model": "SANDERO"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2013,scala", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2013, "model": "SCALA"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2012,fluence", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2012, "model": "FLUENCE"}}}
+{"node_type": "model", "href": "/en/catalog/renault,2013,fluence", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 2013, "model": "FLUENCE"}}}

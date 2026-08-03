@@ -1,0 +1,17 @@
+{"node_type": "model", "href": "/en/catalog/fargo,1950,fn1+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1950, "model": "FN1 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1951,fo2+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1951, "model": "FO2 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1952,fo2+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1952, "model": "FO2 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1951,fo1+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1951, "model": "FO1 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1952,fo1+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1952, "model": "FO1 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1951,fo1+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1951, "model": "FO1 PANEL DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1952,fo1+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1952, "model": "FO1 PANEL DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1953,fp2+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1953, "model": "FP2 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1953,fp1+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1953, "model": "FP1 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1953,fp1+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1953, "model": "FP1 PANEL DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1950,fn1+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1950, "model": "FN1 PANEL DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1951,f3b+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1951, "model": "F3B PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1952,f3b+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1952, "model": "F3B PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1953,f4b+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1953, "model": "F4B PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1954,fc1c+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1954, "model": "FC1C PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1954,fc1b+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1954, "model": "FC1B PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1954,fc1b+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1954, "model": "FC1B PANEL DELIVERY"}}}

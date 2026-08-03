@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/audi,1998,a8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1998, "model": "A8"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1998,a3", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1998, "model": "A3"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1999,a3", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1999, "model": "A3"}}}

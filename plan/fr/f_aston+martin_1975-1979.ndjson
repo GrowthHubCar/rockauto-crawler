@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/aston+martin,1977,lagonda", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1977, "model": "LAGONDA"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,1978,lagonda", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1978, "model": "LAGONDA"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,1979,lagonda", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1979, "model": "LAGONDA"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,1975,v-8", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1975, "model": "V-8"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,1977,v-8", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1977, "model": "V-8"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,1978,v-8", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1978, "model": "V-8"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,1979,v-8", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1979, "model": "V-8"}}}

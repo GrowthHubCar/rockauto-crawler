@@ -1,0 +1,38 @@
+{"node_type": "model", "href": "/en/catalog/dodge,1970,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1970, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1970,coronet", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1970, "model": "CORONET"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1973,coronet", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1973, "model": "CORONET"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1970,dart", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1970, "model": "DART"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1971,dart", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1971, "model": "DART"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1972,dart", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1972, "model": "DART"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1973,dart", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1973, "model": "DART"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1971,challenger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1971, "model": "CHALLENGER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1972,challenger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1972, "model": "CHALLENGER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1970,w300+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1970, "model": "W300 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1971,w300+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1971, "model": "W300 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1973,w300+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1973, "model": "W300 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1974,w300+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1974, "model": "W300 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1970,w200+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1970, "model": "W200 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1971,w200+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1971, "model": "W200 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1973,w200+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1973, "model": "W200 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1974,w200+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1974, "model": "W200 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1972,w100+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1972, "model": "W100 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1973,w100+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1973, "model": "W100 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1971,d300+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1971, "model": "D300 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1973,d300+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1973, "model": "D300 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1971,d200+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1971, "model": "D200 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1974,d200+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1974, "model": "D200 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1973,d100+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1973, "model": "D100 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1970,monaco", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1970, "model": "MONACO"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1971,monaco", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1971, "model": "MONACO"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1973,polara", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1973, "model": "POLARA"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1972,b300", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1972, "model": "B300"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1971,b200", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1971, "model": "B200"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1972,b200", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1972, "model": "B200"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1973,b200", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1973, "model": "B200"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1971,b100", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1971, "model": "B100"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1973,b100", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1973, "model": "B100"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1972,r300", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1972, "model": "R300"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1973,r300", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1973, "model": "R300"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1972,mb300", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1972, "model": "MB300"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1974,m350", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1974, "model": "M350"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1974,rm300", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1974, "model": "RM300"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1994,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1994, "model": "SKYLARK"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1994,park+avenue", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1994, "model": "PARK AVENUE"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1994,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1994, "model": "REGAL"}}}

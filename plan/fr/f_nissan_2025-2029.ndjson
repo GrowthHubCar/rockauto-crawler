@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/nissan,2026,pathfinder", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2026, "model": "PATHFINDER"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2026,x-trail", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2026, "model": "X-TRAIL"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2026,z", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2026, "model": "Z"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2025,kicks", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2025, "model": "KICKS"}}}

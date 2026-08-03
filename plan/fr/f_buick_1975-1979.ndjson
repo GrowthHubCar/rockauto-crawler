@@ -1,0 +1,15 @@
+{"node_type": "model", "href": "/en/catalog/buick,1977,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1977, "model": "SKYLARK"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1979,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1979, "model": "SKYLARK"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1975,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1975, "model": "CENTURY"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1977,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1977, "model": "CENTURY"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1979,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1979, "model": "CENTURY"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1979,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1979, "model": "RIVIERA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1977,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1977, "model": "REGAL"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1978,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1978, "model": "REGAL"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1979,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1979, "model": "REGAL"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1978,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1978, "model": "LESABRE"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1978,electra", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1978, "model": "ELECTRA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1979,electra", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1979, "model": "ELECTRA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1975,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1975, "model": "ESTATE WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1978,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1978, "model": "ESTATE WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1979,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1979, "model": "ESTATE WAGON"}}}

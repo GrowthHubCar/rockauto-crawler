@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/land+rover,2012,range+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2012, "model": "RANGE ROVER"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,2012,lr4", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2012, "model": "LR4"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,2012,lr2", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2012, "model": "LR2"}}}

@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/acura,2026,adx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2026, "model": "ADX"}}}
-{"node_type": "model", "href": "/en/catalog/acura,2026,rdx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2026, "model": "RDX"}}}
-{"node_type": "model", "href": "/en/catalog/acura,2026,mdx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2026, "model": "MDX"}}}
-{"node_type": "model", "href": "/en/catalog/acura,2026,integra", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2026, "model": "INTEGRA"}}}

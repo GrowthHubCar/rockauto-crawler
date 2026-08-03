@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1977,skyhawk", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1977, "model": "SKYHAWK"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1977,opel+by+isuzu", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1977, "model": "OPEL BY ISUZU"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1977,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1977, "model": "SKYLARK"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1977,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1977, "model": "RIVIERA"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1977,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1977, "model": "REGAL"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1977,electra", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1977, "model": "ELECTRA"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1977,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1977, "model": "LESABRE"}}}

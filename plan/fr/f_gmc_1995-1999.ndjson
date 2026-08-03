@@ -1,0 +1,24 @@
+{"node_type": "model", "href": "/en/catalog/gmc,1996,yukon", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1996, "model": "YUKON"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1998,yukon", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1998, "model": "YUKON"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1999,yukon", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1999, "model": "YUKON"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1995,topkick", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1995, "model": "TOPKICK"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1999,topkick", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1999, "model": "TOPKICK"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1997,savana+3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1997, "model": "SAVANA 3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1995,k3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1995, "model": "K3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1998,k2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1998, "model": "K2500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1998,t+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1998, "model": "T SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1999,t+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1999, "model": "T SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1999,k2500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1999, "model": "K2500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1997,k1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1997, "model": "K1500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1999,k1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1999, "model": "K1500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1995,k1500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1995, "model": "K1500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1998,k1500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1998, "model": "K1500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1995,c2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1995, "model": "C2500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1997,c2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1997, "model": "C2500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1998,c2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1998, "model": "C2500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1997,c1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1997, "model": "C1500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1998,savana+1500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1998, "model": "SAVANA 1500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1997,c3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1997, "model": "C3500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1995,c1500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1995, "model": "C1500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1997,c2500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1997, "model": "C2500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1999,c2500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1999, "model": "C2500 SUBURBAN"}}}

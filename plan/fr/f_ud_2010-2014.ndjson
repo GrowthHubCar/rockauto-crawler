@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ud,2013,2600", "payload": {"nodetype": "model", "ctx": {"make": "UD", "year": 2013, "model": "2600"}}}
+{"node_type": "model", "href": "/en/catalog/ud,2013,2300", "payload": {"nodetype": "model", "ctx": {"make": "UD", "year": 2013, "model": "2300"}}}
+{"node_type": "model", "href": "/en/catalog/ud,2013,2000", "payload": {"nodetype": "model", "ctx": {"make": "UD", "year": 2013, "model": "2000"}}}
+{"node_type": "model", "href": "/en/catalog/ud,2013,1800", "payload": {"nodetype": "model", "ctx": {"make": "UD", "year": 2013, "model": "1800"}}}

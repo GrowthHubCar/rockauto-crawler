@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/checker,1969,taxicab", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1969, "model": "TAXICAB"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1965,aerobus", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1965, "model": "AEROBUS"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1966,aerobus", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1966, "model": "AEROBUS"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1967,aerobus", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1967, "model": "AEROBUS"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1968,aerobus", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1968, "model": "AEROBUS"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1969,aerobus", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1969, "model": "AEROBUS"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1965,marathon", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1965, "model": "MARATHON"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1966,marathon", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1966, "model": "MARATHON"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1967,marathon", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1967, "model": "MARATHON"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1968,marathon", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1968, "model": "MARATHON"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1969,marathon", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1969, "model": "MARATHON"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1969,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1969, "model": "DELUXE"}}}

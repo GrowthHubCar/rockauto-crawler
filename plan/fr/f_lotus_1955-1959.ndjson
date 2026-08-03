@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/lotus,1957,seven", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1957, "model": "SEVEN"}}}
+{"node_type": "model", "href": "/en/catalog/lotus,1958,seven", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1958, "model": "SEVEN"}}}
+{"node_type": "model", "href": "/en/catalog/lotus,1959,seven", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1959, "model": "SEVEN"}}}
+{"node_type": "model", "href": "/en/catalog/lotus,1957,eleven", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1957, "model": "ELEVEN"}}}
+{"node_type": "model", "href": "/en/catalog/lotus,1958,super+seven", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1958, "model": "SUPER SEVEN"}}}
+{"node_type": "model", "href": "/en/catalog/lotus,1959,super+seven", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1959, "model": "SUPER SEVEN"}}}
+{"node_type": "model", "href": "/en/catalog/lotus,1958,elite", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1958, "model": "ELITE"}}}
+{"node_type": "model", "href": "/en/catalog/lotus,1959,elite", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1959, "model": "ELITE"}}}

@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/vam,1975,classic", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1975, "model": "CLASSIC"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1975,gremlin", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1975, "model": "GREMLIN"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1976,gremlin", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1976, "model": "GREMLIN"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1978,gremlin", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1978, "model": "GREMLIN"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1979,gremlin", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1979, "model": "GREMLIN"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1975,american", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1975, "model": "AMERICAN"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1977,american", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1977, "model": "AMERICAN"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1978,american", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1978, "model": "AMERICAN"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1979,american", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1979, "model": "AMERICAN"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1976,pacer", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1976, "model": "PACER"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1977,pacer", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1977, "model": "PACER"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1979,pacer", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1979, "model": "PACER"}}}

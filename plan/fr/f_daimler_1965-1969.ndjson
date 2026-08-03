@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/daimler,1965,sp250", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1965, "model": "SP250"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1966,sp250", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1966, "model": "SP250"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1965,sovereign", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1965, "model": "SOVEREIGN"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1966,sovereign", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1966, "model": "SOVEREIGN"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1965,250", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1965, "model": "250"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1966,250", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1966, "model": "250"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1969,250", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1969, "model": "250"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1965,majestic+major", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1965, "model": "MAJESTIC MAJOR"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1966,majestic+major", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1966, "model": "MAJESTIC MAJOR"}}}

@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/simca,1965,5", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1965, "model": "5"}}}
+{"node_type": "model", "href": "/en/catalog/simca,1965,1000", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1965, "model": "1000"}}}
+{"node_type": "model", "href": "/en/catalog/simca,1965,1000s", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1965, "model": "1000S"}}}
+{"node_type": "model", "href": "/en/catalog/simca,1969,1118", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1969, "model": "1118"}}}

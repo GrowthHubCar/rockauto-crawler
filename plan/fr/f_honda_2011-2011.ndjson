@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/honda,2011,city", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2011, "model": "CITY"}}}
-{"node_type": "model", "href": "/en/catalog/honda,2011,civic", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2011, "model": "CIVIC"}}}
-{"node_type": "model", "href": "/en/catalog/honda,2011,accord", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2011, "model": "ACCORD"}}}
-{"node_type": "model", "href": "/en/catalog/honda,2011,ridgeline", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2011, "model": "RIDGELINE"}}}

@@ -1,0 +1,11 @@
+{"node_type": "model", "href": "/en/catalog/buick,1973,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1973, "model": "CENTURY"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1972,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1972, "model": "RIVIERA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1974,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1974, "model": "REGAL"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1973,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1973, "model": "LESABRE"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1974,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1974, "model": "LESABRE"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1970,sportwagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1970, "model": "SPORTWAGON"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1971,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1971, "model": "ESTATE WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1972,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1972, "model": "ESTATE WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1971,centurion", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1971, "model": "CENTURION"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1973,centurion", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1973, "model": "CENTURION"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1970,gs+455", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1970, "model": "GS 455"}}}

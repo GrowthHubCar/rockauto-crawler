@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1982,320i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1982, "model": "320I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1984,733i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1984, "model": "733I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1984,633csi", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1984, "model": "633CSI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1984,533i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1984, "model": "533I"}}}

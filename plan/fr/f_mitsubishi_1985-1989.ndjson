@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1987,mighty+max", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1987, "model": "MIGHTY MAX"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1989,mighty+max", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1989, "model": "MIGHTY MAX"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1985,cordia", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1985, "model": "CORDIA"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1986,cordia", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1986, "model": "CORDIA"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1988,cordia", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1988, "model": "CORDIA"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1985,mirage", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1985, "model": "MIRAGE"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1986,mirage", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1986, "model": "MIRAGE"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1988,mirage", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1988, "model": "MIRAGE"}}}

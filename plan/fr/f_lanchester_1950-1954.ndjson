@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/lanchester,1950,ten", "payload": {"nodetype": "model", "ctx": {"make": "LANCHESTER", "year": 1950, "model": "TEN"}}}
+{"node_type": "model", "href": "/en/catalog/lanchester,1951,leda", "payload": {"nodetype": "model", "ctx": {"make": "LANCHESTER", "year": 1951, "model": "LEDA"}}}
+{"node_type": "model", "href": "/en/catalog/lanchester,1952,leda", "payload": {"nodetype": "model", "ctx": {"make": "LANCHESTER", "year": 1952, "model": "LEDA"}}}
+{"node_type": "model", "href": "/en/catalog/lanchester,1953,leda", "payload": {"nodetype": "model", "ctx": {"make": "LANCHESTER", "year": 1953, "model": "LEDA"}}}
+{"node_type": "model", "href": "/en/catalog/lanchester,1954,leda", "payload": {"nodetype": "model", "ctx": {"make": "LANCHESTER", "year": 1954, "model": "LEDA"}}}

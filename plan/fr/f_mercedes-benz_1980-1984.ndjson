@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1983,300", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1983, "model": "300"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1984,300", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1984, "model": "300"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1983,300td", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1983, "model": "300TD"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1983,240d", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1983, "model": "240D"}}}

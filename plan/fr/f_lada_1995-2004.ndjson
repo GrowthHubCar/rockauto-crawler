@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lada,1995,samara", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1995, "model": "SAMARA"}}}
-{"node_type": "model", "href": "/en/catalog/lada,1995,niva", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1995, "model": "NIVA"}}}
-{"node_type": "model", "href": "/en/catalog/lada,1996,samara", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1996, "model": "SAMARA"}}}
-{"node_type": "model", "href": "/en/catalog/lada,1995,samara+sagona", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1995, "model": "SAMARA SAGONA"}}}
-{"node_type": "model", "href": "/en/catalog/lada,1997,samara", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1997, "model": "SAMARA"}}}
-{"node_type": "model", "href": "/en/catalog/lada,1997,niva", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1997, "model": "NIVA"}}}
-{"node_type": "model", "href": "/en/catalog/lada,1996,niva", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1996, "model": "NIVA"}}}
-{"node_type": "model", "href": "/en/catalog/lada,1997,samara+sagona", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1997, "model": "SAMARA SAGONA"}}}
-{"node_type": "model", "href": "/en/catalog/lada,1996,samara+sagona", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1996, "model": "SAMARA SAGONA"}}}

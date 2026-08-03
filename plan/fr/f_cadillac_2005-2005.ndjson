@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/cadillac,2005,sts", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2005, "model": "STS"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,2005,srx", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2005, "model": "SRX"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,2005,cts", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2005, "model": "CTS"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,2005,escalade", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2005, "model": "ESCALADE"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,2005,deville", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2005, "model": "DEVILLE"}}}

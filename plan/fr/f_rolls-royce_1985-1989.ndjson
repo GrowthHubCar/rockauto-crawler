@@ -1,0 +1,18 @@
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1985,corniche", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1985, "model": "CORNICHE"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1985,camargue", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1985, "model": "CAMARGUE"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1986,camargue", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1986, "model": "CAMARGUE"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1987,camargue", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1987, "model": "CAMARGUE"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1985,silver+spur", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1985, "model": "SILVER SPUR"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1986,silver+spur", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1986, "model": "SILVER SPUR"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1987,silver+spur", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1987, "model": "SILVER SPUR"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1988,silver+spur", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1988, "model": "SILVER SPUR"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1989,silver+spur", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1989, "model": "SILVER SPUR"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1985,silver+spirit", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1985, "model": "SILVER SPIRIT"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1986,silver+spirit", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1986, "model": "SILVER SPIRIT"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1987,silver+spirit", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1987, "model": "SILVER SPIRIT"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1988,silver+spirit", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1988, "model": "SILVER SPIRIT"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1989,silver+spirit", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1989, "model": "SILVER SPIRIT"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1986,corniche+ii", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1986, "model": "CORNICHE II"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1987,corniche+ii", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1987, "model": "CORNICHE II"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1988,corniche+ii", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1988, "model": "CORNICHE II"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1989,corniche+ii", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1989, "model": "CORNICHE II"}}}

@@ -1,0 +1,22 @@
+{"node_type": "model", "href": "/en/catalog/ford,1940,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1940, "model": "SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1941,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1941, "model": "SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1942,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1942, "model": "SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1943,3/4+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1943, "model": "3/4 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1944,3/4+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1944, "model": "3/4 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1940,1/2+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1940, "model": "1/2 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1941,1/2+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1941, "model": "1/2 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1942,1/2+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1942, "model": "1/2 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1943,1/2+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1943, "model": "1/2 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1944,1/2+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1944, "model": "1/2 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1941,1+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1941, "model": "1 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1942,1+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1942, "model": "1 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1943,1+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1943, "model": "1 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1944,1+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1944, "model": "1 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1940,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1940, "model": "DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1944,1-1/2+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1944, "model": "1-1/2 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1941,model+11+a", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1941, "model": "MODEL 11 A"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1941,jeep", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1941, "model": "JEEP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1942,model+21a", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1942, "model": "MODEL 21A"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1942,gpw", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1942, "model": "GPW"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1943,gpw", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1943, "model": "GPW"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1944,gpw", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1944, "model": "GPW"}}}

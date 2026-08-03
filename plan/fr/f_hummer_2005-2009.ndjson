@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/hummer,2008,h3", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 2008, "model": "H3"}}}
+{"node_type": "model", "href": "/en/catalog/hummer,2006,h2", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 2006, "model": "H2"}}}
+{"node_type": "model", "href": "/en/catalog/hummer,2008,h2", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 2008, "model": "H2"}}}

@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/borgward,1960,isabella", "payload": {"nodetype": "model", "ctx": {"make": "BORGWARD", "year": 1960, "model": "ISABELLA"}}}
-{"node_type": "model", "href": "/en/catalog/borgward,1961,isabella", "payload": {"nodetype": "model", "ctx": {"make": "BORGWARD", "year": 1961, "model": "ISABELLA"}}}
-{"node_type": "model", "href": "/en/catalog/borgward,1960,goliath+1100", "payload": {"nodetype": "model", "ctx": {"make": "BORGWARD", "year": 1960, "model": "GOLIATH 1100"}}}
-{"node_type": "model", "href": "/en/catalog/borgward,1961,lloyd+arabella", "payload": {"nodetype": "model", "ctx": {"make": "BORGWARD", "year": 1961, "model": "LLOYD ARABELLA"}}}
-{"node_type": "model", "href": "/en/catalog/borgward,1960,lloyd+arabella", "payload": {"nodetype": "model", "ctx": {"make": "BORGWARD", "year": 1960, "model": "LLOYD ARABELLA"}}}
-{"node_type": "model", "href": "/en/catalog/borgward,1960,lloyd+alexander", "payload": {"nodetype": "model", "ctx": {"make": "BORGWARD", "year": 1960, "model": "LLOYD ALEXANDER"}}}
-{"node_type": "model", "href": "/en/catalog/borgward,1961,lloyd+alexander", "payload": {"nodetype": "model", "ctx": {"make": "BORGWARD", "year": 1961, "model": "LLOYD ALEXANDER"}}}
-{"node_type": "model", "href": "/en/catalog/borgward,1961,hansa+1100", "payload": {"nodetype": "model", "ctx": {"make": "BORGWARD", "year": 1961, "model": "HANSA 1100"}}}
-{"node_type": "model", "href": "/en/catalog/borgward,1961,goliath+1100", "payload": {"nodetype": "model", "ctx": {"make": "BORGWARD", "year": 1961, "model": "GOLIATH 1100"}}}

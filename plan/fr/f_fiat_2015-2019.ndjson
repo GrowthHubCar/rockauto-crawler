@@ -1,0 +1,16 @@
+{"node_type": "model", "href": "/en/catalog/fiat,2015,palio", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2015, "model": "PALIO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2016,palio", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2016, "model": "PALIO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2018,palio", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2018, "model": "PALIO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2019,palio", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2019, "model": "PALIO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2015,uno", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2015, "model": "UNO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2016,uno", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2016, "model": "UNO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2017,uno", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2017, "model": "UNO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2018,uno", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2018, "model": "UNO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2019,uno", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2019, "model": "UNO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2015,ducato", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2015, "model": "DUCATO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2016,ducato", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2016, "model": "DUCATO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2018,ducato", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2018, "model": "DUCATO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2017,500l", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2017, "model": "500L"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2017,mobi", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2017, "model": "MOBI"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2018,mobi", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2018, "model": "MOBI"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2019,mobi", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2019, "model": "MOBI"}}}

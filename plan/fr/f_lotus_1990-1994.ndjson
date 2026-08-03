@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/lotus,1990,esprit", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1990, "model": "ESPRIT"}}}
+{"node_type": "model", "href": "/en/catalog/lotus,1994,esprit", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1994, "model": "ESPRIT"}}}
+{"node_type": "model", "href": "/en/catalog/lotus,1990,elan", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1990, "model": "ELAN"}}}

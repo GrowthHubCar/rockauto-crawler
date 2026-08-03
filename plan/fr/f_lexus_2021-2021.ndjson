@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lexus,2021,rx450hl", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2021, "model": "RX450HL"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2021,ux200", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2021, "model": "UX200"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2021,ux250h", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2021, "model": "UX250H"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2021,nx300h", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2021, "model": "NX300H"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2021,rx450h", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2021, "model": "RX450H"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2021,ls500h", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2021, "model": "LS500H"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2021,lc500", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2021, "model": "LC500"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2021,rx350", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2021, "model": "RX350"}}}

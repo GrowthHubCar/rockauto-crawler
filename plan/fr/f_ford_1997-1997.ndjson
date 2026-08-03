@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1997,sable", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1997, "model": "SABLE"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1997,mystique", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1997, "model": "MYSTIQUE"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1997,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1997, "model": "P-350"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1997,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1997, "model": "MUSTANG"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1997,taurus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1997, "model": "TAURUS"}}}

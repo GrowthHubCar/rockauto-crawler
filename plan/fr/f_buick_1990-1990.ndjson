@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1990,reatta", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1990, "model": "REATTA"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1990,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1990, "model": "SKYLARK"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1990,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1990, "model": "LESABRE"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1990,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1990, "model": "REGAL"}}}

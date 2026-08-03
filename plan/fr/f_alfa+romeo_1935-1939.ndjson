@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/alfa+romeo,1937,6c+2300", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1937, "model": "6C 2300"}}}
+{"node_type": "model", "href": "/en/catalog/alfa+romeo,1938,6c+2300", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1938, "model": "6C 2300"}}}
+{"node_type": "model", "href": "/en/catalog/alfa+romeo,1937,8c+2900", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1937, "model": "8C 2900"}}}
+{"node_type": "model", "href": "/en/catalog/alfa+romeo,1938,8c+2900", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1938, "model": "8C 2900"}}}

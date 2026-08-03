@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/citroen,1965,ds19", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1965, "model": "DS19"}}}
+{"node_type": "model", "href": "/en/catalog/citroen,1965,id19", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1965, "model": "ID19"}}}
+{"node_type": "model", "href": "/en/catalog/citroen,1969,id19", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1969, "model": "ID19"}}}
+{"node_type": "model", "href": "/en/catalog/citroen,1965,ami-6", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1965, "model": "AMI-6"}}}
+{"node_type": "model", "href": "/en/catalog/citroen,1969,ds21+pallas", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1969, "model": "DS21 PALLAS"}}}
+{"node_type": "model", "href": "/en/catalog/citroen,1968,ds21", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1968, "model": "DS21"}}}
+{"node_type": "model", "href": "/en/catalog/citroen,1969,ds21", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1969, "model": "DS21"}}}
+{"node_type": "model", "href": "/en/catalog/citroen,1968,d21", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1968, "model": "D21"}}}
+{"node_type": "model", "href": "/en/catalog/citroen,1969,d21", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1969, "model": "D21"}}}

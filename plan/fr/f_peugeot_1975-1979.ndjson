@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/peugeot,1978,504", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1978, "model": "504"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,1979,504", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1979, "model": "504"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,1978,604", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1978, "model": "604"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,1979,604", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1979, "model": "604"}}}

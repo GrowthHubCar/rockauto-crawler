@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/jeep,2026,renegade", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2026, "model": "RENEGADE"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2025,commander", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2025, "model": "COMMANDER"}}}

@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/honda,1995,passport", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1995, "model": "PASSPORT"}}}
-{"node_type": "model", "href": "/en/catalog/honda,1995,prelude", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1995, "model": "PRELUDE"}}}
-{"node_type": "model", "href": "/en/catalog/honda,1995,odyssey", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1995, "model": "ODYSSEY"}}}
-{"node_type": "model", "href": "/en/catalog/honda,1995,accord", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1995, "model": "ACCORD"}}}

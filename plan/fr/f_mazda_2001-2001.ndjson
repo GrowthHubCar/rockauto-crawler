@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mazda,2001,b2500", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2001, "model": "B2500"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,2001,protege", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2001, "model": "PROTEGE"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,2001,millenia", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2001, "model": "MILLENIA"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,2001,mx-5+miata", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2001, "model": "MX-5 MIATA"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,2001,tribute", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2001, "model": "TRIBUTE"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,2001,mpv", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2001, "model": "MPV"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,2001,b4000", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2001, "model": "B4000"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,2001,b2300", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2001, "model": "B2300"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,2001,626", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2001, "model": "626"}}}

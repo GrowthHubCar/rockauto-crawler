@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/cleveland,1925,model+43", "payload": {"nodetype": "model", "ctx": {"make": "CLEVELAND", "year": 1925, "model": "MODEL 43"}}}
+{"node_type": "model", "href": "/en/catalog/cleveland,1925,model+31", "payload": {"nodetype": "model", "ctx": {"make": "CLEVELAND", "year": 1925, "model": "MODEL 31"}}}
+{"node_type": "model", "href": "/en/catalog/cleveland,1926,model+31", "payload": {"nodetype": "model", "ctx": {"make": "CLEVELAND", "year": 1926, "model": "MODEL 31"}}}

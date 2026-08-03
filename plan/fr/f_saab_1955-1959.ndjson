@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/saab,1955,92b", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1955, "model": "92B"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1956,93", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1956, "model": "93"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1957,93", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1957, "model": "93"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1958,gt750", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1958, "model": "GT750"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1959,gt750", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1959, "model": "GT750"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1958,93b", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1958, "model": "93B"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1959,93b", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1959, "model": "93B"}}}

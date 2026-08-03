@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/mitsubishi+fuso,1987,fm", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI FUSO", "year": 1987, "model": "FM"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi+fuso,1988,fm", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI FUSO", "year": 1988, "model": "FM"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi+fuso,1989,fm", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI FUSO", "year": 1989, "model": "FM"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi+fuso,1987,fk", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI FUSO", "year": 1987, "model": "FK"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi+fuso,1988,fk", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI FUSO", "year": 1988, "model": "FK"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi+fuso,1989,fk", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI FUSO", "year": 1989, "model": "FK"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi+fuso,1988,fh", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI FUSO", "year": 1988, "model": "FH"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi+fuso,1989,fh", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI FUSO", "year": 1989, "model": "FH"}}}

@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jaguar,1999,s-type", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1999, "model": "S-TYPE"}}}
-{"node_type": "model", "href": "/en/catalog/jaguar,1999,xk8", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1999, "model": "XK8"}}}
-{"node_type": "model", "href": "/en/catalog/jaguar,1999,xj8", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1999, "model": "XJ8"}}}
-{"node_type": "model", "href": "/en/catalog/jaguar,1999,vanden+plas", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1999, "model": "VANDEN PLAS"}}}
-{"node_type": "model", "href": "/en/catalog/jaguar,1999,xjr", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1999, "model": "XJR"}}}

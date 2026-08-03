@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/cadillac,1987,fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1987, "model": "FLEETWOOD"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,1987,eldorado", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1987, "model": "ELDORADO"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,1987,deville", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1987, "model": "DEVILLE"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,1987,seville", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1987, "model": "SEVILLE"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,1987,allante", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1987, "model": "ALLANTE"}}}

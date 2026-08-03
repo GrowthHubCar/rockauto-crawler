@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/acura,2019,mdx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2019, "model": "MDX"}}}
+{"node_type": "model", "href": "/en/catalog/acura,2017,rlx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2017, "model": "RLX"}}}
+{"node_type": "model", "href": "/en/catalog/acura,2018,rlx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2018, "model": "RLX"}}}
+{"node_type": "model", "href": "/en/catalog/acura,2017,nsx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2017, "model": "NSX"}}}
+{"node_type": "model", "href": "/en/catalog/acura,2019,nsx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2019, "model": "NSX"}}}

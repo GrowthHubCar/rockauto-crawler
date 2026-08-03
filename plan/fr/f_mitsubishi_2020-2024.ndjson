@@ -1,0 +1,17 @@
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2022,outlander", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2022, "model": "OUTLANDER"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2024,outlander", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2024, "model": "OUTLANDER"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2020,montero+sport", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2020, "model": "MONTERO SPORT"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2022,montero+sport", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2022, "model": "MONTERO SPORT"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2022,rvr", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2022, "model": "RVR"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2024,rvr", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2024, "model": "RVR"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2020,l200", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2020, "model": "L200"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2021,l200", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2021, "model": "L200"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2022,l200", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2022, "model": "L200"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2024,l200", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2024, "model": "L200"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2020,outlander+sport", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2020, "model": "OUTLANDER SPORT"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2022,outlander+sport", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2022, "model": "OUTLANDER SPORT"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2024,outlander+sport", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2024, "model": "OUTLANDER SPORT"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2020,mirage", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2020, "model": "MIRAGE"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2022,mirage", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2022, "model": "MIRAGE"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2020,mirage+g4", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2020, "model": "MIRAGE G4"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2022,xpander", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2022, "model": "XPANDER"}}}

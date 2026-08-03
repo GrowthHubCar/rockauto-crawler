@@ -1,0 +1,63 @@
+{"node_type": "model", "href": "/en/catalog/ford,1955,taunus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1955, "model": "TAUNUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1956,taunus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1956, "model": "TAUNUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1958,taunus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1958, "model": "TAUNUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1955,prefect", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1955, "model": "PREFECT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1956,prefect", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1956, "model": "PREFECT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1959,prefect", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1959, "model": "PREFECT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1957,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1957, "model": "THUNDERBIRD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1958,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1958, "model": "THUNDERBIRD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1959,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1959, "model": "THUNDERBIRD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1955,zodiac", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1955, "model": "ZODIAC"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1956,zodiac", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1956, "model": "ZODIAC"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1957,zodiac", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1957, "model": "ZODIAC"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1958,zodiac", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1958, "model": "ZODIAC"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1956,zephyr", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1956, "model": "ZEPHYR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1959,zephyr", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1959, "model": "ZEPHYR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1957,victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1957, "model": "VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1958,victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1958, "model": "VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1955,skyliner", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1955, "model": "SKYLINER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1959,skyliner", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1959, "model": "SKYLINER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1955,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1955, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1956,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1956, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1959,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1959, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1955,sunliner", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1955, "model": "SUNLINER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1956,sunliner", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1956, "model": "SUNLINER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1958,sunliner", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1958, "model": "SUNLINER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1959,sunliner", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1959, "model": "SUNLINER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1955,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1955, "model": "P-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1957,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1957, "model": "P-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1959,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1959, "model": "P-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1958,ranchero", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1958, "model": "RANCHERO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1955,f-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1955, "model": "F-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1959,f-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1959, "model": "F-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1955,f-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1955, "model": "F-100"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1956,f-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1956, "model": "F-100"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1957,f-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1957, "model": "F-100"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1958,f-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1958, "model": "F-100"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1958,del+rio+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1958, "model": "DEL RIO WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1955,fairlane", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1955, "model": "FAIRLANE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1958,fairlane", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1958, "model": "FAIRLANE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1959,fairlane", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1959, "model": "FAIRLANE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1958,p-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1958, "model": "P-100"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1955,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1955, "model": "F-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1958,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1958, "model": "F-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1957,f+series", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1957, "model": "F SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1957,custom", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1957, "model": "CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1959,custom", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1959, "model": "CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1956,country+squire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1956, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1958,country+squire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1958, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1959,country+squire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1959, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1955,country+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1955, "model": "COUNTRY SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1956,country+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1956, "model": "COUNTRY SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1957,country+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1957, "model": "COUNTRY SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1958,country+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1958, "model": "COUNTRY SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1956,consul", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1956, "model": "CONSUL"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1955,customline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1955, "model": "CUSTOMLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1956,customline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1956, "model": "CUSTOMLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1958,courier+sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1958, "model": "COURIER SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1959,courier+sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1959, "model": "COURIER SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1955,club", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1955, "model": "CLUB"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1956,club", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1956, "model": "CLUB"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1957,club", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1957, "model": "CLUB"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1957,escort", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1957, "model": "ESCORT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1959,escort", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1959, "model": "ESCORT"}}}

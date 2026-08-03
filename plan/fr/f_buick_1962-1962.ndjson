@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1962,wildcat", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1962, "model": "WILDCAT"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1962,special", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1962, "model": "SPECIAL"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1962,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1962, "model": "LESABRE"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/land+rover,2011,range+rover+sport", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2011, "model": "RANGE ROVER SPORT"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2013,defender", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2013, "model": "DEFENDER"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2014,defender", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2014, "model": "DEFENDER"}}}

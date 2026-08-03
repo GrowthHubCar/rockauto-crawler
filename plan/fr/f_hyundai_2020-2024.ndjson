@@ -1,0 +1,20 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2023,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "SONATA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2020,kona", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "KONA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2022,grand+i10", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "GRAND I10"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2021,santa+fe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "SANTA FE"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2022,santa+fe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "SANTA FE"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2021,venue", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "VENUE"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2021,veloster+n", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "VELOSTER N"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2021,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "ELANTRA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2021,nexo", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "NEXO"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2022,nexo", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "NEXO"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2024,nexo", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "NEXO"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2020,h350", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "H350"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2021,h350", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "H350"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2021,creta", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "CRETA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2022,creta", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "CRETA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2023,creta", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "CRETA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2024,hb20", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "HB20"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2022,creta+grand", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "CRETA GRAND"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2023,creta+grand", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "CRETA GRAND"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2024,creta+grand", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "CRETA GRAND"}}}

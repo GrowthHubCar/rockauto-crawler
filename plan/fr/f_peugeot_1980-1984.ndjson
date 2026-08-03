@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/peugeot,1983,504", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1983, "model": "504"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,1981,604", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1981, "model": "604"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,1981,505", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1981, "model": "505"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,1982,505", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1982, "model": "505"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,1983,505", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1983, "model": "505"}}}

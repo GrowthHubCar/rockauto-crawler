@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/lamborghini,1987,countach", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1987, "model": "COUNTACH"}}}
+{"node_type": "model", "href": "/en/catalog/lamborghini,1989,countach", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1989, "model": "COUNTACH"}}}
+{"node_type": "model", "href": "/en/catalog/lamborghini,1987,jalpa", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1987, "model": "JALPA"}}}
+{"node_type": "model", "href": "/en/catalog/lamborghini,1988,jalpa", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1988, "model": "JALPA"}}}
+{"node_type": "model", "href": "/en/catalog/lamborghini,1988,lm002", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1988, "model": "LM002"}}}

@@ -1,0 +1,53 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1966,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1966, "model": "SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1967,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1967, "model": "SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1965,bel+air", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1965, "model": "BEL AIR"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1969,bel+air", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1969, "model": "BEL AIR"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1968,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1968, "model": "P30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1969,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1969, "model": "P30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1965,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1965, "model": "IMPALA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1969,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1969, "model": "IMPALA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1965,malibu", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1965, "model": "MALIBU"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1969,p20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1969, "model": "P20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1966,p20+series", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1966, "model": "P20 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1967,p20+series", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1967, "model": "P20 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1969,townsman", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1969, "model": "TOWNSMAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1967,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1967, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1969,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1969, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1965,k10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1965, "model": "K10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1966,k10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1966, "model": "K10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1967,k10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1967, "model": "K10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1968,p10", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1968, "model": "P10"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1965,p30+series", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1965, "model": "P30 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1966,p30+series", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1966, "model": "P30 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1967,p30+series", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1967, "model": "P30 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1966,p10+series", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1966, "model": "P10 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1967,p10+series", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1967, "model": "P10 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1966,k20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1966, "model": "K20 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1968,k20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1968, "model": "K20 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1966,k20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1966, "model": "K20 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1969,k20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1969, "model": "K20 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1967,k20+panel", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1967, "model": "K20 PANEL"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1969,k30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1969, "model": "K30 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1967,k10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1967, "model": "K10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1968,k10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1968, "model": "K10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1965,g20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1965, "model": "G20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1968,g20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1968, "model": "G20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1969,g20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1969, "model": "G20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1967,el+camino", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1967, "model": "EL CAMINO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1967,camaro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1967, "model": "CAMARO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1966,c30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1966, "model": "C30 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1967,c30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1967, "model": "C30 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1967,c20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1967, "model": "C20 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1968,c20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1968, "model": "C20 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1966,c20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1966, "model": "C20 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1969,c20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1969, "model": "C20 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1965,c10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1965, "model": "C10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1966,c10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1966, "model": "C10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1968,c10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1968, "model": "C10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1965,c10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1965, "model": "C10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1966,c10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1966, "model": "C10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1969,c10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1969, "model": "C10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1969,blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1969, "model": "BLAZER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1969,brookwood", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1969, "model": "BROOKWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1968,chevy+ii", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1968, "model": "CHEVY II"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1965,c10+panel", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1965, "model": "C10 PANEL"}}}

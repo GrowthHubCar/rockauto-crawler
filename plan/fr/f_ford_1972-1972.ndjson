@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1972,ranchero", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1972, "model": "RANCHERO"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1972,torino", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1972, "model": "TORINO"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1972,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1972, "model": "RANCH WAGON"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1972,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1972, "model": "THUNDERBIRD"}}}

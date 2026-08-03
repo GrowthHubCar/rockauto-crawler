@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2000,323ti", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2000, "model": "323TI"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2000,z3", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2000, "model": "Z3"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2000,328ci", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2000, "model": "328CI"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2000,750il", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2000, "model": "750IL"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2000,323ci", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2000, "model": "323CI"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2000,323i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2000, "model": "323I"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2000,528i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2000, "model": "528I"}}}

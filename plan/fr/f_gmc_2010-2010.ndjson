@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,2010,sierra+denali", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2010, "model": "SIERRA DENALI"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,2010,yukon", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2010, "model": "YUKON"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,2010,yukon+xl+1500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2010, "model": "YUKON XL 1500"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,2010,sierra+3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2010, "model": "SIERRA 3500"}}}

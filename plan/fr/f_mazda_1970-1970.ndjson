@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mazda,1970,616", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1970, "model": "616"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,1970,1800", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1970, "model": "1800"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,1970,1200", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1970, "model": "1200"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,1970,r100", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1970, "model": "R100"}}}
-{"node_type": "model", "href": "/en/catalog/mazda,1970,1500", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1970, "model": "1500"}}}

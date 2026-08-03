@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/peugeot,1986,505", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1986, "model": "505"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,1987,505", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1987, "model": "505"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,1989,505", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1989, "model": "505"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,1989,405", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1989, "model": "405"}}}

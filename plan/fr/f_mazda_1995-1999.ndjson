@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/mazda,1995,mx-6", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1995, "model": "MX-6"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1995,xedos+9", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1995, "model": "XEDOS 9"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1996,xedos+9", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1996, "model": "XEDOS 9"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1998,xedos+9", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1998, "model": "XEDOS 9"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1998,millenia", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1998, "model": "MILLENIA"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1999,millenia", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1999, "model": "MILLENIA"}}}

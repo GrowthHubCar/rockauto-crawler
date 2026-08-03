@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1993,montero", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1993, "model": "MONTERO"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1990,mighty+max", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1990, "model": "MIGHTY MAX"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1994,mighty+max", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1994, "model": "MIGHTY MAX"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1990,galant", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1990, "model": "GALANT"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1991,galant", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1991, "model": "GALANT"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1991,mirage", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1991, "model": "MIRAGE"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1993,mirage", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1993, "model": "MIRAGE"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1994,mirage", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1994, "model": "MIRAGE"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1993,diamante", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1993, "model": "DIAMANTE"}}}

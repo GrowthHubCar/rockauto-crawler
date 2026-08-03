@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/dodge,2013,i10", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2013, "model": "I10"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2013,h100", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2013, "model": "H100"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2010,grand+caravan", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2010, "model": "GRAND CARAVAN"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2014,challenger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2014, "model": "CHALLENGER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2010,caliber", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2010, "model": "CALIBER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2011,avenger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2011, "model": "AVENGER"}}}

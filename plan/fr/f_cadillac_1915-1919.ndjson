@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,1915,type+51", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1915, "model": "TYPE 51"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1916,type+53", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1916, "model": "TYPE 53"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1917,type+55", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1917, "model": "TYPE 55"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1918,type+57", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1918, "model": "TYPE 57"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1919,type+57", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1919, "model": "TYPE 57"}}}

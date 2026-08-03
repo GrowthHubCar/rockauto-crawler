@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/audi,1985,5000", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1985, "model": "5000"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1986,5000", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1986, "model": "5000"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1988,5000", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1988, "model": "5000"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1985,4000", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1985, "model": "4000"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1986,4000", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1986, "model": "4000"}}}
+{"node_type": "model", "href": "/en/catalog/audi,1988,4000", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1988, "model": "4000"}}}

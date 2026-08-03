@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/jaguar,2015,xj", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2015, "model": "XJ"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2017,xj", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2017, "model": "XJ"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2015,xf", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2015, "model": "XF"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2018,xf", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2018, "model": "XF"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2019,xf", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2019, "model": "XF"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2018,f-type", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2018, "model": "F-TYPE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2019,f-type", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2019, "model": "F-TYPE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2017,xe", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2017, "model": "XE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2019,xe", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2019, "model": "XE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2018,f-pace", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2018, "model": "F-PACE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2019,f-pace", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2019, "model": "F-PACE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,2018,e-pace", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 2018, "model": "E-PACE"}}}

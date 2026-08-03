@@ -1,0 +1,13 @@
+{"node_type": "model", "href": "/en/catalog/gmc,1939,ac150", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1939, "model": "AC150"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1939,ac100", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1939, "model": "AC100"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1935,t16l", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1935, "model": "T16L"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1936,t16l", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1936, "model": "T16L"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1937,t16l", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1937, "model": "T16L"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1937,t14b", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1937, "model": "T14B"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1938,t14b", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1938, "model": "T14B"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1937,t14a", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1937, "model": "T14A"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1938,t14a", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1938, "model": "T14A"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1938,t155", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1938, "model": "T155"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1938,t15", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1938, "model": "T15"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1938,t145", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1938, "model": "T145"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1936,t14", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1936, "model": "T14"}}}

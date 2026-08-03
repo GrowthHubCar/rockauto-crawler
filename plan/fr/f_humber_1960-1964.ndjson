@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/humber,1960,hawk", "payload": {"nodetype": "model", "ctx": {"make": "HUMBER", "year": 1960, "model": "HAWK"}}}
+{"node_type": "model", "href": "/en/catalog/humber,1961,hawk", "payload": {"nodetype": "model", "ctx": {"make": "HUMBER", "year": 1961, "model": "HAWK"}}}
+{"node_type": "model", "href": "/en/catalog/humber,1963,hawk", "payload": {"nodetype": "model", "ctx": {"make": "HUMBER", "year": 1963, "model": "HAWK"}}}
+{"node_type": "model", "href": "/en/catalog/humber,1961,super+snipe", "payload": {"nodetype": "model", "ctx": {"make": "HUMBER", "year": 1961, "model": "SUPER SNIPE"}}}
+{"node_type": "model", "href": "/en/catalog/humber,1963,super+snipe", "payload": {"nodetype": "model", "ctx": {"make": "HUMBER", "year": 1963, "model": "SUPER SNIPE"}}}

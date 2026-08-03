@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/land+rover,1999,freelander", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 1999, "model": "FREELANDER"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,1999,discovery", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 1999, "model": "DISCOVERY"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,1999,range+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 1999, "model": "RANGE ROVER"}}}

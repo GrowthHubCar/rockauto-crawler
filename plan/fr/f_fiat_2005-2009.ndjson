@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/fiat,2007,palio", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2007, "model": "PALIO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2009,palio", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2009, "model": "PALIO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2008,strada", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2008, "model": "STRADA"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2008,punto", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2008, "model": "PUNTO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2008,ducato", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2008, "model": "DUCATO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2009,albea", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2009, "model": "ALBEA"}}}

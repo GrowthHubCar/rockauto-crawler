@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/cunningham,1920,series+v", "payload": {"nodetype": "model", "ctx": {"make": "CUNNINGHAM", "year": 1920, "model": "SERIES V"}}}
+{"node_type": "model", "href": "/en/catalog/cunningham,1921,series+v", "payload": {"nodetype": "model", "ctx": {"make": "CUNNINGHAM", "year": 1921, "model": "SERIES V"}}}
+{"node_type": "model", "href": "/en/catalog/cunningham,1922,series+v-4", "payload": {"nodetype": "model", "ctx": {"make": "CUNNINGHAM", "year": 1922, "model": "SERIES V-4"}}}
+{"node_type": "model", "href": "/en/catalog/cunningham,1923,series+v-4", "payload": {"nodetype": "model", "ctx": {"make": "CUNNINGHAM", "year": 1923, "model": "SERIES V-4"}}}
+{"node_type": "model", "href": "/en/catalog/cunningham,1924,series+v-5", "payload": {"nodetype": "model", "ctx": {"make": "CUNNINGHAM", "year": 1924, "model": "SERIES V-5"}}}

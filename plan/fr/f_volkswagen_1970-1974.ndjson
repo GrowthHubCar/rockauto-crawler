@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,1971,karmann+ghia", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1971, "model": "KARMANN GHIA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1970,fastback", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1970, "model": "FASTBACK"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1972,fastback", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1972, "model": "FASTBACK"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1973,fastback", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1973, "model": "FASTBACK"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1974,thing", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1974, "model": "THING"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1973,panel", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1973, "model": "PANEL"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1972,safari", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1972, "model": "SAFARI"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1973,safari", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1973, "model": "SAFARI"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1974,brasilia", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1974, "model": "BRASILIA"}}}

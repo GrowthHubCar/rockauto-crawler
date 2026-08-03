@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,1965,crown", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1965, "model": "CROWN"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1965,stout", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1965, "model": "STOUT"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1965,tiara", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1965, "model": "TIARA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1965,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1965, "model": "LAND CRUISER"}}}

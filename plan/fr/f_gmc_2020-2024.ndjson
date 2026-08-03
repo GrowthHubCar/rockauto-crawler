@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/gmc,2021,terrain", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2021, "model": "TERRAIN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2024,sierra+3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2024, "model": "SIERRA 3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2020,sierra+1500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2020, "model": "SIERRA 1500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2023,sierra+1500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2023, "model": "SIERRA 1500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2024,canyon", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2024, "model": "CANYON"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2024,acadia", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2024, "model": "ACADIA"}}}

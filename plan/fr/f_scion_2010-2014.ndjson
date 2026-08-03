@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/scion,2014,xb", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2014, "model": "XB"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2013,tc", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2013, "model": "TC"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2014,xd", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2014, "model": "XD"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2014,iq", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2014, "model": "IQ"}}}
+{"node_type": "model", "href": "/en/catalog/scion,2014,fr-s", "payload": {"nodetype": "model", "ctx": {"make": "SCION", "year": 2014, "model": "FR-S"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/humber,1967,hawk", "payload": {"nodetype": "model", "ctx": {"make": "HUMBER", "year": 1967, "model": "HAWK"}}}
+{"node_type": "model", "href": "/en/catalog/humber,1967,super+snipe", "payload": {"nodetype": "model", "ctx": {"make": "HUMBER", "year": 1967, "model": "SUPER SNIPE"}}}
+{"node_type": "model", "href": "/en/catalog/humber,1967,imperial", "payload": {"nodetype": "model", "ctx": {"make": "HUMBER", "year": 1967, "model": "IMPERIAL"}}}

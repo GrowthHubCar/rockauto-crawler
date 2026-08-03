@@ -1,0 +1,35 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1955,truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1955, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1956,truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1956, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1957,truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1957, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1958,truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1955,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1955, "model": "SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1956,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1956, "model": "SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1957,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1957, "model": "SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1958,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1955,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1955, "model": "SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1956,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1956, "model": "SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1957,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1957, "model": "SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1958,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1955,bel+air", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1955, "model": "BEL AIR"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1956,bel+air", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1956, "model": "BEL AIR"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1957,bel+air", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1957, "model": "BEL AIR"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1959,bel+air", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "BEL AIR"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1958,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "IMPALA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1957,two-ten+series", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1957, "model": "TWO-TEN SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1955,one-fifty+series", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1955, "model": "ONE-FIFTY SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1956,one-fifty+series", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1956, "model": "ONE-FIFTY SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1957,one-fifty+series", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1957, "model": "ONE-FIFTY SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1958,yeoman", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "YEOMAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1955,nomad", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1955, "model": "NOMAD"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1956,nomad", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1956, "model": "NOMAD"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1957,nomad", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1957, "model": "NOMAD"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1958,nomad", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "NOMAD"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1957,del+ray", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1957, "model": "DEL RAY"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1958,del+ray", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "DEL RAY"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1959,parkwood", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "PARKWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1959,el+camino", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "EL CAMINO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1958,brookwood", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "BROOKWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1959,3d", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "3D"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1959,3800", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "3800"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1959,3c", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "3C"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1959,3f", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "3F"}}}

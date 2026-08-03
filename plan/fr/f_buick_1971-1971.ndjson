@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1971,gs", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1971, "model": "GS"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1971,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1971, "model": "SKYLARK"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1971,sportwagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1971, "model": "SPORTWAGON"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1971,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1971, "model": "RIVIERA"}}}

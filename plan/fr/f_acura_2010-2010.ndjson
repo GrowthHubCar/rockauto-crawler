@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/acura,2010,csx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2010, "model": "CSX"}}}
-{"node_type": "model", "href": "/en/catalog/acura,2010,tl", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2010, "model": "TL"}}}
-{"node_type": "model", "href": "/en/catalog/acura,2010,tsx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2010, "model": "TSX"}}}

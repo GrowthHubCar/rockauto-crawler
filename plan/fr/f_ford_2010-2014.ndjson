@@ -1,0 +1,65 @@
+{"node_type": "model", "href": "/en/catalog/ford,2010,transit", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "TRANSIT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2014,taurus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2014, "model": "TAURUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "RANGER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2014,police+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2014, "model": "POLICE SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,lobo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "LOBO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,lobo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "LOBO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,fusion", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "FUSION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,fusion", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "FUSION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,f53", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "F53"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,f-650", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "F-650"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,f-650", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "F-650"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,f-450+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,f-450+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,escape", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "ESCAPE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2012,escape", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "ESCAPE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,escape", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "ESCAPE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,focus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "FOCUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2014,focus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2014, "model": "FOCUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,fiesta", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "FIESTA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,fiesta", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "FIESTA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,ikon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "IKON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,f59", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "F59"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,f-750", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "F-750"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,f-750", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "F-750"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,f-750", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "F-750"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,flex", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "FLEX"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,f-350+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,f-350+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2012,f-350+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,f-350+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2012,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,f-250+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "F-250 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,f-250+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "F-250 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "EXPLORER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,expedition", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "EXPEDITION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2012,expedition", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "EXPEDITION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2014,expedition", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2014, "model": "EXPEDITION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,edge", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "EDGE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,edge", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "EDGE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2012,edge", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "EDGE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,edge", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "EDGE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,ecosport", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "ECOSPORT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2012,ecosport", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "ECOSPORT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,e-450", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "E-450"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,e-450", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "E-450"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2012,e-450", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "E-450"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,e-450", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "E-450"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,e-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "E-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,explorer+sport+trac", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "EXPLORER SPORT TRAC"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2012,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,courier", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "COURIER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,courier", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "COURIER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2012,courier", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "COURIER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,econoline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "ECONOLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,econoline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "ECONOLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2012,econoline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "ECONOLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "E-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "E-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2012,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "E-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "CROWN VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "CROWN VICTORIA"}}}

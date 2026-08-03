@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/hino,1984,fe17", "payload": {"nodetype": "model", "ctx": {"make": "HINO", "year": 1984, "model": "FE17"}}}
+{"node_type": "model", "href": "/en/catalog/hino,1984,fg22", "payload": {"nodetype": "model", "ctx": {"make": "HINO", "year": 1984, "model": "FG22"}}}
+{"node_type": "model", "href": "/en/catalog/hino,1984,ff17", "payload": {"nodetype": "model", "ctx": {"make": "HINO", "year": 1984, "model": "FF17"}}}

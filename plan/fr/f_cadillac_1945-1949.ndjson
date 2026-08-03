@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,1947,series+62", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1947, "model": "SERIES 62"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1949,series+61", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1949, "model": "SERIES 61"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1948,series+75+fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1948, "model": "SERIES 75 FLEETWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1947,series+60+special+fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1947, "model": "SERIES 60 SPECIAL FLEETWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1949,series+60+special+fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1949, "model": "SERIES 60 SPECIAL FLEETWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1946,commercial+chassis", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1946, "model": "COMMERCIAL CHASSIS"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1947,commercial+chassis", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1947, "model": "COMMERCIAL CHASSIS"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1949,commercial+chassis", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1949, "model": "COMMERCIAL CHASSIS"}}}

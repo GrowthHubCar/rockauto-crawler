@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1943,truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1943, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1941,master+deluxe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1941, "model": "MASTER DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1942,master+deluxe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1942, "model": "MASTER DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1940,master+85", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1940, "model": "MASTER 85"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1940,kp", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1940, "model": "KP"}}}

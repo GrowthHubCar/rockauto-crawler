@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/rover,1970,2000", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1970, "model": "2000"}}}
+{"node_type": "model", "href": "/en/catalog/rover,1971,2000", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1971, "model": "2000"}}}
+{"node_type": "model", "href": "/en/catalog/rover,1972,2000", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1972, "model": "2000"}}}
+{"node_type": "model", "href": "/en/catalog/rover,1973,2000", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1973, "model": "2000"}}}
+{"node_type": "model", "href": "/en/catalog/rover,1970,3500s", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1970, "model": "3500S"}}}
+{"node_type": "model", "href": "/en/catalog/rover,1971,3500s", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1971, "model": "3500S"}}}
+{"node_type": "model", "href": "/en/catalog/rover,1972,3500s", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1972, "model": "3500S"}}}
+{"node_type": "model", "href": "/en/catalog/rover,1973,3500s", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1973, "model": "3500S"}}}
+{"node_type": "model", "href": "/en/catalog/rover,1974,3500s", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1974, "model": "3500S"}}}
+{"node_type": "model", "href": "/en/catalog/rover,1972,3500", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1972, "model": "3500"}}}
+{"node_type": "model", "href": "/en/catalog/rover,1973,3500", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1973, "model": "3500"}}}
+{"node_type": "model", "href": "/en/catalog/rover,1974,3500", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1974, "model": "3500"}}}

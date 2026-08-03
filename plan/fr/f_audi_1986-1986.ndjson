@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,1986,quattro", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1986, "model": "QUATTRO"}}}
-{"node_type": "model", "href": "/en/catalog/audi,1986,5000", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1986, "model": "5000"}}}
-{"node_type": "model", "href": "/en/catalog/audi,1986,4000", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1986, "model": "4000"}}}

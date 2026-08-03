@@ -1,0 +1,20 @@
+{"node_type": "model", "href": "/en/catalog/ford,1985,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1985, "model": "RANGER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1986,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1986, "model": "RANGER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1987,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1987, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1988,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1988, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1989,topaz", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1989, "model": "TOPAZ"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1986,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1986, "model": "P-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1989,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1989, "model": "P-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1986,ltd", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1986, "model": "LTD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1985,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1985, "model": "L SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1987,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1987, "model": "L SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1988,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1988, "model": "L SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1988,f-800", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1988, "model": "F-800"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1985,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1985, "model": "F-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1987,f-700", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1987, "model": "F-700"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1989,f-700", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1989, "model": "F-700"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1985,c+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1985, "model": "C SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1988,c+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1988, "model": "C SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1987,b+series+bus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1987, "model": "B SERIES BUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1989,b+series+bus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1989, "model": "B SERIES BUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1986,f-200", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1986, "model": "F-200"}}}

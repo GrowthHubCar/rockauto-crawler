@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/dodge,1993,stealth", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1993, "model": "STEALTH"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,1993,dynasty", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1993, "model": "DYNASTY"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,1993,viper", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1993, "model": "VIPER"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,1993,spirit", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1993, "model": "SPIRIT"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,1993,w150+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1993, "model": "W150 PICKUP"}}}

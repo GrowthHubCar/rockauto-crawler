@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2010,325i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2010, "model": "325I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2013,740i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2013, "model": "740I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2014,320i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2014, "model": "320I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2014,m6", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2014, "model": "M6"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2012,750li", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2012, "model": "750LI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2010,550i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2010, "model": "550I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2014,x1", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2014, "model": "X1"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2013,550i+gt", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2013, "model": "550I GT"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2011,120i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2011, "model": "120I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2012,118i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2012, "model": "118I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2012,125i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2012, "model": "125I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2013,335is", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2013, "model": "335IS"}}}

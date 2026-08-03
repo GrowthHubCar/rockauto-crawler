@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/oldsmobile,1959,super+88", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1959, "model": "SUPER 88"}}}
+{"node_type": "model", "href": "/en/catalog/oldsmobile,1959,fiesta", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1959, "model": "FIESTA"}}}
+{"node_type": "model", "href": "/en/catalog/oldsmobile,1959,dynamic", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1959, "model": "DYNAMIC"}}}
+{"node_type": "model", "href": "/en/catalog/oldsmobile,1959,98", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1959, "model": "98"}}}

@@ -1,0 +1,40 @@
+{"node_type": "model", "href": "/en/catalog/international,2009,workstar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2009, "model": "WORKSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2008,transtar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2008, "model": "TRANSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2009,transtar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2009, "model": "TRANSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2009,prostar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2009, "model": "PROSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2005,paystar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2005, "model": "PAYSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2007,paystar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2007, "model": "PAYSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2008,paystar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2008, "model": "PAYSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2009,paystar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2009, "model": "PAYSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2009,durastar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2009, "model": "DURASTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2005,9000+series", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2005, "model": "9000 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/international,2006,9000+series", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2006, "model": "9000 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/international,2007,9000+series", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2007, "model": "9000 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/international,2008,9000+series", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2008, "model": "9000 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/international,2009,9000+series", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2009, "model": "9000 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/international,2007,rxt", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2007, "model": "RXT"}}}
+{"node_type": "model", "href": "/en/catalog/international,2008,rxt", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2008, "model": "RXT"}}}
+{"node_type": "model", "href": "/en/catalog/international,2005,8000+series", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2005, "model": "8000 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/international,2006,8000+series", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2006, "model": "8000 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/international,2007,8000+series", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2007, "model": "8000 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/international,2006,1652sc", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2006, "model": "1652SC"}}}
+{"node_type": "model", "href": "/en/catalog/international,2005,4000+series", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2005, "model": "4000 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/international,2005,7000+series", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2005, "model": "7000 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/international,2006,7000+series", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2006, "model": "7000 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/international,2007,7000+series", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2007, "model": "7000 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/international,2008,cf600", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2008, "model": "CF600"}}}
+{"node_type": "model", "href": "/en/catalog/international,2009,cf600", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2009, "model": "CF600"}}}
+{"node_type": "model", "href": "/en/catalog/international,2005,cf500", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2005, "model": "CF500"}}}
+{"node_type": "model", "href": "/en/catalog/international,2006,cf500", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2006, "model": "CF500"}}}
+{"node_type": "model", "href": "/en/catalog/international,2008,cf500", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2008, "model": "CF500"}}}
+{"node_type": "model", "href": "/en/catalog/international,2005,cxt", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2005, "model": "CXT"}}}
+{"node_type": "model", "href": "/en/catalog/international,2007,cxt", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2007, "model": "CXT"}}}
+{"node_type": "model", "href": "/en/catalog/international,2008,cxt", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2008, "model": "CXT"}}}
+{"node_type": "model", "href": "/en/catalog/international,2005,3300", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2005, "model": "3300"}}}
+{"node_type": "model", "href": "/en/catalog/international,2008,3300", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2008, "model": "3300"}}}
+{"node_type": "model", "href": "/en/catalog/international,2009,3300", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2009, "model": "3300"}}}
+{"node_type": "model", "href": "/en/catalog/international,2006,3200", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2006, "model": "3200"}}}
+{"node_type": "model", "href": "/en/catalog/international,2009,3200", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2009, "model": "3200"}}}
+{"node_type": "model", "href": "/en/catalog/international,2007,mxt", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2007, "model": "MXT"}}}
+{"node_type": "model", "href": "/en/catalog/international,2008,mxt", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2008, "model": "MXT"}}}
+{"node_type": "model", "href": "/en/catalog/international,2009,mxt", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2009, "model": "MXT"}}}

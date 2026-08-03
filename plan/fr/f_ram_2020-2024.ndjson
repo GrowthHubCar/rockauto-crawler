@@ -1,0 +1,19 @@
+{"node_type": "model", "href": "/en/catalog/ram,2020,5500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2020, "model": "5500"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2020,700", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2020, "model": "700"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2021,700", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2021, "model": "700"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2022,700", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2022, "model": "700"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2024,700", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2024, "model": "700"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2021,4500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2021, "model": "4500"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2022,4500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2022, "model": "4500"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2024,4500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2024, "model": "4500"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2020,4000", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2020, "model": "4000"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2021,4000", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2021, "model": "4000"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2022,4000", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2022, "model": "4000"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2023,4000", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2023, "model": "4000"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2022,3500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2022, "model": "3500"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2022,2500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2022, "model": "2500"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2024,2500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2024, "model": "2500"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2020,1500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2020, "model": "1500"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2020,promaster+1500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2020, "model": "PROMASTER 1500"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2024,promaster+1500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2024, "model": "PROMASTER 1500"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2020,1500+classic", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2020, "model": "1500 CLASSIC"}}}

@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/ford,1911,model+t", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1911, "model": "MODEL T"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1912,model+t", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1912, "model": "MODEL T"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1914,model+t", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1914, "model": "MODEL T"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1911,model+tt", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1911, "model": "MODEL TT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1912,model+tt", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1912, "model": "MODEL TT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1913,model+tt", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1913, "model": "MODEL TT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1914,model+tt", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1914, "model": "MODEL TT"}}}

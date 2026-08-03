@@ -1,0 +1,42 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2020,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "LAND CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2023,crown", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2023, "model": "CROWN"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2024,crown", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2024, "model": "CROWN"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2020,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2024,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2024, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2020,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "CAMRY"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2022,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2022, "model": "CAMRY"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2024,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2024, "model": "CAMRY"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2020,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "4RUNNER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2022,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2022, "model": "4RUNNER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2023,supra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2023, "model": "SUPRA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2021,tacoma", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2021, "model": "TACOMA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2020,avalon", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "AVALON"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2022,avalon", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2022, "model": "AVALON"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2020,rav4", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "RAV4"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2023,venza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2023, "model": "VENZA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2021,rav4+prime", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2021, "model": "RAV4 PRIME"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2020,prius", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "PRIUS"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2024,prius", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2024, "model": "PRIUS"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2023,mirai", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2023, "model": "MIRAI"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2020,hilux", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "HILUX"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2023,hilux", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2023, "model": "HILUX"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2024,hilux", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2024, "model": "HILUX"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2023,highlander", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2023, "model": "HIGHLANDER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2024,highlander", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2024, "model": "HIGHLANDER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2020,hiace", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "HIACE"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2022,hiace", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2022, "model": "HIACE"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2023,hiace", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2023, "model": "HIACE"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2024,hiace", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2024, "model": "HIACE"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2020,avanza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "AVANZA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2022,avanza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2022, "model": "AVANZA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2024,avanza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2024, "model": "AVANZA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2020,prius+c", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "PRIUS C"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2020,gr+supra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "GR SUPRA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2023,gr+supra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2023, "model": "GR SUPRA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2024,gr+supra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2024, "model": "GR SUPRA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2023,corolla+cross", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2023, "model": "COROLLA CROSS"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2024,grand+highlander", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2024, "model": "GRAND HIGHLANDER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2020,c-hr", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "C-HR"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2022,c-hr", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2022, "model": "C-HR"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2023,gr+corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2023, "model": "GR COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2020,86", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "86"}}}

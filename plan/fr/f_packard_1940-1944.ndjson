@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/packard,1940,one+twenty", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1940, "model": "ONE TWENTY"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1941,one+twenty", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1941, "model": "ONE TWENTY"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1942,super-8+one-sixty", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1942, "model": "SUPER-8 ONE-SIXTY"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1940,super-8+one-eighty+custom", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1940, "model": "SUPER-8 ONE-EIGHTY CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1942,super-8+one-eighty", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1942, "model": "SUPER-8 ONE-EIGHTY"}}}

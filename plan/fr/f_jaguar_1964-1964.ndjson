@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jaguar,1964,mark+x", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1964, "model": "MARK X"}}}
-{"node_type": "model", "href": "/en/catalog/jaguar,1964,xke", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1964, "model": "XKE"}}}
-{"node_type": "model", "href": "/en/catalog/jaguar,1964,3.8", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1964, "model": "3.8"}}}
-{"node_type": "model", "href": "/en/catalog/jaguar,1964,3.4", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1964, "model": "3.4"}}}
-{"node_type": "model", "href": "/en/catalog/jaguar,1964,2.4", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1964, "model": "2.4"}}}

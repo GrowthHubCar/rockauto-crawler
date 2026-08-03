@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/land+rover,2013,defender", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2013, "model": "DEFENDER"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,2013,range+rover+evoque", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2013, "model": "RANGE ROVER EVOQUE"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,2013,lr2", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2013, "model": "LR2"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,2013,range+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2013, "model": "RANGE ROVER"}}}

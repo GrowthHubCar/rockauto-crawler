@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1977,maverick", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1977, "model": "MAVERICK"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1977,p-500", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1977, "model": "P-500"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1977,mustang+ii", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1977, "model": "MUSTANG II"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1977,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1977, "model": "THUNDERBIRD"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1977,ranchero", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1977, "model": "RANCHERO"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1977,granada", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1977, "model": "GRANADA"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1977,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1977, "model": "RANCH WAGON"}}}

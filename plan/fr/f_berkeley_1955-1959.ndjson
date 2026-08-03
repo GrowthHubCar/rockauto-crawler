@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/berkeley,1956,328", "payload": {"nodetype": "model", "ctx": {"make": "BERKELEY", "year": 1956, "model": "328"}}}
+{"node_type": "model", "href": "/en/catalog/berkeley,1957,328", "payload": {"nodetype": "model", "ctx": {"make": "BERKELEY", "year": 1957, "model": "328"}}}
+{"node_type": "model", "href": "/en/catalog/berkeley,1958,328", "payload": {"nodetype": "model", "ctx": {"make": "BERKELEY", "year": 1958, "model": "328"}}}
+{"node_type": "model", "href": "/en/catalog/berkeley,1959,328", "payload": {"nodetype": "model", "ctx": {"make": "BERKELEY", "year": 1959, "model": "328"}}}
+{"node_type": "model", "href": "/en/catalog/berkeley,1958,sports+500", "payload": {"nodetype": "model", "ctx": {"make": "BERKELEY", "year": 1958, "model": "SPORTS 500"}}}
+{"node_type": "model", "href": "/en/catalog/berkeley,1959,sports+500", "payload": {"nodetype": "model", "ctx": {"make": "BERKELEY", "year": 1959, "model": "SPORTS 500"}}}

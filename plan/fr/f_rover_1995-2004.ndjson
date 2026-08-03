@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/rover,2003,75", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 2003, "model": "75"}}}
-{"node_type": "model", "href": "/en/catalog/rover,2004,75", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 2004, "model": "75"}}}
-{"node_type": "model", "href": "/en/catalog/rover,2000,75", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 2000, "model": "75"}}}
-{"node_type": "model", "href": "/en/catalog/rover,1999,mini", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1999, "model": "MINI"}}}

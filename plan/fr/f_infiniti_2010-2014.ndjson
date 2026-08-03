@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/infiniti,2014,qx60", "payload": {"nodetype": "model", "ctx": {"make": "INFINITI", "year": 2014, "model": "QX60"}}}
+{"node_type": "model", "href": "/en/catalog/infiniti,2014,q50", "payload": {"nodetype": "model", "ctx": {"make": "INFINITI", "year": 2014, "model": "Q50"}}}
+{"node_type": "model", "href": "/en/catalog/infiniti,2014,q70", "payload": {"nodetype": "model", "ctx": {"make": "INFINITI", "year": 2014, "model": "Q70"}}}

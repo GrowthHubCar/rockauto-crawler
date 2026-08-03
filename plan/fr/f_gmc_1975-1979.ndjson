@@ -1,0 +1,46 @@
+{"node_type": "model", "href": "/en/catalog/gmc,1976,p25/p2500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1976, "model": "P25/P2500 VAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1977,p25/p2500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1977, "model": "P25/P2500 VAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1978,p25/p2500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1978, "model": "P25/P2500 VAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1976,p15/p1500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1976, "model": "P15/P1500 VAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1977,p15/p1500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1977, "model": "P15/P1500 VAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1978,p15/p1500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1978, "model": "P15/P1500 VAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1979,p15/p1500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1979, "model": "P15/P1500 VAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1975,sprint", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1975, "model": "SPRINT"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1976,sprint", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1976, "model": "SPRINT"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1979,p3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1979, "model": "P3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1976,p35/p3500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1976, "model": "P35/P3500 VAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1978,p35/p3500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1978, "model": "P35/P3500 VAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1975,p35", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1975, "model": "P35"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1976,p35", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1976, "model": "P35"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1978,p35", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1978, "model": "P35"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1975,k35/k3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1975, "model": "K35/K3500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1977,k35/k3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1977, "model": "K35/K3500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1976,p25", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1976, "model": "P25"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1977,p25", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1977, "model": "P25"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1979,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1979, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1978,k35+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1978, "model": "K35 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1979,k3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1979, "model": "K3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1979,k2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1979, "model": "K2500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1979,p2500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1979, "model": "P2500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1976,k15+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1976, "model": "K15 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1977,k15+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1977, "model": "K15 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1976,k25+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1976, "model": "K25 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1977,k25+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1977, "model": "K25 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1978,k25+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1978, "model": "K25 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1979,p1500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1979, "model": "P1500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1975,k25+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1975, "model": "K25 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1976,k25+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1976, "model": "K25 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1979,k2500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1979, "model": "K2500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1978,jimmy", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1978, "model": "JIMMY"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1979,jimmy", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1979, "model": "JIMMY"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1978,k15+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1978, "model": "K15 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1979,caballero", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1979, "model": "CABALLERO"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1975,c15+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1975, "model": "C15 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1977,c15+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1977, "model": "C15 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1978,c15+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1978, "model": "C15 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1977,c25+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1977, "model": "C25 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1975,c25+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1975, "model": "C25 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1977,c25+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1977, "model": "C25 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1976,c35+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1976, "model": "C35 Pickup"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1975,g25", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1975, "model": "G25"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1975,c15+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1975, "model": "C15 SUBURBAN"}}}

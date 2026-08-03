@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/audi,2002,s3", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2002, "model": "S3"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2003,a3", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2003, "model": "A3"}}}

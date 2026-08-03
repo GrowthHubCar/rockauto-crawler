@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/honda,1990,accord", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1990, "model": "ACCORD"}}}
-{"node_type": "model", "href": "/en/catalog/honda,1990,civic", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1990, "model": "CIVIC"}}}
-{"node_type": "model", "href": "/en/catalog/honda,1990,prelude", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1990, "model": "PRELUDE"}}}

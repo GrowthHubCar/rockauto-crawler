@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/nissan,1969,patrol", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1969, "model": "PATROL"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1967,1000", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1967, "model": "1000"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1969,srl311", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1969, "model": "SRL311"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1969,spl311", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1969, "model": "SPL311"}}}

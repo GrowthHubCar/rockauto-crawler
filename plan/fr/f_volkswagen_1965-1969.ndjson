@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,1966,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1966, "model": "TRANSPORTER"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1966,beetle", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1966, "model": "BEETLE"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1965,karmann+ghia", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1965, "model": "KARMANN GHIA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1969,squareback", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1969, "model": "SQUAREBACK"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1967,fastback", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1967, "model": "FASTBACK"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1968,fastback", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1968, "model": "FASTBACK"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1969,fastback", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1969, "model": "FASTBACK"}}}

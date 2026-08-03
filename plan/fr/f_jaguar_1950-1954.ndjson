@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/jaguar,1950,xk120", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1950, "model": "XK120"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1951,xk120", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1951, "model": "XK120"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1952,xk120", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1952, "model": "XK120"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1954,xk120", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1954, "model": "XK120"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1950,mark+v", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1950, "model": "MARK V"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1952,mark+vii", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1952, "model": "MARK VII"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1953,mark+vii", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1953, "model": "MARK VII"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1954,mark+vii", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1954, "model": "MARK VII"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1951,c-type", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1951, "model": "C-TYPE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1952,c-type", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1952, "model": "C-TYPE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1953,c-type", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1953, "model": "C-TYPE"}}}
+{"node_type": "model", "href": "/en/catalog/jaguar,1954,d-type", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1954, "model": "D-TYPE"}}}

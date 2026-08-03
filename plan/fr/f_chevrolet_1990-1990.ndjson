@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1990,tracker", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1990, "model": "TRACKER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1990,sprint", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1990, "model": "SPRINT"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1990,r3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1990, "model": "R3500 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1990,stepvan", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1990, "model": "STEPVAN"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1990,s10+blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1990, "model": "S10 BLAZER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1990,tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1990, "model": "TILTMASTER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1990,v2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1990, "model": "V2500 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1990,s10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1990, "model": "S10 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1990,v2500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1990, "model": "V2500 SUBURBAN"}}}

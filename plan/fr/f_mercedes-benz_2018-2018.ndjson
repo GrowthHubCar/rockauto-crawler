@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2018,v250", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2018, "model": "V250"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2018,v220d", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2018, "model": "V220D"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2018,sprinter+3500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2018, "model": "SPRINTER 3500"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2018,sprinter+2500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2018, "model": "SPRINTER 2500"}}}

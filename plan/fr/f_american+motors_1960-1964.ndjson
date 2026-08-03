@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/american+motors,1964,ambassador", "payload": {"nodetype": "model", "ctx": {"make": "AMERICAN MOTORS", "year": 1964, "model": "AMBASSADOR"}}}
+{"node_type": "model", "href": "/en/catalog/american+motors,1960,rebel", "payload": {"nodetype": "model", "ctx": {"make": "AMERICAN MOTORS", "year": 1960, "model": "REBEL"}}}
+{"node_type": "model", "href": "/en/catalog/american+motors,1961,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "AMERICAN MOTORS", "year": 1961, "model": "DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/american+motors,1962,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "AMERICAN MOTORS", "year": 1962, "model": "DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/american+motors,1961,custom", "payload": {"nodetype": "model", "ctx": {"make": "AMERICAN MOTORS", "year": 1961, "model": "CUSTOM"}}}

@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/pontiac,1960,strato-chief", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1960, "model": "STRATO-CHIEF"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1961,strato-chief", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1961, "model": "STRATO-CHIEF"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1962,strato-chief", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1962, "model": "STRATO-CHIEF"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1964,strato-chief", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1964, "model": "STRATO-CHIEF"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1961,parisienne", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1961, "model": "PARISIENNE"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1962,parisienne", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1962, "model": "PARISIENNE"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1961,ventura", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1961, "model": "VENTURA"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1960,laurentian", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1960, "model": "LAURENTIAN"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1961,laurentian", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1961, "model": "LAURENTIAN"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1962,laurentian", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1962, "model": "LAURENTIAN"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1964,tempest", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1964, "model": "TEMPEST"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1964,gto", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1964, "model": "GTO"}}}

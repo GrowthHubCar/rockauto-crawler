@@ -1,0 +1,16 @@
+{"node_type": "model", "href": "/en/catalog/jac,2026,sei+2", "payload": {"nodetype": "model", "ctx": {"make": "JAC", "year": 2026, "model": "SEI 2"}}}
+{"node_type": "model", "href": "/en/catalog/jac,2025,frison", "payload": {"nodetype": "model", "ctx": {"make": "JAC", "year": 2025, "model": "FRISON"}}}
+{"node_type": "model", "href": "/en/catalog/jac,2026,frison", "payload": {"nodetype": "model", "ctx": {"make": "JAC", "year": 2026, "model": "FRISON"}}}
+{"node_type": "model", "href": "/en/catalog/jac,2025,x200", "payload": {"nodetype": "model", "ctx": {"make": "JAC", "year": 2025, "model": "X200"}}}
+{"node_type": "model", "href": "/en/catalog/jac,2025,sunray", "payload": {"nodetype": "model", "ctx": {"make": "JAC", "year": 2025, "model": "SUNRAY"}}}
+{"node_type": "model", "href": "/en/catalog/jac,2025,j7", "payload": {"nodetype": "model", "ctx": {"make": "JAC", "year": 2025, "model": "J7"}}}
+{"node_type": "model", "href": "/en/catalog/jac,2025,e+sunray", "payload": {"nodetype": "model", "ctx": {"make": "JAC", "year": 2025, "model": "E SUNRAY"}}}
+{"node_type": "model", "href": "/en/catalog/jac,2025,e10x", "payload": {"nodetype": "model", "ctx": {"make": "JAC", "year": 2025, "model": "E10X"}}}
+{"node_type": "model", "href": "/en/catalog/jac,2025,jac+8", "payload": {"nodetype": "model", "ctx": {"make": "JAC", "year": 2025, "model": "JAC 8"}}}
+{"node_type": "model", "href": "/en/catalog/jac,2026,jac+8", "payload": {"nodetype": "model", "ctx": {"make": "JAC", "year": 2026, "model": "JAC 8"}}}
+{"node_type": "model", "href": "/en/catalog/jac,2025,jac+6", "payload": {"nodetype": "model", "ctx": {"make": "JAC", "year": 2025, "model": "JAC 6"}}}
+{"node_type": "model", "href": "/en/catalog/jac,2026,jac+6", "payload": {"nodetype": "model", "ctx": {"make": "JAC", "year": 2026, "model": "JAC 6"}}}
+{"node_type": "model", "href": "/en/catalog/jac,2025,jac+4", "payload": {"nodetype": "model", "ctx": {"make": "JAC", "year": 2025, "model": "JAC 4"}}}
+{"node_type": "model", "href": "/en/catalog/jac,2025,jac+2", "payload": {"nodetype": "model", "ctx": {"make": "JAC", "year": 2025, "model": "JAC 2"}}}
+{"node_type": "model", "href": "/en/catalog/jac,2025,e30x", "payload": {"nodetype": "model", "ctx": {"make": "JAC", "year": 2025, "model": "E30X"}}}
+{"node_type": "model", "href": "/en/catalog/jac,2026,traveler", "payload": {"nodetype": "model", "ctx": {"make": "JAC", "year": 2026, "model": "TRAVELER"}}}

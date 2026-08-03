@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/porsche,1960,carrera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1960, "model": "CARRERA"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,1961,carrera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1961, "model": "CARRERA"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,1963,carrera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1963, "model": "CARRERA"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,1964,carrera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1964, "model": "CARRERA"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,1961,356b", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1961, "model": "356B"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,1963,356c", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1963, "model": "356C"}}}

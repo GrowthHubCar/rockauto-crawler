@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/mg,1963,magnette", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1963, "model": "MAGNETTE"}}}
+{"node_type": "model", "href": "/en/catalog/mg,1963,mgb", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1963, "model": "MGB"}}}
+{"node_type": "model", "href": "/en/catalog/mg,1962,1100", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1962, "model": "1100"}}}
+{"node_type": "model", "href": "/en/catalog/mg,1963,1100", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1963, "model": "1100"}}}
+{"node_type": "model", "href": "/en/catalog/mg,1964,1100", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1964, "model": "1100"}}}

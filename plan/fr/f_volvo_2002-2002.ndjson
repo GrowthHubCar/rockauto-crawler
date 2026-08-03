@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volvo,2002,v40", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2002, "model": "V40"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2002,s60", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2002, "model": "S60"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2002,v70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2002, "model": "V70"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2002,s80", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2002, "model": "S80"}}}

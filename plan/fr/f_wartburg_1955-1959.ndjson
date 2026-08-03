@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/wartburg,1956,311", "payload": {"nodetype": "model", "ctx": {"make": "WARTBURG", "year": 1956, "model": "311"}}}
+{"node_type": "model", "href": "/en/catalog/wartburg,1957,311", "payload": {"nodetype": "model", "ctx": {"make": "WARTBURG", "year": 1957, "model": "311"}}}
+{"node_type": "model", "href": "/en/catalog/wartburg,1958,311", "payload": {"nodetype": "model", "ctx": {"make": "WARTBURG", "year": 1958, "model": "311"}}}
+{"node_type": "model", "href": "/en/catalog/wartburg,1959,wartburg", "payload": {"nodetype": "model", "ctx": {"make": "WARTBURG", "year": 1959, "model": "WARTBURG"}}}

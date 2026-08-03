@@ -1,0 +1,34 @@
+{"node_type": "model", "href": "/en/catalog/ford,1965,anglia", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1965, "model": "ANGLIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1965,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1965, "model": "THUNDERBIRD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1966,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1966, "model": "THUNDERBIRD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1965,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1965, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1967,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1967, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1968,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1968, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1969,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1969, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1966,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1966, "model": "P-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1967,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1967, "model": "P-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1965,ranchero", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1965, "model": "RANCHERO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1968,ranchero", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1968, "model": "RANCHERO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1965,ltd", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1965, "model": "LTD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1968,ltd", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1968, "model": "LTD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1968,f-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1968, "model": "F-100"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1968,torino", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1968, "model": "TORINO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1966,fairlane", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1966, "model": "FAIRLANE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1968,fairlane", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1968, "model": "FAIRLANE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1967,p-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1967, "model": "P-100"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1969,galaxie", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1969, "model": "GALAXIE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1967,gt40", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1967, "model": "GT40"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1968,gt40", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1968, "model": "GT40"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1969,gt40", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1969, "model": "GT40"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1968,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1968, "model": "F-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1966,custom", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1966, "model": "CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1967,custom", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1967, "model": "CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1969,custom", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1969, "model": "CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1967,country+squire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1967, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1969,country+squire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1969, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1967,country+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1967, "model": "COUNTRY SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1969,country+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1969, "model": "COUNTRY SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1967,bronco", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1967, "model": "BRONCO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1968,bronco", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1968, "model": "BRONCO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1965,econoline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1965, "model": "ECONOLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1966,cortina", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1966, "model": "CORTINA"}}}

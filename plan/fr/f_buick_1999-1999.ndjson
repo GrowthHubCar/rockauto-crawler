@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1999,park+avenue", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1999, "model": "PARK AVENUE"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1999,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1999, "model": "RIVIERA"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1999,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1999, "model": "LESABRE"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1999,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1999, "model": "REGAL"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1999,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1999, "model": "CENTURY"}}}

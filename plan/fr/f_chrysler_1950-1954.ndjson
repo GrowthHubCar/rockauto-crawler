@@ -1,0 +1,19 @@
+{"node_type": "model", "href": "/en/catalog/chrysler,1950,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1950, "model": "TOWN & COUNTRY"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1951,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1951, "model": "TOWN & COUNTRY"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1953,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1953, "model": "TOWN & COUNTRY"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1950,imperial", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1950, "model": "IMPERIAL"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1951,imperial", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1951, "model": "IMPERIAL"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1950,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1950, "model": "NEW YORKER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1951,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1951, "model": "NEW YORKER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1952,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1952, "model": "NEW YORKER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1953,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1953, "model": "NEW YORKER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1950,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1950, "model": "NEWPORT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1951,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1951, "model": "NEWPORT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1952,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1952, "model": "NEWPORT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1953,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1953, "model": "NEWPORT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1954,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1954, "model": "NEWPORT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1950,saratoga", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1950, "model": "SARATOGA"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1951,saratoga", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1951, "model": "SARATOGA"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1952,saratoga", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1952, "model": "SARATOGA"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1951,windsor", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1951, "model": "WINDSOR"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1953,windsor", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1953, "model": "WINDSOR"}}}

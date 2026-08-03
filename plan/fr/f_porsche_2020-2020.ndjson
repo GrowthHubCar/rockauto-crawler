@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/porsche,2020,panamera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2020, "model": "PANAMERA"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,2020,718", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2020, "model": "718"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,2020,macan", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2020, "model": "MACAN"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,2020,cayenne", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2020, "model": "CAYENNE"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,2020,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2020, "model": "911"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,2020,taycan", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2020, "model": "TAYCAN"}}}

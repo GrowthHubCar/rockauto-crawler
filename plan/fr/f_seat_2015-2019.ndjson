@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/seat,2016,leon", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2016, "model": "LEON"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2015,ibiza", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2015, "model": "IBIZA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2017,ibiza", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2017, "model": "IBIZA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2018,ibiza", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2018, "model": "IBIZA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2018,ateca", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2018, "model": "ATECA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2018,arona", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2018, "model": "ARONA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2015,freetrack", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2015, "model": "FREETRACK"}}}

@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1995,840i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1995, "model": "840I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1996,840i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1996, "model": "840I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1995,8", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1995, "model": "8"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1995,318is", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1995, "model": "318IS"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1999,318ti", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1999, "model": "318TI"}}}

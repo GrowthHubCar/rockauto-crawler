@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/kia,1993,sephia+ls", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 1993, "model": "SEPHIA LS"}}}
-{"node_type": "model", "href": "/en/catalog/kia,1993,sephia+rs", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 1993, "model": "SEPHIA RS"}}}
-{"node_type": "model", "href": "/en/catalog/kia,1993,sephia+gs", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 1993, "model": "SEPHIA GS"}}}

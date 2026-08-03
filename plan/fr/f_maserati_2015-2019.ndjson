@@ -1,0 +1,13 @@
+{"node_type": "model", "href": "/en/catalog/maserati,2017,quattroporte", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2017, "model": "QUATTROPORTE"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2018,quattroporte", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2018, "model": "QUATTROPORTE"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2019,quattroporte", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2019, "model": "QUATTROPORTE"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2017,ghibli", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2017, "model": "GHIBLI"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2018,ghibli", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2018, "model": "GHIBLI"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2019,ghibli", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2019, "model": "GHIBLI"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2017,granturismo", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2017, "model": "GRANTURISMO"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2018,granturismo", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2018, "model": "GRANTURISMO"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2019,granturismo", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2019, "model": "GRANTURISMO"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2017,grancabrio", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2017, "model": "GRANCABRIO"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2019,grancabrio", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2019, "model": "GRANCABRIO"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2018,levante", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2018, "model": "LEVANTE"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2019,levante", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2019, "model": "LEVANTE"}}}

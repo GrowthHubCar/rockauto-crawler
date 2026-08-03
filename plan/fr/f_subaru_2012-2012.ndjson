@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/subaru,2012,forester", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2012, "model": "FORESTER"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2012,wrx", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2012, "model": "WRX"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2012,outback", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2012, "model": "OUTBACK"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2012,legacy", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2012, "model": "LEGACY"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2012,impreza", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2012, "model": "IMPREZA"}}}

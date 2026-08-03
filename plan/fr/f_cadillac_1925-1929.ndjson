@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,1925,v-63", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1925, "model": "V-63"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1926,standard", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1926, "model": "STANDARD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1927,standard", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1927, "model": "STANDARD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1926,custom", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1926, "model": "CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1927,custom", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1927, "model": "CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1927,341", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1927, "model": "341"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1927,willoughby", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1927, "model": "WILLOUGHBY"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1927,fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1927, "model": "FLEETWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1928,fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1928, "model": "FLEETWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1929,fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1929, "model": "FLEETWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1927,brunn", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1927, "model": "BRUNN"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1928,fisher+custom", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1928, "model": "FISHER CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1929,fisher", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1929, "model": "FISHER"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1929,341+b", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1929, "model": "341 B"}}}

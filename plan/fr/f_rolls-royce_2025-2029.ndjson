@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/rolls-royce,2025,phantom", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2025, "model": "PHANTOM"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,2026,phantom", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2026, "model": "PHANTOM"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,2025,ghost", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2025, "model": "GHOST"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,2026,ghost", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2026, "model": "GHOST"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,2025,cullinan", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2025, "model": "CULLINAN"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,2026,cullinan", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2026, "model": "CULLINAN"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,2025,spectre", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2025, "model": "SPECTRE"}}}

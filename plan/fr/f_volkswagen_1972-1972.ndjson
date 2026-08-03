@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,1972,safari", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1972, "model": "SAFARI"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1972,411", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1972, "model": "411"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1972,beetle", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1972, "model": "BEETLE"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1972,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1972, "model": "TRANSPORTER"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1972,campmobile", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1972, "model": "CAMPMOBILE"}}}

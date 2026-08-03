@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1991,735il", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1991, "model": "735IL"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1993,840i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1993, "model": "840I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1993,8", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1993, "model": "8"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1994,8", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1994, "model": "8"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1993,740i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1993, "model": "740I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1991,535i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1991, "model": "535I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1994,318i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1994, "model": "318I"}}}

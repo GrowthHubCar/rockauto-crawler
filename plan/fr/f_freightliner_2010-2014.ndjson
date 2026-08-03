@@ -1,0 +1,69 @@
+{"node_type": "model", "href": "/en/catalog/freightliner,2011,xc", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2011, "model": "XC"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2013,xc", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2013, "model": "XC"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2014,xc", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2014, "model": "XC"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2011,xb", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2011, "model": "XB"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2013,xb", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2013, "model": "XB"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2014,xb", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2014, "model": "XB"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2011,sprinter+3500", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2011, "model": "SPRINTER 3500"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2013,sprinter+3500", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2013, "model": "SPRINTER 3500"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2014,sprinter+3500", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2014, "model": "SPRINTER 3500"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2010,sprinter+2500", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2010, "model": "SPRINTER 2500"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2011,sprinter+2500", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2011, "model": "SPRINTER 2500"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2013,sprinter+2500", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2013, "model": "SPRINTER 2500"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2014,sprinter+2500", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2014, "model": "SPRINTER 2500"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2010,sport+chassis", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2010, "model": "SPORT CHASSIS"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2013,sport+chassis", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2013, "model": "SPORT CHASSIS"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2014,sport+chassis", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2014, "model": "SPORT CHASSIS"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2013,s2", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2013, "model": "S2"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2014,s2", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2014, "model": "S2"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2010,mt", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2010, "model": "MT"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2011,mt", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2011, "model": "MT"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2013,mt", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2013, "model": "MT"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2014,mt", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2014, "model": "MT"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2010,mc", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2010, "model": "MC"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2011,mc", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2011, "model": "MC"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2012,mc", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2012, "model": "MC"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2013,mc", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2013, "model": "MC"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2010,mb", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2010, "model": "MB"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2011,mb", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2011, "model": "MB"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2012,mb", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2012, "model": "MB"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2013,mb", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2013, "model": "MB"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2014,mb", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2014, "model": "MB"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2010,m2", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2010, "model": "M2"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2011,m2", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2011, "model": "M2"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2012,m2", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2012, "model": "M2"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2013,m2", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2013, "model": "M2"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2013,fl", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2013, "model": "FL"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2014,fl", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2014, "model": "FL"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2010,coronado", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2010, "model": "CORONADO"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2011,coronado", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2011, "model": "CORONADO"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2012,coronado", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2012, "model": "CORONADO"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2013,coronado", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2013, "model": "CORONADO"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2014,coronado", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2014, "model": "CORONADO"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2010,fld", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2010, "model": "FLD"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2011,fld", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2011, "model": "FLD"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2012,fld", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2012, "model": "FLD"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2010,cascadia", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2010, "model": "CASCADIA"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2011,cascadia", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2011, "model": "CASCADIA"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2012,cascadia", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2012, "model": "CASCADIA"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2013,cascadia", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2013, "model": "CASCADIA"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2014,cascadia", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2014, "model": "CASCADIA"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2010,b2", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2010, "model": "B2"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2011,b2", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2011, "model": "B2"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2012,b2", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2012, "model": "B2"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2014,122sd", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2014, "model": "122SD"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2013,114sd", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2013, "model": "114SD"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2014,114sd", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2014, "model": "114SD"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2013,108sd", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2013, "model": "108SD"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2014,108sd", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2014, "model": "108SD"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2010,century+class", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2010, "model": "CENTURY CLASS"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2010,argosy", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2010, "model": "ARGOSY"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2011,argosy", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2011, "model": "ARGOSY"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2010,classic", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2010, "model": "CLASSIC"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2011,classic", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2011, "model": "CLASSIC"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2010,columbia", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2010, "model": "COLUMBIA"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2011,columbia", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2011, "model": "COLUMBIA"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2012,columbia", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2012, "model": "COLUMBIA"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2013,columbia", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2013, "model": "COLUMBIA"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2014,columbia", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2014, "model": "COLUMBIA"}}}
+{"node_type": "model", "href": "/en/catalog/freightliner,2014,mcl", "payload": {"nodetype": "model", "ctx": {"make": "FREIGHTLINER", "year": 2014, "model": "MCL"}}}

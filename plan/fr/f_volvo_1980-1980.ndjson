@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volvo,1980,262", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1980, "model": "262"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,1980,264", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1980, "model": "264"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,1980,265", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1980, "model": "265"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,1980,244", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1980, "model": "244"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,1980,242", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1980, "model": "242"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,1980,245", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1980, "model": "245"}}}

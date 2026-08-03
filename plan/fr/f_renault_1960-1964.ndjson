@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/renault,1960,dauphine", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1960, "model": "DAUPHINE"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1961,dauphine", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1961, "model": "DAUPHINE"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1962,dauphine", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1962, "model": "DAUPHINE"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1963,dauphine", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1963, "model": "DAUPHINE"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1964,dauphine", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1964, "model": "DAUPHINE"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1961,caravelle", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1961, "model": "CARAVELLE"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1962,caravelle", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1962, "model": "CARAVELLE"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1963,caravelle", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1963, "model": "CARAVELLE"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1964,caravelle", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1964, "model": "CARAVELLE"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1960,4cv", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1960, "model": "4CV"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1961,4cv", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1961, "model": "4CV"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1962,4cv", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1962, "model": "4CV"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1963,r8", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1963, "model": "R8"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1964,r8", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1964, "model": "R8"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/honda,2005,insight", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2005, "model": "INSIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/honda,2009,s2000", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2009, "model": "S2000"}}}

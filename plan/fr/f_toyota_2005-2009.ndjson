@@ -1,0 +1,24 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2005,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2005, "model": "LAND CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2005,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2005, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2009,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2009, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2007,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2007, "model": "CAMRY"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2008,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2008, "model": "CAMRY"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2009,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2009, "model": "CAMRY"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2006,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2006, "model": "4RUNNER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2008,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2008, "model": "4RUNNER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2009,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2009, "model": "4RUNNER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2008,tacoma", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2008, "model": "TACOMA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2009,tacoma", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2009, "model": "TACOMA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2005,sienna", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2005, "model": "SIENNA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2007,tundra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2007, "model": "TUNDRA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2008,tundra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2008, "model": "TUNDRA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2009,tundra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2009, "model": "TUNDRA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2006,solara", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2006, "model": "SOLARA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2007,prius", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2007, "model": "PRIUS"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2005,hilux", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2005, "model": "HILUX"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2006,hilux", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2006, "model": "HILUX"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2007,hilux", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2007, "model": "HILUX"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2005,highlander", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2005, "model": "HIGHLANDER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2005,mr2+spyder", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2005, "model": "MR2 SPYDER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2008,hiace", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2008, "model": "HIACE"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2009,hiace", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2009, "model": "HIACE"}}}

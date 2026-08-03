@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volvo,1998,v90", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1998, "model": "V90"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,1998,s90", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1998, "model": "S90"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,1998,c70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1998, "model": "C70"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,1998,v70", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1998, "model": "V70"}}}

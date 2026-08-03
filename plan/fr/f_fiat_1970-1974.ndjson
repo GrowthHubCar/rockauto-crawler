@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/fiat,1970,124", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1970, "model": "124"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1972,124", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1972, "model": "124"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1973,124", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1973, "model": "124"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1970,850", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1970, "model": "850"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1971,850", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1971, "model": "850"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1972,850", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1972, "model": "850"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1973,850", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1973, "model": "850"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1972,128", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1972, "model": "128"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1973,128", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1973, "model": "128"}}}

@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/renault,1975,r8", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1975, "model": "R8"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1975,r12", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1975, "model": "R12"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1977,r12", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1977, "model": "R12"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1978,r12", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1978, "model": "R12"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1979,r12", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1979, "model": "R12"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1975,r17", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1975, "model": "R17"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1977,r17", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1977, "model": "R17"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1978,r17", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1978, "model": "R17"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1979,r17", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1979, "model": "R17"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1975,r15", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1975, "model": "R15"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1977,r15", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1977, "model": "R15"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1977,lecar", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1977, "model": "LECAR"}}}

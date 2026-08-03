@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,2007,topkick", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2007, "model": "TOPKICK"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,2007,yukon+xl+1500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2007, "model": "YUKON XL 1500"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,2007,yukon", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2007, "model": "YUKON"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,2007,sierra+3500+classic", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2007, "model": "SIERRA 3500 CLASSIC"}}}

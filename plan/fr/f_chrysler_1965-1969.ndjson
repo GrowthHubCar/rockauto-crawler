@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/chrysler,1967,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1967, "model": "TOWN & COUNTRY"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1969,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1969, "model": "TOWN & COUNTRY"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1966,300", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1966, "model": "300"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1967,300", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1967, "model": "300"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1968,300", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1968, "model": "300"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1966,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1966, "model": "NEW YORKER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1969,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1969, "model": "NEW YORKER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1966,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1966, "model": "NEWPORT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1968,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1968, "model": "NEWPORT"}}}

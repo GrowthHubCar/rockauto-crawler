@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1987,topaz", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1987, "model": "TOPAZ"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1987,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1987, "model": "P-350"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1987,ltd+crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1987, "model": "LTD CROWN VICTORIA"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1987,taurus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1987, "model": "TAURUS"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1987,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1987, "model": "THUNDERBIRD"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1987,f-800", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1987, "model": "F-800"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1987,tempo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1987, "model": "TEMPO"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1987,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1987, "model": "MUSTANG"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1987,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1987, "model": "RANGER"}}}

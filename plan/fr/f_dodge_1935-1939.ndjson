@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/dodge,1935,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1935, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1936,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1936, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1937,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1937, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1938,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1938, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1939,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1939, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1936,series+d-4+deluxe", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1936, "model": "SERIES D-4 DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1936,series+d-3+standard", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1936, "model": "SERIES D-3 STANDARD"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1937,series+d-6+six", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1937, "model": "SERIES D-6 SIX"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1937,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1937, "model": "DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1938,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1938, "model": "DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1938,series+d9+six", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1938, "model": "SERIES D9 SIX"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1938,series+d10+six", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1938, "model": "SERIES D10 SIX"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1939,series+d12+six", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1939, "model": "SERIES D12 SIX"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1935,series+du+six", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1935, "model": "SERIES DU SIX"}}}

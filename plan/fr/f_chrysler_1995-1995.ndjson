@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chrysler,1995,stratus", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "STRATUS"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,1995,spirit", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "SPIRIT"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,1995,voyager", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "VOYAGER"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,1995,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "TOWN & COUNTRY"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,1995,sebring", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1995, "model": "SEBRING"}}}

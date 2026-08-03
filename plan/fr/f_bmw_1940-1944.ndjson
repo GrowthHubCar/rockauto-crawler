@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1940,327", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1940, "model": "327"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1941,327", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1941, "model": "327"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1940,326", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1940, "model": "326"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1941,326", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1941, "model": "326"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1940,325", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1940, "model": "325"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1940,335", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1940, "model": "335"}}}

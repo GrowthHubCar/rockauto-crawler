@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/franklin,1925,model+10+c", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1925, "model": "MODEL 10 C"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1926,model+11+a", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1926, "model": "MODEL 11 A"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1927,model+11+b", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1927, "model": "MODEL 11 B"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1928,airman", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1928, "model": "AIRMAN"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1929,model+137", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1929, "model": "MODEL 137"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1929,model+135", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1929, "model": "MODEL 135"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1929,model+130", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1929, "model": "MODEL 130"}}}

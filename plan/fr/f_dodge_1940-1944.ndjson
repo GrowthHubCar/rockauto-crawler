@@ -1,0 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/dodge,1940,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1940, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1941,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1941, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1942,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1942, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1943,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1943, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1944,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1944, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1940,series+d15+deluxe+six", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1940, "model": "SERIES D15 DELUXE SIX"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1940,series+d14+deluxe+six", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1940, "model": "SERIES D14 DELUXE SIX"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1940,kingsway", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1940, "model": "KINGSWAY"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1942,deluxe+series+d-22", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1942, "model": "DELUXE SERIES D-22"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1942,custom+series+d-22", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1942, "model": "CUSTOM SERIES D-22"}}}

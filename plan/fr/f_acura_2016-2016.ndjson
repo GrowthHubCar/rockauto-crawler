@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/acura,2016,rlx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2016, "model": "RLX"}}}
-{"node_type": "model", "href": "/en/catalog/acura,2016,rdx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2016, "model": "RDX"}}}
-{"node_type": "model", "href": "/en/catalog/acura,2016,ilx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2016, "model": "ILX"}}}
-{"node_type": "model", "href": "/en/catalog/acura,2016,mdx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2016, "model": "MDX"}}}

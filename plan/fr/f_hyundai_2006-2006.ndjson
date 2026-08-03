@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2006,santa+fe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2006, "model": "SANTA FE"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2006,tucson", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2006, "model": "TUCSON"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2006,tiburon", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2006, "model": "TIBURON"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2006,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2006, "model": "SONATA"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2006,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2006, "model": "ELANTRA"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2006,accent", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2006, "model": "ACCENT"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2006,azera", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2006, "model": "AZERA"}}}

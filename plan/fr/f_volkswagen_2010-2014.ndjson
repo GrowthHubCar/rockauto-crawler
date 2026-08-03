@@ -1,0 +1,17 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2013,touareg", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "TOUAREG"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2014,touareg", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2014, "model": "TOUAREG"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2012,tiguan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "TIGUAN"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2014,tiguan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2014, "model": "TIGUAN"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2010,saveiro", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "SAVEIRO"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2011,saveiro", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "SAVEIRO"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2012,saveiro", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "SAVEIRO"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2014,polo", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2014, "model": "POLO"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2010,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "JETTA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2013,crossfox", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "CROSSFOX"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2013,cc", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "CC"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2013,crafter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "CRAFTER"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2013,multivan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "MULTIVAN"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2010,spacefox", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "SPACEFOX"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2011,spacefox", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "SPACEFOX"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2013,gol", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "GOL"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2011,gol+sedan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "GOL SEDAN"}}}

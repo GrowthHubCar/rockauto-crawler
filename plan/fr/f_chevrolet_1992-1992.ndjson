@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1992,sprint", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1992, "model": "SPRINT"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1992,lumina", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1992, "model": "LUMINA"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1992,stepvan", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1992, "model": "STEPVAN"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1992,tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1992, "model": "TILTMASTER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1992,s10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1992, "model": "S10 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1992,s10+blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1992, "model": "S10 BLAZER"}}}

@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/subaru,2023,ascent", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2023, "model": "ASCENT"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2023,crosstrek", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2023, "model": "CROSSTREK"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2023,brz", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2023, "model": "BRZ"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2023,wrx", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2023, "model": "WRX"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2023,impreza", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2023, "model": "IMPREZA"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2023,outback", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2023, "model": "OUTBACK"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2023,forester", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2023, "model": "FORESTER"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2023,solterra", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2023, "model": "SOLTERRA"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,2023,legacy", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2023, "model": "LEGACY"}}}

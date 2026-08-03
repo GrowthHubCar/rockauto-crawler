@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/rolls-royce,2013,phantom", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2013, "model": "PHANTOM"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,2013,ghost", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2013, "model": "GHOST"}}}

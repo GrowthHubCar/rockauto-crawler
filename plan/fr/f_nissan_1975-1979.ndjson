@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/nissan,1976,b210", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1976, "model": "B210"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1976,610", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1976, "model": "610"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1978,810", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1978, "model": "810"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1979,210", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1979, "model": "210"}}}

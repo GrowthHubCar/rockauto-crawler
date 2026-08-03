@@ -1,0 +1,20 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2017,touareg", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2017, "model": "TOUAREG"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2017,tiguan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2017, "model": "TIGUAN"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2018,tiguan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2018, "model": "TIGUAN"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2019,teramont", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2019, "model": "TERAMONT"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2016,saveiro", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2016, "model": "SAVEIRO"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2017,saveiro", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2017, "model": "SAVEIRO"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2015,polo", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2015, "model": "POLO"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2019,polo", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2019, "model": "POLO"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2017,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2017, "model": "PASSAT"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2018,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2018, "model": "PASSAT"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2015,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2015, "model": "JETTA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2016,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2016, "model": "JETTA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2018,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2018, "model": "JETTA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2015,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2015, "model": "GOLF"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2017,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2017, "model": "GOLF"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2019,crafter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2019, "model": "CRAFTER"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2019,gti", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2019, "model": "GTI"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2015,nuevo+gol", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2015, "model": "NUEVO GOL"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2018,gol", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2018, "model": "GOL"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2019,gol", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2019, "model": "GOL"}}}

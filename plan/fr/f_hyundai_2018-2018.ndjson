@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2018,grand+i10", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "GRAND I10"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2018,h200", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "H200"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2018,h300", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "H300"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2018,kona", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "KONA"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2018,tucson", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "TUCSON"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2018,elantra+gt", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "ELANTRA GT"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2018,santa+fe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "SANTA FE"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2018,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "SONATA"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2018,ioniq", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "IONIQ"}}}

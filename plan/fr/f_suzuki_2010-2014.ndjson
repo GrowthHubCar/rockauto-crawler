@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/suzuki,2010,swift", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2010, "model": "SWIFT"}}}
+{"node_type": "model", "href": "/en/catalog/suzuki,2013,swift", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2013, "model": "SWIFT"}}}
+{"node_type": "model", "href": "/en/catalog/suzuki,2014,grand+vitara", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2014, "model": "GRAND VITARA"}}}
+{"node_type": "model", "href": "/en/catalog/suzuki,2011,sx4", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2011, "model": "SX4"}}}
+{"node_type": "model", "href": "/en/catalog/suzuki,2013,kizashi", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2013, "model": "KIZASHI"}}}

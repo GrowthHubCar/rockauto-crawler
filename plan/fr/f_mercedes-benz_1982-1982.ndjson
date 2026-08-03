@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1982,380sl", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1982, "model": "380SL"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1982,380sel", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1982, "model": "380SEL"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1982,380sec", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1982, "model": "380SEC"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1982,240d", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1982, "model": "240D"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1982,300sd", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1982, "model": "300SD"}}}

@@ -1,0 +1,11 @@
+{"node_type": "model", "href": "/en/catalog/chrysler,1981,imperial", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1981, "model": "IMPERIAL"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1981,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1981, "model": "NEW YORKER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1980,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1980, "model": "NEWPORT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1980,valiant", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1980, "model": "VALIANT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1981,valiant", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1981, "model": "VALIANT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1983,valiant", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1983, "model": "VALIANT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1983,fifth+avenue", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1983, "model": "FIFTH AVENUE"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1984,e+class", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1984, "model": "E CLASS"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1981,cordoba", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1981, "model": "CORDOBA"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1982,cordoba", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1982, "model": "CORDOBA"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1983,cordoba", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1983, "model": "CORDOBA"}}}

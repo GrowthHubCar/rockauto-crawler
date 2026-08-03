@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/volvo,1971,144", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1971, "model": "144"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,1973,144", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1973, "model": "144"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,1971,142", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1971, "model": "142"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,1973,145", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1973, "model": "145"}}}
+{"node_type": "model", "href": "/en/catalog/volvo,1971,164", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1971, "model": "164"}}}

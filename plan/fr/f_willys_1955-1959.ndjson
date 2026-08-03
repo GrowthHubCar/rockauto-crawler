@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/willys,1955,aero+lark", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1955, "model": "AERO LARK"}}}
+{"node_type": "model", "href": "/en/catalog/willys,1955,aero+comet", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1955, "model": "AERO COMET"}}}
+{"node_type": "model", "href": "/en/catalog/willys,1955,aero+ace", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1955, "model": "AERO ACE"}}}
+{"node_type": "model", "href": "/en/catalog/willys,1955,custom", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1955, "model": "CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/willys,1955,bermuda", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1955, "model": "BERMUDA"}}}

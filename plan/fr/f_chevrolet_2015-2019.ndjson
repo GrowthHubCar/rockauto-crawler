@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2017,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2017,tornado", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "TORNADO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2019,tornado", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "TORNADO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2016,silverado+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "SILVERADO 2500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2018,silverado+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "SILVERADO 2500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2019,silverado+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "SILVERADO 2500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2018,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "IMPALA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2019,silverado+5500+hd", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "SILVERADO 5500 HD"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2019,lcf", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "LCF"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2018,express+cargo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "EXPRESS CARGO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2017,cheyenne", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "CHEYENNE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2019,cheyenne", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "CHEYENNE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2015,aveo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "AVEO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2016,impala+limited", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "IMPALA LIMITED"}}}

@@ -1,0 +1,16 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2008,z4", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2008, "model": "Z4"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2008,m5", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2008, "model": "M5"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2009,525i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2009, "model": "525I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2008,323i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2008, "model": "323I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2007,328i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2007, "model": "328I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2009,528i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2009, "model": "528I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2005,745i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2005, "model": "745I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2006,760li", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2006, "model": "760LI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2007,760li", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2007, "model": "760LI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2006,760i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2006, "model": "760I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2005,330ci", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2005, "model": "330CI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2008,alpina+b7", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2008, "model": "ALPINA B7"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2007,650i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2007, "model": "650I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2008,650i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2008, "model": "650I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2008,550i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2008, "model": "550I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2005,120i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2005, "model": "120I"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/nissan,1961,patrol", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1961, "model": "PATROL"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1961,320", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1961, "model": "320"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1961,bluebird", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1961, "model": "BLUEBIRD"}}}

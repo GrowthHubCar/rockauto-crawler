@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/land+rover,2020,range+rover+sport", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2020, "model": "RANGE ROVER SPORT"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,2020,range+rover+velar", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2020, "model": "RANGE ROVER VELAR"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,2020,discovery+sport", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2020, "model": "DISCOVERY SPORT"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,2020,defender+110", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2020, "model": "DEFENDER 110"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,2020,defender+90", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2020, "model": "DEFENDER 90"}}}

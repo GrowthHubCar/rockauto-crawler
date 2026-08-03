@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/porsche,1981,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1981, "model": "911"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,1982,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1982, "model": "911"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,1983,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1983, "model": "911"}}}

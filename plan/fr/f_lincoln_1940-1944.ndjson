@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/lincoln,1942,zephyr", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1942, "model": "ZEPHYR"}}}
+{"node_type": "model", "href": "/en/catalog/lincoln,1940,series+k", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1940, "model": "SERIES K"}}}
+{"node_type": "model", "href": "/en/catalog/lincoln,1941,custom", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1941, "model": "CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/lincoln,1942,custom", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1942, "model": "CUSTOM"}}}

@@ -1,0 +1,16 @@
+{"node_type": "model", "href": "/en/catalog/studebaker,1927,dictator", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1927, "model": "DICTATOR"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1929,dictator", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1929, "model": "DICTATOR"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1927,commander", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1927, "model": "COMMANDER"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1928,commander", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1928, "model": "COMMANDER"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1928,president+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1928, "model": "PRESIDENT SIX"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1929,president+eight", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1929, "model": "PRESIDENT EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1929,commander+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1929, "model": "COMMANDER SIX"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1929,commander+eight", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1929, "model": "COMMANDER EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1927,president", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1927, "model": "PRESIDENT"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1925,big+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1925, "model": "BIG SIX"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1926,big+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1926, "model": "BIG SIX"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1925,special+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1925, "model": "SPECIAL SIX"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1926,special+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1926, "model": "SPECIAL SIX"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1925,standard+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1925, "model": "STANDARD SIX"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1926,standard+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1926, "model": "STANDARD SIX"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1927,special", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1927, "model": "SPECIAL"}}}

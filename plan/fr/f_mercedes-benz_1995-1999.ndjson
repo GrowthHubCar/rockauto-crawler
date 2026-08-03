@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1998,sl320", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "SL320"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1996,s-class", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "S-CLASS"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1997,e300", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "E300"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1998,sl60+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "SL60 AMG"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,sl60+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "SL60 AMG"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,s320", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "S320"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1998,ml430", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "ML430"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1997,s420", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "S420"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,sl500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "SL500"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,e430", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "E430"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1997,cl600", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "CL600"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,cl600", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "CL600"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,g500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "G500"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1998,clk430", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "CLK430"}}}

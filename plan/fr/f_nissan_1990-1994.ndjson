@@ -1,0 +1,17 @@
+{"node_type": "model", "href": "/en/catalog/nissan,1990,pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1990, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1992,pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1992, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1990,micra", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1990, "model": "MICRA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1990,300zx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1990, "model": "300ZX"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1992,300zx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1992, "model": "300ZX"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1994,300zx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1994, "model": "300ZX"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1990,ichi+van", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1990, "model": "ICHI VAN"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1991,ichi+van", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1991, "model": "ICHI VAN"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1992,ichi+van", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1992, "model": "ICHI VAN"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1993,ichi+van", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1993, "model": "ICHI VAN"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1993,tsubame", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1993, "model": "TSUBAME"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1994,tsubame", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1994, "model": "TSUBAME"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1994,altima", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1994, "model": "ALTIMA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1990,hikari", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1990, "model": "HIKARI"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1992,hikari", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1992, "model": "HIKARI"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1990,240sx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1990, "model": "240SX"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1992,240sx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1992, "model": "240SX"}}}

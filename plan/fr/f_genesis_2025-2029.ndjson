@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/genesis,2025,g80", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2025, "model": "G80"}}}
+{"node_type": "model", "href": "/en/catalog/genesis,2026,g80", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2026, "model": "G80"}}}
+{"node_type": "model", "href": "/en/catalog/genesis,2025,g90", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2025, "model": "G90"}}}
+{"node_type": "model", "href": "/en/catalog/genesis,2025,gv80", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2025, "model": "GV80"}}}
+{"node_type": "model", "href": "/en/catalog/genesis,2026,gv80", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2026, "model": "GV80"}}}
+{"node_type": "model", "href": "/en/catalog/genesis,2025,g70", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2025, "model": "G70"}}}
+{"node_type": "model", "href": "/en/catalog/genesis,2025,gv80+coupe", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2025, "model": "GV80 COUPE"}}}
+{"node_type": "model", "href": "/en/catalog/genesis,2025,gv60", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2025, "model": "GV60"}}}

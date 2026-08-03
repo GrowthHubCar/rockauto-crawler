@@ -1,0 +1,11 @@
+{"node_type": "model", "href": "/en/catalog/ram,2016,promaster+2500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2016, "model": "PROMASTER 2500"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2018,promaster+2500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2018, "model": "PROMASTER 2500"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2016,700", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2016, "model": "700"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2018,700", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2018, "model": "700"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2019,700", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2019, "model": "700"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2016,4500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2016, "model": "4500"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2017,4500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2017, "model": "4500"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2017,4000", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2017, "model": "4000"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2019,3500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2019, "model": "3500"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2017,1500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2017, "model": "1500"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2016,c/v", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2016, "model": "C/V"}}}

@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/mini,2023,cooper", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2023, "model": "COOPER"}}}
+{"node_type": "model", "href": "/en/catalog/mini,2020,cooper+countryman", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2020, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "model", "href": "/en/catalog/mini,2021,cooper+countryman", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2021, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "model", "href": "/en/catalog/mini,2023,cooper+countryman", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2023, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "model", "href": "/en/catalog/mini,2021,cooper+clubman", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2021, "model": "COOPER CLUBMAN"}}}
+{"node_type": "model", "href": "/en/catalog/mini,2023,cooper+clubman", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2023, "model": "COOPER CLUBMAN"}}}

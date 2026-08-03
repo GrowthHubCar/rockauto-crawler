@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1998,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1998, "model": "REGAL"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1998,park+avenue", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1998, "model": "PARK AVENUE"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1998,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1998, "model": "SKYLARK"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1998,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1998, "model": "CENTURY"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1998,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1998, "model": "LESABRE"}}}

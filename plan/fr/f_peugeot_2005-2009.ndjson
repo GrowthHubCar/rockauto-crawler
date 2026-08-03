@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/peugeot,2007,partner", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2007, "model": "PARTNER"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2009,partner", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2009, "model": "PARTNER"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2007,manager", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2007, "model": "MANAGER"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2009,manager", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2009, "model": "MANAGER"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2009,expert", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2009, "model": "EXPERT"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2007,grand+raid", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2007, "model": "GRAND RAID"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2009,grand+raid", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2009, "model": "GRAND RAID"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2005,206", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2005, "model": "206"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2008,206", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2008, "model": "206"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2009,206", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2009, "model": "206"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2007,607", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2007, "model": "607"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2007,407", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2007, "model": "407"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2009,307", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2009, "model": "307"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2009,207+compact", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2009, "model": "207 COMPACT"}}}

@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/aston+martin,2003,db7", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2003, "model": "DB7"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,2004,db7", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2004, "model": "DB7"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,2003,vanquish", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2003, "model": "VANQUISH"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,2004,vanquish", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2004, "model": "VANQUISH"}}}

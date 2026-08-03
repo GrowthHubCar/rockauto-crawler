@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/triumph,1965,herald", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1965, "model": "HERALD"}}}
+{"node_type": "model", "href": "/en/catalog/triumph,1966,herald", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1966, "model": "HERALD"}}}
+{"node_type": "model", "href": "/en/catalog/triumph,1967,herald", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1967, "model": "HERALD"}}}
+{"node_type": "model", "href": "/en/catalog/triumph,1968,herald", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1968, "model": "HERALD"}}}
+{"node_type": "model", "href": "/en/catalog/triumph,1969,herald", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1969, "model": "HERALD"}}}
+{"node_type": "model", "href": "/en/catalog/triumph,1967,spitfire", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1967, "model": "SPITFIRE"}}}
+{"node_type": "model", "href": "/en/catalog/triumph,1969,spitfire", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1969, "model": "SPITFIRE"}}}
+{"node_type": "model", "href": "/en/catalog/triumph,1967,tr4a", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1967, "model": "TR4A"}}}
+{"node_type": "model", "href": "/en/catalog/triumph,1969,tr6", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1969, "model": "TR6"}}}

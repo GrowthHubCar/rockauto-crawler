@@ -1,0 +1,11 @@
+{"node_type": "model", "href": "/en/catalog/ferrari,1955,375+america", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1955, "model": "375 AMERICA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1955,250+gt", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1955, "model": "250 GT"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1956,250+gt", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1956, "model": "250 GT"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1957,250+gt", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1957, "model": "250 GT"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1958,250+gt", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1958, "model": "250 GT"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1959,250+gt", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1959, "model": "250 GT"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1955,250+europa", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1955, "model": "250 EUROPA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1956,410+superamerica", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1956, "model": "410 SUPERAMERICA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1957,410+superamerica", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1957, "model": "410 SUPERAMERICA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1958,410+superamerica", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1958, "model": "410 SUPERAMERICA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1959,410+superamerica", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1959, "model": "410 SUPERAMERICA"}}}

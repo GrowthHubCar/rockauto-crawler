@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/maserati,2003,quattroporte", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2003, "model": "QUATTROPORTE"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2003,spyder", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2003, "model": "SPYDER"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2003,3200+gt", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2003, "model": "3200 GT"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2003,coupe", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2003, "model": "COUPE"}}}

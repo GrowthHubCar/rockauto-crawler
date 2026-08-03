@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/franklin,1903,four", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1903, "model": "FOUR"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1904,type+f", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1904, "model": "TYPE F"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1904,type+e", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1904, "model": "TYPE E"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1904,type+d", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1904, "model": "TYPE D"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1904,type+c", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1904, "model": "TYPE C"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1904,type+b", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1904, "model": "TYPE B"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1904,type+a", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1904, "model": "TYPE A"}}}

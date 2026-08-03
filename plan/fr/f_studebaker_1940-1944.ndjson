@@ -1,0 +1,13 @@
+{"node_type": "model", "href": "/en/catalog/studebaker,1942,commander", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1942, "model": "COMMANDER"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1942,president", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1942, "model": "PRESIDENT"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1940,champion", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1940, "model": "CHAMPION"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1942,champion", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1942, "model": "CHAMPION"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1943,m5", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1943, "model": "M5"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1944,m5", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1944, "model": "M5"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1942,m17", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1942, "model": "M17"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1943,m17", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1943, "model": "M17"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1944,m17", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1944, "model": "M17"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1941,m16", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1941, "model": "M16"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1942,m16", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1942, "model": "M16"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1943,m16", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1943, "model": "M16"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1944,m16", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1944, "model": "M16"}}}

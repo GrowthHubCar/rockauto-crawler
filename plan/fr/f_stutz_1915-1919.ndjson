@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/stutz,1915,model+h.c.s", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1915, "model": "MODEL H.C.S"}}}
+{"node_type": "model", "href": "/en/catalog/stutz,1915,model+6f", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1915, "model": "MODEL 6F"}}}
+{"node_type": "model", "href": "/en/catalog/stutz,1915,model+4f", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1915, "model": "MODEL 4F"}}}
+{"node_type": "model", "href": "/en/catalog/stutz,1916,model+c", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1916, "model": "MODEL C"}}}
+{"node_type": "model", "href": "/en/catalog/stutz,1916,bulldog+special", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1916, "model": "BULLDOG SPECIAL"}}}
+{"node_type": "model", "href": "/en/catalog/stutz,1917,series+r", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1917, "model": "SERIES R"}}}
+{"node_type": "model", "href": "/en/catalog/stutz,1918,series+s", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1918, "model": "SERIES S"}}}
+{"node_type": "model", "href": "/en/catalog/stutz,1919,series+g", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1919, "model": "SERIES G"}}}

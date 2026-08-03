@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/mazda,1994,protege", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1994, "model": "PROTEGE"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1991,mpv", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1991, "model": "MPV"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1994,929", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1994, "model": "929"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1993,mx-3", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1993, "model": "MX-3"}}}

@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/plymouth,1989,expo", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1989, "model": "EXPO"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1989,horizon", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1989, "model": "HORIZON"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1989,voyager", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1989, "model": "VOYAGER"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1980,volare", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "VOLARE"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1983,turismo", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1983, "model": "TURISMO"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1980,trailduster", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "TRAILDUSTER"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1989,sundance", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1989, "model": "SUNDANCE"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1989,colt+vista", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1989, "model": "COLT VISTA"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1986,voyager", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1986, "model": "VOYAGER"}}}

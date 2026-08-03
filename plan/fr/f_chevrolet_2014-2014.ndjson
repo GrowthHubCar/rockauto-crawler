@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2014,tornado", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2014, "model": "TORNADO"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2014,trax", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2014, "model": "TRAX"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2014,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2014, "model": "SUBURBAN"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2014,sonic", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2014, "model": "SONIC"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2014,spark+ev", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2014, "model": "SPARK EV"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2014,spark", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2014, "model": "SPARK"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2014,ss", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2014, "model": "SS"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2014,silverado+3500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2014, "model": "SILVERADO 3500"}}}

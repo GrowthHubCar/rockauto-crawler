@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/lamborghini,2010,gallardo", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 2010, "model": "GALLARDO"}}}
+{"node_type": "model", "href": "/en/catalog/lamborghini,2012,gallardo", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 2012, "model": "GALLARDO"}}}
+{"node_type": "model", "href": "/en/catalog/lamborghini,2012,aventador", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 2012, "model": "AVENTADOR"}}}
+{"node_type": "model", "href": "/en/catalog/lamborghini,2010,murcielago", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 2010, "model": "MURCIELAGO"}}}

@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/land+rover,2018,range+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2018, "model": "RANGE ROVER"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2016,discovery", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2016, "model": "DISCOVERY"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2019,discovery", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2019, "model": "DISCOVERY"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2019,range+rover+sport", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2019, "model": "RANGE ROVER SPORT"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2016,defender", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2016, "model": "DEFENDER"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2019,range+rover+velar", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2019, "model": "RANGE ROVER VELAR"}}}

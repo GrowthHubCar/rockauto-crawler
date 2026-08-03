@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lexus,2006,ls430", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2006, "model": "LS430"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2006,gs430", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2006, "model": "GS430"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2006,lx470", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2006, "model": "LX470"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2006,gx470", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2006, "model": "GX470"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2006,rx330", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2006, "model": "RX330"}}}

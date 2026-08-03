@@ -1,0 +1,15 @@
+{"node_type": "model", "href": "/en/catalog/plymouth,1977,fury", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1977, "model": "FURY"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1978,fury", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1978, "model": "FURY"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1975,valiant", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1975, "model": "VALIANT"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1976,volare", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1976, "model": "VOLARE"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1979,volare", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1979, "model": "VOLARE"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1976,trailduster", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1976, "model": "TRAILDUSTER"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1977,trailduster", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1977, "model": "TRAILDUSTER"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1978,trailduster", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1978, "model": "TRAILDUSTER"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1978,pb300", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1978, "model": "PB300"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1976,pb100", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1976, "model": "PB100"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1977,pb100", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1977, "model": "PB100"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1977,gran+fury", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1977, "model": "GRAN FURY"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1979,caravelle", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1979, "model": "CARAVELLE"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1977,arrow", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1977, "model": "ARROW"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1979,arrow", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1979, "model": "ARROW"}}}

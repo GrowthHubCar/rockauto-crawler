@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,1967,crown", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1967, "model": "CROWN"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1967,stout", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1967, "model": "STOUT"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1967,2000gt", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1967, "model": "2000GT"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1967,corona", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1967, "model": "CORONA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1967,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1967, "model": "LAND CRUISER"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1967,pickup", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1967, "model": "PICKUP"}}}

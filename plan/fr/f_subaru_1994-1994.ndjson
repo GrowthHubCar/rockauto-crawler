@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/subaru,1994,justy", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1994, "model": "JUSTY"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,1994,legacy", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1994, "model": "LEGACY"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,1994,svx", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1994, "model": "SVX"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,1994,impreza", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1994, "model": "IMPREZA"}}}

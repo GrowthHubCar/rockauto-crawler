@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,2004,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2004, "model": "LESABRE"}}}
-{"node_type": "model", "href": "/en/catalog/buick,2004,park+avenue", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2004, "model": "PARK AVENUE"}}}
-{"node_type": "model", "href": "/en/catalog/buick,2004,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2004, "model": "CENTURY"}}}
-{"node_type": "model", "href": "/en/catalog/buick,2004,rainier", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2004, "model": "RAINIER"}}}

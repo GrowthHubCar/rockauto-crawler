@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/porsche,2021,macan", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2021, "model": "MACAN"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,2021,panamera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2021, "model": "PANAMERA"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,2021,taycan", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2021, "model": "TAYCAN"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,2021,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2021, "model": "911"}}}

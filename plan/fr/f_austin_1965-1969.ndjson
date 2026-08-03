@@ -1,0 +1,15 @@
+{"node_type": "model", "href": "/en/catalog/austin,1965,mini+cooper", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1965, "model": "MINI COOPER"}}}
+{"node_type": "model", "href": "/en/catalog/austin,1966,mini+cooper", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1966, "model": "MINI COOPER"}}}
+{"node_type": "model", "href": "/en/catalog/austin,1967,mini+cooper", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1967, "model": "MINI COOPER"}}}
+{"node_type": "model", "href": "/en/catalog/austin,1968,mini+cooper", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1968, "model": "MINI COOPER"}}}
+{"node_type": "model", "href": "/en/catalog/austin,1969,mini+cooper", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1969, "model": "MINI COOPER"}}}
+{"node_type": "model", "href": "/en/catalog/austin,1965,mini", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1965, "model": "MINI"}}}
+{"node_type": "model", "href": "/en/catalog/austin,1966,mini", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1966, "model": "MINI"}}}
+{"node_type": "model", "href": "/en/catalog/austin,1968,america", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1968, "model": "AMERICA"}}}
+{"node_type": "model", "href": "/en/catalog/austin,1965,mini+850", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1965, "model": "MINI 850"}}}
+{"node_type": "model", "href": "/en/catalog/austin,1966,mini+850", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1966, "model": "MINI 850"}}}
+{"node_type": "model", "href": "/en/catalog/austin,1967,mini+850", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1967, "model": "MINI 850"}}}
+{"node_type": "model", "href": "/en/catalog/austin,1965,princess", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1965, "model": "PRINCESS"}}}
+{"node_type": "model", "href": "/en/catalog/austin,1966,princess", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1966, "model": "PRINCESS"}}}
+{"node_type": "model", "href": "/en/catalog/austin,1965,mini+moke", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1965, "model": "MINI MOKE"}}}
+{"node_type": "model", "href": "/en/catalog/austin,1966,mini+moke", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1966, "model": "MINI MOKE"}}}

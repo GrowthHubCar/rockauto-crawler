@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/dodge,1933,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1933, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1934,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1934, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1932,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1932, "model": "DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1933,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1933, "model": "DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1934,series+ds+special", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1934, "model": "SERIES DS SPECIAL"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1934,series+drxx+standard", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1934, "model": "SERIES DRXX STANDARD"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1934,series+dr+deluxe", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1934, "model": "SERIES DR DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1931,series+dg+eight", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1931, "model": "SERIES DG EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1931,series+dd+six", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1931, "model": "SERIES DD SIX"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1931,series+dc+eight", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1931, "model": "SERIES DC EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1932,series+dl+six", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1932, "model": "SERIES DL SIX"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1932,series+dk+eight", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1932, "model": "SERIES DK EIGHT"}}}

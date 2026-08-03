@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2020,vento", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2020, "model": "VENTO"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2020,virtus", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2020, "model": "VIRTUS"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2020,polo", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2020, "model": "POLO"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2020,saveiro", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2020, "model": "SAVEIRO"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2020,t-cross", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2020, "model": "T-CROSS"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2020,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2020, "model": "TRANSPORTER"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2020,tiguan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2020, "model": "TIGUAN"}}}

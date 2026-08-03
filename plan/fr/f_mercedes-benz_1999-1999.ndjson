@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,g500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "G500"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,sl60+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "SL60 AMG"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,s430", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "S430"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,ml430", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "ML430"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,slk230", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "SLK230"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,s420", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "S420"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,s600", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "S600"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,s500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "S500"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,e320", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "E320"}}}

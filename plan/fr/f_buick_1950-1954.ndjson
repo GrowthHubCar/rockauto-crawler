@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/buick,1952,special", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1952, "model": "SPECIAL"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1951,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1951, "model": "CENTURY"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1952,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1952, "model": "CENTURY"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1953,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1953, "model": "CENTURY"}}}

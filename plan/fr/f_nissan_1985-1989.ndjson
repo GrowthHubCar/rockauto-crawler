@@ -1,0 +1,16 @@
+{"node_type": "model", "href": "/en/catalog/nissan,1985,200sx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1985, "model": "200SX"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1988,200sx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1988, "model": "200SX"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1985,sakura", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1985, "model": "SAKURA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1988,pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1988, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1985,micra", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1985, "model": "MICRA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1989,micra", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1989, "model": "MICRA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1986,300zx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1986, "model": "300ZX"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1987,300zx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1987, "model": "300ZX"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1988,300zx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1988, "model": "300ZX"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1985,samurai", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1985, "model": "SAMURAI"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1986,samurai", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1986, "model": "SAMURAI"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1989,pathfinder", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1989, "model": "PATHFINDER"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1988,ichi+van", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1988, "model": "ICHI VAN"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1989,ichi+van", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1989, "model": "ICHI VAN"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1988,hikari", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1988, "model": "HIKARI"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1989,hikari", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1989, "model": "HIKARI"}}}

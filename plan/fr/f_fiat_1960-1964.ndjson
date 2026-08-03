@@ -1,0 +1,17 @@
+{"node_type": "model", "href": "/en/catalog/fiat,1961,500", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1961, "model": "500"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1960,1100", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1960, "model": "1100"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1961,1100", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1961, "model": "1100"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1962,1100", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1962, "model": "1100"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1964,1100", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1964, "model": "1100"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1962,1500", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1962, "model": "1500"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1961,600", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1961, "model": "600"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1960,1200", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1960, "model": "1200"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1961,1200", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1961, "model": "1200"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1962,1200", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1962, "model": "1200"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1961,2100", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1961, "model": "2100"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1961,125", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1961, "model": "125"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1962,125", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1962, "model": "125"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1964,125", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1964, "model": "125"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1962,600d", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1962, "model": "600D"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1964,600d", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1964, "model": "600D"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1964,1100d", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1964, "model": "1100D"}}}

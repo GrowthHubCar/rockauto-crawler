@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/seat,2007,leon", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2007, "model": "LEON"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2009,leon", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2009, "model": "LEON"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2005,ibiza", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2005, "model": "IBIZA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2007,ibiza", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2007, "model": "IBIZA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2008,ibiza", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2008, "model": "IBIZA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2007,cordoba", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2007, "model": "CORDOBA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2009,cordoba", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2009, "model": "CORDOBA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2005,alhambra", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2005, "model": "ALHAMBRA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2007,alhambra", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2007, "model": "ALHAMBRA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2006,altea", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2006, "model": "ALTEA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2009,altea+xl", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2009, "model": "ALTEA XL"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2009,freetrack", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2009, "model": "FREETRACK"}}}

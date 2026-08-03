@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/willys,1939,model+38+truck", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1939, "model": "MODEL 38 TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/willys,1939,439", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1939, "model": "439"}}}
+{"node_type": "model", "href": "/en/catalog/willys,1935,model+77", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1935, "model": "MODEL 77"}}}
+{"node_type": "model", "href": "/en/catalog/willys,1936,model+77", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1936, "model": "MODEL 77"}}}

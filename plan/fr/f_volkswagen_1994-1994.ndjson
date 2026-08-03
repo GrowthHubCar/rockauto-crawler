@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,1994,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1994, "model": "GOLF"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1994,eurovan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1994, "model": "EUROVAN"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1994,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1994, "model": "PASSAT"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1994,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1994, "model": "TRANSPORTER"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1994,combi", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1994, "model": "COMBI"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1994,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1994, "model": "JETTA"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1994,cabrio", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1994, "model": "CABRIO"}}}

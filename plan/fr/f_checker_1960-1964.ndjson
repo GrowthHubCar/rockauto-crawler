@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/checker,1961,taxicab", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1961, "model": "TAXICAB"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1963,taxicab", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1963, "model": "TAXICAB"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1964,taxicab", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1964, "model": "TAXICAB"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1961,a9", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1961, "model": "A9"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1963,a9", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1963, "model": "A9"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1961,aerobus", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1961, "model": "AEROBUS"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1963,aerobus", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1963, "model": "AEROBUS"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1964,aerobus", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1964, "model": "AEROBUS"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1961,superba", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1961, "model": "SUPERBA"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1961,marathon", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1961, "model": "MARATHON"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1963,marathon", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1963, "model": "MARATHON"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1964,marathon", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1964, "model": "MARATHON"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1961,a9l", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1961, "model": "A9L"}}}
+{"node_type": "model", "href": "/en/catalog/checker,1963,a9l", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1963, "model": "A9L"}}}

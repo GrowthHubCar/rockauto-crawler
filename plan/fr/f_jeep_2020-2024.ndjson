@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/jeep,2020,grand+cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2020, "model": "GRAND CHEROKEE"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2023,grand+cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2023, "model": "GRAND CHEROKEE"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2022,grand+cherokee+l", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2022, "model": "GRAND CHEROKEE L"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2023,grand+cherokee+l", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2023, "model": "GRAND CHEROKEE L"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,2023,grand+wagoneer", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 2023, "model": "GRAND WAGONEER"}}}

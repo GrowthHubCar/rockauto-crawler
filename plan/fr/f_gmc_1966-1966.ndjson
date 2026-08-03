@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1966,pb25+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1966, "model": "PB25 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1966,pb3500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1966, "model": "PB3500 VAN"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1966,p1000", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1966, "model": "P1000"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1966,suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1966, "model": "SUBURBAN"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1966,li3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1966, "model": "LI3500"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1966,k15/k1500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1966, "model": "K15/K1500 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1966,l3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1966, "model": "L3500"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1966,pb1000+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1966, "model": "PB1000 SERIES"}}}

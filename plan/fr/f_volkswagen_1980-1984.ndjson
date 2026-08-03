@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,1984,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1984, "model": "JETTA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1984,panel", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1984, "model": "PANEL"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1984,rabbit", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1984, "model": "RABBIT"}}}

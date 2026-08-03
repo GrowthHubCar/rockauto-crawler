@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/porsche,2025,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2025, "model": "911"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2026,cayenne", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2026, "model": "CAYENNE"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,2025,718", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2025, "model": "718"}}}

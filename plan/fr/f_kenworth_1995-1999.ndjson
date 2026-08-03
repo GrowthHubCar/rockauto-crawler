@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/kenworth,1995,k300", "payload": {"nodetype": "model", "ctx": {"make": "KENWORTH", "year": 1995, "model": "K300"}}}
+{"node_type": "model", "href": "/en/catalog/kenworth,1995,t300", "payload": {"nodetype": "model", "ctx": {"make": "KENWORTH", "year": 1995, "model": "T300"}}}
+{"node_type": "model", "href": "/en/catalog/kenworth,1996,t300", "payload": {"nodetype": "model", "ctx": {"make": "KENWORTH", "year": 1996, "model": "T300"}}}

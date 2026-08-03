@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,1949,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1949, "model": "TRANSPORTER"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1945,standard", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1945, "model": "STANDARD"}}}

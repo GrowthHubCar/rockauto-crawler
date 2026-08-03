@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/bentley,1971,corniche", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1971, "model": "CORNICHE"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,1972,corniche", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1972, "model": "CORNICHE"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,1972,t1+series", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1972, "model": "T1 SERIES"}}}

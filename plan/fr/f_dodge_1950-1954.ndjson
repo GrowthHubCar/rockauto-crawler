@@ -1,0 +1,19 @@
+{"node_type": "model", "href": "/en/catalog/dodge,1950,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1950, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1951,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1951, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1952,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1952, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1953,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1953, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1954,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1954, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1954,custom", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1954, "model": "CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1951,wayfarer", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1951, "model": "WAYFARER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1950,meadowbrook", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1950, "model": "MEADOWBROOK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1951,meadowbrook", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1951, "model": "MEADOWBROOK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1952,meadowbrook", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1952, "model": "MEADOWBROOK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1953,meadowbrook", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1953, "model": "MEADOWBROOK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1954,meadowbrook", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1954, "model": "MEADOWBROOK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1950,coronet", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1950, "model": "CORONET"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1952,coronet", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1952, "model": "CORONET"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1953,coronet", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1953, "model": "CORONET"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1954,coronet", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1954, "model": "CORONET"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1951,b-3+van", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1951, "model": "B-3 VAN"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1952,b-3+van", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1952, "model": "B-3 VAN"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1954,royal", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1954, "model": "ROYAL"}}}

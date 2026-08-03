@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jeep,1984,wagoneer", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1984, "model": "WAGONEER"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1984,j10", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1984, "model": "J10"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1984,grand+wagoneer", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1984, "model": "GRAND WAGONEER"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1984,cj7", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1984, "model": "CJ7"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1984,scrambler", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1984, "model": "SCRAMBLER"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1984,j20", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1984, "model": "J20"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1984,cherokee", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1984, "model": "CHEROKEE"}}}

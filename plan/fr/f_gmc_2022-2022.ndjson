@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,2022,terrain", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2022, "model": "TERRAIN"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,2022,yukon+xl", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2022, "model": "YUKON XL"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,2022,sierra+3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2022, "model": "SIERRA 3500"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,2022,sierra+2500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2022, "model": "SIERRA 2500"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,2022,yukon", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2022, "model": "YUKON"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,2022,sierra+1500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2022, "model": "SIERRA 1500"}}}

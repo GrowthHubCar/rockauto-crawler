@@ -1,0 +1,13 @@
+{"node_type": "model", "href": "/en/catalog/vam,1970,classic", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1970, "model": "CLASSIC"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1971,classic", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1971, "model": "CLASSIC"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1972,classic", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1972, "model": "CLASSIC"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1973,classic", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1973, "model": "CLASSIC"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1974,classic", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1974, "model": "CLASSIC"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1970,javelin", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1970, "model": "JAVELIN"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1971,javelin", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1971, "model": "JAVELIN"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1972,javelin", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1972, "model": "JAVELIN"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1973,javelin", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1973, "model": "JAVELIN"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1973,gremlin", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1973, "model": "GREMLIN"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1974,gremlin", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1974, "model": "GREMLIN"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1973,american", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1973, "model": "AMERICAN"}}}
+{"node_type": "model", "href": "/en/catalog/vam,1974,american", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1974, "model": "AMERICAN"}}}

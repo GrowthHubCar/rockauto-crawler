@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/lancia,1963,appia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1963, "model": "APPIA"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1964,appia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1964, "model": "APPIA"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1964,flaminia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1964, "model": "FLAMINIA"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1964,flavia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1964, "model": "FLAVIA"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1964,fulvia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1964, "model": "FULVIA"}}}

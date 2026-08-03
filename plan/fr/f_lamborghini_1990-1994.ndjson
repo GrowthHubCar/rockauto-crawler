@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/lamborghini,1994,diablo", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1994, "model": "DIABLO"}}}
+{"node_type": "model", "href": "/en/catalog/lamborghini,1990,lm002", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1990, "model": "LM002"}}}

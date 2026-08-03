@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/honda,2010,city", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2010, "model": "CITY"}}}
-{"node_type": "model", "href": "/en/catalog/honda,2010,accord+crosstour", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2010, "model": "ACCORD CROSSTOUR"}}}
-{"node_type": "model", "href": "/en/catalog/honda,2010,civic", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2010, "model": "CIVIC"}}}
-{"node_type": "model", "href": "/en/catalog/honda,2010,accord", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2010, "model": "ACCORD"}}}

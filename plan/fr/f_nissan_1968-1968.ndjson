@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/nissan,1968,520+pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1968, "model": "520 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1968,510", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1968, "model": "510"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1968,1600", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1968, "model": "1600"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1968,2000", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1968, "model": "2000"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1968,521+pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1968, "model": "521 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1968,patrol", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1968, "model": "PATROL"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1968,1000", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1968, "model": "1000"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1968,spl311", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1968, "model": "SPL311"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1968,srl311", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1968, "model": "SRL311"}}}

@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/gmc,2010,yukon+xl+1500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2010, "model": "YUKON XL 1500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2011,yukon+xl+1500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2011, "model": "YUKON XL 1500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2014,yukon", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2014, "model": "YUKON"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2013,savana+3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2013, "model": "SAVANA 3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,2013,acadia", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2013, "model": "ACADIA"}}}

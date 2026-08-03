@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/saab,1960,gt750", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1960, "model": "GT750"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1961,gt750", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1961, "model": "GT750"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1962,gt750", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1962, "model": "GT750"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1960,93f", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1960, "model": "93F"}}}

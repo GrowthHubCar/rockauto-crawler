@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2001,z3", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2001, "model": "Z3"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2001,x5", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2001, "model": "X5"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2001,750il", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2001, "model": "750IL"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2001,m3", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2001, "model": "M3"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2001,740il", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2001, "model": "740IL"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2001,740i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2001, "model": "740I"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2001,525i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2001, "model": "525I"}}}

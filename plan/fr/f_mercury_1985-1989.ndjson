@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/mercury,1986,cougar", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1986, "model": "COUGAR"}}}
+{"node_type": "model", "href": "/en/catalog/mercury,1988,cougar", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1988, "model": "COUGAR"}}}
+{"node_type": "model", "href": "/en/catalog/mercury,1989,cougar", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1989, "model": "COUGAR"}}}
+{"node_type": "model", "href": "/en/catalog/mercury,1985,lynx", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1985, "model": "LYNX"}}}
+{"node_type": "model", "href": "/en/catalog/mercury,1986,topaz", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1986, "model": "TOPAZ"}}}

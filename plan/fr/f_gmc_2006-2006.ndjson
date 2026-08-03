@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,2006,yukon", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2006, "model": "YUKON"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,2006,topkick", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2006, "model": "TOPKICK"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,2006,sierra+3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2006, "model": "SIERRA 3500"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,2006,sierra+2500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2006, "model": "SIERRA 2500"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,2006,yukon+xl+2500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2006, "model": "YUKON XL 2500"}}}

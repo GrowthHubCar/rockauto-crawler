@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/dodge,2008,grand+caravan", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2008, "model": "GRAND CARAVAN"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2009,grand+caravan", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2009, "model": "GRAND CARAVAN"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2006,attitude", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2006, "model": "ATTITUDE"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2009,attitude", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2009, "model": "ATTITUDE"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2007,ram+3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2007, "model": "RAM 3500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2007,ram+4000", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2007, "model": "RAM 4000"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2008,ram+4000", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2008, "model": "RAM 4000"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2007,ram+1500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2007, "model": "RAM 1500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2005,sprinter+3500", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2005, "model": "SPRINTER 3500"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2007,sprinter+2500", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2007, "model": "SPRINTER 2500"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2008,sprinter+2500", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2008, "model": "SPRINTER 2500"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2006,magnum", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2006, "model": "MAGNUM"}}}

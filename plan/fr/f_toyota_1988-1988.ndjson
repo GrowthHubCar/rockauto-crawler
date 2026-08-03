@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,1988,mr2", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1988, "model": "MR2"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1988,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1988, "model": "COROLLA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1988,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1988, "model": "LAND CRUISER"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1988,celica", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1988, "model": "CELICA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1988,pickup", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1988, "model": "PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1988,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1988, "model": "4RUNNER"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1988,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1988, "model": "CAMRY"}}}

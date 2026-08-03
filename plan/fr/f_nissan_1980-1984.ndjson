@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/nissan,1982,210", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1982, "model": "210"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1984,720+pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1984, "model": "720 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1984,sentra", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1984, "model": "SENTRA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1984,sakura", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1984, "model": "SAKURA"}}}

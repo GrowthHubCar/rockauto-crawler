@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1935,standard", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1935, "model": "STANDARD"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1935,master", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1935, "model": "MASTER"}}}

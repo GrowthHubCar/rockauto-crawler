@@ -1,0 +1,118 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,bel+air", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "BEL AIR"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,bel+air", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "BEL AIR"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,stepvan", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "STEPVAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1984,stepvan", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "STEPVAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,s10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "S10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1984,s10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "S10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,s10+blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "S10 BLAZER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1984,s10+blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "S10 BLAZER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "P30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "P30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "P30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "IMPALA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "IMPALA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "IMPALA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "IMPALA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1984,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "IMPALA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,malibu", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MALIBU"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,malibu", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "MALIBU"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,malibu", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "MALIBU"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,malibu", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "MALIBU"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,p20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "P20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,p20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "P20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,p20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "P20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1984,p20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "P20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1984,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,monte+carlo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "MONTE CARLO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,monte+carlo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "MONTE CARLO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,monte+carlo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "MONTE CARLO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,k10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "K10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,k10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "K10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,k10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "K10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,p10", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "P10"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,corvette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "CORVETTE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,corvette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "CORVETTE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,corvette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "CORVETTE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,k20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "K20 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,k20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "K20 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,k20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "K20 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,k20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "K20 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,k20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "K20 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,k20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "K20 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,k30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "K30 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,k30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "K30 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,k30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "K30 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,k30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "K30 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,k10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "K10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,k10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "K10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,k10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "K10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,k10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "K10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,g30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "G30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,g30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "G30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,g30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "G30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,g30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "G30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,g20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "G20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,g20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "G20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,g20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "G20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,g20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "G20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1984,g20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "G20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,luv", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "LUV"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,luv", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "LUV"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,luv", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "LUV"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,g10", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "G10"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,g10", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "G10"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,g10", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "G10"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,g10", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "G10"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1984,g10", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "G10"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,el+camino", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "EL CAMINO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,el+camino", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "EL CAMINO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,el+camino", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "EL CAMINO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,citation", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "CITATION"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,citation", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "CITATION"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,citation", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "CITATION"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,chevette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "CHEVETTE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,chevette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "CHEVETTE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,chevette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "CHEVETTE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,chevette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "CHEVETTE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,caprice", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "CAPRICE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,caprice", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "CAPRICE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,caprice", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "CAPRICE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,caprice", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "CAPRICE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,camaro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "CAMARO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,camaro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "CAMARO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,camaro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "CAMARO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,camaro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "CAMARO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,c30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "C30 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,c30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "C30 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,c30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "C30 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,c30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "C30 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,c20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "C20 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,c20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "C20 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,c20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "C20 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,c20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "C20 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,c20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "C20 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,c20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "C20 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,c20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "C20 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,c10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "C10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,c10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "C10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,c10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "C10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,c10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "C10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,c10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "C10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,c10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "C10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,c10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "C10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1984,c10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "C10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,bus", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "BUS"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,bus", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "BUS"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,bus", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "BUS"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,bus", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "BUS"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,cavalier", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "CAVALIER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,cavalier", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "CAVALIER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,k5+blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "K5 BLAZER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,k5+blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "K5 BLAZER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,k5+blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "K5 BLAZER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,celebrity", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "CELEBRITY"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,c35", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "C35"}}}

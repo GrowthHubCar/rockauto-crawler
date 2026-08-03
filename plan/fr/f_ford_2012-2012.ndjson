@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2012,lobo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "LOBO"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2012,ikon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "IKON"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2012,transit", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "TRANSIT"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2012,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "RANGER"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2012,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "MUSTANG"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2012,focus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "FOCUS"}}}

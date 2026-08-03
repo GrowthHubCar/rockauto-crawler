@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/honda,1998,cr-v", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1998, "model": "CR-V"}}}
-{"node_type": "model", "href": "/en/catalog/honda,1998,civic", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1998, "model": "CIVIC"}}}
-{"node_type": "model", "href": "/en/catalog/honda,1998,odyssey", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1998, "model": "ODYSSEY"}}}
-{"node_type": "model", "href": "/en/catalog/honda,1998,ev+plus", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 1998, "model": "EV PLUS"}}}

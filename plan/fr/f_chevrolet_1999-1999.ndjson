@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1999,tigra", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1999, "model": "TIGRA"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1999,tracker", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1999, "model": "TRACKER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1999,tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1999, "model": "TILTMASTER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1999,venture", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1999, "model": "VENTURE"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1999,tahoe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1999, "model": "TAHOE"}}}

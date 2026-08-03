@@ -1,0 +1,20 @@
+{"node_type": "model", "href": "/en/catalog/chrysler,1946,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1946, "model": "TOWN & COUNTRY"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1947,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1947, "model": "TOWN & COUNTRY"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1948,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1948, "model": "TOWN & COUNTRY"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1949,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1949, "model": "TOWN & COUNTRY"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1946,royal+series", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1946, "model": "ROYAL SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1947,royal+series", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1947, "model": "ROYAL SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1948,royal+series", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1948, "model": "ROYAL SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1949,royal+series", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1949, "model": "ROYAL SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1946,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1946, "model": "NEW YORKER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1947,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1947, "model": "NEW YORKER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1948,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1948, "model": "NEW YORKER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1949,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1949, "model": "NEW YORKER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1946,windsor+series", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1946, "model": "WINDSOR SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1949,windsor+series", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1949, "model": "WINDSOR SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1947,saratoga+series", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1947, "model": "SARATOGA SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1948,saratoga+series", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1948, "model": "SARATOGA SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1949,saratoga+series", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1949, "model": "SARATOGA SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1946,imperial+c-40", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1946, "model": "IMPERIAL C-40"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1947,imperial+c-40", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1947, "model": "IMPERIAL C-40"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1948,imperial+c-40", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1948, "model": "IMPERIAL C-40"}}}

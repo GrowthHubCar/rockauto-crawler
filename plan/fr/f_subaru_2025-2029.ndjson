@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/subaru,2025,outback", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2025, "model": "OUTBACK"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,2025,legacy", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2025, "model": "LEGACY"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,2025,solterra", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2025, "model": "SOLTERRA"}}}

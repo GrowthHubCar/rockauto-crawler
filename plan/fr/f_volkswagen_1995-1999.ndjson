@@ -1,0 +1,18 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,1995,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1995, "model": "JETTA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1996,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1996, "model": "JETTA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1997,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1997, "model": "JETTA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1995,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1995, "model": "GOLF"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1996,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1996, "model": "GOLF"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1998,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1998, "model": "GOLF"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1995,combi", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1995, "model": "COMBI"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1996,combi", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1996, "model": "COMBI"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1997,combi", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1997, "model": "COMBI"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1999,combi", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1999, "model": "COMBI"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1997,cabrio", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1997, "model": "CABRIO"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1995,panel", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1995, "model": "PANEL"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1996,panel", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1996, "model": "PANEL"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1997,panel", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1997, "model": "PANEL"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1999,panel", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1999, "model": "PANEL"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1999,pointer", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1999, "model": "POINTER"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1999,pointer+truck", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1999, "model": "POINTER TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1995,caravelle", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1995, "model": "CARAVELLE"}}}

@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2009,azera", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "AZERA"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2009,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "SONATA"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2009,veracruz", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "VERACRUZ"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2009,tucson", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "TUCSON"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2009,santa+fe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "SANTA FE"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2009,genesis", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "GENESIS"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2009,accent", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2009, "model": "ACCENT"}}}

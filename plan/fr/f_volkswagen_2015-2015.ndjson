@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2015,tiguan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2015, "model": "TIGUAN"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2015,polo", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2015, "model": "POLO"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2015,vento", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2015, "model": "VENTO"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2015,saveiro", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2015, "model": "SAVEIRO"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2015,touareg", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2015, "model": "TOUAREG"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2015,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2015, "model": "TRANSPORTER"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2015,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2015, "model": "JETTA"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2015,nuevo+gol", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2015, "model": "NUEVO GOL"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2015,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2015, "model": "PASSAT"}}}

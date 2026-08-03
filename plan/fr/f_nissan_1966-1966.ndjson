@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/nissan,1966,520+pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1966, "model": "520 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1966,1600", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1966, "model": "1600"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1966,411", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1966, "model": "411"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1966,patrol", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1966, "model": "PATROL"}}}
-{"node_type": "model", "href": "/en/catalog/nissan,1966,1000", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1966, "model": "1000"}}}

@@ -1,0 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/ford,1939,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1939, "model": "SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1936,67+(1/2+ton)", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1936, "model": "67 (1/2 TON)"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1937,3/4+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1937, "model": "3/4 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1938,3/4+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1938, "model": "3/4 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1939,3/4+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1939, "model": "3/4 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1939,1/2+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1939, "model": "1/2 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1937,1+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1937, "model": "1 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1938,1+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1938, "model": "1 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1939,1+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1939, "model": "1 TON PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1939,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1939, "model": "DELUXE"}}}

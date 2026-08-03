@@ -1,0 +1,43 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2011,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2011, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2012,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2012, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2010,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2010, "model": "CAMRY"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2011,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2011, "model": "CAMRY"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2013,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2013, "model": "CAMRY"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2014,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2014, "model": "CAMRY"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2010,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2010, "model": "4RUNNER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2011,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2011, "model": "4RUNNER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2012,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2012, "model": "4RUNNER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2013,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2013, "model": "4RUNNER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2014,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2014, "model": "4RUNNER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2013,tacoma", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2013, "model": "TACOMA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2010,avalon", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2010, "model": "AVALON"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2011,avalon", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2011, "model": "AVALON"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2012,avalon", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2012, "model": "AVALON"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2013,avalon", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2013, "model": "AVALON"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2010,rav4", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2010, "model": "RAV4"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2013,sienna", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2013, "model": "SIENNA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2013,venza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2013, "model": "VENZA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2010,tundra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2010, "model": "TUNDRA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2011,tundra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2011, "model": "TUNDRA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2010,sequoia", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2010, "model": "SEQUOIA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2010,prius", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2010, "model": "PRIUS"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2014,prius", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2014, "model": "PRIUS"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2011,hilux", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2011, "model": "HILUX"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2012,hilux", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2012, "model": "HILUX"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2014,hilux", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2014, "model": "HILUX"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2011,highlander", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2011, "model": "HIGHLANDER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2012,highlander", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2012, "model": "HIGHLANDER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2014,highlander", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2014, "model": "HIGHLANDER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2010,matrix", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2010, "model": "MATRIX"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2012,matrix", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2012, "model": "MATRIX"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2014,matrix", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2014, "model": "MATRIX"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2011,hiace", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2011, "model": "HIACE"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2012,hiace", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2012, "model": "HIACE"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2014,hiace", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2014, "model": "HIACE"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2011,fj+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2011, "model": "FJ CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2012,fj+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2012, "model": "FJ CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2014,fj+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2014, "model": "FJ CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2010,avanza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2010, "model": "AVANZA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2011,avanza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2011, "model": "AVANZA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2013,avanza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2013, "model": "AVANZA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2014,avanza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2014, "model": "AVANZA"}}}

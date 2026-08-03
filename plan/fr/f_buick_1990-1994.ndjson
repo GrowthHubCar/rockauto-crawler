@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/buick,1990,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1990, "model": "CENTURY"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1991,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1991, "model": "CENTURY"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1994,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1994, "model": "CENTURY"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1992,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1992, "model": "REGAL"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1993,park+avenue", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1993, "model": "PARK AVENUE"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1993,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1993, "model": "LESABRE"}}}

@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/studebaker,1915,light+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1915, "model": "LIGHT SIX"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1916,light+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1916, "model": "LIGHT SIX"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1917,light+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1917, "model": "LIGHT SIX"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1918,light+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1918, "model": "LIGHT SIX"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1919,light+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1919, "model": "LIGHT SIX"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1915,four", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1915, "model": "FOUR"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1916,four", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1916, "model": "FOUR"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1917,four", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1917, "model": "FOUR"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1918,light+four", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1918, "model": "LIGHT FOUR"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1919,light+four", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1919, "model": "LIGHT FOUR"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1918,big+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1918, "model": "BIG SIX"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1919,big+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1919, "model": "BIG SIX"}}}

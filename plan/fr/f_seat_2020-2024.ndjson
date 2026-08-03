@@ -1,0 +1,13 @@
+{"node_type": "model", "href": "/en/catalog/seat,2021,leon", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2021, "model": "LEON"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2023,leon", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2023, "model": "LEON"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2024,leon", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2024, "model": "LEON"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2023,ibiza", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2023, "model": "IBIZA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2024,ibiza", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2024, "model": "IBIZA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2021,tarraco", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2021, "model": "TARRACO"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2024,tarraco", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2024, "model": "TARRACO"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2023,ateca", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2023, "model": "ATECA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2024,ateca", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2024, "model": "ATECA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2020,arona", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2020, "model": "ARONA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2021,arona", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2021, "model": "ARONA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2023,arona", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2023, "model": "ARONA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2024,arona", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2024, "model": "ARONA"}}}

@@ -1,0 +1,11 @@
+{"node_type": "model", "href": "/en/catalog/isuzu,1990,pickup", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1990, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,1991,pickup", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1991, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,1992,impulse", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1992, "model": "IMPULSE"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,1990,trooper", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1990, "model": "TROOPER"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,1993,trooper", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1993, "model": "TROOPER"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,1993,npr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1993, "model": "NPR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,1990,f+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1990, "model": "F SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,1992,f+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1992, "model": "F SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,1990,nrr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1990, "model": "NRR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,1991,nrr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1991, "model": "NRR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,1993,amigo", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1993, "model": "AMIGO"}}}

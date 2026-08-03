@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2024,teramont", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2024, "model": "TERAMONT"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2024,virtus", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2024, "model": "VIRTUS"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2024,taos", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2024, "model": "TAOS"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2024,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2024, "model": "TRANSPORTER"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2024,tiguan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2024, "model": "TIGUAN"}}}

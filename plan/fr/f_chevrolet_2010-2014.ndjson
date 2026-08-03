@@ -1,0 +1,80 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2013,tornado", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2013, "model": "TORNADO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2014,tornado", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2014, "model": "TORNADO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,tahoe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "TAHOE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2013,tahoe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2013, "model": "TAHOE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,suburban+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "SUBURBAN 2500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,suburban+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "SUBURBAN 1500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,silverado+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "SILVERADO 2500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2013,silverado+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2013, "model": "SILVERADO 2500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2014,silverado+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2014, "model": "SILVERADO 2500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,silverado+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "SILVERADO 1500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,silverado+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "SILVERADO 1500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2012,silverado+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "SILVERADO 1500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2013,silverado+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2013, "model": "SILVERADO 1500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "IMPALA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2012,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "IMPALA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2013,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2013, "model": "IMPALA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,malibu", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "MALIBU"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,malibu", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "MALIBU"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2012,malibu", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "MALIBU"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2013,malibu", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2013, "model": "MALIBU"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2014,malibu", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2014, "model": "MALIBU"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,hhr", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "HHR"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,hhr", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "HHR"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,corvette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "CORVETTE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2012,corvette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "CORVETTE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2013,corvette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2013, "model": "CORVETTE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,express+pasajeros", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "EXPRESS PASAJEROS"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2012,express+pasajeros", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "EXPRESS PASAJEROS"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2013,express+pasajeros", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2013, "model": "EXPRESS PASAJEROS"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2014,express+pasajeros", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2014, "model": "EXPRESS PASAJEROS"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,express+3500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "EXPRESS 3500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2012,express+3500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "EXPRESS 3500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2013,express+3500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2013, "model": "EXPRESS 3500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,express+cargo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "EXPRESS CARGO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,express+cargo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "EXPRESS CARGO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2012,express+cargo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "EXPRESS CARGO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2013,express+cargo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2013, "model": "EXPRESS CARGO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,express+4500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "EXPRESS 4500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,express+4500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "EXPRESS 4500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2012,express+4500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "EXPRESS 4500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,express+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "EXPRESS 2500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,express+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "EXPRESS 2500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2012,express+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "EXPRESS 2500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2013,express+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2013, "model": "EXPRESS 2500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,express+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "EXPRESS 1500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,express+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "EXPRESS 1500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2012,express+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "EXPRESS 1500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,cruze", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "CRUZE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,cruze", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "CRUZE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2012,cruze", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "CRUZE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2013,cruze", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2013, "model": "CRUZE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,colorado", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "COLORADO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,colorado", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "COLORADO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2012,colorado", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "COLORADO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2013,colorado", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2013, "model": "COLORADO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,cobalt", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "COBALT"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,caprice", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "CAPRICE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2013,caprice", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2013, "model": "CAPRICE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,camaro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "CAMARO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,camaro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "CAMARO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2012,camaro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "CAMARO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2013,camaro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2013, "model": "CAMARO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,cheyenne", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "CHEYENNE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,cheyenne", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "CHEYENNE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2012,cheyenne", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "CHEYENNE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,aveo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "AVEO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2012,aveo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "AVEO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,equinox", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "EQUINOX"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2012,equinox", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "EQUINOX"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,chevy", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "CHEVY"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,chevy", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "CHEVY"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2012,chevy", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "CHEVY"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,captiva+sport", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "CAPTIVA SPORT"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,captiva+sport", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "CAPTIVA SPORT"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2012,captiva+sport", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "CAPTIVA SPORT"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2013,captiva+sport", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2013, "model": "CAPTIVA SPORT"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,aveo5", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "AVEO5"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,aveo5", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "AVEO5"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,avalanche", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "AVALANCHE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,avalanche", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "AVALANCHE"}}}

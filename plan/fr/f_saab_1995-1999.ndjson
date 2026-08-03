@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/saab,1996,900", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1996, "model": "900"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1998,900", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1998, "model": "900"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1996,9000", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1996, "model": "9000"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1998,9000", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1998, "model": "9000"}}}

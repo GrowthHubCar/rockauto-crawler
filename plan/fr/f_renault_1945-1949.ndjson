@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/renault,1947,4cv", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1947, "model": "4CV"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1948,4cv", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1948, "model": "4CV"}}}
+{"node_type": "model", "href": "/en/catalog/renault,1949,4cv", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1949, "model": "4CV"}}}

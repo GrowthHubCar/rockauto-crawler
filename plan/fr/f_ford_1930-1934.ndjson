@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/ford,1930,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1930, "model": "SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1931,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1931, "model": "SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1934,model+40+a", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1934, "model": "MODEL 40 A"}}}

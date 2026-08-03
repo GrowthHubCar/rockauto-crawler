@@ -1,0 +1,16 @@
+{"node_type": "model", "href": "/en/catalog/buick,1984,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1984, "model": "SKYLARK"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1981,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1981, "model": "CENTURY"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1983,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1983, "model": "CENTURY"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1980,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1980, "model": "RIVIERA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1983,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1983, "model": "RIVIERA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1982,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1982, "model": "REGAL"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1983,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1983, "model": "REGAL"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1984,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1984, "model": "REGAL"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1980,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1980, "model": "LESABRE"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1981,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1981, "model": "LESABRE"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1982,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1982, "model": "LESABRE"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1983,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1983, "model": "LESABRE"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1980,electra", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1980, "model": "ELECTRA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1981,electra", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1981, "model": "ELECTRA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1982,electra", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1982, "model": "ELECTRA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1982,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1982, "model": "ESTATE WAGON"}}}

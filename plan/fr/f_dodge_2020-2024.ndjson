@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/dodge,2023,journey", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2023, "model": "JOURNEY"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2024,journey", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2024, "model": "JOURNEY"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2022,charger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2022, "model": "CHARGER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2020,challenger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2020, "model": "CHALLENGER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2021,challenger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2021, "model": "CHALLENGER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2020,attitude", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2020, "model": "ATTITUDE"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2021,attitude", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2021, "model": "ATTITUDE"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2023,attitude", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2023, "model": "ATTITUDE"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,2024,attitude", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2024, "model": "ATTITUDE"}}}

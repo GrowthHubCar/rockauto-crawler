@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/desoto,1959,firedome", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1959, "model": "FIREDOME"}}}
+{"node_type": "model", "href": "/en/catalog/desoto,1955,fireflite", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1955, "model": "FIREFLITE"}}}
+{"node_type": "model", "href": "/en/catalog/desoto,1958,fireflite", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1958, "model": "FIREFLITE"}}}
+{"node_type": "model", "href": "/en/catalog/desoto,1957,firesweep", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1957, "model": "FIRESWEEP"}}}
+{"node_type": "model", "href": "/en/catalog/desoto,1958,firesweep", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1958, "model": "FIRESWEEP"}}}
+{"node_type": "model", "href": "/en/catalog/desoto,1956,adventurer", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1956, "model": "ADVENTURER"}}}
+{"node_type": "model", "href": "/en/catalog/desoto,1958,adventurer", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1958, "model": "ADVENTURER"}}}
+{"node_type": "model", "href": "/en/catalog/desoto,1959,adventurer", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1959, "model": "ADVENTURER"}}}

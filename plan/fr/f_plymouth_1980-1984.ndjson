@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/plymouth,1984,voyager", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1984, "model": "VOYAGER"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1980,volare", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "VOLARE"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1984,turismo", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1984, "model": "TURISMO"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1980,horizon", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "HORIZON"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1984,horizon", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1984, "model": "HORIZON"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1983,colt", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1983, "model": "COLT"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1981,pb250", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1981, "model": "PB250"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1981,pb150", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1981, "model": "PB150"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1980,pb200", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "PB200"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1980,gran+fury", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "GRAN FURY"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1980,caravelle", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "CARAVELLE"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1984,caravelle", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1984, "model": "CARAVELLE"}}}

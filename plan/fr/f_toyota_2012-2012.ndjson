@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2012,sequoia", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2012, "model": "SEQUOIA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2012,sienna", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2012, "model": "SIENNA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2012,tundra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2012, "model": "TUNDRA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2012,rav4", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2012, "model": "RAV4"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2012,tacoma", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2012, "model": "TACOMA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2012,prius+c", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2012, "model": "PRIUS C"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2012,prius+v", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2012, "model": "PRIUS V"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2012,prius", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2012, "model": "PRIUS"}}}

@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/oldsmobile,1936,l-36", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1936, "model": "L-36"}}}
+{"node_type": "model", "href": "/en/catalog/oldsmobile,1936,f-36", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1936, "model": "F-36"}}}
+{"node_type": "model", "href": "/en/catalog/oldsmobile,1937,f+series", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1937, "model": "F SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/oldsmobile,1938,f-38", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1938, "model": "F-38"}}}
+{"node_type": "model", "href": "/en/catalog/oldsmobile,1939,g-39", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1939, "model": "G-39"}}}
+{"node_type": "model", "href": "/en/catalog/oldsmobile,1939,f-39", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1939, "model": "F-39"}}}

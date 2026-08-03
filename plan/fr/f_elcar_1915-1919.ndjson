@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/elcar,1916,four", "payload": {"nodetype": "model", "ctx": {"make": "ELCAR", "year": 1916, "model": "FOUR"}}}
+{"node_type": "model", "href": "/en/catalog/elcar,1917,four", "payload": {"nodetype": "model", "ctx": {"make": "ELCAR", "year": 1917, "model": "FOUR"}}}
+{"node_type": "model", "href": "/en/catalog/elcar,1918,model+e", "payload": {"nodetype": "model", "ctx": {"make": "ELCAR", "year": 1918, "model": "MODEL E"}}}
+{"node_type": "model", "href": "/en/catalog/elcar,1918,model+d", "payload": {"nodetype": "model", "ctx": {"make": "ELCAR", "year": 1918, "model": "MODEL D"}}}
+{"node_type": "model", "href": "/en/catalog/elcar,1919,model+d", "payload": {"nodetype": "model", "ctx": {"make": "ELCAR", "year": 1919, "model": "MODEL D"}}}
+{"node_type": "model", "href": "/en/catalog/elcar,1919,model+h", "payload": {"nodetype": "model", "ctx": {"make": "ELCAR", "year": 1919, "model": "MODEL H"}}}

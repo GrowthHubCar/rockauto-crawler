@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2009,uplander", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "UPLANDER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2009,tornado", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "TORNADO"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2009,tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "TILTMASTER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2009,t+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "T SERIES TRUCK"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2009,tahoe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "TAHOE"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2009,silverado+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "SILVERADO 1500"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2009,suburban+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "SUBURBAN 2500"}}}

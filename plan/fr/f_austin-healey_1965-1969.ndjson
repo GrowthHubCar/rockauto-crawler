@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/austin-healey,1967,sprite", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN-HEALEY", "year": 1967, "model": "SPRITE"}}}
+{"node_type": "model", "href": "/en/catalog/austin-healey,1969,sprite", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN-HEALEY", "year": 1969, "model": "SPRITE"}}}
+{"node_type": "model", "href": "/en/catalog/austin-healey,1966,3000", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN-HEALEY", "year": 1966, "model": "3000"}}}
+{"node_type": "model", "href": "/en/catalog/austin-healey,1967,3000", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN-HEALEY", "year": 1967, "model": "3000"}}}

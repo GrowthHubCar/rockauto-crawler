@@ -1,0 +1,48 @@
+{"node_type": "model", "href": "/en/catalog/ford,2007,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2007, "model": "RANGER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2008,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2008, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,fusion", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "FUSION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2008,fusion", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2008, "model": "FUSION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,f53", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "F53"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,f-650", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "F-650"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,f-450+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,f-450+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,escape", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "ESCAPE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,escape", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "ESCAPE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,f-550+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "F-550 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,f-550+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "F-550 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,fiesta", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "FIESTA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2008,fiesta", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2008, "model": "FIESTA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,ikon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "IKON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,ka", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "KA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,ka", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "KA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,f-750", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "F-750"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,f-750", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "F-750"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,freestar", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "FREESTAR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,five+hundred", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "FIVE HUNDRED"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,five+hundred", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "FIVE HUNDRED"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,f-350+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,f-350+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,f-250+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "F-250 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,f-250+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "F-250 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "EXPLORER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "EXPLORER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,expedition", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "EXPEDITION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,expedition", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "EXPEDITION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,ecosport", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "ECOSPORT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,ecosport", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "ECOSPORT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,e-450", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "E-450"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,e-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "E-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,e-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "E-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2009,explorer+sport+trac", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2009, "model": "EXPLORER SPORT TRAC"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,courier", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "COURIER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,courier", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "COURIER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,econoline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "ECONOLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "E-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "E-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "CROWN VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "CROWN VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,excursion", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "EXCURSION"}}}

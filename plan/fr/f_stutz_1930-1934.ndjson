@@ -1,0 +1,13 @@
+{"node_type": "model", "href": "/en/catalog/stutz,1932,model+sv-16", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1932, "model": "MODEL SV-16"}}}
+{"node_type": "model", "href": "/en/catalog/stutz,1933,model+sv-16", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1933, "model": "MODEL SV-16"}}}
+{"node_type": "model", "href": "/en/catalog/stutz,1934,model+sv-16", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1934, "model": "MODEL SV-16"}}}
+{"node_type": "model", "href": "/en/catalog/stutz,1932,model+laa", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1932, "model": "MODEL LAA"}}}
+{"node_type": "model", "href": "/en/catalog/stutz,1933,model+laa", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1933, "model": "MODEL LAA"}}}
+{"node_type": "model", "href": "/en/catalog/stutz,1932,model+dv-32", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1932, "model": "MODEL DV-32"}}}
+{"node_type": "model", "href": "/en/catalog/stutz,1933,model+dv-32", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1933, "model": "MODEL DV-32"}}}
+{"node_type": "model", "href": "/en/catalog/stutz,1934,model+dv-32", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1934, "model": "MODEL DV-32"}}}
+{"node_type": "model", "href": "/en/catalog/stutz,1930,model+mb", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1930, "model": "MODEL MB"}}}
+{"node_type": "model", "href": "/en/catalog/stutz,1931,model+mb", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1931, "model": "MODEL MB"}}}
+{"node_type": "model", "href": "/en/catalog/stutz,1930,model+ma", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1930, "model": "MODEL MA"}}}
+{"node_type": "model", "href": "/en/catalog/stutz,1931,model+ma", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1931, "model": "MODEL MA"}}}
+{"node_type": "model", "href": "/en/catalog/stutz,1931,model+la", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1931, "model": "MODEL LA"}}}

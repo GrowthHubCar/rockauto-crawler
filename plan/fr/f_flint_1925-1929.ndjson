@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/flint,1925,model+h-40", "payload": {"nodetype": "model", "ctx": {"make": "FLINT", "year": 1925, "model": "MODEL H-40"}}}
+{"node_type": "model", "href": "/en/catalog/flint,1925,model+e-55", "payload": {"nodetype": "model", "ctx": {"make": "FLINT", "year": 1925, "model": "MODEL E-55"}}}
+{"node_type": "model", "href": "/en/catalog/flint,1926,model+60", "payload": {"nodetype": "model", "ctx": {"make": "FLINT", "year": 1926, "model": "MODEL 60"}}}
+{"node_type": "model", "href": "/en/catalog/flint,1926,junior", "payload": {"nodetype": "model", "ctx": {"make": "FLINT", "year": 1926, "model": "JUNIOR"}}}
+{"node_type": "model", "href": "/en/catalog/flint,1927,model+e-80", "payload": {"nodetype": "model", "ctx": {"make": "FLINT", "year": 1927, "model": "MODEL E-80"}}}
+{"node_type": "model", "href": "/en/catalog/flint,1927,model+b-60", "payload": {"nodetype": "model", "ctx": {"make": "FLINT", "year": 1927, "model": "MODEL B-60"}}}
+{"node_type": "model", "href": "/en/catalog/flint,1927,junior+z-18", "payload": {"nodetype": "model", "ctx": {"make": "FLINT", "year": 1927, "model": "JUNIOR Z-18"}}}

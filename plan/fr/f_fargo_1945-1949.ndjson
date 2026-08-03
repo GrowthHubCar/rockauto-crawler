@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/fargo,1946,fl1+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1946, "model": "FL1 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1947,fl1+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1947, "model": "FL1 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1946,fl1+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1946, "model": "FL1 PANEL DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1947,fl1+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1947, "model": "FL1 PANEL DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1946,fl2+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1946, "model": "FL2 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1947,fl2+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1947, "model": "FL2 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1948,fm1+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1948, "model": "FM1 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1949,fm1+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1949, "model": "FM1 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1948,fm1+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1948, "model": "FM1 PANEL DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1949,fm1+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1949, "model": "FM1 PANEL DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1948,f1b+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1948, "model": "F1B PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1949,f1b+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1949, "model": "F1B PICKUP"}}}

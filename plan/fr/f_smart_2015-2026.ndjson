@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/smart,2015,fortwo", "payload": {"nodetype": "model", "ctx": {"make": "SMART", "year": 2015, "model": "FORTWO"}}}
-{"node_type": "model", "href": "/en/catalog/smart,2016,fortwo", "payload": {"nodetype": "model", "ctx": {"make": "SMART", "year": 2016, "model": "FORTWO"}}}
-{"node_type": "model", "href": "/en/catalog/smart,2017,fortwo", "payload": {"nodetype": "model", "ctx": {"make": "SMART", "year": 2017, "model": "FORTWO"}}}
-{"node_type": "model", "href": "/en/catalog/smart,2018,fortwo", "payload": {"nodetype": "model", "ctx": {"make": "SMART", "year": 2018, "model": "FORTWO"}}}
-{"node_type": "model", "href": "/en/catalog/smart,2018,forfour", "payload": {"nodetype": "model", "ctx": {"make": "SMART", "year": 2018, "model": "FORFOUR"}}}
-{"node_type": "model", "href": "/en/catalog/smart,2017,forfour", "payload": {"nodetype": "model", "ctx": {"make": "SMART", "year": 2017, "model": "FORFOUR"}}}
-{"node_type": "model", "href": "/en/catalog/smart,2016,forfour", "payload": {"nodetype": "model", "ctx": {"make": "SMART", "year": 2016, "model": "FORFOUR"}}}
-{"node_type": "model", "href": "/en/catalog/smart,2019,eq+fortwo", "payload": {"nodetype": "model", "ctx": {"make": "SMART", "year": 2019, "model": "EQ FORTWO"}}}
-{"node_type": "model", "href": "/en/catalog/smart,2019,fortwo", "payload": {"nodetype": "model", "ctx": {"make": "SMART", "year": 2019, "model": "FORTWO"}}}

@@ -1,0 +1,11 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,1935,370+d", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1935, "model": "370 D"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1935,355+d", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1935, "model": "355 D"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1937,series+85", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1937, "model": "SERIES 85"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1936,series+80", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1936, "model": "SERIES 80"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1936,series+70", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1936, "model": "SERIES 70"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1937,series+60", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1937, "model": "SERIES 60"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1938,series+60", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1938, "model": "SERIES 60"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1938,series+75", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1938, "model": "SERIES 75"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1939,series+75", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1939, "model": "SERIES 75"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1939,series+60+special", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1939, "model": "SERIES 60 SPECIAL"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1937,series+65", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1937, "model": "SERIES 65"}}}

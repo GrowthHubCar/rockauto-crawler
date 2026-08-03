@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,1951,series+62", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1951, "model": "SERIES 62"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1952,series+62", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1952, "model": "SERIES 62"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1953,series+62", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1953, "model": "SERIES 62"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1951,series+61", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1951, "model": "SERIES 61"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1951,series+75+fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1951, "model": "SERIES 75 FLEETWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1950,series+60+fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1950, "model": "SERIES 60 FLEETWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1951,series+60+fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1951, "model": "SERIES 60 FLEETWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1952,series+60+fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1952, "model": "SERIES 60 FLEETWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1953,series+60+fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1953, "model": "SERIES 60 FLEETWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1954,series+60+fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1954, "model": "SERIES 60 FLEETWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1950,commercial+chassis", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1950, "model": "COMMERCIAL CHASSIS"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1953,commercial+chassis", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1953, "model": "COMMERCIAL CHASSIS"}}}

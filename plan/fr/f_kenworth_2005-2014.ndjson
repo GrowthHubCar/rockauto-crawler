@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/kenworth,2008,t270", "payload": {"nodetype": "model", "ctx": {"make": "KENWORTH", "year": 2008, "model": "T270"}}}
-{"node_type": "model", "href": "/en/catalog/kenworth,2008,t370", "payload": {"nodetype": "model", "ctx": {"make": "KENWORTH", "year": 2008, "model": "T370"}}}
-{"node_type": "model", "href": "/en/catalog/kenworth,2007,t300+medium+duty", "payload": {"nodetype": "model", "ctx": {"make": "KENWORTH", "year": 2007, "model": "T300 MEDIUM DUTY"}}}
-{"node_type": "model", "href": "/en/catalog/kenworth,2006,t300+medium+duty", "payload": {"nodetype": "model", "ctx": {"make": "KENWORTH", "year": 2006, "model": "T300 MEDIUM DUTY"}}}
-{"node_type": "model", "href": "/en/catalog/kenworth,2008,t170", "payload": {"nodetype": "model", "ctx": {"make": "KENWORTH", "year": 2008, "model": "T170"}}}
-{"node_type": "model", "href": "/en/catalog/kenworth,2005,k300", "payload": {"nodetype": "model", "ctx": {"make": "KENWORTH", "year": 2005, "model": "K300"}}}
-{"node_type": "model", "href": "/en/catalog/kenworth,2005,t300+medium+duty", "payload": {"nodetype": "model", "ctx": {"make": "KENWORTH", "year": 2005, "model": "T300 MEDIUM DUTY"}}}

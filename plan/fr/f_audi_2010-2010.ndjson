@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2010,a8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2010, "model": "A8"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2010,s8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2010, "model": "S8"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2010,s6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2010, "model": "S6"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2010,tt", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2010, "model": "TT"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2010,s5", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2010, "model": "S5"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2010,a5", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2010, "model": "A5"}}}

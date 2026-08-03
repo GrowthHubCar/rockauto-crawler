@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/hillman,1963,minx", "payload": {"nodetype": "model", "ctx": {"make": "HILLMAN", "year": 1963, "model": "MINX"}}}
+{"node_type": "model", "href": "/en/catalog/hillman,1964,minx", "payload": {"nodetype": "model", "ctx": {"make": "HILLMAN", "year": 1964, "model": "MINX"}}}
+{"node_type": "model", "href": "/en/catalog/hillman,1963,husky", "payload": {"nodetype": "model", "ctx": {"make": "HILLMAN", "year": 1963, "model": "HUSKY"}}}
+{"node_type": "model", "href": "/en/catalog/hillman,1964,husky", "payload": {"nodetype": "model", "ctx": {"make": "HILLMAN", "year": 1964, "model": "HUSKY"}}}
+{"node_type": "model", "href": "/en/catalog/hillman,1964,super+minx", "payload": {"nodetype": "model", "ctx": {"make": "HILLMAN", "year": 1964, "model": "SUPER MINX"}}}

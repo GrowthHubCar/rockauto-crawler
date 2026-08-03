@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2016,vento", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2016, "model": "VENTO"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2016,up!", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2016, "model": "UP!"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2016,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2016, "model": "TRANSPORTER"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2016,saveiro", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2016, "model": "SAVEIRO"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2016,polo", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2016, "model": "POLO"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2016,touareg", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2016, "model": "TOUAREG"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2016,tiguan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2016, "model": "TIGUAN"}}}

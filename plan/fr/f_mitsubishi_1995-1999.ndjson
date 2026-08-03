@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1998,mirage", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1998, "model": "MIRAGE"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1997,diamante", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1997, "model": "DIAMANTE"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1995,3000gt", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1995, "model": "3000GT"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1999,3000gt", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1999, "model": "3000GT"}}}

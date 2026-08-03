@@ -1,0 +1,38 @@
+{"node_type": "model", "href": "/en/catalog/ford,1970,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1970, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1973,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1973, "model": "THUNDERBIRD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1974,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1974, "model": "THUNDERBIRD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1970,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1970, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1971,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1971, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1972,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1972, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1973,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1973, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1970,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1970, "model": "P-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1971,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1971, "model": "P-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1973,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1973, "model": "P-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1970,ranchero", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1970, "model": "RANCHERO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1972,ranchero", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1972, "model": "RANCHERO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1973,ranchero", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1973, "model": "RANCHERO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1974,ranchero", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1974, "model": "RANCHERO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1974,mustang+ii", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1974, "model": "MUSTANG II"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1970,ltd", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1970, "model": "LTD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1972,ltd", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1972, "model": "LTD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1973,f-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1973, "model": "F-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1974,f-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1974, "model": "F-100"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1970,torino", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1970, "model": "TORINO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1971,torino", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1971, "model": "TORINO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1972,torino", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1972, "model": "TORINO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1973,torino", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1973, "model": "TORINO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1974,torino", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1974, "model": "TORINO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1972,maverick", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1972, "model": "MAVERICK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1974,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1974, "model": "F-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1974,custom", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1974, "model": "CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1971,country+squire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1971, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1973,country+squire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1973, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1974,country+squire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1974, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1971,country+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1971, "model": "COUNTRY SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1972,country+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1972, "model": "COUNTRY SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1974,country+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1974, "model": "COUNTRY SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1972,gran+torino", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1972, "model": "GRAN TORINO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1972,m-400", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1972, "model": "M-400"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1970,e-300+econoline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1970, "model": "E-300 ECONOLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1971,g-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1971, "model": "G-100"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1970,e-200+econoline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1970, "model": "E-200 ECONOLINE"}}}

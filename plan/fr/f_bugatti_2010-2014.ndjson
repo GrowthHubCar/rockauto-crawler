@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/bugatti,2010,veyron+16.4", "payload": {"nodetype": "model", "ctx": {"make": "BUGATTI", "year": 2010, "model": "VEYRON 16.4"}}}
+{"node_type": "model", "href": "/en/catalog/bugatti,2011,veyron+16.4", "payload": {"nodetype": "model", "ctx": {"make": "BUGATTI", "year": 2011, "model": "VEYRON 16.4"}}}
+{"node_type": "model", "href": "/en/catalog/bugatti,2012,veyron+16.4", "payload": {"nodetype": "model", "ctx": {"make": "BUGATTI", "year": 2012, "model": "VEYRON 16.4"}}}
+{"node_type": "model", "href": "/en/catalog/bugatti,2013,veyron+16.4", "payload": {"nodetype": "model", "ctx": {"make": "BUGATTI", "year": 2013, "model": "VEYRON 16.4"}}}
+{"node_type": "model", "href": "/en/catalog/bugatti,2014,veyron+16.4", "payload": {"nodetype": "model", "ctx": {"make": "BUGATTI", "year": 2014, "model": "VEYRON 16.4"}}}

@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/lasalle,1930,fleetwind", "payload": {"nodetype": "model", "ctx": {"make": "LASALLE", "year": 1930, "model": "FLEETWIND"}}}
+{"node_type": "model", "href": "/en/catalog/lasalle,1930,fleetway", "payload": {"nodetype": "model", "ctx": {"make": "LASALLE", "year": 1930, "model": "FLEETWAY"}}}
+{"node_type": "model", "href": "/en/catalog/lasalle,1930,fleetlands", "payload": {"nodetype": "model", "ctx": {"make": "LASALLE", "year": 1930, "model": "FLEETLANDS"}}}
+{"node_type": "model", "href": "/en/catalog/lasalle,1930,fleetcliffe", "payload": {"nodetype": "model", "ctx": {"make": "LASALLE", "year": 1930, "model": "FLEETCLIFFE"}}}
+{"node_type": "model", "href": "/en/catalog/lasalle,1932,series+345b", "payload": {"nodetype": "model", "ctx": {"make": "LASALLE", "year": 1932, "model": "SERIES 345B"}}}
+{"node_type": "model", "href": "/en/catalog/lasalle,1933,series+345c", "payload": {"nodetype": "model", "ctx": {"make": "LASALLE", "year": 1933, "model": "SERIES 345C"}}}
+{"node_type": "model", "href": "/en/catalog/lasalle,1934,series+350", "payload": {"nodetype": "model", "ctx": {"make": "LASALLE", "year": 1934, "model": "SERIES 350"}}}

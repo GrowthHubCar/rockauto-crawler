@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1985,stepvan", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1985, "model": "STEPVAN"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1985,k10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1985, "model": "K10 SUBURBAN"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1985,tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1985, "model": "TILTMASTER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1985,s10+blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1985, "model": "S10 BLAZER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1985,s10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1985, "model": "S10 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1985,monte+carlo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1985, "model": "MONTE CARLO"}}}

@@ -1,0 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2014,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "SONATA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2014,elantra+gt", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "ELANTRA GT"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2014,tucson", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "TUCSON"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2012,veracruz", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "VERACRUZ"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2011,genesis", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "GENESIS"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2014,genesis", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "GENESIS"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2013,accent", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "ACCENT"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2011,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "ELANTRA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2014,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "ELANTRA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2014,genesis+coupe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "GENESIS COUPE"}}}

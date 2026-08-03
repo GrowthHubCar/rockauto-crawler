@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/suzuki,1991,samurai", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 1991, "model": "SAMURAI"}}}
+{"node_type": "model", "href": "/en/catalog/suzuki,1992,swift", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 1992, "model": "SWIFT"}}}
+{"node_type": "model", "href": "/en/catalog/suzuki,1990,sidekick", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 1990, "model": "SIDEKICK"}}}

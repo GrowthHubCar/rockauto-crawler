@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/honda,2000,cr-v", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2000, "model": "CR-V"}}}
-{"node_type": "model", "href": "/en/catalog/honda,2000,civic", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2000, "model": "CIVIC"}}}
-{"node_type": "model", "href": "/en/catalog/honda,2000,insight", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2000, "model": "INSIGHT"}}}
-{"node_type": "model", "href": "/en/catalog/honda,2000,accord", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2000, "model": "ACCORD"}}}
-{"node_type": "model", "href": "/en/catalog/honda,2000,odyssey", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2000, "model": "ODYSSEY"}}}

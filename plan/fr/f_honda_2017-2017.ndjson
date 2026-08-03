@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/honda,2017,city", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2017, "model": "CITY"}}}
-{"node_type": "model", "href": "/en/catalog/honda,2017,odyssey", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2017, "model": "ODYSSEY"}}}
-{"node_type": "model", "href": "/en/catalog/honda,2017,ridgeline", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2017, "model": "RIDGELINE"}}}
-{"node_type": "model", "href": "/en/catalog/honda,2017,fit", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2017, "model": "FIT"}}}
-{"node_type": "model", "href": "/en/catalog/honda,2017,clarity", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2017, "model": "CLARITY"}}}
-{"node_type": "model", "href": "/en/catalog/honda,2017,civic", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2017, "model": "CIVIC"}}}
-{"node_type": "model", "href": "/en/catalog/honda,2017,accord", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2017, "model": "ACCORD"}}}

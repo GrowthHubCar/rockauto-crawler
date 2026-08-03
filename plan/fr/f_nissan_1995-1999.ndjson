@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/nissan,1995,200sx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1995, "model": "200SX"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1997,200sx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1997, "model": "200SX"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1998,200sx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1998, "model": "200SX"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1996,tsuru", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1996, "model": "TSURU"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1999,pickup", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1999, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1996,300zx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1996, "model": "300ZX"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1996,pathfinder", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1996, "model": "PATHFINDER"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1997,pathfinder", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1997, "model": "PATHFINDER"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1996,tsubame", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1996, "model": "TSUBAME"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1998,tsubame", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1998, "model": "TSUBAME"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1997,240sx", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1997, "model": "240SX"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1997,lucino", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1997, "model": "LUCINO"}}}

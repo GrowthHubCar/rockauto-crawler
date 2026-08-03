@@ -1,0 +1,42 @@
+{"node_type": "model", "href": "/en/catalog/nissan,2018,sentra", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2018, "model": "SENTRA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2018,micra", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2018, "model": "MICRA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2018,pathfinder", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2018, "model": "PATHFINDER"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2019,pathfinder", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2019, "model": "PATHFINDER"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2015,frontier", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2015, "model": "FRONTIER"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2018,armada", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2018, "model": "ARMADA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2017,altima", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2017, "model": "ALTIMA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2016,murano", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2016, "model": "MURANO"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2015,cabstar", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2015, "model": "CABSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2015,tiida", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2015, "model": "TIIDA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2017,tiida", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2017, "model": "TIIDA"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2016,np300", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2016, "model": "NP300"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2017,np300", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2017, "model": "NP300"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2018,np300", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2018, "model": "NP300"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2019,np300", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2019, "model": "NP300"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2016,leaf", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2016, "model": "LEAF"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2017,leaf", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2017, "model": "LEAF"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2015,gt-r", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2015, "model": "GT-R"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2017,gt-r", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2017, "model": "GT-R"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2016,nv2500", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2016, "model": "NV2500"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2017,nv2500", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2017, "model": "NV2500"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2018,nv2500", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2018, "model": "NV2500"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2019,nv2500", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2019, "model": "NV2500"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2015,nv3500", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2015, "model": "NV3500"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2016,nv3500", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2016, "model": "NV3500"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2018,nv350+urvan", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2018, "model": "NV350 URVAN"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2016,nv1500", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2016, "model": "NV1500"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2017,nv1500", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2017, "model": "NV1500"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2018,nv1500", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2018, "model": "NV1500"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2019,nv1500", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2019, "model": "NV1500"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2015,march", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2015, "model": "MARCH"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2019,march", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2019, "model": "MARCH"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2019,qashqai", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2019, "model": "QASHQAI"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2015,370z", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2015, "model": "370Z"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2016,370z", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2016, "model": "370Z"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2017,370z", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2017, "model": "370Z"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2016,note", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2016, "model": "NOTE"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2017,note", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2017, "model": "NOTE"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2019,note", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2019, "model": "NOTE"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2016,np300+frontier", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2016, "model": "NP300 FRONTIER"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2019,np300+frontier", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2019, "model": "NP300 FRONTIER"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,2018,nt400+cabstar", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2018, "model": "NT400 CABSTAR"}}}

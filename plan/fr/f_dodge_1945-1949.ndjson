@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/dodge,1945,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1945, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1946,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1946, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1949,truck", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1949, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1948,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1948, "model": "DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1948,custom", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1948, "model": "CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1949,meadowbrook", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1949, "model": "MEADOWBROOK"}}}

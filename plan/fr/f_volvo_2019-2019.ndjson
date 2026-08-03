@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volvo,2019,v40", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2019, "model": "V40"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2019,xc60", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2019, "model": "XC60"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2019,xc90", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2019, "model": "XC90"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2019,v90", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2019, "model": "V90"}}}
-{"node_type": "model", "href": "/en/catalog/volvo,2019,xc40", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2019, "model": "XC40"}}}

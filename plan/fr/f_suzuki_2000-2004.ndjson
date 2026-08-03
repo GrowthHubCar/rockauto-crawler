@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/suzuki,2004,swift", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2004, "model": "SWIFT"}}}
+{"node_type": "model", "href": "/en/catalog/suzuki,2000,vitara", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2000, "model": "VITARA"}}}
+{"node_type": "model", "href": "/en/catalog/suzuki,2004,grand+vitara", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2004, "model": "GRAND VITARA"}}}
+{"node_type": "model", "href": "/en/catalog/suzuki,2002,aerio", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2002, "model": "AERIO"}}}
+{"node_type": "model", "href": "/en/catalog/suzuki,2004,aerio", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2004, "model": "AERIO"}}}
+{"node_type": "model", "href": "/en/catalog/suzuki,2004,forenza", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2004, "model": "FORENZA"}}}

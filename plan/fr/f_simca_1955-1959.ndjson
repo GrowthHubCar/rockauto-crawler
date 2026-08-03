@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/simca,1955,aronde", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1955, "model": "ARONDE"}}}
+{"node_type": "model", "href": "/en/catalog/simca,1956,aronde", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1956, "model": "ARONDE"}}}
+{"node_type": "model", "href": "/en/catalog/simca,1957,aronde", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1957, "model": "ARONDE"}}}
+{"node_type": "model", "href": "/en/catalog/simca,1958,aronde", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1958, "model": "ARONDE"}}}
+{"node_type": "model", "href": "/en/catalog/simca,1959,aronde", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1959, "model": "ARONDE"}}}
+{"node_type": "model", "href": "/en/catalog/simca,1957,vedette", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1957, "model": "VEDETTE"}}}
+{"node_type": "model", "href": "/en/catalog/simca,1958,vedette", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1958, "model": "VEDETTE"}}}
+{"node_type": "model", "href": "/en/catalog/simca,1959,vedette", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1959, "model": "VEDETTE"}}}
+{"node_type": "model", "href": "/en/catalog/simca,1959,ariane", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1959, "model": "ARIANE"}}}

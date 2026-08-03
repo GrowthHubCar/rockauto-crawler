@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2013,tucson", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "TUCSON"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2013,santa+fe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "SANTA FE"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2013,veloster", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "VELOSTER"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2013,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "ELANTRA"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2013,genesis+coupe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "GENESIS COUPE"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2013,elantra+gt", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "ELANTRA GT"}}}

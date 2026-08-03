@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/pontiac,1958,chieftain", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1958, "model": "CHIEFTAIN"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1955,star+chief", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1955, "model": "STAR CHIEF"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1958,strato-chief", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1958, "model": "STRATO-CHIEF"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1958,pathfinder", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1958, "model": "PATHFINDER"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1958,laurentian", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1958, "model": "LAURENTIAN"}}}

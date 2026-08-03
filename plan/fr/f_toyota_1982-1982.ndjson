@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,1982,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1982, "model": "LAND CRUISER"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1982,cressida", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1982, "model": "CRESSIDA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1982,pickup", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1982, "model": "PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1982,celica", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1982, "model": "CELICA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1982,tercel", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1982, "model": "TERCEL"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,1982,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1982, "model": "COROLLA"}}}

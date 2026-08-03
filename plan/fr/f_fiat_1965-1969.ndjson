@@ -1,0 +1,15 @@
+{"node_type": "model", "href": "/en/catalog/fiat,1965,1100", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1965, "model": "1100"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1966,1100", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1966, "model": "1100"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1965,1500", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1965, "model": "1500"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1967,1500", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1967, "model": "1500"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1965,125", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1965, "model": "125"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1966,125", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1966, "model": "125"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1965,600d", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1965, "model": "600D"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1967,600d", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1967, "model": "600D"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1965,1100d", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1965, "model": "1100D"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1966,1100d", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1966, "model": "1100D"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1967,1100d", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1967, "model": "1100D"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1968,124", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1968, "model": "124"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1967,850", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1967, "model": "850"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1968,850", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1968, "model": "850"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1969,850", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1969, "model": "850"}}}

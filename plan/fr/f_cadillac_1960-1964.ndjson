@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,1960,commercial+chassis", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1960, "model": "COMMERCIAL CHASSIS"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1962,commercial+chassis", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1962, "model": "COMMERCIAL CHASSIS"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1964,commercial+chassis", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1964, "model": "COMMERCIAL CHASSIS"}}}

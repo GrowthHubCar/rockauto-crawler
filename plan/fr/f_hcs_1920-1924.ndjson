@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/hcs,1920,series+ii", "payload": {"nodetype": "model", "ctx": {"make": "HCS", "year": 1920, "model": "SERIES II"}}}
+{"node_type": "model", "href": "/en/catalog/hcs,1921,series+ii", "payload": {"nodetype": "model", "ctx": {"make": "HCS", "year": 1921, "model": "SERIES II"}}}
+{"node_type": "model", "href": "/en/catalog/hcs,1922,series+iii", "payload": {"nodetype": "model", "ctx": {"make": "HCS", "year": 1922, "model": "SERIES III"}}}
+{"node_type": "model", "href": "/en/catalog/hcs,1923,series+vi", "payload": {"nodetype": "model", "ctx": {"make": "HCS", "year": 1923, "model": "SERIES VI"}}}
+{"node_type": "model", "href": "/en/catalog/hcs,1924,series+vi", "payload": {"nodetype": "model", "ctx": {"make": "HCS", "year": 1924, "model": "SERIES VI"}}}
+{"node_type": "model", "href": "/en/catalog/hcs,1923,series+iv", "payload": {"nodetype": "model", "ctx": {"make": "HCS", "year": 1923, "model": "SERIES IV"}}}
+{"node_type": "model", "href": "/en/catalog/hcs,1924,series+iv", "payload": {"nodetype": "model", "ctx": {"make": "HCS", "year": 1924, "model": "SERIES IV"}}}

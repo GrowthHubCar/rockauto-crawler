@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/tesla,2010,roadster", "payload": {"nodetype": "model", "ctx": {"make": "TESLA", "year": 2010, "model": "ROADSTER"}}}
+{"node_type": "model", "href": "/en/catalog/tesla,2011,roadster", "payload": {"nodetype": "model", "ctx": {"make": "TESLA", "year": 2011, "model": "ROADSTER"}}}
+{"node_type": "model", "href": "/en/catalog/tesla,2013,s", "payload": {"nodetype": "model", "ctx": {"make": "TESLA", "year": 2013, "model": "S"}}}

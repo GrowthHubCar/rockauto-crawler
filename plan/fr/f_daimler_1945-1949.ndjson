@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/daimler,1946,de36", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1946, "model": "DE36"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1947,de36", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1947, "model": "DE36"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1948,de36", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1948, "model": "DE36"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1949,de36", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1949, "model": "DE36"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1946,de27", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1946, "model": "DE27"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1947,de27", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1947, "model": "DE27"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1948,de27", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1948, "model": "DE27"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1949,de27", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1949, "model": "DE27"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1946,db18", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1946, "model": "DB18"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1947,db18", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1947, "model": "DB18"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1948,db18", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1948, "model": "DB18"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1949,db18", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1949, "model": "DB18"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1948,special+sports", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1948, "model": "SPECIAL SPORTS"}}}
+{"node_type": "model", "href": "/en/catalog/daimler,1949,special+sports", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1949, "model": "SPECIAL SPORTS"}}}

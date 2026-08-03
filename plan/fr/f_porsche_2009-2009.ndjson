@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/porsche,2009,cayman", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2009, "model": "CAYMAN"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,2009,boxster", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2009, "model": "BOXSTER"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,2009,cayenne", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2009, "model": "CAYENNE"}}}
-{"node_type": "model", "href": "/en/catalog/porsche,2009,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2009, "model": "911"}}}

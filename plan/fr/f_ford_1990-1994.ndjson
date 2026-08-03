@@ -1,0 +1,22 @@
+{"node_type": "model", "href": "/en/catalog/ford,1991,taurus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1991, "model": "TAURUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1991,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1991, "model": "RANGER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1994,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1994, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1992,topaz", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1992, "model": "TOPAZ"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1994,topaz", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1994, "model": "TOPAZ"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1991,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1991, "model": "P-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1994,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1994, "model": "P-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1991,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1991, "model": "L SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1992,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1992, "model": "L SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1993,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1993, "model": "L SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1994,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1994, "model": "L SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1994,e-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1994, "model": "E-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1994,f-600", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1994, "model": "F-600"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1991,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1991, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1992,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1992, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1994,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1994, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1991,c+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1991, "model": "C SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1993,c+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1993, "model": "C SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1993,b+series+bus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1993, "model": "B SERIES BUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1992,aerostar", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1992, "model": "AEROSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1993,ghia", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1993, "model": "GHIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1994,ghia", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1994, "model": "GHIA"}}}

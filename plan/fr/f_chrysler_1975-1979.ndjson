@@ -1,0 +1,16 @@
+{"node_type": "model", "href": "/en/catalog/chrysler,1975,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1975, "model": "TOWN & COUNTRY"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1976,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1976, "model": "TOWN & COUNTRY"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1975,imperial", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1975, "model": "IMPERIAL"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1975,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1975, "model": "NEW YORKER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1977,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1977, "model": "NEW YORKER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1978,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1978, "model": "NEW YORKER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1979,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1979, "model": "NEW YORKER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1975,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1975, "model": "NEWPORT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1976,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1976, "model": "NEWPORT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1977,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1977, "model": "NEWPORT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1977,valiant", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1977, "model": "VALIANT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1979,valiant", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1979, "model": "VALIANT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1979,lebaron", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1979, "model": "LEBARON"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1976,cordoba", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1976, "model": "CORDOBA"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1977,cordoba", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1977, "model": "CORDOBA"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1978,cordoba", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1978, "model": "CORDOBA"}}}

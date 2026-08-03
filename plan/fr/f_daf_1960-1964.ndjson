@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/daf,1960,600", "payload": {"nodetype": "model", "ctx": {"make": "DAF", "year": 1960, "model": "600"}}}
+{"node_type": "model", "href": "/en/catalog/daf,1961,600", "payload": {"nodetype": "model", "ctx": {"make": "DAF", "year": 1961, "model": "600"}}}
+{"node_type": "model", "href": "/en/catalog/daf,1962,600", "payload": {"nodetype": "model", "ctx": {"make": "DAF", "year": 1962, "model": "600"}}}
+{"node_type": "model", "href": "/en/catalog/daf,1964,600", "payload": {"nodetype": "model", "ctx": {"make": "DAF", "year": 1964, "model": "600"}}}
+{"node_type": "model", "href": "/en/catalog/daf,1962,daffodil", "payload": {"nodetype": "model", "ctx": {"make": "DAF", "year": 1962, "model": "DAFFODIL"}}}
+{"node_type": "model", "href": "/en/catalog/daf,1962,750", "payload": {"nodetype": "model", "ctx": {"make": "DAF", "year": 1962, "model": "750"}}}

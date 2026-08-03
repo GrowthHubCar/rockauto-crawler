@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2005,vectra", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "VECTRA"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2005,zafira", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "ZAFIRA"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2005,tornado", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "TORNADO"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2005,tracker", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "TRACKER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2005,tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "TILTMASTER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2005,t+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "T SERIES TRUCK"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2005,suburban+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "SUBURBAN 2500"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2005,suburban+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "SUBURBAN 1500"}}}

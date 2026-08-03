@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/opel,1947,olympia", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1947, "model": "OLYMPIA"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1948,olympia", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1948, "model": "OLYMPIA"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1949,olympia", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1949, "model": "OLYMPIA"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1948,kapitan", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1948, "model": "KAPITAN"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1949,kapitan", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1949, "model": "KAPITAN"}}}

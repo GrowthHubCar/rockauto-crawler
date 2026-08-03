@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/cadillac,2026,ct4", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2026, "model": "CT4"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,2026,celestiq", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2026, "model": "CELESTIQ"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,2026,ct5", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2026, "model": "CT5"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,2026,xt5", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2026, "model": "XT5"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,2026,escalade", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2026, "model": "ESCALADE"}}}

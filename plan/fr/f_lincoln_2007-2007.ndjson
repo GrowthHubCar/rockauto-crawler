@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lincoln,2007,navigator", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2007, "model": "NAVIGATOR"}}}
-{"node_type": "model", "href": "/en/catalog/lincoln,2007,mkx", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2007, "model": "MKX"}}}
-{"node_type": "model", "href": "/en/catalog/lincoln,2007,mkz", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2007, "model": "MKZ"}}}
-{"node_type": "model", "href": "/en/catalog/lincoln,2007,town+car", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2007, "model": "TOWN CAR"}}}

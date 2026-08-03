@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/franklin,1915,model+six+30", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1915, "model": "MODEL SIX 30"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1916,model+six+30", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1916, "model": "MODEL SIX 30"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1917,series+9", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1917, "model": "SERIES 9"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1918,series+9", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1918, "model": "SERIES 9"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1919,series+9", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1919, "model": "SERIES 9"}}}

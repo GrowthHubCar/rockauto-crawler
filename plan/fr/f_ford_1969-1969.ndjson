@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1969,torino", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1969, "model": "TORINO"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1969,p-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1969, "model": "P-100"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1969,ranchero", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1969, "model": "RANCHERO"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1969,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1969, "model": "THUNDERBIRD"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1969,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1969, "model": "RANCH WAGON"}}}

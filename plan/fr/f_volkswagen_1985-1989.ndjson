@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,1988,combi", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1988, "model": "COMBI"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1988,quantum", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1988, "model": "QUANTUM"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1988,panel", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1988, "model": "PANEL"}}}

@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/dodge,2011,h100+van", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2011, "model": "H100 VAN"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2011,grand+caravan", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2011, "model": "GRAND CARAVAN"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2011,journey", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2011, "model": "JOURNEY"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2011,durango", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2011, "model": "DURANGO"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2011,challenger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2011, "model": "CHALLENGER"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,2011,charger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2011, "model": "CHARGER"}}}

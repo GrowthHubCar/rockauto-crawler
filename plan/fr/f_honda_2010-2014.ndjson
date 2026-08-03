@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/honda,2011,fit", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2011, "model": "FIT"}}}
+{"node_type": "model", "href": "/en/catalog/honda,2012,cr-z", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2012, "model": "CR-Z"}}}
+{"node_type": "model", "href": "/en/catalog/honda,2011,city", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2011, "model": "CITY"}}}
+{"node_type": "model", "href": "/en/catalog/honda,2012,cr-v", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2012, "model": "CR-V"}}}

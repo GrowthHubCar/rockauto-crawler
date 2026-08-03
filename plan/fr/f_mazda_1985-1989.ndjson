@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mazda,1989,mpv", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1989, "model": "MPV"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1988,b2200", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1988, "model": "B2200"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1989,323", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1989, "model": "323"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2019,tundra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2019, "model": "TUNDRA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2019,yaris", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2019, "model": "YARIS"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2019,tacoma", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2019, "model": "TACOMA"}}}

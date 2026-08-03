@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/triumph,1976,spitfire", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1976, "model": "SPITFIRE"}}}
+{"node_type": "model", "href": "/en/catalog/triumph,1977,spitfire", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1977, "model": "SPITFIRE"}}}
+{"node_type": "model", "href": "/en/catalog/triumph,1978,spitfire", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1978, "model": "SPITFIRE"}}}
+{"node_type": "model", "href": "/en/catalog/triumph,1976,tr7", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1976, "model": "TR7"}}}
+{"node_type": "model", "href": "/en/catalog/triumph,1978,tr7", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1978, "model": "TR7"}}}
