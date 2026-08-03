@@ -259,11 +259,38 @@ jobs:
             $EXTRA
 
       # Persist this shard's remaining frontier so its NEXT run resumes the DFS here.
-      - name: Save frontier (for next run's resume)
+      # THE RESUME BUG (fixed 2026-08-03): this saved frontier/out.ndjson while the restore
+      # step above asks for frontier/in.ndjson. actions/cache restores files to the paths
+      # they were ARCHIVED under, so the restore could never produce in.ndjson — the seed
+      # check then saw no in.ndjson and re-seeded from the model-level plan/fr file EVERY
+      # run. Each unit therefore re-walked make->year->model->carcode->group from scratch
+      # forever and almost every request went to a nav page:
+      #
+      #   Cache not found for input keys: rockauto-frontier-abarth_1960-1979-...
+      #   [frontier] seeded plan/fr/f_abarth_1960-1979.ndjson (40 nodes)
+      #
+      # Measured cost: 1.09 rows/request against the 4.445 plan/targets.tsv promises, and
+      # a flat ~8,000 new fitments per run no matter what else was tuned. The AWS/GCP boxes
+      # never hit this because unit_supervisor.sh:49 keeps fr/f_<unit>.ndjson ON DISK and
+      # prefers it over the seed, so their nav walk was paid exactly once per unit.
+      #
+      # Cache under the SAME path the restore asks for.
+      - name: Stage frontier for caching
         if: ${{ always() && (github.event.inputs.mode || 'full') != 'tree' }}
+        run: |
+          if [ -s frontier/out.ndjson ]; then
+            cp frontier/out.ndjson frontier/in.ndjson
+            echo "[frontier] carrying $(wc -l < frontier/in.ndjson) nodes to next run"
+          else
+            echo "[frontier] out.ndjson empty — unit may be drained; not caching a truncation"
+            rm -f frontier/in.ndjson
+          fi
+
+      - name: Save frontier (for next run's resume)
+        if: ${{ always() && (github.event.inputs.mode || 'full') != 'tree' && hashFiles('frontier/in.ndjson') != '' }}
         uses: actions/cache/save@v4
         with:
-          path: frontier/out.ndjson
+          path: frontier/in.ndjson
           key: rockauto-frontier-${{ env.UNIT }}-${{ github.run_id }}
 
       # Upload only the leaves crawled THIS run, not the whole cache.
