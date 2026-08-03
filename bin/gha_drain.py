@@ -150,7 +150,20 @@ def drain(tagged: str, keep: bool = False) -> bool:
     #    Small staging batches are the known-good shape for this loader.
     #
     # Loading after each chunk also means a failure costs one chunk, not the whole run.
-    CHUNK = 40
+    # CHUNK sizes the loader's WARM CACHE, not just the command line.
+    #
+    # loader.load_listing skips re-materialising a part it has already seen this process
+    # (`_part_done`, loader.py:529) and its own comment calls that redundancy "~75% of
+    # loader work". But _part_done is PER PROCESS, so restarting loader.py every 40 files
+    # paid that 75% penalty 21 times per run. Measured: 312 rows/s, 24.9 min per run,
+    # against a fleet producing ~50 min of ingest work every 25 min — the backlog grew
+    # twice as fast as it drained and reached 40 runs.
+    #
+    # 40 was chosen when big batches produced "TransactionLost ... savepoint sp_chunk
+    # gone". That turned out to be a GHOST second loader (.awstmp/ingest_supervisor.sh)
+    # competing for locks, not batch size — killed, and no TransactionLost since. 140
+    # keeps the path list well inside Windows' 32,768-char ARG_MAX (140 x ~120 = ~17k).
+    CHUNK = 140
     loaded = 0
     for i in range(0, len(files), CHUNK):
         part = files[i:i + CHUNK]
