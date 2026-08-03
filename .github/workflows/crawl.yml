@@ -330,19 +330,6 @@ jobs:
               echo "[lane $n] $U resumed ($(wc -l < "$IN") nodes)"
             fi
             MK="${U%_*}"; BAND="${U##*_}"
-            LO="${BAND%-*}"; HI="${BAND#*-}"
-            # PER-LANE SKIP-SET. The merged coverage/visited.txt is ~8.6M keys and
-            # crawl_jsonl loads it into a python set — measured 1.03 GiB resident. With
-            # 14+ lanes on a 16 GB runner that OOMs the box: run 30807344572 lost 45 of
-            # 62 jobs to exit 143, each discarding its entire crawl.
-            #
-            # A lane crawls exactly ONE unit (make x year-band), so it can only ever skip
-            # keys for that make and those years. One awk pass takes the per-lane set
-            # from ~8.6M keys to a few thousand (toyota 2015: 8,900; ford 1990-99: 36,401).
-            awk -F, -v mk="/en/catalog/${MK}" -v lo="$LO" -v hi="$HI" \
-                '$1==mk && $2+0>=lo+0 && $2+0<=hi+0' coverage/visited.txt \
-                > "coverage/v_${U}.txt" 2>/dev/null || : > "coverage/v_${U}.txt"
-            echo "[lane $n] $U skip-keys $(wc -l < "coverage/v_${U}.txt")"
             Y0="${BAND%-*}"; Y1="${BAND#*-}"
             MKU=$(echo "${MK%.s*}" | tr '_' '+') # _ -> + (alfa_romeo -> alfa+romeo); .sN = shard suffix, not part of the make
             SKIP="coverage/skip_${U}.txt"
@@ -363,7 +350,6 @@ jobs:
               SP_YEAR_MIN="$Y0" SP_YEAR_MAX="$Y1" \
               VISITED_FILE="$SKIP" \
               VISITED_OUT="artifacts/visited-${{ matrix.index }}-${n}.txt" \
-            VISITED_FILE="coverage/v_${U}.txt" \
               exec python scraper/crawl_jsonl.py \
                 --shard-index 0 --shard-total 1 \
                 --only-makes "$MK" \
