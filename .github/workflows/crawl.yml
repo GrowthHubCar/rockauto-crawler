@@ -138,6 +138,7 @@ jobs:
           ACCOUNT_COUNT: ${{ vars.ACCOUNT_COUNT || '1' }}
           RUN_NUMBER:    ${{ github.run_number }}
           BLOCK:         ${{ github.event.inputs.offset }}
+          REPEAT:        ${{ vars.REPEAT || '6' }}
           MATRIX_INDEX:  ${{ matrix.index }}
           MATRIX_SIZE:   "120"
         run: |
@@ -159,7 +160,15 @@ jobs:
           jobs  = int(os.environ["MATRIX_SIZE"])
           mine  = units[slot::count]
           cycle = max(1, math.ceil(len(mine) / jobs))
-          block = int(pin) % cycle if pin else (run % cycle)
+          # REPEAT: stay on the same 120 units for this many consecutive runs before
+          # rotating. Rotating every run gave each unit one 300 s visit per 8 runs, so no
+          # unit ever got past its nav walk (make->year->model->carcode->group) into the
+          # leaves — measured rows/request stuck at 0.54 against the 4.445 target even after
+          # the frontier resume was fixed. The AWS fleet never rotated: unit_supervisor.sh
+          # re-launched the SAME unit until it returned exit 42 (frontier drained), so its
+          # nav cost was paid once and everything after was leaves.
+          repeat = int(os.environ.get("REPEAT") or 6)
+          block = int(pin) % cycle if pin else ((run // repeat) % cycle)
           unit  = mine[(block * jobs + idx) % len(mine)]
           make, band = unit.rsplit("_", 1)
           lo, hi = band.split("-")
