@@ -254,7 +254,18 @@ jobs:
           # without marking it seen, so raising them skips nothing and loses nothing. The
           # AWS/GCP fleet runs 100000/200000 (bin/unit_supervisor.sh:70) after the same
           # defaults collapsed its output from 13,432 to 735 MB/hour.
-          SP_MAX_BLOCKED: "100000"
+          # 100000 meant a lane NEVER aborted, so once the runner IP blackholed it ground
+          # on until max_seconds. Measured (run 30803914105): every producing lane ended
+          # with exactly 8 consecutive blocks and exit_reason='time' — the IP died at
+          # ~1,644 requests and each lane then burned 8 nodes x 2 attempts x 4 s connect
+          # timeout = ~64 s against a dead address, 20% of the crawl step.
+          #
+          # Requests per job are PINNED at ~1,644 by that IP wall, so fleet throughput is
+          # 40 slots x 1,644 / slot-time — every gain is slot TIME, not requests. Exiting
+          # promptly when the IP is gone recycles the slot onto a FRESH IP sooner, which is
+          # the whole lever. 10 is high enough to ride out transient blocks (the counter
+          # resets on any success, crawl_jsonl.py:483) and low enough to quit a dead IP.
+          SP_MAX_BLOCKED: "10"
           SP_MAX_CAPTCHAS: "200000"
           SP_MAX_ATTEMPTS: "2"       # fail fast; a fourth retry on a hot IP is dead time
           SP_REQUEST_TIMEOUT: "4"
