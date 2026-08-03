@@ -164,21 +164,28 @@ def drain(tagged: str, keep: bool = False) -> bool:
     # competing for locks, not batch size — killed, and no TransactionLost since. 140
     # keeps the path list well inside Windows' 32,768-char ARG_MAX (140 x ~120 = ~17k).
     CHUNK = 140
+    stage_s = load_s = 0.0   # where the drain's wall-clock actually goes
     loaded = 0
     for i in range(0, len(files), CHUNK):
         part = files[i:i + CHUNK]
+        t_stage = time.time()
         rc, out = _sh([sys.executable, "bin/ingest_artifacts.py"] + part)
+        stage_s += time.time() - t_stage
         if rc != 0:
             log(f"run {tagged}: STAGING FAILED at {i}/{len(files)} rc={rc} :: {out.strip()[-220:]}")
             shutil.rmtree(d, ignore_errors=True)
             return False
+        t_load = time.time()
         rc, out = _sh([sys.executable, "bin/loader.py"])
+        load_s += time.time() - t_load
         if rc != 0:
             log(f"run {tagged}: LOADER FAILED at {i}/{len(files)} rc={rc} :: {out.strip()[-220:]}")
             shutil.rmtree(d, ignore_errors=True)
             return False
         loaded += len(part)
-    log(f"run {tagged}: loaded {loaded}/{len(files)} artifacts in {(len(files)+CHUNK-1)//CHUNK} batches")
+    log(f"run {tagged}: loaded {loaded}/{len(files)} artifacts in "
+        f"{(len(files)+CHUNK-1)//CHUNK} batches — stage {stage_s/60:.1f}m load {load_s/60:.1f}m "
+        f"({rows/max(stage_s+load_s,1):.0f} rows/s)")
 
     _mark(tagged)                          # only after the loader succeeded
     if not keep:
