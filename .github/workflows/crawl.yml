@@ -163,8 +163,15 @@ jobs:
           cycle = max(1, math.ceil(len(mine) / per))
           repeat = int(os.environ.get("REPEAT") or 6)
           block = int(pin) % cycle if pin else ((run // repeat) % cycle)
-          base  = block * per + idx * lanes
-          picked = [mine[(base + k) % len(mine)] for k in range(lanes)]
+          # Lane k of job idx takes unit (block*per + k*jobs + idx). Two properties matter:
+          #   COMPLETE  — (k, idx) -> k*jobs+idx is a bijection onto 0..per-1, so a block
+          #               covers per DISTINCT units with no collisions.
+          #   STRIDED   — lanes within a job are `jobs` (120) apart in an alphabetically
+          #               sorted list, so they land on different MAKES. Taking six
+          #               CONSECUTIVE units drew toyota_2015..toyota_2026 and all six lanes
+          #               hit /en/catalog/toyota at the same instant; that burst captcha'd
+          #               the runner IP immediately (2 requests, 2 captchas, 0 listings).
+          picked = [mine[(block * per + k * jobs + idx) % len(mine)] for k in range(lanes)]
           print("UNITS=" + " ".join(picked))
           print("UNIT=" + picked[0])          # cache key + log label
           print("UNITS_MINE=" + str(len(mine)))
