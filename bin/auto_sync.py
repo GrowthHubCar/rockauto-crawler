@@ -51,6 +51,10 @@ DEFAULT_REPOS = [
     "haseeb-shoukat2029/rockauto-crawler",   # ACCOUNT_SLOT 1
     "Affilusion/rockauto-crawler",           # ACCOUNT_SLOT 2 (org, owned by ahmerfr)
     "Nexarce/rockauto-crawler",              # ACCOUNT_SLOT 3 (org, owned by haseeb-shoukat2029)
+    "arbyahad/rockauto-crawler",             # ACCOUNT_SLOT 4
+    "GrowthHubCar/rockauto-crawler",         # ACCOUNT_SLOT 5 (org, owned by arbyahad)
+    "artechonza/rockauto-crawler",           # ACCOUNT_SLOT 6
+    "Techonza/rockauto-crawler",             # ACCOUNT_SLOT 7 (org, owned by artechonza)
 ]
 REPOS = [r.strip() for r in os.getenv("SP_SYNC_REPOS", ",".join(DEFAULT_REPOS)).split(",") if r.strip()]
 REPO = REPOS[0]  # primary (its bare run-ids in the legacy state file stay valid)
@@ -128,6 +132,8 @@ DISPATCH_AFTER_HOURS = 7
 _AUTH_MAP = {
     "Affilusion/rockauto-crawler": "ahmerfr",
     "Nexarce/rockauto-crawler": "haseeb-shoukat2029",
+    "GrowthHubCar/rockauto-crawler": "arbyahad",
+    "Techonza/rockauto-crawler": "artechonza",
 }
 for _pair in (os.getenv("SP_SYNC_AUTH") or "").split(","):
     if "=" in _pair:
