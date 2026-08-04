@@ -599,5 +599,19 @@ jobs:
           gh workflow run crawl.yml --ref master
           echo "relaunched crawl.yml on master"
 
-# Fleet shards: ahmerfr(0) haseeb-shoukat2029(1) Affilusion(2) Nexarce(3).
-# ACCOUNT_COUNT=4 => LANES=12 (35*12=420 >= 412 units/account, cycle 1, 2.1% dup).
+# Fleet shards (ACCOUNT_SLOT -> repo, and the gh account whose token can act on it):
+#   0 ahmerfr/rockauto-crawler             ahmerfr
+#   1 haseeb-shoukat2029/rockauto-crawler  haseeb-shoukat2029
+#   2 Affilusion/rockauto-crawler          ahmerfr
+#   3 Nexarce/rockauto-crawler             haseeb-shoukat2029
+#   4 arbyahad/rockauto-crawler            arbyahad
+#   5 GrowthHubCar/rockauto-crawler        arbyahad
+#   6 artechonza/rockauto-crawler          artechonza
+#   7 Techonza/rockauto-crawler            artechonza
+#
+# LANES must satisfy jobs*LANES >= units/account or `cycle` goes 1 -> 2 and the block
+# flip hands every job frontiers for units it is not crawling (665 units re-walk their
+# nav tree). 1,646 units total, so units/account = ceil(1646/ACCOUNT_COUNT):
+#   ACCOUNT_COUNT=4 -> 412/acct -> LANES=12 (per=420,  2.1% dup)
+#   ACCOUNT_COUNT=8 -> 206/acct -> LANES=6  (per=210,  2.4% dup)
+# LANES=7 at 8 accounts is 16.3% duplicate lanes — two writers racing one frontier.
