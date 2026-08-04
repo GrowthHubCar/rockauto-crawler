@@ -598,3 +598,6 @@ jobs:
           # so the 30 s was pure idle at the head of every 1,626 s cycle.
           gh workflow run crawl.yml --ref master
           echo "relaunched crawl.yml on master"
+
+# Fleet shards: ahmerfr(0) haseeb-shoukat2029(1) Affilusion(2) Nexarce(3).
+# ACCOUNT_COUNT=4 => LANES=12 (35*12=420 >= 412 units/account, cycle 1, 2.1% dup).
