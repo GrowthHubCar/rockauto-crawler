@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/jaguar,1969,xj", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1969, "model": "XJ"}}}
+{"node_type": "carcode", "href": "/en/catalog/jaguar,1967,3.8,3.8l+l6,1493909", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1967, "model": "3.8"}}}

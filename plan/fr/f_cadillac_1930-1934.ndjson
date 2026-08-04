@@ -10,6 +10,3 @@
 {"node_type": "model", "href": "/en/catalog/cadillac,1933,355+c", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1933, "model": "355 C"}}}
 {"node_type": "model", "href": "/en/catalog/cadillac,1934,452+d", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1934, "model": "452 D"}}}
 {"node_type": "model", "href": "/en/catalog/cadillac,1934,355+d", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1934, "model": "355 D"}}}
-{"node_type": "carcode", "href": "/en/catalog/cadillac,1934,370+d,6.0l+368cid+v12,1485599", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1934, "model": "370 D"}}}
-{"node_type": "carcode", "href": "/en/catalog/cadillac,1930,370,6.0l+368cid+v12,1485445", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1930, "model": "370"}}}
-{"node_type": "carcode", "href": "/en/catalog/cadillac,1932,370+b,6.0l+368cid+v12,1485513", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1932, "model": "370 B"}}}

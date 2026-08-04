@@ -6,12 +6,6 @@
 {"node_type": "model", "href": "/en/catalog/lada,1990,samara", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1990, "model": "SAMARA"}}}
 {"node_type": "model", "href": "/en/catalog/lada,1992,samara", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1992, "model": "SAMARA"}}}
 {"node_type": "model", "href": "/en/catalog/lada,1993,samara", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1993, "model": "SAMARA"}}}
-{"node_type": "carcode", "href": "/en/catalog/lada,1991,signet,1.5l+l4,1186725", "payload": {"nodetype": "carcode", "ctx": {"make": "LADA", "year": 1991, "model": "SIGNET"}}}
 {"node_type": "carcode", "href": "/en/catalog/lada,1994,samara,1.5l+l4,1186488", "payload": {"nodetype": "carcode", "ctx": {"make": "LADA", "year": 1994, "model": "SAMARA"}}}
-{"node_type": "carcode", "href": "/en/catalog/lada,1991,samara,1.5l+l4,1186387", "payload": {"nodetype": "carcode", "ctx": {"make": "LADA", "year": 1991, "model": "SAMARA"}}}
-{"node_type": "carcode", "href": "/en/catalog/lada,1994,samara+sagona,1.5l+l4,1186499", "payload": {"nodetype": "carcode", "ctx": {"make": "LADA", "year": 1994, "model": "SAMARA SAGONA"}}}
-{"node_type": "carcode", "href": "/en/catalog/lada,1993,niva,1.6l+l4,1186253", "payload": {"nodetype": "carcode", "ctx": {"make": "LADA", "year": 1993, "model": "NIVA"}}}
-{"node_type": "carcode", "href": "/en/catalog/lada,1991,niva,1.6l+l4,1186219", "payload": {"nodetype": "carcode", "ctx": {"make": "LADA", "year": 1991, "model": "NIVA"}}}
 {"node_type": "carcode", "href": "/en/catalog/lada,1994,samara,1.3l+l4,1186466", "payload": {"nodetype": "carcode", "ctx": {"make": "LADA", "year": 1994, "model": "SAMARA"}}}
 {"node_type": "carcode", "href": "/en/catalog/lada,1994,niva,1.6l+l4,923986", "payload": {"nodetype": "carcode", "ctx": {"make": "LADA", "year": 1994, "model": "NIVA"}}}
-{"node_type": "carcode", "href": "/en/catalog/lada,1991,samara,1.3l+l4,1186376", "payload": {"nodetype": "carcode", "ctx": {"make": "LADA", "year": 1991, "model": "SAMARA"}}}

@@ -1,36 +1,8 @@
 {"node_type": "model", "href": "/en/catalog/eagle,1990,premier", "payload": {"nodetype": "model", "ctx": {"make": "EAGLE", "year": 1990, "model": "PREMIER"}}}
 {"node_type": "carcode", "href": "/en/catalog/eagle,1994,summit,1.5l+l4,1102778", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1994, "model": "SUMMIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1990,talon,2.0l+l4+turbocharged,1103050", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1990, "model": "TALON"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1992,talon,2.0l+l4,1103083", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1992, "model": "TALON"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1993,talon,2.0l+l4+turbocharged,1103128", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1993, "model": "TALON"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1992,premier,3.0l+v6,1440162", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1992, "model": "PREMIER"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1990,summit,1.5l+l4,1102486", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1990, "model": "SUMMIT"}}}
 {"node_type": "carcode", "href": "/en/catalog/eagle,1993,summit,2.4l+l4,1102699", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1993, "model": "SUMMIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1992,summit,1.8l+l4,1102598", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1992, "model": "SUMMIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1992,summit,2.4l+l4,1102600", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1992, "model": "SUMMIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1990,vista,2.0l+l4,1103577", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1990, "model": "VISTA"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1994,talon,2.0l+l4,1103140", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1994, "model": "TALON"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1991,2000+gtx,2.0l+l4,1102183", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1991, "model": "2000 GTX"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1992,summit,1.5l+l4,1102576", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1992, "model": "SUMMIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1994,vision,3.5l+v6,1103308", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1994, "model": "VISION"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1990,vista,1.5l+l4,1103533", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1990, "model": "VISTA"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1991,talon,2.0l+l4+turbocharged,1103072", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1991, "model": "TALON"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1993,vision,3.5l+v6,1103274", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1993, "model": "VISION"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1993,talon,1.8l+l4,1103106", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1993, "model": "TALON"}}}
 {"node_type": "carcode", "href": "/en/catalog/eagle,1994,summit,1.8l+l4,1102789", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1994, "model": "SUMMIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1990,talon,2.0l+l4,1103049", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1990, "model": "TALON"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1991,talon,2.0l+l4,1103061", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1991, "model": "TALON"}}}
 {"node_type": "carcode", "href": "/en/catalog/eagle,1993,vision,3.3l+v6,1103263", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1993, "model": "VISION"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1993,talon,2.0l+l4,1103117", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1993, "model": "TALON"}}}
 {"node_type": "carcode", "href": "/en/catalog/eagle,1994,summit,2.4l+l4,1102767", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1994, "model": "SUMMIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1991,premier,3.0l+v6,1440145", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1991, "model": "PREMIER"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1991,summit,1.5l+l4,1102532", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1991, "model": "SUMMIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1992,2000+gtx,2.0l+l4,1102217", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1992, "model": "2000 GTX"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1991,vista,2.0l+l4,1103645", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1991, "model": "VISTA"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1994,talon,2.0l+l4+turbocharged,1103151", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1994, "model": "TALON"}}}
 {"node_type": "carcode", "href": "/en/catalog/eagle,1992,talon,2.0l+l4+turbocharged,1103094", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1992, "model": "TALON"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1994,vision,3.3l+v6,1103285", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1994, "model": "VISION"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1992,vista,1.5l+l4,1438538", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1992, "model": "VISTA"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1991,vista,1.5l+l4,1103623", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1991, "model": "VISTA"}}}
-{"node_type": "carcode", "href": "/en/catalog/eagle,1990,summit,1.6l+l4,1102510", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1990, "model": "SUMMIT"}}}
 {"node_type": "carcode", "href": "/en/catalog/eagle,1993,summit,1.8l+l4,1102688", "payload": {"nodetype": "carcode", "ctx": {"make": "EAGLE", "year": 1993, "model": "SUMMIT"}}}

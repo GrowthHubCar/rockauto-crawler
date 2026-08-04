@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/ford,2024,f59", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2024, "model": "F59"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2023,expedition,3.5l+v6+turbocharged,3451414", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2023, "model": "EXPEDITION"}}}

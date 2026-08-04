@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2005,zafira", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "ZAFIRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,corvette,7.0l+v8,1441010", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "CORVETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2007,suburban+1500,5.3l+v8,1433403", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2007, "model": "SUBURBAN 1500"}}}

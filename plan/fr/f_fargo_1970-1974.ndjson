@@ -25,14 +25,3 @@
 {"node_type": "model", "href": "/en/catalog/fargo,1972,b200+van", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1972, "model": "B200 VAN"}}}
 {"node_type": "model", "href": "/en/catalog/fargo,1972,b300+van", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1972, "model": "B300 VAN"}}}
 {"node_type": "model", "href": "/en/catalog/fargo,1972,b100+van", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1972, "model": "B100 VAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/fargo,1971,b100+van,3.7l+225cid+l6,1497075", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1971, "model": "B100 VAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/fargo,1971,b100+van,5.2l+318cid+v8,1497076", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1971, "model": "B100 VAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/fargo,1971,b200+van,3.7l+225cid+l6,1497078", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1971, "model": "B200 VAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/fargo,1971,p200+parcel+delivery,3.7l+225cid+l6,1497095", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1971, "model": "P200 PARCEL DELIVERY"}}}
-{"node_type": "carcode", "href": "/en/catalog/fargo,1971,b100+van,3.2l+198cid+l6,1497074", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1971, "model": "B100 VAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/fargo,1972,d200+pickup,5.2l+318cid+v8,1498158", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1972, "model": "D200 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/fargo,1971,b300+van,5.2l+318cid+v8,1497082", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1971, "model": "B300 VAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/fargo,1971,w200+pickup,3.7l+225cid+l6,1497103", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1971, "model": "W200 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/fargo,1971,b300+van,3.2l+198cid+l6,1497080", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1971, "model": "B300 VAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/fargo,1972,d200+pickup,6.6l+400cid+v8,1498159", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1972, "model": "D200 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/fargo,1971,b300+van,3.7l+225cid+l6,1497081", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1971, "model": "B300 VAN"}}}

@@ -1,4 +1,0 @@
-{"node_type": "carcode", "href": "/en/catalog/mclaren,2025,750s,4.0l+v8+turbocharged,3455633", "payload": {"nodetype": "carcode", "ctx": {"make": "MCLAREN", "year": 2025, "model": "750S"}}}
-{"node_type": "carcode", "href": "/en/catalog/mclaren,2025,gts,4.0l+v8+turbocharged,3455635", "payload": {"nodetype": "carcode", "ctx": {"make": "MCLAREN", "year": 2025, "model": "GTS"}}}
-{"node_type": "carcode", "href": "/en/catalog/mclaren,2025,artura,3.0l+v6+electric/gas+turbocharged,3455634", "payload": {"nodetype": "carcode", "ctx": {"make": "MCLAREN", "year": 2025, "model": "ARTURA"}}}
-{"node_type": "carcode", "href": "/en/catalog/mclaren,2026,artura,3.0l+v6+electric/gas+turbocharged,3459149", "payload": {"nodetype": "carcode", "ctx": {"make": "MCLAREN", "year": 2026, "model": "ARTURA"}}}

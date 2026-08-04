@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2019,polo", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2019, "model": "POLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2019,beetle,2.5l+l5,3444456", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2019, "model": "BEETLE"}}}

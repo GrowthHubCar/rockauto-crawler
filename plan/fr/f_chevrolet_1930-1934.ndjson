@@ -1,10 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/chevrolet,1933,eagle", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1933, "model": "EAGLE"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1933,mercury,3.0l+181cid+l6,952565", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1933, "model": "MERCURY"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1934,standard,3.0l+181cid+l6,952644", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1934, "model": "STANDARD"}}}
 {"node_type": "carcode", "href": "/en/catalog/chevrolet,1934,master,3.4l+207cid+l6,952643", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1934, "model": "MASTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1930,universal,3.2l+194cid+l6,952349", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1930, "model": "UNIVERSAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1931,independence,194cid+l6,952409", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1931, "model": "INDEPENDENCE"}}}
 {"node_type": "carcode", "href": "/en/catalog/chevrolet,1933,truck,207cid+l6,952566", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1933, "model": "TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1934,db,3.4l+207cid+l6,1485601", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1934, "model": "DB"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1932,confederate,3.2l+194cid+l6,952481", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1932, "model": "CONFEDERATE"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1933,master+eagle,194cid+l6,952564", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1933, "model": "MASTER EAGLE"}}}

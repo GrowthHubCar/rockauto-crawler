@@ -1,7 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/desoto,1935,ss+airstream", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1935, "model": "SS AIRSTREAM"}}}
 {"node_type": "model", "href": "/en/catalog/desoto,1939,s-6", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1939, "model": "S-6"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1938,s-5,3.7l+228cid+l6,1485839", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1938, "model": "S-5"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1936,s1+airstream,4.0l+242cid+l6,123856", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1936, "model": "S1 AIRSTREAM"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1935,sg+airflow,4.0l+242cid+l6,123869", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1935, "model": "SG AIRFLOW"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1936,s2+airflow,4.0l+242cid+l6,123858", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1936, "model": "S2 AIRFLOW"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1937,s-3,3.7l+228cid+l6,1485771", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1937, "model": "S-3"}}}

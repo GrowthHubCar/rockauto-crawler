@@ -5,5 +5,3 @@
 {"node_type": "model", "href": "/en/catalog/reo,1932,royale", "payload": {"nodetype": "model", "ctx": {"make": "REO", "year": 1932, "model": "ROYALE"}}}
 {"node_type": "model", "href": "/en/catalog/reo,1933,royale", "payload": {"nodetype": "model", "ctx": {"make": "REO", "year": 1933, "model": "ROYALE"}}}
 {"node_type": "model", "href": "/en/catalog/reo,1934,royale", "payload": {"nodetype": "model", "ctx": {"make": "REO", "year": 1934, "model": "ROYALE"}}}
-{"node_type": "carcode", "href": "/en/catalog/reo,1931,royale,l8,952453", "payload": {"nodetype": "carcode", "ctx": {"make": "REO", "year": 1931, "model": "ROYALE"}}}
-{"node_type": "carcode", "href": "/en/catalog/reo,1930,flying+cloud,l6,952390", "payload": {"nodetype": "carcode", "ctx": {"make": "REO", "year": 1930, "model": "FLYING CLOUD"}}}

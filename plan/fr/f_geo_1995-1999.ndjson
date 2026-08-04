@@ -1,14 +1,3 @@
-{"node_type": "carcode", "href": "/en/catalog/geo,1995,metro,993cc+l3,1430185", "payload": {"nodetype": "carcode", "ctx": {"make": "GEO", "year": 1995, "model": "METRO"}}}
-{"node_type": "carcode", "href": "/en/catalog/geo,1995,prizm,1.8l+l4,1142019", "payload": {"nodetype": "carcode", "ctx": {"make": "GEO", "year": 1995, "model": "PRIZM"}}}
-{"node_type": "carcode", "href": "/en/catalog/geo,1995,prizm,1.6l+l4,1430194", "payload": {"nodetype": "carcode", "ctx": {"make": "GEO", "year": 1995, "model": "PRIZM"}}}
-{"node_type": "carcode", "href": "/en/catalog/geo,1996,metro,993cc+l3,1430184", "payload": {"nodetype": "carcode", "ctx": {"make": "GEO", "year": 1996, "model": "METRO"}}}
 {"node_type": "carcode", "href": "/en/catalog/geo,1995,metro,1.3l+l4,1430186", "payload": {"nodetype": "carcode", "ctx": {"make": "GEO", "year": 1995, "model": "METRO"}}}
 {"node_type": "carcode", "href": "/en/catalog/geo,1996,tracker,1.6l+l4,1142288", "payload": {"nodetype": "carcode", "ctx": {"make": "GEO", "year": 1996, "model": "TRACKER"}}}
-{"node_type": "carcode", "href": "/en/catalog/geo,1997,metro,993cc+l3,1141861", "payload": {"nodetype": "carcode", "ctx": {"make": "GEO", "year": 1997, "model": "METRO"}}}
 {"node_type": "carcode", "href": "/en/catalog/geo,1997,prizm,1.6l+l4,1430190", "payload": {"nodetype": "carcode", "ctx": {"make": "GEO", "year": 1997, "model": "PRIZM"}}}
-{"node_type": "carcode", "href": "/en/catalog/geo,1996,prizm,1.6l+l4,1430192", "payload": {"nodetype": "carcode", "ctx": {"make": "GEO", "year": 1996, "model": "PRIZM"}}}
-{"node_type": "carcode", "href": "/en/catalog/geo,1995,tracker,1.6l+l4,1142266", "payload": {"nodetype": "carcode", "ctx": {"make": "GEO", "year": 1995, "model": "TRACKER"}}}
-{"node_type": "carcode", "href": "/en/catalog/geo,1996,prizm,1.8l+l4,1142031", "payload": {"nodetype": "carcode", "ctx": {"make": "GEO", "year": 1996, "model": "PRIZM"}}}
-{"node_type": "carcode", "href": "/en/catalog/geo,1997,prizm,1.8l+l4,1142053", "payload": {"nodetype": "carcode", "ctx": {"make": "GEO", "year": 1997, "model": "PRIZM"}}}
-{"node_type": "carcode", "href": "/en/catalog/geo,1996,metro,1.3l+l4,1141850", "payload": {"nodetype": "carcode", "ctx": {"make": "GEO", "year": 1996, "model": "METRO"}}}
-{"node_type": "carcode", "href": "/en/catalog/geo,1997,metro,1.3l+l4,1141872", "payload": {"nodetype": "carcode", "ctx": {"make": "GEO", "year": 1997, "model": "METRO"}}}

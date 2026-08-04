@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2021,840i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "840I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2021,alpina+xb7", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "ALPINA XB7"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2021,750li,4.4l+v8+turbocharged,3446988", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2021, "model": "750LI"}}}

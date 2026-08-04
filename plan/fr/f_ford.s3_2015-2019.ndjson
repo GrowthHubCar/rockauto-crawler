@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/ford,2017,taurus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "TAURUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2017,transit+350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "TRANSIT 350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2016,lobo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2016, "model": "LOBO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2018,f53", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2018, "model": "F53"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2019,escape", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2019, "model": "ESCAPE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2016,f59", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2016, "model": "F59"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2018,figo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2018, "model": "FIGO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2018,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2018, "model": "EXPLORER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2017,e-450", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "E-450"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2017,police+sedan,3.7l+v6,3436578", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2017, "model": "POLICE SEDAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2018,police+sedan,3.5l+v6+turbocharged,3441590", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2018, "model": "POLICE SEDAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2016,f-550+super+duty,6.7l+v8+diesel+turbocharged,3353886", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2016, "model": "F-550 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2019,police+suv,3.5l+v6+turbocharged,3442767", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2019, "model": "POLICE SUV"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2015,mustang,3.7l+v6,3307632", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2015, "model": "MUSTANG"}}}

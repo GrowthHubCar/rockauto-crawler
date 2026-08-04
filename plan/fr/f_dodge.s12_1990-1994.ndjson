@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/dodge,1990,daytona", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1990, "model": "DAYTONA"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1990,colt,1.6l+98cid+l4+turbocharged,19850", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1990, "model": "COLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1991,caravan,2.5l+l4,1077230", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1991, "model": "CARAVAN"}}}

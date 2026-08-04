@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2026,crafter+van", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2026, "model": "CRAFTER VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2025,taigun,999cc+l3+turbocharged,3458904", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2025, "model": "TAIGUN"}}}

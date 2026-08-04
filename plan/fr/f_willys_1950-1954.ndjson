@@ -17,4 +17,3 @@
 {"node_type": "model", "href": "/en/catalog/willys,1953,aero+ace", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1953, "model": "AERO ACE"}}}
 {"node_type": "model", "href": "/en/catalog/willys,1954,aero+ace", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1954, "model": "AERO ACE"}}}
 {"node_type": "model", "href": "/en/catalog/willys,1953,aero+falcon", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1953, "model": "AERO FALCON"}}}
-{"node_type": "carcode", "href": "/en/catalog/willys,1952,aero+wing,2.6l+161cid+l6,1487549", "payload": {"nodetype": "carcode", "ctx": {"make": "WILLYS", "year": 1952, "model": "AERO WING"}}}

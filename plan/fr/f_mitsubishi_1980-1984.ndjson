@@ -1,16 +1,1 @@
 {"node_type": "model", "href": "/en/catalog/mitsubishi,1984,cordia", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1984, "model": "CORDIA"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1983,starion,2.6l+l4+turbocharged,1208113", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1983, "model": "STARION"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1983,montero,2.6l+l4,1207527", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1983, "model": "MONTERO"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1983,mighty+max,2.0l+l4,1206447", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1983, "model": "MIGHTY MAX"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1983,mighty+max,2.3l+l4+diesel+turbocharged,1206469", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1983, "model": "MIGHTY MAX"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1984,montero,2.6l+l4,1207538", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1984, "model": "MONTERO"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1984,tredia,2.0l+l4,1208258", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1984, "model": "TREDIA"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1984,mighty+max,2.3l+l4+diesel+turbocharged,1206515", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1984, "model": "MIGHTY MAX"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1984,cordia,1.8l+l4+turbocharged,1205266", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1984, "model": "CORDIA"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1984,mighty+max,2.0l+l4,1206492", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1984, "model": "MIGHTY MAX"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1983,mighty+max,2.6l+l4,1206470", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1983, "model": "MIGHTY MAX"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1983,tredia,1.8l+l4,1208247", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1983, "model": "TREDIA"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1984,mighty+max,2.6l+l4,1206526", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1984, "model": "MIGHTY MAX"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1983,cordia,1.8l+l4,1205233", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1983, "model": "CORDIA"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1984,starion,2.6l+l4+turbocharged,1208124", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1984, "model": "STARION"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1984,tredia,1.8l+l4+turbocharged,1208270", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1984, "model": "TREDIA"}}}

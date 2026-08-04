@@ -1,11 +1,1 @@
 {"node_type": "model", "href": "/en/catalog/peugeot,1970,504", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1970, "model": "504"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1974,504,2.0l+l4,1227170", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1974, "model": "504"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1972,504,2.0l+l4,1406146", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1972, "model": "504"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1970,504,1.8l+l4,1405077", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1970, "model": "504"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1970,404,1.8l+l4,1405066", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1970, "model": "404"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1972,304,1.3l+l4,1406135", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1972, "model": "304"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1970,404,1.6l+l4,1496493", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1970, "model": "404"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1971,504,2.0l+l4,1405785", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1971, "model": "504"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1973,504,2.0l+l4,1406472", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1973, "model": "504"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1974,504,2.1l+l4+diesel,1438465", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1974, "model": "504"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1971,304,1.3l+l4,1405774", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1971, "model": "304"}}}

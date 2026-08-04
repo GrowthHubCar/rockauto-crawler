@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2024,prius", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2024, "model": "PRIUS"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2020,86", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "86"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2024,prius,1.8l+l4+electric/gas,3455731", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2024, "model": "PRIUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2024,4runner,4.0l+v6,3455446", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2024, "model": "4RUNNER"}}}

@@ -17,11 +17,3 @@
 {"node_type": "model", "href": "/en/catalog/ferrari,1977,400+gt", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1977, "model": "400 GT"}}}
 {"node_type": "model", "href": "/en/catalog/ferrari,1978,400+gt", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1978, "model": "400 GT"}}}
 {"node_type": "model", "href": "/en/catalog/ferrari,1979,400+gt", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1979, "model": "400 GT"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,1976,308+gtb,3.0l+v8,1295748", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1976, "model": "308 GTB"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,1975,dino+308+gt4,3.0l+v8,1295131", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1975, "model": "DINO 308 GT4"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,1976,dino+308+gt4,3.0l+v8,1295759", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1976, "model": "DINO 308 GT4"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,1976,400+gt,4.8l+v12,1430123", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1976, "model": "400 GT"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,1976,400+a,4.8l+v12,1430117", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1976, "model": "400 A"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,1976,365+gt4,4.4l+h12,1433042", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1976, "model": "365 GT4"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,1977,308+gtb,3.0l+v8,1296266", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1977, "model": "308 GTB"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,1976,365+gt4,4.4l+v12,1406911", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1976, "model": "365 GT4"}}}

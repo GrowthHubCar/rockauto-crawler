@@ -4,5 +4,3 @@
 {"node_type": "model", "href": "/en/catalog/riley,1947,1+1/2+litre", "payload": {"nodetype": "model", "ctx": {"make": "RILEY", "year": 1947, "model": "1 1/2 LITRE"}}}
 {"node_type": "model", "href": "/en/catalog/riley,1948,1+1/2+litre", "payload": {"nodetype": "model", "ctx": {"make": "RILEY", "year": 1948, "model": "1 1/2 LITRE"}}}
 {"node_type": "model", "href": "/en/catalog/riley,1949,1+1/2+litre", "payload": {"nodetype": "model", "ctx": {"make": "RILEY", "year": 1949, "model": "1 1/2 LITRE"}}}
-{"node_type": "carcode", "href": "/en/catalog/riley,1946,1+1/2+litre,1.5l+91cid+l4,1486540", "payload": {"nodetype": "carcode", "ctx": {"make": "RILEY", "year": 1946, "model": "1 1/2 LITRE"}}}
-{"node_type": "carcode", "href": "/en/catalog/riley,1948,2+1/2+litre,2.4l+149cid+l4,1486879", "payload": {"nodetype": "carcode", "ctx": {"make": "RILEY", "year": 1948, "model": "2 1/2 LITRE"}}}

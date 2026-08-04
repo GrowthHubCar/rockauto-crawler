@@ -3,11 +3,4 @@
 {"node_type": "model", "href": "/en/catalog/triumph,1978,spitfire", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1978, "model": "SPITFIRE"}}}
 {"node_type": "model", "href": "/en/catalog/triumph,1976,tr7", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1976, "model": "TR7"}}}
 {"node_type": "model", "href": "/en/catalog/triumph,1978,tr7", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1978, "model": "TR7"}}}
-{"node_type": "carcode", "href": "/en/catalog/triumph,1975,tr7,2.0l+l4,1279975", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1975, "model": "TR7"}}}
-{"node_type": "carcode", "href": "/en/catalog/triumph,1977,tr7,2.0l+l4,1279997", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1977, "model": "TR7"}}}
-{"node_type": "carcode", "href": "/en/catalog/triumph,1979,spitfire,1.5l+l4,1279931", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1979, "model": "SPITFIRE"}}}
-{"node_type": "carcode", "href": "/en/catalog/triumph,1979,tr7,2.0l+l4,1280012", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1979, "model": "TR7"}}}
-{"node_type": "carcode", "href": "/en/catalog/triumph,1975,spitfire,1.5l+l4,1279896", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1975, "model": "SPITFIRE"}}}
 {"node_type": "carcode", "href": "/en/catalog/triumph,1979,tr8,3.5l+v8,1280067", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1979, "model": "TR8"}}}
-{"node_type": "carcode", "href": "/en/catalog/triumph,1976,tr6,2.5l+l6,1279964", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1976, "model": "TR6"}}}
-{"node_type": "carcode", "href": "/en/catalog/triumph,1975,tr6,2.5l+l6,1279953", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1975, "model": "TR6"}}}

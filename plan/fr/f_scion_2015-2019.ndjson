@@ -1,8 +1,0 @@
-{"node_type": "carcode", "href": "/en/catalog/scion,2016,fr-s,2.0l+h4,3351941", "payload": {"nodetype": "carcode", "ctx": {"make": "SCION", "year": 2016, "model": "FR-S"}}}
-{"node_type": "carcode", "href": "/en/catalog/scion,2015,fr-s,2.0l+h4,3308930", "payload": {"nodetype": "carcode", "ctx": {"make": "SCION", "year": 2015, "model": "FR-S"}}}
-{"node_type": "carcode", "href": "/en/catalog/scion,2015,xb,2.4l+l4,3310527", "payload": {"nodetype": "carcode", "ctx": {"make": "SCION", "year": 2015, "model": "XB"}}}
-{"node_type": "carcode", "href": "/en/catalog/scion,2015,tc,2.5l+l4,3309764", "payload": {"nodetype": "carcode", "ctx": {"make": "SCION", "year": 2015, "model": "TC"}}}
-{"node_type": "carcode", "href": "/en/catalog/scion,2015,iq,1.3l+l4,3310250", "payload": {"nodetype": "carcode", "ctx": {"make": "SCION", "year": 2015, "model": "IQ"}}}
-{"node_type": "carcode", "href": "/en/catalog/scion,2016,ia,1.5l+l4,3353679", "payload": {"nodetype": "carcode", "ctx": {"make": "SCION", "year": 2016, "model": "IA"}}}
-{"node_type": "carcode", "href": "/en/catalog/scion,2016,tc,2.5l+l4,3353681", "payload": {"nodetype": "carcode", "ctx": {"make": "SCION", "year": 2016, "model": "TC"}}}
-{"node_type": "carcode", "href": "/en/catalog/scion,2016,im,1.8l+l4,3353680", "payload": {"nodetype": "carcode", "ctx": {"make": "SCION", "year": 2016, "model": "IM"}}}

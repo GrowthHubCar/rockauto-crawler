@@ -1,3 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/apollo,1962,gt", "payload": {"nodetype": "model", "ctx": {"make": "APOLLO", "year": 1962, "model": "GT"}}}
 {"node_type": "model", "href": "/en/catalog/apollo,1963,gt", "payload": {"nodetype": "model", "ctx": {"make": "APOLLO", "year": 1963, "model": "GT"}}}
-{"node_type": "carcode", "href": "/en/catalog/apollo,1964,gt,4.9l+300cid+v8,1491611", "payload": {"nodetype": "carcode", "ctx": {"make": "APOLLO", "year": 1964, "model": "GT"}}}

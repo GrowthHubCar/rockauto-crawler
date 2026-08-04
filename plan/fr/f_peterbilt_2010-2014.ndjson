@@ -5,12 +5,3 @@
 {"node_type": "model", "href": "/en/catalog/peterbilt,2010,210", "payload": {"nodetype": "model", "ctx": {"make": "PETERBILT", "year": 2010, "model": "210"}}}
 {"node_type": "model", "href": "/en/catalog/peterbilt,2011,210", "payload": {"nodetype": "model", "ctx": {"make": "PETERBILT", "year": 2011, "model": "210"}}}
 {"node_type": "model", "href": "/en/catalog/peterbilt,2012,210", "payload": {"nodetype": "model", "ctx": {"make": "PETERBILT", "year": 2012, "model": "210"}}}
-{"node_type": "carcode", "href": "/en/catalog/peterbilt,2010,330,6.7l+l6+diesel+turbocharged,3297171", "payload": {"nodetype": "carcode", "ctx": {"make": "PETERBILT", "year": 2010, "model": "330"}}}
-{"node_type": "carcode", "href": "/en/catalog/peterbilt,2013,210,6.7l+l6+diesel+turbocharged,3298459", "payload": {"nodetype": "carcode", "ctx": {"make": "PETERBILT", "year": 2013, "model": "210"}}}
-{"node_type": "carcode", "href": "/en/catalog/peterbilt,2013,330,6.7l+l6+diesel+turbocharged,3298425", "payload": {"nodetype": "carcode", "ctx": {"make": "PETERBILT", "year": 2013, "model": "330"}}}
-{"node_type": "carcode", "href": "/en/catalog/peterbilt,2013,220,6.7l+l6+diesel+turbocharged,3298486", "payload": {"nodetype": "carcode", "ctx": {"make": "PETERBILT", "year": 2013, "model": "220"}}}
-{"node_type": "carcode", "href": "/en/catalog/peterbilt,2013,337,8.3l+l6+diesel+turbocharged,3298488", "payload": {"nodetype": "carcode", "ctx": {"make": "PETERBILT", "year": 2013, "model": "337"}}}
-{"node_type": "carcode", "href": "/en/catalog/peterbilt,2013,348,8.3l+l6+diesel+turbocharged,3298507", "payload": {"nodetype": "carcode", "ctx": {"make": "PETERBILT", "year": 2013, "model": "348"}}}
-{"node_type": "carcode", "href": "/en/catalog/peterbilt,2010,335,8.3l+l6+diesel+turbocharged,3295235", "payload": {"nodetype": "carcode", "ctx": {"make": "PETERBILT", "year": 2010, "model": "335"}}}
-{"node_type": "carcode", "href": "/en/catalog/peterbilt,2013,325,6.7l+l6+diesel+turbocharged,3298426", "payload": {"nodetype": "carcode", "ctx": {"make": "PETERBILT", "year": 2013, "model": "325"}}}
-{"node_type": "carcode", "href": "/en/catalog/peterbilt,2013,337,6.7l+l6+diesel+turbocharged,3298487", "payload": {"nodetype": "carcode", "ctx": {"make": "PETERBILT", "year": 2013, "model": "337"}}}

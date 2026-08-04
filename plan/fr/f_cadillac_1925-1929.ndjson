@@ -12,5 +12,3 @@
 {"node_type": "model", "href": "/en/catalog/cadillac,1928,fisher+custom", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1928, "model": "FISHER CUSTOM"}}}
 {"node_type": "model", "href": "/en/catalog/cadillac,1929,fisher", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1929, "model": "FISHER"}}}
 {"node_type": "model", "href": "/en/catalog/cadillac,1929,341+b", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1929, "model": "341 B"}}}
-{"node_type": "carcode", "href": "/en/catalog/cadillac,1928,341+a,348cid+v8,2001504", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1928, "model": "341 A"}}}
-{"node_type": "carcode", "href": "/en/catalog/cadillac,1926,341,315cid+v8,2001306", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1926, "model": "341"}}}

@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/ford,2005,f-450+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,five+hundred", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "FIVE HUNDRED"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,e-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "E-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,f-650,5.9l+l6+diesel+turbocharged,3297903", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "F-650"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,focus,2.0l+l4,1433084", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "FOCUS"}}}

@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/gmc,1989,v3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "V3500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1989,r3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "R3500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1987,v3500+pickup,4.8l+292cid+l6,1166150", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1987, "model": "V3500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1988,k3500,6.2l+379cid+v8+diesel,1161155", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1988, "model": "K3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1987,safari,2.5l+151cid+l4,1165058", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1987, "model": "SAFARI"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1987,topkick,6.0l+366cid+v8,3295566", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1987, "model": "TOPKICK"}}}

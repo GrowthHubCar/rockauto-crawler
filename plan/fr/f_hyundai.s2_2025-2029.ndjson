@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2025,nexo", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2025, "model": "NEXO"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2025,santa+fe,2.5l+l4+turbocharged,3455933", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2025, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2026,venue,1.6l+l4,3459398", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "VENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2026,tucson,2.5l+l4,3458598", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "TUCSON"}}}

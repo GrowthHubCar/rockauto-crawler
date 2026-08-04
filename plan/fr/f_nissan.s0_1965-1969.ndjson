@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/nissan,1969,patrol", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1969, "model": "PATROL"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,1967,2000,2.0l+l4,1494005", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1967, "model": "2000"}}}

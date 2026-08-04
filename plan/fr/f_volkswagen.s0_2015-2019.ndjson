@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2017,touareg", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2017, "model": "TOUAREG"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2018,jetta,2.5l+l5,3441492", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2018, "model": "JETTA"}}}

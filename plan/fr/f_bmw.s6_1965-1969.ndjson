@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1968,1600", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1968, "model": "1600"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1968,2000", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1968, "model": "2000"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,1966,2002,2.0l+l4,1319004", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 1966, "model": "2002"}}}

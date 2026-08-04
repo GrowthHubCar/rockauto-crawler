@@ -1,9 +1,0 @@
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1990,505,2.2l+l4,1433097", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1990, "model": "505"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1990,405,1.9l+l4+sohc,1227013", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1990, "model": "405"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1991,405,1.9l+l4+sohc,1227068", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1991, "model": "405"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1991,505,2.2l+l4,1433095", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1991, "model": "505"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1990,505,2.8l+v6,1433093", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1990, "model": "505"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1991,505,2.2l+l4+turbocharged,1227912", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1991, "model": "505"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1991,405,1.9l+l4+dohc,1227080", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1991, "model": "405"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1990,505,2.2l+l4+turbocharged,1430355", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1990, "model": "505"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1990,405,1.9l+l4+dohc,1227035", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1990, "model": "405"}}}

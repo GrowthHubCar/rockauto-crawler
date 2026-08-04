@@ -13,16 +13,6 @@
 {"node_type": "model", "href": "/en/catalog/fiat,1967,850", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1967, "model": "850"}}}
 {"node_type": "model", "href": "/en/catalog/fiat,1968,850", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1968, "model": "850"}}}
 {"node_type": "model", "href": "/en/catalog/fiat,1969,850", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1969, "model": "850"}}}
-{"node_type": "carcode", "href": "/en/catalog/fiat,1967,125,1.3l+l4,1493634", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1967, "model": "125"}}}
-{"node_type": "carcode", "href": "/en/catalog/fiat,1966,1100,1.2l+l4,1439690", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1966, "model": "1100"}}}
-{"node_type": "carcode", "href": "/en/catalog/fiat,1968,850,817cc+l4,1436384", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1968, "model": "850"}}}
-{"node_type": "carcode", "href": "/en/catalog/fiat,1967,1100,1.2l+l4,1493630", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1967, "model": "1100"}}}
-{"node_type": "carcode", "href": "/en/catalog/fiat,1966,1500,1.5l+l4,1392241", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1966, "model": "1500"}}}
 {"node_type": "carcode", "href": "/en/catalog/fiat,1966,124,1.2l+l4,1492934", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1966, "model": "124"}}}
-{"node_type": "carcode", "href": "/en/catalog/fiat,1967,1100,1.1l+l4,1392106", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1967, "model": "1100"}}}
 {"node_type": "carcode", "href": "/en/catalog/fiat,1967,124,1.2l+l4,1403233", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1967, "model": "124"}}}
-{"node_type": "carcode", "href": "/en/catalog/fiat,1969,124,1.2l+l4,1104275", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1969, "model": "124"}}}
-{"node_type": "carcode", "href": "/en/catalog/fiat,1967,850,903cc+l4,1403244", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1967, "model": "850"}}}
 {"node_type": "carcode", "href": "/en/catalog/fiat,1968,124,1.2l+l4,1436386", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1968, "model": "124"}}}
-{"node_type": "carcode", "href": "/en/catalog/fiat,1969,124,1.4l+l4,1104286", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1969, "model": "124"}}}
-{"node_type": "carcode", "href": "/en/catalog/fiat,1966,600d,767cc+l4,1392577", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1966, "model": "600D"}}}

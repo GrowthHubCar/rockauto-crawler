@@ -2,17 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/renault,1985,r18", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1985, "model": "R18"}}}
 {"node_type": "model", "href": "/en/catalog/renault,1986,r18", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1986, "model": "R18"}}}
 {"node_type": "model", "href": "/en/catalog/renault,1985,fuego", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1985, "model": "FUEGO"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1987,alliance,1.7l+l4,1264104", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1987, "model": "ALLIANCE"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1986,alliance,1.7l+l4,1264047", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1986, "model": "ALLIANCE"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1985,alliance,1.7l+l4,1263990", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1985, "model": "ALLIANCE"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1987,alliance,1.4l+l4,1264092", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1987, "model": "ALLIANCE"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1986,r18i,2.2l+l4,1264766", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1986, "model": "R18I"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1985,r18i,2.2l+l4,1264755", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1985, "model": "R18I"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1987,alliance,2.0l+l4,1431644", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1987, "model": "ALLIANCE"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1986,encore,1.7l+l4,1264317", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1986, "model": "ENCORE"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1986,encore,1.4l+l4,1264339", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1986, "model": "ENCORE"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1985,encore,1.7l+l4,1264261", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1985, "model": "ENCORE"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1986,r5,2.2l+l4,1264788", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1986, "model": "R5"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1985,encore,1.4l+l4,1264250", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1985, "model": "ENCORE"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1985,alliance,1.4l+l4,1263978", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1985, "model": "ALLIANCE"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1986,alliance,1.4l+l4,1264036", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1986, "model": "ALLIANCE"}}}

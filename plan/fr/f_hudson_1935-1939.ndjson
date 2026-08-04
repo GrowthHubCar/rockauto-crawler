@@ -18,7 +18,3 @@
 {"node_type": "model", "href": "/en/catalog/hudson,1939,country+club+series+93", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1939, "model": "COUNTRY CLUB SERIES 93"}}}
 {"node_type": "model", "href": "/en/catalog/hudson,1939,country+club+eight+series+95/97", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1939, "model": "COUNTRY CLUB EIGHT SERIES 95/97"}}}
 {"node_type": "model", "href": "/en/catalog/hudson,1939,big+boy+series+96", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1939, "model": "BIG BOY SERIES 96"}}}
-{"node_type": "carcode", "href": "/en/catalog/hudson,1936,terraplane,3.5l+212cid+l6,952802", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1936, "model": "TERRAPLANE"}}}
-{"node_type": "carcode", "href": "/en/catalog/hudson,1937,terraplane,3.5l+212cid+l6,952847", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1937, "model": "TERRAPLANE"}}}
-{"node_type": "carcode", "href": "/en/catalog/hudson,1938,112+six+series+89,175cid+l6,124386", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1938, "model": "112 SIX SERIES 89"}}}
-{"node_type": "carcode", "href": "/en/catalog/hudson,1938,terraplane,3.5l+212cid+l6,952889", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1938, "model": "TERRAPLANE"}}}

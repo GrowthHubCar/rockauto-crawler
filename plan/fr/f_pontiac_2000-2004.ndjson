@@ -1,14 +1,6 @@
 {"node_type": "model", "href": "/en/catalog/pontiac,2003,grand+prix", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 2003, "model": "GRAND PRIX"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,2004,grand+prix,3.8l+v6,1429703", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 2004, "model": "GRAND PRIX"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,2004,montana,3.4l+v6,1428522", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 2004, "model": "MONTANA"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,2004,bonneville,3.8l+v6,1431346", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 2004, "model": "BONNEVILLE"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,2004,bonneville,4.6l+v8,1431348", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 2004, "model": "BONNEVILLE"}}}
 {"node_type": "carcode", "href": "/en/catalog/pontiac,2002,sunfire,2.2l+l4+ohv,1382554", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 2002, "model": "SUNFIRE"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,2004,gto,5.7l+v8,1423044", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 2004, "model": "GTO"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,2001,sunfire,2.4l+l4,1374803", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 2001, "model": "SUNFIRE"}}}
 {"node_type": "carcode", "href": "/en/catalog/pontiac,2002,montana,3.4l+v6,1382543", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 2002, "model": "MONTANA"}}}
 {"node_type": "carcode", "href": "/en/catalog/pontiac,2002,grand+prix,3.1l+v6,1382510", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 2002, "model": "GRAND PRIX"}}}
 {"node_type": "carcode", "href": "/en/catalog/pontiac,2002,grand+am,3.4l+v6,1382509", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 2002, "model": "GRAND AM"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,2004,vibe,1.8l+l4,1432958", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 2004, "model": "VIBE"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,2004,sunfire,2.2l+l4,1431627", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 2004, "model": "SUNFIRE"}}}
 {"node_type": "carcode", "href": "/en/catalog/pontiac,2003,grand+am,3.4l+v6,1410994", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 2003, "model": "GRAND AM"}}}

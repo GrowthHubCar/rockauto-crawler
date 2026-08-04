@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2021,silverado+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2021, "model": "SILVERADO 1500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2024,express+3500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "EXPRESS 3500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2024,captiva", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "CAPTIVA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2021,silverado+1500,4.3l+v6,3447300", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2021, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2020,malibu,1.5l+l4+turbocharged,3444606", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2020, "model": "MALIBU"}}}

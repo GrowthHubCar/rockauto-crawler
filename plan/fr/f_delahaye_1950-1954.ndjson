@@ -25,4 +25,3 @@
 {"node_type": "model", "href": "/en/catalog/delahaye,1952,135", "payload": {"nodetype": "model", "ctx": {"make": "DELAHAYE", "year": 1952, "model": "135"}}}
 {"node_type": "model", "href": "/en/catalog/delahaye,1953,135", "payload": {"nodetype": "model", "ctx": {"make": "DELAHAYE", "year": 1953, "model": "135"}}}
 {"node_type": "model", "href": "/en/catalog/delahaye,1954,135", "payload": {"nodetype": "model", "ctx": {"make": "DELAHAYE", "year": 1954, "model": "135"}}}
-{"node_type": "carcode", "href": "/en/catalog/delahaye,1950,134,2.1l+l4,1439444", "payload": {"nodetype": "carcode", "ctx": {"make": "DELAHAYE", "year": 1950, "model": "134"}}}

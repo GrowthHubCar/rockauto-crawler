@@ -1,10 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/chrysler,1942,c36", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1942, "model": "C36"}}}
 {"node_type": "model", "href": "/en/catalog/chrysler,1942,c34", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1942, "model": "C34"}}}
 {"node_type": "model", "href": "/en/catalog/chrysler,1942,c37", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1942, "model": "C37"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1941,c28,4.0l+242cid+l6,1486099", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1941, "model": "C28"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1940,crown+imperial,5.3l+324cid+l8,124071", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1940, "model": "CROWN IMPERIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1941,c30,5.3l+324cid+l8,1486100", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1941, "model": "C30"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1942,c33+crown+imperial,5.3l+324cid+l8,1486214", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1942, "model": "C33 CROWN IMPERIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1940,c26,5.3l+324cid+l8,1485997", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1940, "model": "C26"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1941,c33+crown+imperial,5.3l+324cid+l8,1486101", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1941, "model": "C33 CROWN IMPERIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1940,c25,4.0l+242cid+l6,1485996", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1940, "model": "C25"}}}

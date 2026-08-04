@@ -1,8 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/saab,1977,99", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1977, "model": "99"}}}
 {"node_type": "model", "href": "/en/catalog/saab,1979,900", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1979, "model": "900"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1975,99,2.0l+l4,1266634", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1975, "model": "99"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1978,99,2.0l+l4+turbocharged,1368693", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1978, "model": "99"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1978,99,2.0l+l4,1266667", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1978, "model": "99"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1976,99,2.0l+l4,1266645", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1976, "model": "99"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1979,900,2.0l+l4+turbocharged,1368682", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1979, "model": "900"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1979,99,2.0l+l4,1266678", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1979, "model": "99"}}}

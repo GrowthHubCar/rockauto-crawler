@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1997,e300", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "E300"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1996,c230,2.3l+l4+supercharged,3003500", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "C230"}}}

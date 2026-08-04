@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/audi,2023,rs6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2023, "model": "RS6"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2021,q2", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2021, "model": "Q2"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2022,a6,3.0l+v6+turbocharged,3450378", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2022, "model": "A6"}}}

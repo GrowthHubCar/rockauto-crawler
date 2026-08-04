@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1968,2000ti", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1968, "model": "2000TI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1969,2000", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1969, "model": "2000"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,1965,2000cs,2.0l+l4,1435305", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 1965, "model": "2000CS"}}}

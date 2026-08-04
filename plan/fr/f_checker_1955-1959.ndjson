@@ -8,5 +8,3 @@
 {"node_type": "model", "href": "/en/catalog/checker,1959,a9", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1959, "model": "A9"}}}
 {"node_type": "model", "href": "/en/catalog/checker,1959,aerobus", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1959, "model": "AEROBUS"}}}
 {"node_type": "carcode", "href": "/en/catalog/checker,1957,taxicab,3.7l+226cid+l6,1488471", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1957, "model": "TAXICAB"}}}
-{"node_type": "carcode", "href": "/en/catalog/checker,1958,a8,3.7l+226cid+l6,1488792", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1958, "model": "A8"}}}
-{"node_type": "carcode", "href": "/en/catalog/checker,1957,a8,3.7l+226cid+l6,1488468", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1957, "model": "A8"}}}

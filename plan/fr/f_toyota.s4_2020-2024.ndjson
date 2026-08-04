@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2024,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2024, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2023,hiace", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2023, "model": "HIACE"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2024,prius+prime,2.0l+l4+electric/gas,3454933", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2024, "model": "PRIUS PRIME"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2024,highlander,2.4l+l4+turbocharged,3455184", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2024, "model": "HIGHLANDER"}}}

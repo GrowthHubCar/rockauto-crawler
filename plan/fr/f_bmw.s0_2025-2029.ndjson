@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2026,840i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2026, "model": "840I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2026,x2", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2026, "model": "X2"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2026,320i,2.0l+l4+turbocharged,3459273", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2026, "model": "320I"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2025,x3,2.0l+l4+electric/gas+turbocharged,3458326", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2025, "model": "X3"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,1993,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1993, "model": "PASSAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1993,cabrio,2.0l+l4,3328887", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1993, "model": "CABRIO"}}}

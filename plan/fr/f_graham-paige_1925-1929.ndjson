@@ -7,4 +7,3 @@
 {"node_type": "model", "href": "/en/catalog/graham-paige,1929,model+621", "payload": {"nodetype": "model", "ctx": {"make": "GRAHAM-PAIGE", "year": 1929, "model": "MODEL 621"}}}
 {"node_type": "model", "href": "/en/catalog/graham-paige,1929,model+615", "payload": {"nodetype": "model", "ctx": {"make": "GRAHAM-PAIGE", "year": 1929, "model": "MODEL 615"}}}
 {"node_type": "model", "href": "/en/catalog/graham-paige,1929,model+612", "payload": {"nodetype": "model", "ctx": {"make": "GRAHAM-PAIGE", "year": 1929, "model": "MODEL 612"}}}
-{"node_type": "carcode", "href": "/en/catalog/graham-paige,1929,model+837,8cyl,952317", "payload": {"nodetype": "carcode", "ctx": {"make": "GRAHAM-PAIGE", "year": 1929, "model": "MODEL 837"}}}

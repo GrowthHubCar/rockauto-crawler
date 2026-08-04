@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/ford,2003,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2003, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2000,f-450+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2000, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2000,fiesta", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2000, "model": "FIESTA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2000,f-350+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2000, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2003,expedition", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2003, "model": "EXPEDITION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2004,courier", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2004, "model": "COURIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2004,f-150+heritage,4.2l+v6,1427813", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2004, "model": "F-150 HERITAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2003,focus,2.0l+l4+dohc,1431898", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2003, "model": "FOCUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2002,f-650,7.3l+v8+diesel+turbocharged,3296596", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2002, "model": "F-650"}}}

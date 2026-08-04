@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/buick,1984,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1984, "model": "SKYLARK"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1980,electra", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1980, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1984,skylark,2.8l+173cid+v6,1023949", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1984, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1982,century,3.0l+181cid+v6,1014961", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1982, "model": "CENTURY"}}}

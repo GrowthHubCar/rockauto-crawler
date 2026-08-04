@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/alpine,1963,a110", "payload": {"nodetype": "model", "ctx": {"make": "ALPINE", "year": 1963, "model": "A110"}}}
-{"node_type": "model", "href": "/en/catalog/alpine,1964,a110", "payload": {"nodetype": "model", "ctx": {"make": "ALPINE", "year": 1964, "model": "A110"}}}
-{"node_type": "carcode", "href": "/en/catalog/alpine,1963,a110,1.1l+l4,1436046", "payload": {"nodetype": "carcode", "ctx": {"make": "ALPINE", "year": 1963, "model": "A110"}}}

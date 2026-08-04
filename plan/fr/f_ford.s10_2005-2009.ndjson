@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/ford,2006,escape", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "ESCAPE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,courier", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "COURIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,escape,2.5l+l4+electric/gas,1443390", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "ESCAPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,fiesta,1.6l+l4,951431", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "FIESTA"}}}

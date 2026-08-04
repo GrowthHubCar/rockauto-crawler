@@ -2,4 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/reo,1926,model+t-6", "payload": {"nodetype": "model", "ctx": {"make": "REO", "year": 1926, "model": "MODEL T-6"}}}
 {"node_type": "model", "href": "/en/catalog/reo,1927,flying+cloud", "payload": {"nodetype": "model", "ctx": {"make": "REO", "year": 1927, "model": "FLYING CLOUD"}}}
 {"node_type": "model", "href": "/en/catalog/reo,1928,flying+cloud", "payload": {"nodetype": "model", "ctx": {"make": "REO", "year": 1928, "model": "FLYING CLOUD"}}}
-{"node_type": "carcode", "href": "/en/catalog/reo,1929,flying+cloud,6cyl,952329", "payload": {"nodetype": "carcode", "ctx": {"make": "REO", "year": 1929, "model": "FLYING CLOUD"}}}

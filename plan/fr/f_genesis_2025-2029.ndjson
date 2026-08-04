@@ -11,14 +11,9 @@
 {"node_type": "carcode", "href": "/en/catalog/genesis,2026,gv70,3.5l+v6+turbocharged,3458976", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2026, "model": "GV70"}}}
 {"node_type": "carcode", "href": "/en/catalog/genesis,2026,g80,3.5l+v6+turbocharged,3459378", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2026, "model": "G80"}}}
 {"node_type": "carcode", "href": "/en/catalog/genesis,2026,g90,3.5l+v6+turbocharged,3459246", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2026, "model": "G90"}}}
-{"node_type": "carcode", "href": "/en/catalog/genesis,2025,gv70,3.5l+v6+turbocharged,3455807", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2025, "model": "GV70"}}}
 {"node_type": "carcode", "href": "/en/catalog/genesis,2025,g70,2.5l+l4+turbocharged,3455918", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2025, "model": "G70"}}}
-{"node_type": "carcode", "href": "/en/catalog/genesis,2026,gv80+coupe,3.5l+v6+turbocharged,3458562", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2026, "model": "GV80 COUPE"}}}
 {"node_type": "carcode", "href": "/en/catalog/genesis,2026,g70,2.5l+l4+turbocharged,3458973", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2026, "model": "G70"}}}
 {"node_type": "carcode", "href": "/en/catalog/genesis,2026,gv60,electric,3459596", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2026, "model": "GV60"}}}
-{"node_type": "carcode", "href": "/en/catalog/genesis,2025,gv80,2.5l+l4+turbocharged,3455808", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2025, "model": "GV80"}}}
-{"node_type": "carcode", "href": "/en/catalog/genesis,2026,gv70,2.5l+l4+turbocharged,3458975", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2026, "model": "GV70"}}}
 {"node_type": "carcode", "href": "/en/catalog/genesis,2025,g80,2.5l+l4+turbocharged,3455564", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2025, "model": "G80"}}}
 {"node_type": "carcode", "href": "/en/catalog/genesis,2025,gv70,electric,3455805", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2025, "model": "GV70"}}}
 {"node_type": "carcode", "href": "/en/catalog/genesis,2025,g80,electric,3455563", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2025, "model": "G80"}}}
-{"node_type": "carcode", "href": "/en/catalog/genesis,2025,gv70,2.5l+l4+turbocharged,3455806", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2025, "model": "GV70"}}}

@@ -18,5 +18,3 @@
 {"node_type": "model", "href": "/en/catalog/ferrari,2013,f12+berlinetta", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2013, "model": "F12 BERLINETTA"}}}
 {"node_type": "model", "href": "/en/catalog/ferrari,2014,f12+berlinetta", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2014, "model": "F12 BERLINETTA"}}}
 {"node_type": "model", "href": "/en/catalog/ferrari,2011,599+gto", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2011, "model": "599 GTO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2012,458,4.5l+v8,1503327", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2012, "model": "458"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2013,458,4.5l+v8,3294291", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2013, "model": "458"}}}

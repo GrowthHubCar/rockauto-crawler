@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1990,stepvan", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1990, "model": "STEPVAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1990,bus", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1990, "model": "BUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1993,lumina,3.1l+v6,1053953", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1993, "model": "LUMINA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1991,p30,6.2l+v8+diesel,1059498", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1991, "model": "P30"}}}

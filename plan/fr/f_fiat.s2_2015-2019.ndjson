@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/fiat,2018,palio", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2018, "model": "PALIO"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2017,124+spider,1.4l+l4+turbocharged,3434439", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2017, "model": "124 SPIDER"}}}

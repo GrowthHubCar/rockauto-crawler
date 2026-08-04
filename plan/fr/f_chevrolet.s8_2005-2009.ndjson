@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2008,t+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "T SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,monte+carlo,3.8l+v6+supercharged,1431111", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "MONTE CARLO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,silverado+2500,6.6l+v8+diesel+turbocharged,1441214", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "SILVERADO 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,kodiak,6.6l+v8+diesel+turbocharged,3294749", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "KODIAK"}}}

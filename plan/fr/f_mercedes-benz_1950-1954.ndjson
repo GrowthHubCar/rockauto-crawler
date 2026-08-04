@@ -33,13 +33,6 @@
 {"node_type": "model", "href": "/en/catalog/mercedes-benz,1954,300b", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1954, "model": "300B"}}}
 {"node_type": "model", "href": "/en/catalog/mercedes-benz,1954,220a", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1954, "model": "220A"}}}
 {"node_type": "model", "href": "/en/catalog/mercedes-benz,1953,180d", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1953, "model": "180D"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1952,300,3.0l+l6,1435375", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1952, "model": "300"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1951,300,3.0l+l6,1435377", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1951, "model": "300"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1954,220s,2.2l+l6,1487870", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1954, "model": "220S"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1954,180d,1.8l+l4+diesel,1487865", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1954, "model": "180D"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1952,220b,2.2l+l6,1487526", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1952, "model": "220B"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1954,180,1.8l+l4,1435265", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1954, "model": "180"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1952,300s,3.0l+l6,1435374", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1952, "model": "300S"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1954,170s-v,1.8l+l4,1435266", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1954, "model": "170S-V"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1951,220,2.2l+l6,1435347", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1951, "model": "220"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1954,170+d,1.8l+l4+diesel,1487864", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1954, "model": "170 D"}}}

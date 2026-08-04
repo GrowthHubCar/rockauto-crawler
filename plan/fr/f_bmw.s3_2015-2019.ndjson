@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2018,318i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2018, "model": "318I"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2015,550i,4.4l+v8+turbocharged,3309710", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2015, "model": "550I"}}}

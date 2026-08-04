@@ -1,26 +1,5 @@
 {"node_type": "model", "href": "/en/catalog/volkswagen,2005,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "JETTA"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,pointer+truck,1.8l+l4,951873", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "POINTER TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,passat,2.0l+l4+diesel+turbocharged,1431762", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "PASSAT"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,passat,2.8l+v6,1430926", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "PASSAT"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,polo,2.0l+l4,3277311", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "POLO"}}}
 {"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,pointer,1.8l+l4,951858", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "POINTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,touareg,4.2l+v8,1430802", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "TOUAREG"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2006,van,1.8l+l4,951900", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2006, "model": "VAN"}}}
 {"node_type": "carcode", "href": "/en/catalog/volkswagen,2006,touareg,4.2l+v8,1432710", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2006, "model": "TOUAREG"}}}
 {"node_type": "carcode", "href": "/en/catalog/volkswagen,2008,touareg,4.2l+v8,1440115", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2008, "model": "TOUAREG"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,van,1.8l+l4,951899", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "VAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2008,touareg,4.9l+v10+diesel+turbocharged,1440116", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2008, "model": "TOUAREG"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,touareg,4.9l+v10+diesel+turbocharged,1434404", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "TOUAREG"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,jetta,2.0l+l4,1430854", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "JETTA"}}}
 {"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,bora,2.5l+l5,3440191", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "BORA"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2008,van,1.8l+l4,951902", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2008, "model": "VAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2006,touareg,4.9l+v10+diesel+turbocharged,1438489", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2006, "model": "TOUAREG"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,touareg,3.2l+v6,1430801", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "TOUAREG"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,phaeton,4.2l+v8,1431795", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "PHAETON"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,passat,1.8l+l4+turbocharged,1430858", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "PASSAT"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,sharan,1.8l+l4+turbocharged,951889", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "SHARAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,phaeton,6.0l+w12,1430882", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "PHAETON"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,jetta,1.8l+l4+turbocharged,1430853", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "JETTA"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,lupo,1.6l+l4,939666", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "LUPO"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,polo,1.6l+l4,939682", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "POLO"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,derby,1.8l+l4,3299927", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "DERBY"}}}

@@ -5,5 +5,3 @@
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1933,model+l-33", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1933, "model": "MODEL L-33"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1933,model+f-33", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1933, "model": "MODEL F-33"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1934,model+f-34", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1934, "model": "MODEL F-34"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1934,model+l-34,3.9l+240cid+l8,1485627", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1934, "model": "MODEL L-34"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1930,model+f-30,3.2l+198cid+l6,952380", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1930, "model": "MODEL F-30"}}}

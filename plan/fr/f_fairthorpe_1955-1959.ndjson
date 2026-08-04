@@ -5,4 +5,3 @@
 {"node_type": "model", "href": "/en/catalog/fairthorpe,1957,atom", "payload": {"nodetype": "model", "ctx": {"make": "FAIRTHORPE", "year": 1957, "model": "ATOM"}}}
 {"node_type": "model", "href": "/en/catalog/fairthorpe,1958,atomata", "payload": {"nodetype": "model", "ctx": {"make": "FAIRTHORPE", "year": 1958, "model": "ATOMATA"}}}
 {"node_type": "model", "href": "/en/catalog/fairthorpe,1959,atomata", "payload": {"nodetype": "model", "ctx": {"make": "FAIRTHORPE", "year": 1959, "model": "ATOMATA"}}}
-{"node_type": "carcode", "href": "/en/catalog/fairthorpe,1959,electron,998cc+l4,1489221", "payload": {"nodetype": "carcode", "ctx": {"make": "FAIRTHORPE", "year": 1959, "model": "ELECTRON"}}}

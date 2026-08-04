@@ -34,31 +34,7 @@
 {"node_type": "model", "href": "/en/catalog/workhorse,2001,p32", "payload": {"nodetype": "model", "ctx": {"make": "WORKHORSE", "year": 2001, "model": "P32"}}}
 {"node_type": "model", "href": "/en/catalog/workhorse,2002,p32", "payload": {"nodetype": "model", "ctx": {"make": "WORKHORSE", "year": 2002, "model": "P32"}}}
 {"node_type": "model", "href": "/en/catalog/workhorse,2003,p32", "payload": {"nodetype": "model", "ctx": {"make": "WORKHORSE", "year": 2003, "model": "P32"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2003,fastrack+ft931,4.3l+v6,1504874", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2003, "model": "FASTRACK FT931"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2004,w20,8.1l+v8,3296712", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2004, "model": "W20"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2004,p42,7.4l+v8,3296698", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2004, "model": "P42"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2001,fastrack+ft1600,5.7l+v8,1504854", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2001, "model": "FASTRACK FT1600"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2004,fastrack+ft1601,4.8l+v8,1504888", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2004, "model": "FASTRACK FT1601"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2002,w22,8.1l+v8,3296715", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2002, "model": "W22"}}}
 {"node_type": "carcode", "href": "/en/catalog/workhorse,2004,p42,6.5l+v8+diesel+turbocharged,3296697", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2004, "model": "P42"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2003,w22,8.1l+v8,3296716", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2003, "model": "W22"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2004,p32,8.1l+v8,3297995", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2004, "model": "P32"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2001,fastrack+ft1800,5.7l+v8,1504855", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2001, "model": "FASTRACK FT1800"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2004,fastrack+ft1801,6.5l+v8+diesel,1504891", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2004, "model": "FASTRACK FT1801"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2001,fastrack+ft1460,5.7l+v8,1504853", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2001, "model": "FASTRACK FT1460"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2004,p30,5.7l+v8,1442159", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2004, "model": "P30"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2004,fastrack+ft1461,5.7l+v8,1504880", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2004, "model": "FASTRACK FT1461"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2000,p30,5.7l+v8,1442163", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2000, "model": "P30"}}}
 {"node_type": "carcode", "href": "/en/catalog/workhorse,2001,w22,8.1l+v8,3295189", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2001, "model": "W22"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2004,fastrack+ft1461,4.8l+v8,1504883", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2004, "model": "FASTRACK FT1461"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2004,fastrack+ft1801,5.7l+v8,1504889", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2004, "model": "FASTRACK FT1801"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2004,fastrack+ft1801,6.0l+v8,1504890", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2004, "model": "FASTRACK FT1801"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2004,w22,8.1l+v8,3298010", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2004, "model": "W22"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2004,r32,8.3l+l6+diesel+turbocharged,3295178", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2004, "model": "R32"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2004,w24,8.1l+v8,3298013", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2004, "model": "W24"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2002,fastrack+ft931,4.3l+v6,1504865", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2002, "model": "FASTRACK FT931"}}}
 {"node_type": "carcode", "href": "/en/catalog/workhorse,2004,fastrack+ft1601,3.9l+l4+diesel+turbocharged,1504886", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2004, "model": "FASTRACK FT1601"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2004,fastrack+ft1461,6.0l+v8,1504884", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2004, "model": "FASTRACK FT1461"}}}
 {"node_type": "carcode", "href": "/en/catalog/workhorse,2004,w42,6.5l+v8+diesel+turbocharged,3298017", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2004, "model": "W42"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2004,fastrack+ft1601,5.7l+v8,1504885", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2004, "model": "FASTRACK FT1601"}}}
-{"node_type": "carcode", "href": "/en/catalog/workhorse,2004,r32,8.9l+l6+diesel+turbocharged,3295177", "payload": {"nodetype": "carcode", "ctx": {"make": "WORKHORSE", "year": 2004, "model": "R32"}}}

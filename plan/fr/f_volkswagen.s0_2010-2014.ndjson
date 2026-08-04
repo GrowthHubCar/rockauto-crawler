@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2013,touareg", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "TOUAREG"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,jetta,1.4l+l4+turbocharged,3267610", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "JETTA"}}}

@@ -1,4 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/sunbeam,1949,sunbeam-talbot+90", "payload": {"nodetype": "model", "ctx": {"make": "SUNBEAM", "year": 1949, "model": "SUNBEAM-TALBOT 90"}}}
 {"node_type": "model", "href": "/en/catalog/sunbeam,1948,sunbeam-talbot+80", "payload": {"nodetype": "model", "ctx": {"make": "SUNBEAM", "year": 1948, "model": "SUNBEAM-TALBOT 80"}}}
 {"node_type": "model", "href": "/en/catalog/sunbeam,1949,sunbeam-talbot+80", "payload": {"nodetype": "model", "ctx": {"make": "SUNBEAM", "year": 1949, "model": "SUNBEAM-TALBOT 80"}}}
-{"node_type": "carcode", "href": "/en/catalog/sunbeam,1948,sunbeam-talbot+90,2.0l+119cid+l4,1486894", "payload": {"nodetype": "carcode", "ctx": {"make": "SUNBEAM", "year": 1948, "model": "SUNBEAM-TALBOT 90"}}}

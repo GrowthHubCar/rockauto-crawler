@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2026,creta", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "CRETA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2026,sonata,2.5l+l4+turbocharged,3459396", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2026,sonata,2.0l+l4+electric/gas,3459395", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2026,palisade,3.5l+v6,3459119", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "PALISADE"}}}

@@ -6,5 +6,3 @@
 {"node_type": "model", "href": "/en/catalog/bizzarrini,1967,gt+america", "payload": {"nodetype": "model", "ctx": {"make": "BIZZARRINI", "year": 1967, "model": "GT AMERICA"}}}
 {"node_type": "model", "href": "/en/catalog/bizzarrini,1968,gt+america", "payload": {"nodetype": "model", "ctx": {"make": "BIZZARRINI", "year": 1968, "model": "GT AMERICA"}}}
 {"node_type": "model", "href": "/en/catalog/bizzarrini,1969,gt+america", "payload": {"nodetype": "model", "ctx": {"make": "BIZZARRINI", "year": 1969, "model": "GT AMERICA"}}}
-{"node_type": "carcode", "href": "/en/catalog/bizzarrini,1966,gt+strada+5300,5.4l+v8,1439888", "payload": {"nodetype": "carcode", "ctx": {"make": "BIZZARRINI", "year": 1966, "model": "GT STRADA 5300"}}}
-{"node_type": "carcode", "href": "/en/catalog/bizzarrini,1965,gt+america,5.3l+v8,1439899", "payload": {"nodetype": "carcode", "ctx": {"make": "BIZZARRINI", "year": 1965, "model": "GT AMERICA"}}}

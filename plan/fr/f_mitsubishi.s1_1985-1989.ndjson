@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1989,mighty+max", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1989, "model": "MIGHTY MAX"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1988,mirage", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1988, "model": "MIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1987,mirage,1.8l+l4+diesel,172914", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1987, "model": "MIRAGE"}}}

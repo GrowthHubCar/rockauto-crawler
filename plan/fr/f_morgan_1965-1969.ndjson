@@ -10,9 +10,3 @@
 {"node_type": "model", "href": "/en/catalog/morgan,1967,4/4+series+v", "payload": {"nodetype": "model", "ctx": {"make": "MORGAN", "year": 1967, "model": "4/4 SERIES V"}}}
 {"node_type": "model", "href": "/en/catalog/morgan,1968,4/4+series+v", "payload": {"nodetype": "model", "ctx": {"make": "MORGAN", "year": 1968, "model": "4/4 SERIES V"}}}
 {"node_type": "carcode", "href": "/en/catalog/morgan,1965,4/4,1.5l+l4,1387", "payload": {"nodetype": "carcode", "ctx": {"make": "MORGAN", "year": 1965, "model": "4/4"}}}
-{"node_type": "carcode", "href": "/en/catalog/morgan,1966,plus+4,2.1l+l4,1437127", "payload": {"nodetype": "carcode", "ctx": {"make": "MORGAN", "year": 1966, "model": "PLUS 4"}}}
-{"node_type": "carcode", "href": "/en/catalog/morgan,1965,4/4+series+v,1.5l+l4,1437084", "payload": {"nodetype": "carcode", "ctx": {"make": "MORGAN", "year": 1965, "model": "4/4 SERIES V"}}}
-{"node_type": "carcode", "href": "/en/catalog/morgan,1966,plus+4,1.5l+l4,1493298", "payload": {"nodetype": "carcode", "ctx": {"make": "MORGAN", "year": 1966, "model": "PLUS 4"}}}
-{"node_type": "carcode", "href": "/en/catalog/morgan,1965,plus+4,2.1l+l4,1437128", "payload": {"nodetype": "carcode", "ctx": {"make": "MORGAN", "year": 1965, "model": "PLUS 4"}}}
-{"node_type": "carcode", "href": "/en/catalog/morgan,1965,plus+4,1.5l+l4,1492640", "payload": {"nodetype": "carcode", "ctx": {"make": "MORGAN", "year": 1965, "model": "PLUS 4"}}}
-{"node_type": "carcode", "href": "/en/catalog/morgan,1966,4/4+series+v,1.5l+l4,1437083", "payload": {"nodetype": "carcode", "ctx": {"make": "MORGAN", "year": 1966, "model": "4/4 SERIES V"}}}

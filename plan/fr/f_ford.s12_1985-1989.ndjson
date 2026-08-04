@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/ford,1985,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1985, "model": "F-250"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1985,mustang,2.3l+140cid+l4,1133772", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1985, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1986,f-350,6.9l+420cid+v8+diesel,1126347", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1986, "model": "F-350"}}}

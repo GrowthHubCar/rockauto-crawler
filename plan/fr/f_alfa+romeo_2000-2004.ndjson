@@ -1,10 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/alfa+romeo,2004,156", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 2004, "model": "156"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2003,gtv,3.0l+v6,209409", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2003, "model": "GTV"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2002,156,2.0l+l4,934932", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2002, "model": "156"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2002,147,2.0l+l4,934920", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2002, "model": "147"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2004,147,2.0l+l4,937577", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2004, "model": "147"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2002,166,3.0l+v6,207099", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2002, "model": "166"}}}
 {"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2003,spider,3.0l+v6,209414", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2003, "model": "SPIDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2003,166,3.0l+v6,209400", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2003, "model": "166"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2003,147,2.0l+l4,936259", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2003, "model": "147"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2002,sportwagon,2.0l+l4,2002560", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2002, "model": "SPORTWAGON"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/jeep,1964,dispatcher", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1964, "model": "DISPATCHER"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1964,fc150", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1964, "model": "FC150"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1963,f-134", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1963, "model": "F-134"}}}

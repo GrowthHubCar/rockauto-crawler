@@ -11,27 +11,12 @@
 {"node_type": "model", "href": "/en/catalog/chrysler,1958,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1958, "model": "NEWPORT"}}}
 {"node_type": "model", "href": "/en/catalog/chrysler,1956,st+regis", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1956, "model": "ST REGIS"}}}
 {"node_type": "model", "href": "/en/catalog/chrysler,1955,nassau", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1955, "model": "NASSAU"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1959,imperial,6.7l+413cid+v8,1327777", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1959, "model": "IMPERIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1957,saratoga,5.8l+354cid+v8,1327968", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1957, "model": "SARATOGA"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1959,newport,6.7l+413cid+v8,1327799", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1959, "model": "NEWPORT"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1956,windsor,5.4l+331cid+v8,1328093", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1956, "model": "WINDSOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1955,st+regis,5.4l+331cid+v8,1328161", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1955, "model": "ST REGIS"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1958,new+yorker,6.4l+392cid+v8,1327867", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1958, "model": "NEW YORKER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1958,imperial,6.4l+392cid+v8,1327856", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1958, "model": "IMPERIAL"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1956,imperial,5.8l+354cid+v8,1488219", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1956, "model": "IMPERIAL"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1957,300,6.4l+392cid+v8,1327924", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1957, "model": "300"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1956,town+&+country,5.4l+331cid+v8,1328071", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1956, "model": "TOWN & COUNTRY"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1956,new+yorker,5.8l+354cid+v8,1328037", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1956, "model": "NEW YORKER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1958,saratoga,5.8l+354cid+v8,1327889", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1958, "model": "SARATOGA"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1958,town+&+country,6.4l+392cid+v8,1327902", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1958, "model": "TOWN & COUNTRY"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1957,imperial,6.4l+392cid+v8,1327935", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1957, "model": "IMPERIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1959,saratoga,6.3l+383cid+v8,1412479", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1959, "model": "SARATOGA"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1955,new+yorker,5.4l+331cid+v8,1328138", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1955, "model": "NEW YORKER"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1959,300,6.8l+413cid+v8,1327766", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1959, "model": "300"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1957,windsor,5.8l+354cid+v8,1327991", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1957, "model": "WINDSOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1958,windsor,5.8l+354cid+v8,1327913", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1958, "model": "WINDSOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1955,windsor,4.9l+301cid+v8,1328194", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1955, "model": "WINDSOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1959,windsor,6.3l+383cid+v8,1412705", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1959, "model": "WINDSOR"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1956,imperial,5.8l+353cid+v8,1435975", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1956, "model": "IMPERIAL"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1958,300,6.4l+392cid+v8,1327845", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1958, "model": "300"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1956,300,5.8l+354cid+v8,1328004", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1956, "model": "300"}}}

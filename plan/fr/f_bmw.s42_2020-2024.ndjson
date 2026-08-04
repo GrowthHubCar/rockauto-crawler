@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2021,440i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "440I"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2023,740i,3.0l+l6+turbocharged,3453471", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2023, "model": "740I"}}}

@@ -12,9 +12,3 @@
 {"node_type": "model", "href": "/en/catalog/graham,1938,special+model+96", "payload": {"nodetype": "model", "ctx": {"make": "GRAHAM", "year": 1938, "model": "SPECIAL MODEL 96"}}}
 {"node_type": "model", "href": "/en/catalog/graham,1939,model+97", "payload": {"nodetype": "model", "ctx": {"make": "GRAHAM", "year": 1939, "model": "MODEL 97"}}}
 {"node_type": "model", "href": "/en/catalog/graham,1939,deluxe+model+108", "payload": {"nodetype": "model", "ctx": {"make": "GRAHAM", "year": 1939, "model": "DELUXE MODEL 108"}}}
-{"node_type": "carcode", "href": "/en/catalog/graham,1938,model+97,218cid+l6,952881", "payload": {"nodetype": "carcode", "ctx": {"make": "GRAHAM", "year": 1938, "model": "MODEL 97"}}}
-{"node_type": "carcode", "href": "/en/catalog/graham,1938,custom+model+97,218cid+l6,2002302", "payload": {"nodetype": "carcode", "ctx": {"make": "GRAHAM", "year": 1938, "model": "CUSTOM MODEL 97"}}}
-{"node_type": "carcode", "href": "/en/catalog/graham,1935,model+75,265cid+l8,952735", "payload": {"nodetype": "carcode", "ctx": {"make": "GRAHAM", "year": 1935, "model": "MODEL 75"}}}
-{"node_type": "carcode", "href": "/en/catalog/graham,1939,special+model+96,all+engines,2002362", "payload": {"nodetype": "carcode", "ctx": {"make": "GRAHAM", "year": 1939, "model": "SPECIAL MODEL 96"}}}
-{"node_type": "carcode", "href": "/en/catalog/graham,1936,model+110,218cid+l6,952796", "payload": {"nodetype": "carcode", "ctx": {"make": "GRAHAM", "year": 1936, "model": "MODEL 110"}}}
-{"node_type": "carcode", "href": "/en/catalog/graham,1937,series+120,218cid+l6,2002247", "payload": {"nodetype": "carcode", "ctx": {"make": "GRAHAM", "year": 1937, "model": "SERIES 120"}}}

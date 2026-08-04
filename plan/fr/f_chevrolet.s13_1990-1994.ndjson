@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1992,lumina+apv", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1992, "model": "LUMINA APV"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1992,c35", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1992, "model": "C35"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1993,stepvan,7.0l+v8,3434367", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1993, "model": "STEPVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1994,corvette,5.7l+v8+ohv,1041354", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1994, "model": "CORVETTE"}}}

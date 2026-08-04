@@ -13,4 +13,3 @@
 {"node_type": "model", "href": "/en/catalog/bmw,1938,325", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1938, "model": "325"}}}
 {"node_type": "model", "href": "/en/catalog/bmw,1939,325", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1939, "model": "325"}}}
 {"node_type": "model", "href": "/en/catalog/bmw,1939,335", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1939, "model": "335"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,1937,328,all+engines,2002237", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 1937, "model": "328"}}}

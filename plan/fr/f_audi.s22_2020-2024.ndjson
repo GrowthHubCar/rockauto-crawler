@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/audi,2023,q7", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2023, "model": "Q7"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2023,rs+q8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2023, "model": "RS Q8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,a6,3.0l+v6+turbocharged,3445585", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "A6"}}}

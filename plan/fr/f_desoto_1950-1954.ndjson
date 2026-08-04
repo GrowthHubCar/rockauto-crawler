@@ -2,7 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/desoto,1952,firedome", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1952, "model": "FIREDOME"}}}
 {"node_type": "model", "href": "/en/catalog/desoto,1953,firedome", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1953, "model": "FIREDOME"}}}
 {"node_type": "model", "href": "/en/catalog/desoto,1950,s-14", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1950, "model": "S-14"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1953,powermaster,4.1l+251cid+l6,1440337", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1953, "model": "POWERMASTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1954,powermaster,4.1l+251cid+l6,1440336", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1954, "model": "POWERMASTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1954,firedome,4.5l+276cid+v8,1440342", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1954, "model": "FIREDOME"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1951,s-15,4.1l+251cid+l6,1440340", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1951, "model": "S-15"}}}

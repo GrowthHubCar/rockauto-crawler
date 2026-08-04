@@ -3,7 +3,6 @@
 {"node_type": "model", "href": "/en/catalog/tesla,2025,x", "payload": {"nodetype": "model", "ctx": {"make": "TESLA", "year": 2025, "model": "X"}}}
 {"node_type": "model", "href": "/en/catalog/tesla,2026,x", "payload": {"nodetype": "model", "ctx": {"make": "TESLA", "year": 2026, "model": "X"}}}
 {"node_type": "model", "href": "/en/catalog/tesla,2026,3", "payload": {"nodetype": "model", "ctx": {"make": "TESLA", "year": 2026, "model": "3"}}}
-{"node_type": "carcode", "href": "/en/catalog/tesla,2025,cybertruck,electric,3458246", "payload": {"nodetype": "carcode", "ctx": {"make": "TESLA", "year": 2025, "model": "CYBERTRUCK"}}}
 {"node_type": "carcode", "href": "/en/catalog/tesla,2026,cybertruck,electric,3459526", "payload": {"nodetype": "carcode", "ctx": {"make": "TESLA", "year": 2026, "model": "CYBERTRUCK"}}}
 {"node_type": "carcode", "href": "/en/catalog/tesla,2026,y,electric,3459769", "payload": {"nodetype": "carcode", "ctx": {"make": "TESLA", "year": 2026, "model": "Y"}}}
 {"node_type": "carcode", "href": "/en/catalog/tesla,2025,y,electric,3458249", "payload": {"nodetype": "carcode", "ctx": {"make": "TESLA", "year": 2025, "model": "Y"}}}

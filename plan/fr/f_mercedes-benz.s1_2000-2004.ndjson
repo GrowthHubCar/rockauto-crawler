@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2004,e320", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2004, "model": "E320"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2001,cl55+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2001, "model": "CL55 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2004,slk230,2.3l+l4+supercharged,1426508", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2004, "model": "SLK230"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2003,clk320,3.2l+v6,1440972", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2003, "model": "CLK320"}}}

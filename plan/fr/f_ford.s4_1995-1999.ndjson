@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/ford,1995,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,f53", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "F53"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,mystique", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "MYSTIQUE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "F-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1997,f-700", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1997, "model": "F-700"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "E-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,contour", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "CONTOUR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,aspire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "ASPIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1998,e-250,4.6l+v8,1304165", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1998, "model": "E-250"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1996,f-250,7.5l+v8,1125043", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1996, "model": "F-250"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1996,taurus,3.0l+v6+dohc,1139015", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1996, "model": "TAURUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1997,aspire,1.3l+l4,1105265", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1997, "model": "ASPIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1995,ranger,3.0l+v6,1138036", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1995, "model": "RANGER"}}}

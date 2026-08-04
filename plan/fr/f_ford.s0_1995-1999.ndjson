@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/ford,1995,taurus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "TAURUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,windstar", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "WINDSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,probe", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "PROBE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,f-800", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "F-800"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,grand+marquis", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "GRAND MARQUIS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,e-450", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "E-450"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "CROWN VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,b+series+bus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "B SERIES BUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,a+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "A SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1998,l+series+truck,10.5l+diesel,3440539", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1998, "model": "L SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1997,contour,2.5l+v6,1106514", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1997, "model": "CONTOUR"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1998,l+series+truck,7.2l+l6+diesel+turbocharged,3440492", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1998, "model": "L SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1997,f59,7.3l+v8+diesel+turbocharged,1501138", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1997, "model": "F59"}}}

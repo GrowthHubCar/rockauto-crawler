@@ -7,5 +7,3 @@
 {"node_type": "model", "href": "/en/catalog/alfa+romeo,1958,1900", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1958, "model": "1900"}}}
 {"node_type": "model", "href": "/en/catalog/alfa+romeo,1958,2000", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1958, "model": "2000"}}}
 {"node_type": "model", "href": "/en/catalog/alfa+romeo,1959,2000", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1959, "model": "2000"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1955,giulietta,1.3l+l4,1436084", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1955, "model": "GIULIETTA"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1955,1900,2.0l+l4,1436173", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1955, "model": "1900"}}}

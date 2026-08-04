@@ -14,21 +14,5 @@
 {"node_type": "model", "href": "/en/catalog/isuzu,2011,reach", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2011, "model": "REACH"}}}
 {"node_type": "model", "href": "/en/catalog/isuzu,2013,reach", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2013, "model": "REACH"}}}
 {"node_type": "model", "href": "/en/catalog/isuzu,2014,reach", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2014, "model": "REACH"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2010,f+series+truck,7.8l+l6+diesel+turbocharged,3296745", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2010, "model": "F SERIES TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2014,npr,3.0l+l4+diesel+turbocharged,3414424", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2014, "model": "NPR"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2010,npr,6.0l+v8,3298404", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2010, "model": "NPR"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2012,npr,6.0l+v8,3298442", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2012, "model": "NPR"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2012,elf,5.2l+4cyl+diesel+turbocharged,3099247", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2012, "model": "ELF"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2013,npr,5.2l+l4+diesel+turbocharged,3298394", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2013, "model": "NPR"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2012,npr,3.0l+l4+diesel+turbocharged,3414421", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2012, "model": "NPR"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2014,elf,5.2l+l4+diesel+turbocharged,3450730", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2014, "model": "ELF"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2010,npr,5.2l+l4+diesel+turbocharged,3295520", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2010, "model": "NPR"}}}
 {"node_type": "carcode", "href": "/en/catalog/isuzu,2013,elf,3.0l+l4+diesel+turbocharged,3454940", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2013, "model": "ELF"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2014,elf,3.0l+l4+diesel+turbocharged,3454941", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2014, "model": "ELF"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2012,reach,3.0l+l4+diesel+turbocharged,3297054", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2012, "model": "REACH"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2012,nrr,5.2l+l4+diesel+turbocharged,3296989", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2012, "model": "NRR"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2012,nqr,5.2l+l4+diesel+turbocharged,3298323", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2012, "model": "NQR"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2010,nqr,5.2l+l4+diesel+turbocharged,3298321", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2010, "model": "NQR"}}}
 {"node_type": "carcode", "href": "/en/catalog/isuzu,2010,elf,5.2l+4cyl+diesel+turbocharged,3099245", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2010, "model": "ELF"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2011,f+series+truck,7.8l+l6+diesel+turbocharged,3295228", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2011, "model": "F SERIES TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2011,npr,6.0l+v8,3298441", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2011, "model": "NPR"}}}

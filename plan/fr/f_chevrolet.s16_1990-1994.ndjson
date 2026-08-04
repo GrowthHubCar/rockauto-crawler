@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1992,k2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1992, "model": "K2500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1991,tiltmaster,3.9l+l4+diesel+turbocharged,3423089", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1991, "model": "TILTMASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1993,g20,5.0l+v8,1046629", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1993, "model": "G20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1994,p30,6.5l+v8+diesel+turbocharged,1059612", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1994, "model": "P30"}}}

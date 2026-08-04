@@ -1,3 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/morgan,2002,plus+8", "payload": {"nodetype": "model", "ctx": {"make": "MORGAN", "year": 2002, "model": "PLUS 8"}}}
 {"node_type": "model", "href": "/en/catalog/morgan,2003,plus+8", "payload": {"nodetype": "model", "ctx": {"make": "MORGAN", "year": 2003, "model": "PLUS 8"}}}
-{"node_type": "carcode", "href": "/en/catalog/morgan,2004,aero+8,4.4l+v8,1428375", "payload": {"nodetype": "carcode", "ctx": {"make": "MORGAN", "year": 2004, "model": "AERO 8"}}}

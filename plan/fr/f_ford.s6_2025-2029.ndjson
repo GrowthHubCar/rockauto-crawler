@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ford,2025,lobo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2025, "model": "LOBO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,transit+350,3.5l+v6,3459370", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "TRANSIT 350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,transit+250,3.5l+v6+turbocharged,3459369", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "TRANSIT 250"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,maverick,2.5l+l4+electric/gas,3458531", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "MAVERICK"}}}

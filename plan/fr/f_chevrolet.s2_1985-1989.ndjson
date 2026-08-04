@@ -1,0 +1,13 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1986,stepvan", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1986, "model": "STEPVAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1985,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1985, "model": "P30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1985,k10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1985, "model": "K10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1988,caprice", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1988, "model": "CAPRICE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1988,v20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1988, "model": "V20 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1988,r30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1988, "model": "R30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1989,s10+blazer,2.8l+173cid+v6,1060502", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1989, "model": "S10 BLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1986,p30,6.2l+379cid+v8+diesel,1059241", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1986, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1988,c1500+pickup,5.7l+350cid+v8,1031106", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1988, "model": "C1500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1988,c2500+pickup,5.7l+350cid+v8,1032837", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1988, "model": "C2500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1985,p20,4.8l+292cid+l6,1058295", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1985, "model": "P20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1986,corvette,5.7l+350cid+v8,1041219", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1986, "model": "CORVETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1988,tiltmaster,3.9l+236cid+l4+diesel+turbocharged,3450549", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1988, "model": "TILTMASTER"}}}

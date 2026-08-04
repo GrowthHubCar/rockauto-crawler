@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2009,gl500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2009, "model": "GL500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2006,s55+amg,5.5l+v8+supercharged,1431842", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2006, "model": "S55 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2009,e300,3.0l+v6,1444264", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2009, "model": "E300"}}}

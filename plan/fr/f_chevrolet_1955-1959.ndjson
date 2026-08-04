@@ -33,69 +33,8 @@
 {"node_type": "model", "href": "/en/catalog/chevrolet,1959,3800", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "3800"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1959,3c", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "3C"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1959,3f", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "3F"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1958,brookwood,5.7l+348cid+v8,1442183", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "BROOKWOOD"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1958,sedan+delivery,5.7l+348cid+v8,1488810", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "SEDAN DELIVERY"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1956,sedan+delivery,5.3l+324cid+v8,1488203", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1956, "model": "SEDAN DELIVERY"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,nomad,3.8l+235cid+l6,1489167", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "NOMAD"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,bel+air,3.8l+235cid+l6,1325821", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "BEL AIR"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1957,sedan+delivery,5.3l+322cid+v8,1488484", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1957, "model": "SEDAN DELIVERY"}}}
 {"node_type": "carcode", "href": "/en/catalog/chevrolet,1956,nomad,4.3l+265cid+v8,1488198", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1956, "model": "NOMAD"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1958,del+ray,5.7l+348cid+v8,1326080", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "DEL RAY"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1958,biscayne,5.7l+348cid+v8,1326035", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "BISCAYNE"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,3a,4.6l+283cid+v8,1489146", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "3A"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,3d,3.8l+235cid+l6,1489151", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "3D"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,3g,4.6l+283cid+v8,1489158", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "3G"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1958,biscayne,4.6l+283cid+v8,1434969", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "BISCAYNE"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1958,bel+air,4.6l+283cid+v8,1434964", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "BEL AIR"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,3b,3.8l+235cid+l6,1489147", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "3B"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1955,two-ten+series,4.3l+265cid+v8,1326462", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1955, "model": "TWO-TEN SERIES"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1957,bel+air,4.6l+283cid+v8,1442175", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1957, "model": "BEL AIR"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,impala,5.7l+348cid+v8,1325922", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "IMPALA"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1955,truck,5.3l+324cid+v8,1487938", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1955, "model": "TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1956,bel+air,4.3l+265cid+v8,1326305", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1956, "model": "BEL AIR"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1955,corvette,3.8l+235cid+l6,1326417", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1955, "model": "CORVETTE"}}}
 {"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,corvette,4.6l+283cid+v8,1435947", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "CORVETTE"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1957,del+ray,4.6l+283cid+v8,1488475", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1957, "model": "DEL RAY"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1955,bel+air,4.3l+265cid+v8,1326406", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1955, "model": "BEL AIR"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1958,yeoman,5.7l+348cid+v8,1488828", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "YEOMAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1955,truck,4.3l+265cid+v8,1326383", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1955, "model": "TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,impala,4.6l+283cid+v8,1434985", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "IMPALA"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1955,sedan+delivery,5.3l+324cid+v8,1487923", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1955, "model": "SEDAN DELIVERY"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,3f,3.8l+235cid+l6,1489155", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "3F"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1958,bel+air,5.7l+348cid+v8,1326002", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "BEL AIR"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1956,two-ten+series,4.3l+265cid+v8,1326350", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1956, "model": "TWO-TEN SERIES"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,kingswood,5.7l+348cid+v8,1489166", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "KINGSWOOD"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1956,one-fifty+series,4.3l+265cid+v8,1326338", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1956, "model": "ONE-FIFTY SERIES"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1957,one-fifty+series,4.6l+283cid+v8,1326204", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1957, "model": "ONE-FIFTY SERIES"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,parkwood,5.7l+348cid+v8,1489174", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "PARKWOOD"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1955,one-fifty+series,4.3l+265cid+v8,1326440", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1955, "model": "ONE-FIFTY SERIES"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1956,corvette,4.3l+265cid+v8,1326316", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1956, "model": "CORVETTE"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,3e,4.6l+283cid+v8,1489154", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "3E"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1957,corvette,4.6l+283cid+v8,1326181", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1957, "model": "CORVETTE"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1955,corvette,4.3l+265cid+v8,1326428", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1955, "model": "CORVETTE"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1957,truck,4.3l+265cid+v8,1326136", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1957, "model": "TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1957,two-ten+series,3.8l+235cid+l6,1326226", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1957, "model": "TWO-TEN SERIES"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,nomad,5.7l+348cid+v8,1489170", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "NOMAD"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,bel+air,5.7l+348cid+v8,1325843", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "BEL AIR"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1958,nomad,5.7l+348cid+v8,1488805", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "NOMAD"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1955,two-ten+series,3.8l+235cid+l6,1326451", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1955, "model": "TWO-TEN SERIES"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,biscayne,5.7l+348cid+v8,1325876", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "BISCAYNE"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1958,truck,4.6l+283cid+v8,1325955", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1958,impala,4.6l+283cid+v8,1488800", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "IMPALA"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1957,two-ten+series,4.6l+283cid+v8,1326237", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1957, "model": "TWO-TEN SERIES"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1956,two-ten+series,3.8l+235cid+l6,1326349", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1956, "model": "TWO-TEN SERIES"}}}
 {"node_type": "carcode", "href": "/en/catalog/chevrolet,1955,nomad,4.3l+265cid+v8,1487919", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1955, "model": "NOMAD"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,3e,3.8l+235cid+l6,1489153", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "3E"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,el+camino,5.7l+348cid+v8,1422447", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "EL CAMINO"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1956,truck,5.3l+324cid+v8,1488218", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1956, "model": "TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1957,truck,5.3l+322cid+v8,1326125", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1957, "model": "TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1958,truck,5.7l+348cid+v8,1325977", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,3g,3.8l+235cid+l6,1489157", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "3G"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1958,biscayne,3.8l+235cid+l6,1326013", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "BISCAYNE"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,3c,3.8l+235cid+l6,1489149", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "3C"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1958,corvette,4.6l+283cid+v8,1326057", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "CORVETTE"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1958,del+ray,3.8l+235cid+l6,1326068", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "DEL RAY"}}}
 {"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,suburban,4.6l+283cid+v8,3441849", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "SUBURBAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1958,impala,5.7l+348cid+v8,1488801", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1958, "model": "IMPALA"}}}
 {"node_type": "carcode", "href": "/en/catalog/chevrolet,1957,nomad,4.6l+283cid+v8,1488479", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1957, "model": "NOMAD"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1959,nomad,4.6l+283cid+v8,1489169", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1959, "model": "NOMAD"}}}

@@ -11,11 +11,6 @@
 {"node_type": "model", "href": "/en/catalog/studebaker,1932,dictator+model+62", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1932, "model": "DICTATOR MODEL 62"}}}
 {"node_type": "model", "href": "/en/catalog/studebaker,1932,commander+model+71", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1932, "model": "COMMANDER MODEL 71"}}}
 {"node_type": "model", "href": "/en/catalog/studebaker,1933,commander+model+73", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1933, "model": "COMMANDER MODEL 73"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1931,president,5.5l+337cid+l8,952456", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1931, "model": "PRESIDENT"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1933,six+model+56,230cid+l6,952620", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1933, "model": "SIX MODEL 56"}}}
 {"node_type": "carcode", "href": "/en/catalog/studebaker,1931,commander,4.1l+250cid+l8,1485501", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1931, "model": "COMMANDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1932,rockne,all+engines,952541", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1932, "model": "ROCKNE"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1933,rockne+model+10,6cyl,952617", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1933, "model": "ROCKNE MODEL 10"}}}
 {"node_type": "carcode", "href": "/en/catalog/studebaker,1930,commander,4.1l+250cid+l8,1485467", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1930, "model": "COMMANDER"}}}
 {"node_type": "carcode", "href": "/en/catalog/studebaker,1930,president,5.5l+337cid+l8,1485470", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1930, "model": "PRESIDENT"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1934,dictator,3.3l+205cid+l6,1485632", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1934, "model": "DICTATOR"}}}

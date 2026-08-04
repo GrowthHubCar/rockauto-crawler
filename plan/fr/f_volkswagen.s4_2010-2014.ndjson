@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2010,saveiro", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "SAVEIRO"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,routan,3.6l+v6,3015769", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "ROUTAN"}}}

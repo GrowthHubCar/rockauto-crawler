@@ -612,6 +612,13 @@ jobs:
 # LANES must satisfy jobs*LANES >= units/account or `cycle` goes 1 -> 2 and the block
 # flip hands every job frontiers for units it is not crawling (665 units re-walk their
 # nav tree). 1,646 units total, so units/account = ceil(1646/ACCOUNT_COUNT):
-#   ACCOUNT_COUNT=4 -> 412/acct -> LANES=12 (per=420,  2.1% dup)
-#   ACCOUNT_COUNT=8 -> 206/acct -> LANES=6  (per=210,  2.4% dup)
-# LANES=7 at 8 accounts is 16.3% duplicate lanes — two writers racing one frontier.
+#   1,646 units, ACCOUNT_COUNT=8 -> 206/acct -> LANES=6  (per=210,  2.4% dup)
+#   5,786 units, ACCOUNT_COUNT=8 -> 724/acct -> LANES=21 (per=735,  1.6% dup)  <-- now
+#
+# 2026-08-04: plan/fr was pruned then split (bin/prune_frontier.py, then
+# bin/split_frontiers.py --cap 800). A unit is crawled by exactly ONE sequential lane
+# fleet-wide, so 651 fat units held 83.9% of the work and no number of runners could
+# touch it — measured 43 of 96 lane-slots idle on drained units and jobs averaging
+# 170s against a 300s cap, using only ~400 of an IP's ~1,644 requests. 1,646 -> 5,786
+# units lets LANES go 6 -> 21, so a job now drains its whole IP budget inside the same
+# 300s window instead of a quarter of it.

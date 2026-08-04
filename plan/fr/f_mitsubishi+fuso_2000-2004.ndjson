@@ -38,16 +38,3 @@
 {"node_type": "model", "href": "/en/catalog/mitsubishi+fuso,2002,fe-hd", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI FUSO", "year": 2002, "model": "FE-HD"}}}
 {"node_type": "model", "href": "/en/catalog/mitsubishi+fuso,2003,fe-hd", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI FUSO", "year": 2003, "model": "FE-HD"}}}
 {"node_type": "model", "href": "/en/catalog/mitsubishi+fuso,2001,fe-ca", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI FUSO", "year": 2001, "model": "FE-CA"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi+fuso,2004,fh,5.9l+l6+diesel+turbocharged,3297590", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI FUSO", "year": 2004, "model": "FH"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi+fuso,2004,fe,3.9l+l4+diesel+turbocharged,3295933", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI FUSO", "year": 2004, "model": "FE"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi+fuso,2004,fh,4.9l+l4+diesel+turbocharged,3295935", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI FUSO", "year": 2004, "model": "FH"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi+fuso,2004,fg,3.9l+l4+diesel+turbocharged,3295934", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI FUSO", "year": 2004, "model": "FG"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi+fuso,2004,fm-mr,7.5l+l6+diesel+turbocharged,3294657", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI FUSO", "year": 2004, "model": "FM-MR"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi+fuso,2004,fe-sp,4.9l+l4+diesel+turbocharged,3294656", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI FUSO", "year": 2004, "model": "FE-SP"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi+fuso,2004,fk,7.5l+l6+diesel+turbocharged,3295936", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI FUSO", "year": 2004, "model": "FK"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi+fuso,2004,fm-sr,7.5l+l6+diesel+turbocharged,3294658", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI FUSO", "year": 2004, "model": "FM-SR"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi+fuso,2001,fe-hd,3.9l+l4+diesel+turbocharged,3295689", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI FUSO", "year": 2001, "model": "FE-HD"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi+fuso,2001,fe-sp,4.9l+l4+diesel+turbocharged,3295923", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI FUSO", "year": 2001, "model": "FE-SP"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi+fuso,2004,fe-hd,3.9l+l4+diesel+turbocharged,3297588", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI FUSO", "year": 2004, "model": "FE-HD"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi+fuso,2004,fe-sp,3.9l+l4+diesel+turbocharged,3297589", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI FUSO", "year": 2004, "model": "FE-SP"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi+fuso,2004,fm-sp,7.5l+l6+diesel+turbocharged,3295698", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI FUSO", "year": 2004, "model": "FM-SP"}}}

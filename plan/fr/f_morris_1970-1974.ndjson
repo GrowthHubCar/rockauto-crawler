@@ -9,5 +9,4 @@
 {"node_type": "model", "href": "/en/catalog/morris,1972,marina", "payload": {"nodetype": "model", "ctx": {"make": "MORRIS", "year": 1972, "model": "MARINA"}}}
 {"node_type": "model", "href": "/en/catalog/morris,1973,marina", "payload": {"nodetype": "model", "ctx": {"make": "MORRIS", "year": 1973, "model": "MARINA"}}}
 {"node_type": "model", "href": "/en/catalog/morris,1974,marina", "payload": {"nodetype": "model", "ctx": {"make": "MORRIS", "year": 1974, "model": "MARINA"}}}
-{"node_type": "carcode", "href": "/en/catalog/morris,1971,minor,1.1l+l4,1396166", "payload": {"nodetype": "carcode", "ctx": {"make": "MORRIS", "year": 1971, "model": "MINOR"}}}
 {"node_type": "carcode", "href": "/en/catalog/morris,1973,minor,998cc+l4,1499490", "payload": {"nodetype": "carcode", "ctx": {"make": "MORRIS", "year": 1973, "model": "MINOR"}}}

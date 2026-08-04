@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/dodge,1993,viper", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1993, "model": "VIPER"}}}
+{"node_type": "model", "href": "/en/catalog/dodge,1990,colt+100", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1990, "model": "COLT 100"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1991,stealth,3.0l+v6+sohc,1098727", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1991, "model": "STEALTH"}}}

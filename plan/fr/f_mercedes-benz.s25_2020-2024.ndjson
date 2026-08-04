@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2022,gla200", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "GLA200"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2023,gla35+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "GLA35 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2020,cla35+amg,2.0l+l4+turbocharged,3445450", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2020, "model": "CLA35 AMG"}}}

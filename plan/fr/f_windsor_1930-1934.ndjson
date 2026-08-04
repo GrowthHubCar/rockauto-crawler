@@ -2,4 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/windsor,1930,model+6-79", "payload": {"nodetype": "model", "ctx": {"make": "WINDSOR", "year": 1930, "model": "MODEL 6-79"}}}
 {"node_type": "model", "href": "/en/catalog/windsor,1930,model+6-72", "payload": {"nodetype": "model", "ctx": {"make": "WINDSOR", "year": 1930, "model": "MODEL 6-72"}}}
 {"node_type": "model", "href": "/en/catalog/windsor,1930,model+6-69", "payload": {"nodetype": "model", "ctx": {"make": "WINDSOR", "year": 1930, "model": "MODEL 6-69"}}}
-{"node_type": "carcode", "href": "/en/catalog/windsor,1930,model+8-92,8cyl,2001803", "payload": {"nodetype": "carcode", "ctx": {"make": "WINDSOR", "year": 1930, "model": "MODEL 8-92"}}}

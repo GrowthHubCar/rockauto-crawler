@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2016,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2016, "model": "JETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2015,beetle,1.8l+l4+turbocharged,3310353", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2015, "model": "BEETLE"}}}

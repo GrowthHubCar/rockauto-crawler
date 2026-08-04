@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2022,nivus", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2022, "model": "NIVUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2020,amarok,3.0l+v6+diesel+turbocharged,3446190", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2020, "model": "AMAROK"}}}

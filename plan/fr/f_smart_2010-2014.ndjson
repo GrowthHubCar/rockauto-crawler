@@ -1,12 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/smart,2012,fortwo", "payload": {"nodetype": "model", "ctx": {"make": "SMART", "year": 2012, "model": "FORTWO"}}}
 {"node_type": "model", "href": "/en/catalog/smart,2013,fortwo", "payload": {"nodetype": "model", "ctx": {"make": "SMART", "year": 2013, "model": "FORTWO"}}}
 {"node_type": "model", "href": "/en/catalog/smart,2014,fortwo", "payload": {"nodetype": "model", "ctx": {"make": "SMART", "year": 2014, "model": "FORTWO"}}}
-{"node_type": "carcode", "href": "/en/catalog/smart,2014,fortwo,electric,3310376", "payload": {"nodetype": "carcode", "ctx": {"make": "SMART", "year": 2014, "model": "FORTWO"}}}
-{"node_type": "carcode", "href": "/en/catalog/smart,2014,fortwo,1000cc+l3,3307606", "payload": {"nodetype": "carcode", "ctx": {"make": "SMART", "year": 2014, "model": "FORTWO"}}}
-{"node_type": "carcode", "href": "/en/catalog/smart,2012,fortwo,1000cc+l3,1503765", "payload": {"nodetype": "carcode", "ctx": {"make": "SMART", "year": 2012, "model": "FORTWO"}}}
-{"node_type": "carcode", "href": "/en/catalog/smart,2011,fortwo,electric,1500937", "payload": {"nodetype": "carcode", "ctx": {"make": "SMART", "year": 2011, "model": "FORTWO"}}}
-{"node_type": "carcode", "href": "/en/catalog/smart,2011,fortwo,1000cc+l3,1500934", "payload": {"nodetype": "carcode", "ctx": {"make": "SMART", "year": 2011, "model": "FORTWO"}}}
-{"node_type": "carcode", "href": "/en/catalog/smart,2010,fortwo,1000cc+l3,1446136", "payload": {"nodetype": "carcode", "ctx": {"make": "SMART", "year": 2010, "model": "FORTWO"}}}
-{"node_type": "carcode", "href": "/en/catalog/smart,2013,fortwo,electric,3245776", "payload": {"nodetype": "carcode", "ctx": {"make": "SMART", "year": 2013, "model": "FORTWO"}}}
-{"node_type": "carcode", "href": "/en/catalog/smart,2010,fortwo,999cc+l3+turbocharged,3015444", "payload": {"nodetype": "carcode", "ctx": {"make": "SMART", "year": 2010, "model": "FORTWO"}}}
-{"node_type": "carcode", "href": "/en/catalog/smart,2012,fortwo,electric,3245788", "payload": {"nodetype": "carcode", "ctx": {"make": "SMART", "year": 2012, "model": "FORTWO"}}}

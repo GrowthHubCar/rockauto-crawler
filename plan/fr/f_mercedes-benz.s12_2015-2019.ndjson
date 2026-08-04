@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2019,s63+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2019, "model": "S63 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2018,b250,2.0l+l4+turbocharged,3441378", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2018, "model": "B250"}}}

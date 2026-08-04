@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2016,sl63+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2016, "model": "SL63 AMG"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2015,s500l", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2015, "model": "S500L"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2017,glc300,2.0l+l4+turbocharged,3435336", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2017, "model": "GLC300"}}}

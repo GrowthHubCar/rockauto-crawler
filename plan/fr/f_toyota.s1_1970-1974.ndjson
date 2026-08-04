@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/toyota,1970,crown", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1970, "model": "CROWN"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1974,pickup,2.0l+l4,1277063", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1974, "model": "PICKUP"}}}

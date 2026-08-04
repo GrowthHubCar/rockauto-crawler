@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/ram,2019,700", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2019, "model": "700"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2016,4000,5.7l+v8,3435462", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2016, "model": "4000"}}}

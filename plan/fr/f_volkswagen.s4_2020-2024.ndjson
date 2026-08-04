@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2021,vento", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2021, "model": "VENTO"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2020,atlas", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2020, "model": "ATLAS"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2024,transporter,2.0l+l4+diesel+turbocharged,3455873", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2024, "model": "TRANSPORTER"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/buick,1980,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1980, "model": "RIVIERA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1982,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1982, "model": "ESTATE WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1981,electra,4.1l+252cid+v6,1016907", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1981, "model": "ELECTRA"}}}

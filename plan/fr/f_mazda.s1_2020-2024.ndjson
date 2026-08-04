@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mazda,2020,6", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2020, "model": "6"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2023,cx-3,2.0l+l4,3454450", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2023, "model": "CX-3"}}}

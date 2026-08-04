@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/ford,2007,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2007, "model": "RANGER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,ikon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "IKON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "EXPLORER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "CROWN VICTORIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,e-350,6.8l+v10,1443838", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "E-350"}}}

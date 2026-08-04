@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/toyota,1970,2000gt", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1970, "model": "2000GT"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1972,pickup,2.0l+l4,1277041", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1972, "model": "PICKUP"}}}

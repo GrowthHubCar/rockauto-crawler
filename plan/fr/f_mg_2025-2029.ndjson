@@ -4,8 +4,6 @@
 {"node_type": "model", "href": "/en/catalog/mg,2025,mg3", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 2025, "model": "MG3"}}}
 {"node_type": "carcode", "href": "/en/catalog/mg,2026,hs,2.0l+l4+turbocharged,3459485", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2026, "model": "HS"}}}
 {"node_type": "carcode", "href": "/en/catalog/mg,2026,zs,1.5l+l4+turbocharged,3459170", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2026, "model": "ZS"}}}
-{"node_type": "carcode", "href": "/en/catalog/mg,2026,mg3,1.5l+l4,3461982", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2026, "model": "MG3"}}}
 {"node_type": "carcode", "href": "/en/catalog/mg,2026,hs,1.5l+l4+turbocharged,3459484", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2026, "model": "HS"}}}
 {"node_type": "carcode", "href": "/en/catalog/mg,2026,zs,1.5l+l4+electric/gas,3459171", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2026, "model": "ZS"}}}
-{"node_type": "carcode", "href": "/en/catalog/mg,2026,mg3,1.5l+l4+electric/gas,3461981", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2026, "model": "MG3"}}}
 {"node_type": "carcode", "href": "/en/catalog/mg,2026,hs,1.5l+l4+electric/gas+turbocharged,3459483", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2026, "model": "HS"}}}

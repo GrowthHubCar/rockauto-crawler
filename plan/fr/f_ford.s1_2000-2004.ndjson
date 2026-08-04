@@ -1,0 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/ford,2000,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2000, "model": "RANGER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2003,f-650", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2003, "model": "F-650"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2000,f-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2000, "model": "F-100"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2004,f-750", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2004, "model": "F-750"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2004,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2004, "model": "EXPLORER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2004,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2004, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2004,f-150+heritage", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2004, "model": "F-150 HERITAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2004,f-250+super+duty,6.0l+v8+diesel+turbocharged,1427868", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2004, "model": "F-250 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2003,f-550+super+duty,7.3l+v8+diesel+turbocharged,1414965", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2003, "model": "F-550 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2004,f-350+super+duty,5.4l+v8,1427880", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2004, "model": "F-350 SUPER DUTY"}}}

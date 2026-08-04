@@ -2,12 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/aston+martin,1962,lagonda+rapide", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1962, "model": "LAGONDA RAPIDE"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,1960,db4", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1960, "model": "DB4"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,1961,db4", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1961, "model": "DB4"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,1963,lagonda+rapide,4.0l+l6,1439792", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1963, "model": "LAGONDA RAPIDE"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,1963,db5,4.0l+l6,1389922", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1963, "model": "DB5"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,1964,lagonda+rapide,4.0l+l6,1439791", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1964, "model": "LAGONDA RAPIDE"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,1964,db5,4.0l+l6,1389933", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1964, "model": "DB5"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,1962,db4,3.7l+l6,1389865", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1962, "model": "DB4"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,1962,db4,4.0l+l6,1490415", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1962, "model": "DB4"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,1963,db4,3.7l+l6,1389898", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1963, "model": "DB4"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,1963,db4,4.0l+l6,1491008", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1963, "model": "DB4"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,1960,db4,4.0l+l6,1489446", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1960, "model": "DB4"}}}

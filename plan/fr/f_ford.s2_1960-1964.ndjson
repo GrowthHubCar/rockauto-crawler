@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ford,1961,taunus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1961, "model": "TAUNUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1962,p-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1962, "model": "P-100"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1964,victoria,7.0l+427cid+v8,1491792", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1964, "model": "VICTORIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1964,sunliner,7.0l+427cid+v8,1491787", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1964, "model": "SUNLINER"}}}

@@ -14,15 +14,5 @@
 {"node_type": "model", "href": "/en/catalog/saab,1969,sonett", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1969, "model": "SONETT"}}}
 {"node_type": "model", "href": "/en/catalog/saab,1967,shrike", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1967, "model": "SHRIKE"}}}
 {"node_type": "model", "href": "/en/catalog/saab,1968,shrike", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1968, "model": "SHRIKE"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1968,96,1.5l+v4,1378593", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1968, "model": "96"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1968,96,795cc+l3,1378582", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1968, "model": "96"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1968,sonett,1.5l+v4,1378706", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1968, "model": "SONETT"}}}
 {"node_type": "carcode", "href": "/en/catalog/saab,1968,sonett,841cc+l3,1494876", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1968, "model": "SONETT"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1965,gt750,748cc+l3,1492765", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1965, "model": "GT750"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1967,monte+carlo,1.5l+v4,1378683", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1967, "model": "MONTE CARLO"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1965,96,841cc+l3,1397505", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1965, "model": "96"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1969,99,1.7l+l4,1378627", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1969, "model": "99"}}}
 {"node_type": "carcode", "href": "/en/catalog/saab,1967,sonett,841cc+l3,1378694", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1967, "model": "SONETT"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1968,96,841cc+l3,1494870", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1968, "model": "96"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1967,96,1.5l+v4,1494110", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1967, "model": "96"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1965,monte+carlo,841cc+l3,1437358", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1965, "model": "MONTE CARLO"}}}

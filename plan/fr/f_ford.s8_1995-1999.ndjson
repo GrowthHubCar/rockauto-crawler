@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/ford,1998,lobo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "LOBO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,f-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "F-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,f-800", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "F-800"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,grand+marquis", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "GRAND MARQUIS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "EXPLORER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "CROWN VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,club+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "CLUB WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,econoline+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "ECONOLINE SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1996,sable,3.0l+v6,951479", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1996, "model": "SABLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1995,e-350,4.9l+l6,1118023", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1995, "model": "E-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1999,lobo,5.4l+v8,3062974", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1999, "model": "LOBO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1996,windstar,3.8l+v6,1141636", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1996, "model": "WINDSTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1999,e-450,7.3l+v8+diesel+turbocharged,3440421", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1999, "model": "E-450"}}}

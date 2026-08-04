@@ -32,32 +32,15 @@
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1974,custom+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1974, "model": "CUSTOM CRUISER"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1970,442", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1970, "model": "442"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1971,442", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1971, "model": "442"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1970,cutlass,4.1l+250cid+l6,1217450", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1970, "model": "CUTLASS"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1970,cutlass+supreme,5.7l+350cid+v8,1496480", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1970, "model": "CUTLASS SUPREME"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1971,vista+cruiser,5.7l+350cid+v8,1226191", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1971, "model": "VISTA CRUISER"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1970,f85,5.7l+350cid+v8,1496485", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1970, "model": "F85"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1972,delta+88,7.5l+455cid+v8,1213704", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1972, "model": "DELTA 88"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1974,vista+cruiser,7.5l+455cid+v8,1226281", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1974, "model": "VISTA CRUISER"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1972,toronado,7.5l+455cid+v8,1225695", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1972, "model": "TORONADO"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1973,cutlass+supreme,5.7l+350cid+v8,1221725", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1973, "model": "CUTLASS SUPREME"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1973,cutlass+supreme,4.1l+250cid+l6,1499511", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1973, "model": "CUTLASS SUPREME"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1972,f85,7.5l+455cid+v8,1223659", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1972, "model": "F85"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1974,toronado,7.5l+455cid+v8,1225718", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1974, "model": "TORONADO"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1971,toronado,7.5l+455cid+v8,1225684", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1971, "model": "TORONADO"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1974,cutlass+supreme,7.5l+455cid+v8,1221781", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1974, "model": "CUTLASS SUPREME"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1971,f85,4.1l+250cid+l6,1223615", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1971, "model": "F85"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1974,omega,5.7l+350cid+v8,1224403", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1974, "model": "OMEGA"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1972,cutlass+supreme,7.5l+455cid+v8,1221714", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1972, "model": "CUTLASS SUPREME"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1970,vista+cruiser,7.5l+455cid+v8,1226180", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1970, "model": "VISTA CRUISER"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1972,vista+cruiser,5.7l+350cid+v8,1226214", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1972, "model": "VISTA CRUISER"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1971,vista+cruiser,4.1l+250cid+l6,1497450", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1971, "model": "VISTA CRUISER"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1971,delta+88,5.7l+350cid+v8,1213647", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1971, "model": "DELTA 88"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1970,98,7.5l+455cid+v8,1215560", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1970, "model": "98"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1972,delta+88,5.7l+350cid+v8,1213681", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1972, "model": "DELTA 88"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1971,cutlass,5.7l+350cid+v8,1217494", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1971, "model": "CUTLASS"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1974,cutlass,7.5l+455cid+v8,1217685", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1974, "model": "CUTLASS"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1973,delta+88,7.5l+455cid+v8,1213760", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1973, "model": "DELTA 88"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1972,vista+cruiser,7.5l+455cid+v8,1226236", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1972, "model": "VISTA CRUISER"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1971,delta+88,7.5l+455cid+v8,1213658", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1971, "model": "DELTA 88"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1973,delta+88,5.7l+350cid+v8,1213748", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1973, "model": "DELTA 88"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1973,vista+cruiser,7.5l+455cid+v8,1226269", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1973, "model": "VISTA CRUISER"}}}

@@ -1,4 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/vauxhall,1961,victor", "payload": {"nodetype": "model", "ctx": {"make": "VAUXHALL", "year": 1961, "model": "VICTOR"}}}
 {"node_type": "model", "href": "/en/catalog/vauxhall,1962,victor", "payload": {"nodetype": "model", "ctx": {"make": "VAUXHALL", "year": 1962, "model": "VICTOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/vauxhall,1963,victor,1.5l+l4,1491604", "payload": {"nodetype": "carcode", "ctx": {"make": "VAUXHALL", "year": 1963, "model": "VICTOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/vauxhall,1960,victor,1.5l+l4,1489861", "payload": {"nodetype": "carcode", "ctx": {"make": "VAUXHALL", "year": 1960, "model": "VICTOR"}}}

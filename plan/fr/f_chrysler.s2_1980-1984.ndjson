@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/chrysler,1980,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1980, "model": "NEWPORT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1984,e+class", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1984, "model": "E CLASS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1982,new+yorker,3.7l+225cid+l6,1065732", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1982, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1981,lebaron,5.2l+318cid+v8,1064472", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1981, "model": "LEBARON"}}}

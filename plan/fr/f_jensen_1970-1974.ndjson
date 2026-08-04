@@ -1,9 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/jensen,1970,interceptor", "payload": {"nodetype": "model", "ctx": {"make": "JENSEN", "year": 1970, "model": "INTERCEPTOR"}}}
 {"node_type": "model", "href": "/en/catalog/jensen,1974,healey", "payload": {"nodetype": "model", "ctx": {"make": "JENSEN", "year": 1974, "model": "HEALEY"}}}
-{"node_type": "carcode", "href": "/en/catalog/jensen,1972,interceptor,7.2l+v8,1498431", "payload": {"nodetype": "carcode", "ctx": {"make": "JENSEN", "year": 1972, "model": "INTERCEPTOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/jensen,1974,interceptor,7.2l+v8,1312533", "payload": {"nodetype": "carcode", "ctx": {"make": "JENSEN", "year": 1974, "model": "INTERCEPTOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/jensen,1973,interceptor,7.2l+v8,1312513", "payload": {"nodetype": "carcode", "ctx": {"make": "JENSEN", "year": 1973, "model": "INTERCEPTOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/jensen,1972,healey,2.0l+l4,1312363", "payload": {"nodetype": "carcode", "ctx": {"make": "JENSEN", "year": 1972, "model": "HEALEY"}}}
-{"node_type": "carcode", "href": "/en/catalog/jensen,1973,healey,2.0l+l4,1312373", "payload": {"nodetype": "carcode", "ctx": {"make": "JENSEN", "year": 1973, "model": "HEALEY"}}}
-{"node_type": "carcode", "href": "/en/catalog/jensen,1972,interceptor,6.3l+v8,1312493", "payload": {"nodetype": "carcode", "ctx": {"make": "JENSEN", "year": 1972, "model": "INTERCEPTOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/jensen,1971,interceptor,6.3l+v8,1312473", "payload": {"nodetype": "carcode", "ctx": {"make": "JENSEN", "year": 1971, "model": "INTERCEPTOR"}}}

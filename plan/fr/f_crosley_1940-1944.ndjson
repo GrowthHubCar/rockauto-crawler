@@ -1,3 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/crosley,1940,crosley", "payload": {"nodetype": "model", "ctx": {"make": "CROSLEY", "year": 1940, "model": "CROSLEY"}}}
 {"node_type": "model", "href": "/en/catalog/crosley,1942,crosley", "payload": {"nodetype": "model", "ctx": {"make": "CROSLEY", "year": 1942, "model": "CROSLEY"}}}
-{"node_type": "carcode", "href": "/en/catalog/crosley,1941,crosley,579cc+35cid+l2,1486105", "payload": {"nodetype": "carcode", "ctx": {"make": "CROSLEY", "year": 1941, "model": "CROSLEY"}}}

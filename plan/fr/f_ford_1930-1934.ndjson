@@ -1,16 +1,4 @@
 {"node_type": "model", "href": "/en/catalog/ford,1930,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1930, "model": "SEDAN DELIVERY"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1931,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1931, "model": "SEDAN DELIVERY"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1934,model+40+a", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1934, "model": "MODEL 40 A"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1932,model+b,3.3l+200cid+l4,952495", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1932, "model": "MODEL B"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1932,model+18,3.6l+221cid+v8,952494", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1932, "model": "MODEL 18"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1930,model+aa,3.3l+200cid+l4,1485460", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1930, "model": "MODEL AA"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1934,model+bb,3.3l+200cid+l4,1485620", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1934, "model": "MODEL BB"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1933,model+40,3.6l+221cid+v8,1485576", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1933, "model": "MODEL 40"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1934,model+40+a,3.6l+221cid+v8,1485619", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1934, "model": "MODEL 40 A"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1932,sedan+delivery,3.3l+200cid+l4,1485537", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1932, "model": "SEDAN DELIVERY"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1932,model+bb,3.3l+200cid+l4,1485536", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1932, "model": "MODEL BB"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1930,model+a,3.3l+200cid+l4,1485459", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1930, "model": "MODEL A"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1931,model+aa,3.3l+200cid+l4,1485495", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1931, "model": "MODEL AA"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1931,model+a,3.3l+200cid+l4,1485494", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1931, "model": "MODEL A"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1933,model+46,3.3l+200cid+l4,1485577", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1933, "model": "MODEL 46"}}}
 {"node_type": "carcode", "href": "/en/catalog/ford,1933,sedan+delivery,3.3l+200cid+l4,1485579", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1933, "model": "SEDAN DELIVERY"}}}

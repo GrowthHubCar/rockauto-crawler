@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2025,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2025, "model": "SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2026,express+3500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2026, "model": "EXPRESS 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2025,corvette,6.2l+v8+electric/gas,3455780", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2025, "model": "CORVETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2026,blazer,2.0l+l4+turbocharged,3459301", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2026, "model": "BLAZER"}}}

@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2009,suburban+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "SUBURBAN 1500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2005,cheyenne", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "CHEYENNE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,silverado+3500,8.1l+v8,1432492", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "SILVERADO 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,trailblazer,6.0l+v8,1432871", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "TRAILBLAZER"}}}

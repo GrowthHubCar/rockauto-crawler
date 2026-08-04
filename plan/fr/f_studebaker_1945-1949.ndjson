@@ -19,13 +19,4 @@
 {"node_type": "model", "href": "/en/catalog/studebaker,1949,2r16", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1949, "model": "2R16"}}}
 {"node_type": "model", "href": "/en/catalog/studebaker,1949,2r11", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1949, "model": "2R11"}}}
 {"node_type": "model", "href": "/en/catalog/studebaker,1949,2r10", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1949, "model": "2R10"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1948,commander,3.7l+226cid+l6,1486888", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1948, "model": "COMMANDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1946,champion,2.8l+170cid+l6,1486546", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1946, "model": "CHAMPION"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1947,commander,3.7l+226cid+l6,1486714", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1947, "model": "COMMANDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1946,m5,2.8l+170cid+l6,1486549", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1946, "model": "M5"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1949,2r6,4.0l+246cid+l6,1487101", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1949, "model": "2R6"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1949,2r5,2.8l+170cid+l6,1487099", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1949, "model": "2R5"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1949,commander,4.0l+246cid+l6,1487102", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1949, "model": "COMMANDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1949,2r17,4.0l+246cid+l6,1487097", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1949, "model": "2R17"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1949,2r11,4.0l+246cid+l6,1487094", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1949, "model": "2R11"}}}
 {"node_type": "carcode", "href": "/en/catalog/studebaker,1947,champion,2.8l+170cid+l6,124654", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1947, "model": "CHAMPION"}}}

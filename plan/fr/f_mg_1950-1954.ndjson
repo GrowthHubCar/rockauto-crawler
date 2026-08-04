@@ -9,6 +9,3 @@
 {"node_type": "model", "href": "/en/catalog/mg,1952,tdc", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1952, "model": "TDC"}}}
 {"node_type": "model", "href": "/en/catalog/mg,1953,tdc", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1953, "model": "TDC"}}}
 {"node_type": "model", "href": "/en/catalog/mg,1954,tf", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1954, "model": "TF"}}}
-{"node_type": "carcode", "href": "/en/catalog/mg,1950,td,1.3l+l4,1395299", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1950, "model": "TD"}}}
-{"node_type": "carcode", "href": "/en/catalog/mg,1954,za,1.5l+l4,1395491", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1954, "model": "ZA"}}}
-{"node_type": "carcode", "href": "/en/catalog/mg,1950,yt,1.3l+l4,1395480", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1950, "model": "YT"}}}

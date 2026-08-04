@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/ram,2016,promaster+2500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2016, "model": "PROMASTER 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2016,promaster+1500,3.0l+l4+diesel+turbocharged,3351804", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2016, "model": "PROMASTER 1500"}}}

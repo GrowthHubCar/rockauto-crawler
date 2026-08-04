@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/toyota,1967,pickup", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1967, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,1965,crown,2.3l+l6,2490", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1965, "model": "CROWN"}}}

@@ -4,5 +4,3 @@
 {"node_type": "model", "href": "/en/catalog/lincoln,1933,model+kb", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1933, "model": "MODEL KB"}}}
 {"node_type": "model", "href": "/en/catalog/lincoln,1932,model+ka", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1932, "model": "MODEL KA"}}}
 {"node_type": "model", "href": "/en/catalog/lincoln,1933,model+ka", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1933, "model": "MODEL KA"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1934,model+kb,6.8l+414cid+v12,952682", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1934, "model": "MODEL KB"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1934,model+ka,6.8l+414cid+v12,952681", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1934, "model": "MODEL KA"}}}

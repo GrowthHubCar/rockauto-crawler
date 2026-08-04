@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volvo,2025,ex40", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2025, "model": "EX40"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,2026,xc90,2.0l+l4+turbocharged,3459543", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 2026, "model": "XC90"}}}

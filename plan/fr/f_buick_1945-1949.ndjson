@@ -3,10 +3,3 @@
 {"node_type": "model", "href": "/en/catalog/buick,1946,special+series+40", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1946, "model": "SPECIAL SERIES 40"}}}
 {"node_type": "model", "href": "/en/catalog/buick,1948,special+series+40", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1948, "model": "SPECIAL SERIES 40"}}}
 {"node_type": "model", "href": "/en/catalog/buick,1949,special+series+40", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1949, "model": "SPECIAL SERIES 40"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1947,super+series+50,4.1l+248cid+l8,1440571", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1947, "model": "SUPER SERIES 50"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1946,super+series+50,4.1l+248cid+l8,1440573", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1946, "model": "SUPER SERIES 50"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1949,roadmaster+series+70,5.2l+320cid+l8,1440563", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1949, "model": "ROADMASTER SERIES 70"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1946,roadmaster+series+70,5.2l+320cid+l8,1440566", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1946, "model": "ROADMASTER SERIES 70"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1949,super+series+50,4.1l+248cid+l8,1440567", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1949, "model": "SUPER SERIES 50"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1947,special+series+40,4.1l+248cid+l8,1440572", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1947, "model": "SPECIAL SERIES 40"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1948,super+series+50,4.1l+248cid+l8,1440569", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1948, "model": "SUPER SERIES 50"}}}

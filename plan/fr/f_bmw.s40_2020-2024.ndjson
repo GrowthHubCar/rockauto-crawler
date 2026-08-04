@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2024,m2", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "M2"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2022,750li,4.4l+v8+turbocharged,3450451", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2022, "model": "750LI"}}}

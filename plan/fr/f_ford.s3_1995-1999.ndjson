@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/ford,1998,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "RANGER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,f53", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "F53"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,mystique", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "MYSTIQUE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "F-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,f-700", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "F-700"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,econoline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "ECONOLINE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,escort", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "ESCORT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,aspire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "ASPIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1998,econoline+super+duty,6.8l+v10,1385085", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1998, "model": "ECONOLINE SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1997,f-150,4.9l+l6,951414", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1997, "model": "F-150"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1999,ranger,2.5l+l4,1354755", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1999, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1995,f-350,4.9l+l6,1126897", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1995, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1995,f-800,5.9l+l6+diesel+turbocharged,3294912", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1995, "model": "F-800"}}}

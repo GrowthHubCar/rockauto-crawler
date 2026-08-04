@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2013,tacoma", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2013, "model": "TACOMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2014,prius+plug-in,1.8l+l4+electric/gas,3435543", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2014, "model": "PRIUS PLUG-IN"}}}

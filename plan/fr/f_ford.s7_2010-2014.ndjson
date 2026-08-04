@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/ford,2011,fusion", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "FUSION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,fiesta", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "FIESTA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,f-350+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,edge", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "EDGE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,explorer+sport+trac", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "EXPLORER SPORT TRAC"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2012,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "E-150"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2010,taurus,3.5l+v6,1444690", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2010, "model": "TAURUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2014,f53,6.8l+v10,3305862", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2014, "model": "F53"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2014,ranger,2.5l+l4,3308786", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2014, "model": "RANGER"}}}

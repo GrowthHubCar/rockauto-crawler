@@ -10,5 +10,3 @@
 {"node_type": "model", "href": "/en/catalog/jaguar,1952,c-type", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1952, "model": "C-TYPE"}}}
 {"node_type": "model", "href": "/en/catalog/jaguar,1953,c-type", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1953, "model": "C-TYPE"}}}
 {"node_type": "model", "href": "/en/catalog/jaguar,1954,d-type", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1954, "model": "D-TYPE"}}}
-{"node_type": "carcode", "href": "/en/catalog/jaguar,1951,mark+vii,3.4l+l6,1392915", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1951, "model": "MARK VII"}}}
-{"node_type": "carcode", "href": "/en/catalog/jaguar,1953,xk120,3.4l+l6,1393118", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1953, "model": "XK120"}}}

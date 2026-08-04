@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2005,cl500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2005, "model": "CL500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2006,slk350,3.5l+v6,1432290", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2006, "model": "SLK350"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2007,cls550,5.5l+v8,1438336", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2007, "model": "CLS550"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2009,ml320,3.0l+v6+diesel+turbocharged,1444193", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2009, "model": "ML320"}}}

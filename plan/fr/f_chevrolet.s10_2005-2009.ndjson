@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2009,silverado+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "SILVERADO 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,equinox,3.4l+v6,1441013", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "EQUINOX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,silverado+1500,4.8l+v8,1432411", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,tiltmaster,6.0l+v8,3294718", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "TILTMASTER"}}}

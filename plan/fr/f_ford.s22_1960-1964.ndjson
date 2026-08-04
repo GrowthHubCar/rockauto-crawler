@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/ford,1964,ranchero", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1964, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1961,falcon+sedan+delivery,2.4l+144cid+l6,1336137", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1961, "model": "FALCON SEDAN DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1962,thunderbird,6.6l+406cid+v8,1490560", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1962, "model": "THUNDERBIRD"}}}

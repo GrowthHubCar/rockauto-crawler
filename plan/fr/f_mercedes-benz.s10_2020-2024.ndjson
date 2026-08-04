@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2023,s580", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "S580"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2023,g550", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "G550"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2024,c63+amg,2.0l+l4+electric/gas+turbocharged,3455844", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2024, "model": "C63 AMG"}}}

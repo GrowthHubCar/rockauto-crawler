@@ -18,5 +18,3 @@
 {"node_type": "model", "href": "/en/catalog/fiat,1953,600", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1953, "model": "600"}}}
 {"node_type": "model", "href": "/en/catalog/fiat,1954,600", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1954, "model": "600"}}}
 {"node_type": "model", "href": "/en/catalog/fiat,1954,1900", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1954, "model": "1900"}}}
-{"node_type": "carcode", "href": "/en/catalog/fiat,1953,1900,1.9l+l4,1436399", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1953, "model": "1900"}}}
-{"node_type": "carcode", "href": "/en/catalog/fiat,1953,8v,2.0l+v8,1436405", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1953, "model": "8V"}}}

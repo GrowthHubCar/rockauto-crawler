@@ -14,5 +14,3 @@
 {"node_type": "model", "href": "/en/catalog/tvr,1972,1300", "payload": {"nodetype": "model", "ctx": {"make": "TVR", "year": 1972, "model": "1300"}}}
 {"node_type": "model", "href": "/en/catalog/tvr,1973,1300", "payload": {"nodetype": "model", "ctx": {"make": "TVR", "year": 1973, "model": "1300"}}}
 {"node_type": "model", "href": "/en/catalog/tvr,1974,1300", "payload": {"nodetype": "model", "ctx": {"make": "TVR", "year": 1974, "model": "1300"}}}
-{"node_type": "carcode", "href": "/en/catalog/tvr,1971,tuscan,3.0l+v6,1437419", "payload": {"nodetype": "carcode", "ctx": {"make": "TVR", "year": 1971, "model": "TUSCAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/tvr,1973,3000m,5.0l+v8,1499736", "payload": {"nodetype": "carcode", "ctx": {"make": "TVR", "year": 1973, "model": "3000M"}}}

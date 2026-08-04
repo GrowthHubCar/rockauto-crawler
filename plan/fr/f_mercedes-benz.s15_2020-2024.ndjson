@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2021,metris", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2021, "model": "METRIS"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2022,eqb+350", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "EQB 350"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2023,sprinter+3500,2.0l+l4+diesel+turbocharged,3454511", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "SPRINTER 3500"}}}

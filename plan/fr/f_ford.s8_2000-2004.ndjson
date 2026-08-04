@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/ford,2000,windstar", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2000, "model": "WINDSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2000,focus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2000, "model": "FOCUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2000,grand+marquis", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2000, "model": "GRAND MARQUIS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2000,f-250+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2000, "model": "F-250 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2003,e-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2003, "model": "E-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2003,explorer+sport", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2003, "model": "EXPLORER SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2000,expedition,4.6l+v8,1440635", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2000, "model": "EXPEDITION"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2004,freestar,4.2l+v6,1422762", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2004, "model": "FREESTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2003,f-750,7.2l+l6+diesel+turbocharged,3297907", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2003, "model": "F-750"}}}

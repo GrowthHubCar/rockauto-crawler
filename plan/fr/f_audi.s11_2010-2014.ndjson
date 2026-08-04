@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/audi,2014,r8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2014, "model": "R8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2014,a4,1.8l+l4+turbocharged,3307107", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2014, "model": "A4"}}}

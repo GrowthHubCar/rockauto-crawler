@@ -5,9 +5,3 @@
 {"node_type": "model", "href": "/en/catalog/cupra,2023,formentor", "payload": {"nodetype": "model", "ctx": {"make": "CUPRA", "year": 2023, "model": "FORMENTOR"}}}
 {"node_type": "model", "href": "/en/catalog/cupra,2024,formentor", "payload": {"nodetype": "model", "ctx": {"make": "CUPRA", "year": 2024, "model": "FORMENTOR"}}}
 {"node_type": "model", "href": "/en/catalog/cupra,2024,cupra", "payload": {"nodetype": "model", "ctx": {"make": "CUPRA", "year": 2024, "model": "CUPRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/cupra,2022,ateca,2.0l+l4+turbocharged,3453508", "payload": {"nodetype": "carcode", "ctx": {"make": "CUPRA", "year": 2022, "model": "ATECA"}}}
-{"node_type": "carcode", "href": "/en/catalog/cupra,2020,ateca,2.0l+l4+turbocharged,3453506", "payload": {"nodetype": "carcode", "ctx": {"make": "CUPRA", "year": 2020, "model": "ATECA"}}}
-{"node_type": "carcode", "href": "/en/catalog/cupra,2022,leon,2.0l+l4+turbocharged,3453514", "payload": {"nodetype": "carcode", "ctx": {"make": "CUPRA", "year": 2022, "model": "LEON"}}}
-{"node_type": "carcode", "href": "/en/catalog/cupra,2020,leon,2.0l+l4+turbocharged,3453512", "payload": {"nodetype": "carcode", "ctx": {"make": "CUPRA", "year": 2020, "model": "LEON"}}}
-{"node_type": "carcode", "href": "/en/catalog/cupra,2022,formentor,2.0l+l4+turbocharged,3453510", "payload": {"nodetype": "carcode", "ctx": {"make": "CUPRA", "year": 2022, "model": "FORMENTOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/cupra,2023,leon,2.0l+l4+turbocharged,3453515", "payload": {"nodetype": "carcode", "ctx": {"make": "CUPRA", "year": 2023, "model": "LEON"}}}

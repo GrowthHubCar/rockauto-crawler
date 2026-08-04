@@ -11,12 +11,6 @@
 {"node_type": "model", "href": "/en/catalog/cadillac,1950,commercial+chassis", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1950, "model": "COMMERCIAL CHASSIS"}}}
 {"node_type": "model", "href": "/en/catalog/cadillac,1953,commercial+chassis", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1953, "model": "COMMERCIAL CHASSIS"}}}
 {"node_type": "carcode", "href": "/en/catalog/cadillac,1951,commercial+chassis,5.4l+331cid+v8,1487264", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1951, "model": "COMMERCIAL CHASSIS"}}}
-{"node_type": "carcode", "href": "/en/catalog/cadillac,1954,series+62,5.4l+331cid+v8,1320837", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1954, "model": "SERIES 62"}}}
 {"node_type": "carcode", "href": "/en/catalog/cadillac,1954,commercial+chassis,5.4l+331cid+v8,1487752", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1954, "model": "COMMERCIAL CHASSIS"}}}
-{"node_type": "carcode", "href": "/en/catalog/cadillac,1950,series+61,5.4l+331cid+v8,1320972", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1950, "model": "SERIES 61"}}}
 {"node_type": "carcode", "href": "/en/catalog/cadillac,1950,series+62,5.4l+331cid+v8,1435740", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1950, "model": "SERIES 62"}}}
-{"node_type": "carcode", "href": "/en/catalog/cadillac,1952,series+75+fleetwood,5.4l+331cid+v8,1320927", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1952, "model": "SERIES 75 FLEETWOOD"}}}
-{"node_type": "carcode", "href": "/en/catalog/cadillac,1954,series+75+fleetwood,5.4l+331cid+v8,1320848", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1954, "model": "SERIES 75 FLEETWOOD"}}}
-{"node_type": "carcode", "href": "/en/catalog/cadillac,1953,series+75+fleetwood,5.4l+331cid+v8,1320893", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1953, "model": "SERIES 75 FLEETWOOD"}}}
-{"node_type": "carcode", "href": "/en/catalog/cadillac,1950,series+75+fleetwood,5.4l+331cid+v8,1320983", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1950, "model": "SERIES 75 FLEETWOOD"}}}
 {"node_type": "carcode", "href": "/en/catalog/cadillac,1952,commercial+chassis,5.4l+331cid+v8,1487414", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1952, "model": "COMMERCIAL CHASSIS"}}}

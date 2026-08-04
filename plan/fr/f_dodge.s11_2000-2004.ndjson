@@ -1,0 +1,4 @@
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+4000,5.9l+v8,3444056", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 4000"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,neon,2.0l+l4,1432877", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "NEON"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,stratus,2.5l+v6,1362147", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,ram+3500+pickup,5.9l+v8,1362079", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "RAM 3500 PICKUP"}}}

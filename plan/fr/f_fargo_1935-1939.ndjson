@@ -9,4 +9,3 @@
 {"node_type": "model", "href": "/en/catalog/fargo,1938,fg1+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1938, "model": "FG1 PANEL DELIVERY"}}}
 {"node_type": "model", "href": "/en/catalog/fargo,1939,fh1+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1939, "model": "FH1 PICKUP"}}}
 {"node_type": "model", "href": "/en/catalog/fargo,1939,fh1+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1939, "model": "FH1 PANEL DELIVERY"}}}
-{"node_type": "carcode", "href": "/en/catalog/fargo,1939,fh2+pickup,3.6l+218cid+l6,1485923", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1939, "model": "FH2 PICKUP"}}}

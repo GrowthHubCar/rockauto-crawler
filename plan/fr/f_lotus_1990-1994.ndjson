@@ -1,9 +1,4 @@
 {"node_type": "model", "href": "/en/catalog/lotus,1990,esprit", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1990, "model": "ESPRIT"}}}
 {"node_type": "model", "href": "/en/catalog/lotus,1994,esprit", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1994, "model": "ESPRIT"}}}
 {"node_type": "model", "href": "/en/catalog/lotus,1990,elan", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 1990, "model": "ELAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/lotus,1992,elan,1.6l+l4+turbocharged,1430244", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1992, "model": "ELAN"}}}
 {"node_type": "carcode", "href": "/en/catalog/lotus,1992,elan,1.6l+l4,1189087", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1992, "model": "ELAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/lotus,1993,esprit,2.2l+l4+turbocharged,1433110", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1993, "model": "ESPRIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/lotus,1992,esprit,2.2l+l4+turbocharged,1394164", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1992, "model": "ESPRIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/lotus,1991,elan,1.6l+l4+turbocharged,1189076", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1991, "model": "ELAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/lotus,1991,esprit,2.2l+l4+turbocharged,1433111", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 1991, "model": "ESPRIT"}}}

@@ -11,4 +11,3 @@
 {"node_type": "model", "href": "/en/catalog/iso,1968,s4+fidia", "payload": {"nodetype": "model", "ctx": {"make": "ISO", "year": 1968, "model": "S4 FIDIA"}}}
 {"node_type": "model", "href": "/en/catalog/iso,1969,s4+fidia", "payload": {"nodetype": "model", "ctx": {"make": "ISO", "year": 1969, "model": "S4 FIDIA"}}}
 {"node_type": "model", "href": "/en/catalog/iso,1969,lele", "payload": {"nodetype": "model", "ctx": {"make": "ISO", "year": 1969, "model": "LELE"}}}
-{"node_type": "carcode", "href": "/en/catalog/iso,1965,rivolta,5.3l+v8,1439870", "payload": {"nodetype": "carcode", "ctx": {"make": "ISO", "year": 1965, "model": "RIVOLTA"}}}

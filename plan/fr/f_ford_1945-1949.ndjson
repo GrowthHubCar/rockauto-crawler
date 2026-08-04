@@ -42,40 +42,9 @@
 {"node_type": "model", "href": "/en/catalog/ford,1948,b6", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1948, "model": "B6"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1948,b5", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1948, "model": "B5"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1949,custom", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1949, "model": "CUSTOM"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1949,f2,4.2l+255cid+v8,1486992", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1949, "model": "F2"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1946,sedan+delivery,3.9l+239cid+v8,1486494", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1946, "model": "SEDAN DELIVERY"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1949,ford,3.9l+239cid+v8,1339815", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1949, "model": "FORD"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1948,super+deluxe,3.7l+226cid+l6,1339860", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1948, "model": "SUPER DELUXE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1946,super+deluxe,3.9l+239cid+v8,1339950", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1946, "model": "SUPER DELUXE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1949,f3,3.9l+239cid+v8,1486994", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1949, "model": "F3"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1948,f1,3.9l+239cid+v8,1486796", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1948, "model": "F1"}}}
 {"node_type": "carcode", "href": "/en/catalog/ford,1949,f1,4.2l+255cid+v8,1486989", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1949, "model": "F1"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1949,deluxe,3.9l+239cid+v8,1339770", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1949, "model": "DELUXE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1948,super+deluxe,3.9l+239cid+v8,1339871", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1948, "model": "SUPER DELUXE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1949,f4,3.9l+239cid+v8,1486997", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1949, "model": "F4"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1946,1+ton+pickup,3.9l+239cid+v8,1486482", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1946, "model": "1 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1947,super+deluxe,3.7l+226cid+l6,1339905", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1947, "model": "SUPER DELUXE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1949,taunus,1.2l+72cid+l4,1487001", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1949, "model": "TAUNUS"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1946,super+deluxe,3.7l+226cid+l6,1339949", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1946, "model": "SUPER DELUXE"}}}
 {"node_type": "carcode", "href": "/en/catalog/ford,1948,f1,4.2l+255cid+v8,1486797", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1948, "model": "F1"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1949,f4,3.7l+226cid+l6,1486996", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1949, "model": "F4"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1948,deluxe,3.7l+226cid+l6,1339826", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1948, "model": "DELUXE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1946,1/2+ton+pickup,3.9l+239cid+v8,1486485", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1946, "model": "1/2 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1949,f7,all+engines,124306", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1949, "model": "F7"}}}
 {"node_type": "carcode", "href": "/en/catalog/ford,1949,f3,4.2l+255cid+v8,1486995", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1949, "model": "F3"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1946,3/4+ton+pickup,3.9l+239cid+v8,1486488", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1946, "model": "3/4 TON PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/ford,1948,f4,4.2l+255cid+v8,1486806", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1948, "model": "F4"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1948,f1,3.7l+226cid+l6,1486795", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1948, "model": "F1"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1946,deluxe,3.9l+239cid+v8,1339938", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1946, "model": "DELUXE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1948,f4,3.9l+239cid+v8,1486805", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1948, "model": "F4"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1949,f1,3.7l+226cid+l6,1486987", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1949, "model": "F1"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1948,f4,3.7l+226cid+l6,1486804", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1948, "model": "F4"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1949,custom,3.9l+239cid+v8,1441668", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1949, "model": "CUSTOM"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1947,super+deluxe,3.9l+239cid+v8,1339916", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1947, "model": "SUPER DELUXE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1948,f3,3.9l+239cid+v8,1486802", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1948, "model": "F3"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1948,f3,3.7l+226cid+l6,1486801", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1948, "model": "F3"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1948,f2,4.2l+255cid+v8,1486800", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1948, "model": "F2"}}}
 {"node_type": "carcode", "href": "/en/catalog/ford,1949,f4,4.2l+255cid+v8,1486998", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1949, "model": "F4"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1948,f8,all+engines,124307", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1948, "model": "F8"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1947,1/2+ton+pickup,3.9l+239cid+v8,1486617", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1947, "model": "1/2 TON PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/ford,1948,f3,4.2l+255cid+v8,1486803", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1948, "model": "F3"}}}

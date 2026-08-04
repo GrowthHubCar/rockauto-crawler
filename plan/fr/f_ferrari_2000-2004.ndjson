@@ -1,21 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/ferrari,2003,360", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2003, "model": "360"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2004,456+m,5.5l+v12,1424810", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2004, "model": "456 M"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2001,f355,3.5l+v8,2002549", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2001, "model": "F355"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2002,360,3.6l+v8,1384916", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2002, "model": "360"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2004,575+m+maranello,5.7l+v12,1424832", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2004, "model": "575 M MARANELLO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2001,550+maranello,5.5l+v12,1372193", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2001, "model": "550 MARANELLO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2003,575+m+maranello,5.7l+v12,1410062", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2003, "model": "575 M MARANELLO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2004,360,3.6l+v8,1424797", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2004, "model": "360"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2000,456+m,5.5l+v12,1362181", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2000, "model": "456 M"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2001,456+m,5.5l+v12,1372182", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2001, "model": "456 M"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2003,enzo,6.0l+v12,1413841", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2003, "model": "ENZO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2001,360,3.6l+v8,1372160", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2001, "model": "360"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2000,360,3.6l+v8,1362170", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2000, "model": "360"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2002,456+m,5.5l+v12,1384949", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2002, "model": "456 M"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2003,456+m,5.5l+v12,1413829", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2003, "model": "456 M"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2002,575+m+maranello,5.7l+v12,1438470", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2002, "model": "575 M MARANELLO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2000,f355,3.5l+v8,1362204", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2000, "model": "F355"}}}
 {"node_type": "carcode", "href": "/en/catalog/ferrari,2003,550+maranello,5.5l+v12,951366", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2003, "model": "550 MARANELLO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2004,enzo,6.0l+v12,1424843", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2004, "model": "ENZO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2002,550+maranello,5.5l+v12,1384961", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2002, "model": "550 MARANELLO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2000,550+maranello,5.5l+v12,1362192", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2000, "model": "550 MARANELLO"}}}

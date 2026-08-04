@@ -1,4 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/lotus,2025,emira", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 2025, "model": "EMIRA"}}}
 {"node_type": "model", "href": "/en/catalog/lotus,2025,eletre", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 2025, "model": "ELETRE"}}}
-{"node_type": "carcode", "href": "/en/catalog/lotus,2026,emira,3.5l+v6+supercharged,3459146", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 2026, "model": "EMIRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/lotus,2026,eletre,electric,3458679", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 2026, "model": "ELETRE"}}}

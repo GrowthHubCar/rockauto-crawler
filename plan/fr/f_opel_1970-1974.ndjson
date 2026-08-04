@@ -9,12 +9,4 @@
 {"node_type": "model", "href": "/en/catalog/opel,1970,gt", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1970, "model": "GT"}}}
 {"node_type": "model", "href": "/en/catalog/opel,1971,gt", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1971, "model": "GT"}}}
 {"node_type": "model", "href": "/en/catalog/opel,1971,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1971, "model": "DELUXE"}}}
-{"node_type": "carcode", "href": "/en/catalog/opel,1972,gt,1.1l+l4,2002810", "payload": {"nodetype": "carcode", "ctx": {"make": "OPEL", "year": 1972, "model": "GT"}}}
-{"node_type": "carcode", "href": "/en/catalog/opel,1973,manta,1.9l+l4,1226461", "payload": {"nodetype": "carcode", "ctx": {"make": "OPEL", "year": 1973, "model": "MANTA"}}}
-{"node_type": "carcode", "href": "/en/catalog/opel,1972,gt,1.9l+l4,3031284", "payload": {"nodetype": "carcode", "ctx": {"make": "OPEL", "year": 1972, "model": "GT"}}}
-{"node_type": "carcode", "href": "/en/catalog/opel,1973,gt,1.9l+l4,3031285", "payload": {"nodetype": "carcode", "ctx": {"make": "OPEL", "year": 1973, "model": "GT"}}}
-{"node_type": "carcode", "href": "/en/catalog/opel,1972,manta,1.9l+l4,1406124", "payload": {"nodetype": "carcode", "ctx": {"make": "OPEL", "year": 1972, "model": "MANTA"}}}
 {"node_type": "carcode", "href": "/en/catalog/opel,1971,1900,1.9l+l4,1226359", "payload": {"nodetype": "carcode", "ctx": {"make": "OPEL", "year": 1971, "model": "1900"}}}
-{"node_type": "carcode", "href": "/en/catalog/opel,1971,kadett,1.9l+l4,1497454", "payload": {"nodetype": "carcode", "ctx": {"make": "OPEL", "year": 1971, "model": "KADETT"}}}
-{"node_type": "carcode", "href": "/en/catalog/opel,1972,kadett,1.1l+l4,1378122", "payload": {"nodetype": "carcode", "ctx": {"make": "OPEL", "year": 1972, "model": "KADETT"}}}
-{"node_type": "carcode", "href": "/en/catalog/opel,1974,manta,1.9l+l4,1226472", "payload": {"nodetype": "carcode", "ctx": {"make": "OPEL", "year": 1974, "model": "MANTA"}}}

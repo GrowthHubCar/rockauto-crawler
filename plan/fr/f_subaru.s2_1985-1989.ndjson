@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/subaru,1988,gl", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1988, "model": "GL"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,1987,standard", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1987, "model": "STANDARD"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,1986,xt", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1986, "model": "XT"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,1986,rx", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1986, "model": "RX"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,1988,1600+dl", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1988, "model": "1600 DL"}}}

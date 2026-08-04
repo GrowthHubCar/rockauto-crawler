@@ -2,10 +2,7 @@
 {"node_type": "model", "href": "/en/catalog/lincoln,1940,series+k", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1940, "model": "SERIES K"}}}
 {"node_type": "model", "href": "/en/catalog/lincoln,1941,custom", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1941, "model": "CUSTOM"}}}
 {"node_type": "model", "href": "/en/catalog/lincoln,1942,custom", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1942, "model": "CUSTOM"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1940,zephyr,4.8l+292cid+v12,1486048", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1940, "model": "ZEPHYR"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1942,zephyr,5.0l+305cid+v12,1486283", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1942, "model": "ZEPHYR"}}}
 {"node_type": "carcode", "href": "/en/catalog/lincoln,1942,continental,5.0l+305cid+v12,1486279", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1942, "model": "CONTINENTAL"}}}
 {"node_type": "carcode", "href": "/en/catalog/lincoln,1940,continental,4.8l+292cid+v12,952992", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1940, "model": "CONTINENTAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1941,zephyr,4.8l+292cid+v12,953037", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1941, "model": "ZEPHYR"}}}
 {"node_type": "carcode", "href": "/en/catalog/lincoln,1941,continental,4.8l+292cid+v12,124514", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1941, "model": "CONTINENTAL"}}}
 {"node_type": "carcode", "href": "/en/catalog/lincoln,1942,continental,4.8l+292cid+v12,1486278", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1942, "model": "CONTINENTAL"}}}

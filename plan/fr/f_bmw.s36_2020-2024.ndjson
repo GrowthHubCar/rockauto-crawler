@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2020,228i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2020, "model": "228I"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2020,z4,3.0l+l6+turbocharged,3444202", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2020, "model": "Z4"}}}

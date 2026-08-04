@@ -2,12 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/pontiac,1936,deluxe+series+silver+streak", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1936, "model": "DELUXE SERIES SILVER STREAK"}}}
 {"node_type": "model", "href": "/en/catalog/pontiac,1938,deluxe+model+6da", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1938, "model": "DELUXE MODEL 6DA"}}}
 {"node_type": "model", "href": "/en/catalog/pontiac,1939,deluxe+series+28", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1939, "model": "DELUXE SERIES 28"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1939,special+series+25,223cid+l6,2002394", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1939, "model": "SPECIAL SERIES 25"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1936,deluxe+series+silver+streak,3.8l+232cid+l8,1485741", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1936, "model": "DELUXE SERIES SILVER STREAK"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1935,series+701,3.6l+223cid+l6,3310100", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1935, "model": "SERIES 701"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1937,deluxe+model+6ca,3.6l+223cid+l6,1485813", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1937, "model": "DELUXE MODEL 6CA"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1935,series+605,3.6l+223cid+l8,1485678", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1935, "model": "SERIES 605"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1938,deluxe+model+8da,4.1l+249cid+l8,1485890", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1938, "model": "DELUXE MODEL 8DA"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1935,series+701,3.4l+208cid+l6,2002167", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1935, "model": "SERIES 701"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1937,deluxe+model+8ca,4.1l+249cid+l8,1485814", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1937, "model": "DELUXE MODEL 8CA"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1939,deluxe+series+26,3.6l+223cid+l6,2002393", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1939, "model": "DELUXE SERIES 26"}}}

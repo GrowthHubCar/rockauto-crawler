@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/gmc,1986,p3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1986, "model": "P3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1986,p2500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1986, "model": "P2500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1989,r2500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "R2500 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1987,topkick,7.0l+427cid+v8,3295572", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1987, "model": "TOPKICK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1987,v1500+suburban,5.7l+350cid+v8,1300992", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1987, "model": "V1500 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1985,medium+duty+truck,7.0l+427cid+v8,3295150", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1985, "model": "MEDIUM DUTY TRUCK"}}}

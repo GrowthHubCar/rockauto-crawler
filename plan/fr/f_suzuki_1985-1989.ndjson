@@ -1,17 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/suzuki,1987,forsa", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 1987, "model": "FORSA"}}}
 {"node_type": "model", "href": "/en/catalog/suzuki,1988,forsa", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 1988, "model": "FORSA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,1988,forsa,993cc+l3,1270987", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1988, "model": "FORSA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,1987,samurai,1.3l+l4,1271135", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1987, "model": "SAMURAI"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,1989,samurai,1.3l+l4,1271168", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1989, "model": "SAMURAI"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,1989,sidekick,1.6l+l4,1271269", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1989, "model": "SIDEKICK"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,1985,sa310,993cc+l3,1271089", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1985, "model": "SA310"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,1986,forsa,993cc+l3,1270921", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1986, "model": "FORSA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,1987,forsa,993cc+l3+turbocharged,1270954", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1987, "model": "FORSA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,1985,sj413,1.3l+l4,1271719", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1985, "model": "SJ413"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,1989,swift,1.3l+l4+sohc,1271720", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1989, "model": "SWIFT"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,1986,samurai,1.3l+l4,1271102", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1986, "model": "SAMURAI"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,1989,sidekick,1.3l+l4,1271258", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1989, "model": "SIDEKICK"}}}
 {"node_type": "carcode", "href": "/en/catalog/suzuki,1985,samurai,1.3l+l4,1271090", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1985, "model": "SAMURAI"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,1985,forsa,993cc+l3,1270910", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1985, "model": "FORSA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,1989,swift,1.3l+l4+dohc,1271731", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1989, "model": "SWIFT"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,1988,samurai,1.3l+l4,1271146", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1988, "model": "SAMURAI"}}}

@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/ford,2000,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2000, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2004,f-650", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2004, "model": "F-650"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2000,mystique", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2000, "model": "MYSTIQUE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2004,freestar", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2004, "model": "FREESTAR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2000,expedition", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2000, "model": "EXPEDITION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2003,courier", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2003, "model": "COURIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2002,econoline,5.4l+v8,2002569", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2002, "model": "ECONOLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2003,mondeo,2.5l+v6,951466", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2003, "model": "MONDEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2004,f-750,7.2l+l6+diesel+turbocharged,3297911", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2004, "model": "F-750"}}}

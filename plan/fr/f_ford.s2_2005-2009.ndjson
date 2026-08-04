@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/ford,2008,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2008, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,ka", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "KA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,expedition", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "EXPEDITION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,excursion", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "EXCURSION"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,gt,5.4l+v8+supercharged,1432930", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "GT"}}}

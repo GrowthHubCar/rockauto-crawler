@@ -12,6 +12,3 @@
 {"node_type": "model", "href": "/en/catalog/baic,2023,x55", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2023, "model": "X55"}}}
 {"node_type": "model", "href": "/en/catalog/baic,2024,x55", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2024, "model": "X55"}}}
 {"node_type": "model", "href": "/en/catalog/baic,2024,u5+plus", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2024, "model": "U5 PLUS"}}}
-{"node_type": "carcode", "href": "/en/catalog/baic,2020,bj20,1.5l+l4+turbocharged,3446454", "payload": {"nodetype": "carcode", "ctx": {"make": "BAIC", "year": 2020, "model": "BJ20"}}}
-{"node_type": "carcode", "href": "/en/catalog/baic,2021,x30,1.5l+l4,3450413", "payload": {"nodetype": "carcode", "ctx": {"make": "BAIC", "year": 2021, "model": "X30"}}}
-{"node_type": "carcode", "href": "/en/catalog/baic,2024,bj40,2.0l+l4+turbocharged,3455214", "payload": {"nodetype": "carcode", "ctx": {"make": "BAIC", "year": 2024, "model": "BJ40"}}}

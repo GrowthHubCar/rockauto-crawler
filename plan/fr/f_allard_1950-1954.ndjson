@@ -17,5 +17,3 @@
 {"node_type": "model", "href": "/en/catalog/allard,1952,j2x", "payload": {"nodetype": "model", "ctx": {"make": "ALLARD", "year": 1952, "model": "J2X"}}}
 {"node_type": "model", "href": "/en/catalog/allard,1953,j2x", "payload": {"nodetype": "model", "ctx": {"make": "ALLARD", "year": 1953, "model": "J2X"}}}
 {"node_type": "model", "href": "/en/catalog/allard,1954,j2x", "payload": {"nodetype": "model", "ctx": {"make": "ALLARD", "year": 1954, "model": "J2X"}}}
-{"node_type": "carcode", "href": "/en/catalog/allard,1953,safari,3.6l+v8,1439735", "payload": {"nodetype": "carcode", "ctx": {"make": "ALLARD", "year": 1953, "model": "SAFARI"}}}
-{"node_type": "carcode", "href": "/en/catalog/allard,1953,j2x,3.9l+v8,1439783", "payload": {"nodetype": "carcode", "ctx": {"make": "ALLARD", "year": 1953, "model": "J2X"}}}

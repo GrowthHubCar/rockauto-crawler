@@ -3,5 +3,3 @@
 {"node_type": "model", "href": "/en/catalog/bentley,1936,4+1/4-litre", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1936, "model": "4 1/4-LITRE"}}}
 {"node_type": "model", "href": "/en/catalog/bentley,1937,4+1/4-litre", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1937, "model": "4 1/4-LITRE"}}}
 {"node_type": "model", "href": "/en/catalog/bentley,1939,mark+v", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1939, "model": "MARK V"}}}
-{"node_type": "carcode", "href": "/en/catalog/bentley,1939,4+1/4-litre,all+engines,2002346", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1939, "model": "4 1/4-LITRE"}}}
-{"node_type": "carcode", "href": "/en/catalog/bentley,1938,4+1/4-litre,all+engines,2002283", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1938, "model": "4 1/4-LITRE"}}}

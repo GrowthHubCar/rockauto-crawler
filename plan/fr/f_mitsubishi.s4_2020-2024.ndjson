@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2022,rvr", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2022, "model": "RVR"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2020,mirage+g4", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2020, "model": "MIRAGE G4"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2021,outlander,2.0l+l4+electric/gas,3450201", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2021, "model": "OUTLANDER"}}}

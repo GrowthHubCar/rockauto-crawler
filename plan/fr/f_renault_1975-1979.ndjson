@@ -10,11 +10,4 @@
 {"node_type": "model", "href": "/en/catalog/renault,1975,r15", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1975, "model": "R15"}}}
 {"node_type": "model", "href": "/en/catalog/renault,1977,r15", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1977, "model": "R15"}}}
 {"node_type": "model", "href": "/en/catalog/renault,1977,lecar", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1977, "model": "LECAR"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1979,lecar,1.3l+l4,1264463", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1979, "model": "LECAR"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1976,r12,1.6l+l4,1264597", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1976, "model": "R12"}}}
 {"node_type": "carcode", "href": "/en/catalog/renault,1976,r15,1.6l+l4,1295940", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1976, "model": "R15"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1976,r17,1.6l+l4,1264632", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1976, "model": "R17"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1976,r5,1.3l+l4,1264777", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1976, "model": "R5"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1976,r15,1.7l+l4,948695", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1976, "model": "R15"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1978,lecar,1.3l+l4,1264452", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1978, "model": "LECAR"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1979,r5,1.3l+l4,948801", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1979, "model": "R5"}}}

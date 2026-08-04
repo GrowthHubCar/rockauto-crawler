@@ -2,14 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/volkswagen,1959,beetle", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1959, "model": "BEETLE"}}}
 {"node_type": "model", "href": "/en/catalog/volkswagen,1957,karmann+ghia", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1957, "model": "KARMANN GHIA"}}}
 {"node_type": "model", "href": "/en/catalog/volkswagen,1959,karmann+ghia", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1959, "model": "KARMANN GHIA"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,1956,beetle,1.2l+h4,1352203", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1956, "model": "BEETLE"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,1955,transporter,1.2l+h4,1352236", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1955, "model": "TRANSPORTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,1955,beetle,1.2l+h4,1352225", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1955, "model": "BEETLE"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,1957,beetle,1.2l+h4,1352180", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1957, "model": "BEETLE"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,1958,transporter,1.2l+h4,1352179", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1958, "model": "TRANSPORTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,1958,beetle,1.2l+h4,1352168", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1958, "model": "BEETLE"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,1956,karmann+ghia,1.2l+h4,1366107", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1956, "model": "KARMANN GHIA"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,1956,transporter,1.2l+h4,1352214", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1956, "model": "TRANSPORTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,1955,karmann+ghia,1.2l+h4,1488171", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1955, "model": "KARMANN GHIA"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,1957,transporter,1.2l+h4,1352191", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1957, "model": "TRANSPORTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,1958,karmann+ghia,1.2l+h4,1366084", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1958, "model": "KARMANN GHIA"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2022,creta", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "CRETA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,sonata,2.5l+l4+turbocharged,3448971", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,elantra,1.6l+l4+electric/gas,3447390", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "ELANTRA"}}}

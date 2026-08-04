@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2024,nexo", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "NEXO"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,sonata,1.6l+l4+turbocharged,3452773", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,sonata,2.5l+l4,3452775", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,elantra,1.6l+l4+electric/gas,3450706", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "ELANTRA"}}}

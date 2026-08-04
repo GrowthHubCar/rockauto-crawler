@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ford,2006,fiesta", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "FIESTA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,f-250+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "F-250 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "E-150"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,fusion,3.0l+v6,1441690", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "FUSION"}}}

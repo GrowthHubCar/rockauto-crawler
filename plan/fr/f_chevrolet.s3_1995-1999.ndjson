@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1999,s10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1999, "model": "S10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,lumina+apv", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "LUMINA APV"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1997,g30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "G30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1999,bus", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1999, "model": "BUS"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1997,c1500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "C1500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1997,g10,5.0l+v8,1044560", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "G10"}}}

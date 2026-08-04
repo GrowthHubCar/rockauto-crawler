@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/ford,1998,taurus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "TAURUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,windstar", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "WINDSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,probe", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "PROBE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,f-800", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "F-800"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,f-350+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,e-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "E-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,c+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "C SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,escort", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "ESCORT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,b+series+bus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "B SERIES BUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1999,mustang,4.6l+v8+dohc,1354733", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1999, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1995,p-350,5.8l+v8,3441009", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1995, "model": "P-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1998,explorer,5.0l+v8,1304435", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1998, "model": "EXPLORER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1996,mustang,3.8l+v6,1134201", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1996, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1995,ranger,2.3l+l4,1138025", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1995, "model": "RANGER"}}}

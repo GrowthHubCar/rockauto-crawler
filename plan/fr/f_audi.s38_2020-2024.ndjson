@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/audi,2023,rs5", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2023, "model": "RS5"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2021,a4,2.0l+l4+turbocharged,3447137", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "A4"}}}

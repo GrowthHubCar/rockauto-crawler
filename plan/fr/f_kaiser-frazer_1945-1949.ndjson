@@ -11,5 +11,3 @@
 {"node_type": "model", "href": "/en/catalog/kaiser-frazer,1949,vagabond", "payload": {"nodetype": "model", "ctx": {"make": "KAISER-FRAZER", "year": 1949, "model": "VAGABOND"}}}
 {"node_type": "model", "href": "/en/catalog/kaiser-frazer,1949,traveler", "payload": {"nodetype": "model", "ctx": {"make": "KAISER-FRAZER", "year": 1949, "model": "TRAVELER"}}}
 {"node_type": "model", "href": "/en/catalog/kaiser-frazer,1949,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "KAISER-FRAZER", "year": 1949, "model": "DELUXE"}}}
-{"node_type": "carcode", "href": "/en/catalog/kaiser-frazer,1947,special,3.7l+226cid+l6,1486689", "payload": {"nodetype": "carcode", "ctx": {"make": "KAISER-FRAZER", "year": 1947, "model": "SPECIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/kaiser-frazer,1947,manhattan,3.7l+226cid+l6,1486628", "payload": {"nodetype": "carcode", "ctx": {"make": "KAISER-FRAZER", "year": 1947, "model": "MANHATTAN"}}}

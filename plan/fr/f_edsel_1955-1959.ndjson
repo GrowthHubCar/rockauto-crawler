@@ -3,11 +3,3 @@
 {"node_type": "model", "href": "/en/catalog/edsel,1959,ranger", "payload": {"nodetype": "model", "ctx": {"make": "EDSEL", "year": 1959, "model": "RANGER"}}}
 {"node_type": "model", "href": "/en/catalog/edsel,1959,corsair", "payload": {"nodetype": "model", "ctx": {"make": "EDSEL", "year": 1959, "model": "CORSAIR"}}}
 {"node_type": "model", "href": "/en/catalog/edsel,1958,bermuda", "payload": {"nodetype": "model", "ctx": {"make": "EDSEL", "year": 1958, "model": "BERMUDA"}}}
-{"node_type": "carcode", "href": "/en/catalog/edsel,1958,citation,6.7l+410cid+v8,1440365", "payload": {"nodetype": "carcode", "ctx": {"make": "EDSEL", "year": 1958, "model": "CITATION"}}}
-{"node_type": "carcode", "href": "/en/catalog/edsel,1959,corsair,5.4l+332cid+v8,1440372", "payload": {"nodetype": "carcode", "ctx": {"make": "EDSEL", "year": 1959, "model": "CORSAIR"}}}
-{"node_type": "carcode", "href": "/en/catalog/edsel,1958,ranger,5.9l+361cid+v8,1440366", "payload": {"nodetype": "carcode", "ctx": {"make": "EDSEL", "year": 1958, "model": "RANGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/edsel,1958,corsair,6.7l+410cid+v8,1440364", "payload": {"nodetype": "carcode", "ctx": {"make": "EDSEL", "year": 1958, "model": "CORSAIR"}}}
-{"node_type": "carcode", "href": "/en/catalog/edsel,1958,pacer,5.9l+361cid+v8,1440367", "payload": {"nodetype": "carcode", "ctx": {"make": "EDSEL", "year": 1958, "model": "PACER"}}}
-{"node_type": "carcode", "href": "/en/catalog/edsel,1958,villager,5.9l+361cid+v8,1442190", "payload": {"nodetype": "carcode", "ctx": {"make": "EDSEL", "year": 1958, "model": "VILLAGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/edsel,1959,ranger,3.6l+223cid+l6,1440371", "payload": {"nodetype": "carcode", "ctx": {"make": "EDSEL", "year": 1959, "model": "RANGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/edsel,1959,ranger,5.9l+361cid+v8,1489211", "payload": {"nodetype": "carcode", "ctx": {"make": "EDSEL", "year": 1959, "model": "RANGER"}}}

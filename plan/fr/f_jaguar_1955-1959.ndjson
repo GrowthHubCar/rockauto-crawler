@@ -18,6 +18,3 @@
 {"node_type": "model", "href": "/en/catalog/jaguar,1959,xk150", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1959, "model": "XK150"}}}
 {"node_type": "model", "href": "/en/catalog/jaguar,1959,mark+ix", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1959, "model": "MARK IX"}}}
 {"node_type": "model", "href": "/en/catalog/jaguar,1959,mark+2", "payload": {"nodetype": "model", "ctx": {"make": "JAGUAR", "year": 1959, "model": "MARK 2"}}}
-{"node_type": "carcode", "href": "/en/catalog/jaguar,1956,mark+vii,3.4l+l6,1392960", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1956, "model": "MARK VII"}}}
-{"node_type": "carcode", "href": "/en/catalog/jaguar,1956,2.4,2.5l+l6,1392601", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1956, "model": "2.4"}}}
-{"node_type": "carcode", "href": "/en/catalog/jaguar,1955,xk140,3.4l+l6,1393152", "payload": {"nodetype": "carcode", "ctx": {"make": "JAGUAR", "year": 1955, "model": "XK140"}}}

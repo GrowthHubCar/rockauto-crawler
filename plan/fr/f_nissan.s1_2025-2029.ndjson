@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/nissan,2026,x-trail", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2026, "model": "X-TRAIL"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2026,murano,2.0l+l4+turbocharged,3458883", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2026, "model": "MURANO"}}}

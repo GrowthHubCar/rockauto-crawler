@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ford,1989,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1989, "model": "P-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1988,f53,7.5l+460cid+v8,1430158", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1988, "model": "F53"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1989,f-800,7.0l+429cid+v8,3296476", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1989, "model": "F-800"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1987,f-600,6.1l+370cid+v8,3296115", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1987, "model": "F-600"}}}

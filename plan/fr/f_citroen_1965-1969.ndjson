@@ -7,17 +7,7 @@
 {"node_type": "model", "href": "/en/catalog/citroen,1969,ds21", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1969, "model": "DS21"}}}
 {"node_type": "model", "href": "/en/catalog/citroen,1968,d21", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1968, "model": "D21"}}}
 {"node_type": "model", "href": "/en/catalog/citroen,1969,d21", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1969, "model": "D21"}}}
-{"node_type": "carcode", "href": "/en/catalog/citroen,1966,id19,1.9l+l4,1436338", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1966, "model": "ID19"}}}
-{"node_type": "carcode", "href": "/en/catalog/citroen,1968,ds21+pallas,2.2l+l4,1312173", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1968, "model": "DS21 PALLAS"}}}
-{"node_type": "carcode", "href": "/en/catalog/citroen,1966,ds19,2.0l+l4,1436372", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1966, "model": "DS19"}}}
-{"node_type": "carcode", "href": "/en/catalog/citroen,1966,ami-6,602cc+h2,1436330", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1966, "model": "AMI-6"}}}
 {"node_type": "carcode", "href": "/en/catalog/citroen,1966,ds21,2.2l+l4,1492889", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1966, "model": "DS21"}}}
-{"node_type": "carcode", "href": "/en/catalog/citroen,1967,ds19,2.0l+l4,1436371", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1967, "model": "DS19"}}}
 {"node_type": "carcode", "href": "/en/catalog/citroen,1966,ds21+pallas,2.2l+l4,1492890", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1966, "model": "DS21 PALLAS"}}}
-{"node_type": "carcode", "href": "/en/catalog/citroen,1967,d21,2.2l+l4,1493574", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1967, "model": "D21"}}}
-{"node_type": "carcode", "href": "/en/catalog/citroen,1966,d21,2.2l+l4,1492888", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1966, "model": "D21"}}}
 {"node_type": "carcode", "href": "/en/catalog/citroen,1967,ds21,2.2l+l4,1493575", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1967, "model": "DS21"}}}
-{"node_type": "carcode", "href": "/en/catalog/citroen,1967,id19,1.9l+l4,1436337", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1967, "model": "ID19"}}}
-{"node_type": "carcode", "href": "/en/catalog/citroen,1967,ami-6,602cc+h2,1436329", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1967, "model": "AMI-6"}}}
 {"node_type": "carcode", "href": "/en/catalog/citroen,1967,ds21+pallas,2.2l+l4,1493576", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1967, "model": "DS21 PALLAS"}}}
-{"node_type": "carcode", "href": "/en/catalog/citroen,1968,id19,2.0l+l4,1312223", "payload": {"nodetype": "carcode", "ctx": {"make": "CITROEN", "year": 1968, "model": "ID19"}}}

@@ -4,4 +4,3 @@
 {"node_type": "model", "href": "/en/catalog/suzuki,2025,jimny", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2025, "model": "JIMNY"}}}
 {"node_type": "model", "href": "/en/catalog/suzuki,2025,baleno", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2025, "model": "BALENO"}}}
 {"node_type": "model", "href": "/en/catalog/suzuki,2025,fronx", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2025, "model": "FRONX"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2026,dzire,1.2l+l3,3459525", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2026, "model": "DZIRE"}}}

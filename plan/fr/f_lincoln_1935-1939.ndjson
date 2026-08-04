@@ -1,9 +1,1 @@
 {"node_type": "model", "href": "/en/catalog/lincoln,1938,model+k", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1938, "model": "MODEL K"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1937,model+k,6.8l+414cid+v12,952851", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1937, "model": "MODEL K"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1939,zephyr,4.4l+267cid+v12,952943", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1939, "model": "ZEPHYR"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1937,zephyr,4.4l+267cid+v12,952852", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1937, "model": "ZEPHYR"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1939,series+k,6.8l+414cid+v12,1485948", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1939, "model": "SERIES K"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1935,model+k,6.8l+414cid+v12,1485672", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1935, "model": "MODEL K"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1936,zephyr,4.4l+267cid+v12,952808", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1936, "model": "ZEPHYR"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1938,zephyr,4.4l+267cid+v12,952896", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1938, "model": "ZEPHYR"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1936,model+k,6.8l+414cid+v12,952807", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1936, "model": "MODEL K"}}}

@@ -3,14 +3,3 @@
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1953,98", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1953, "model": "98"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1951,standard+88", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1951, "model": "STANDARD 88"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1953,deluxe+88", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1953, "model": "DELUXE 88"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1951,super+88,5.0l+303cid+v8,1435689", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1951, "model": "SUPER 88"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1950,88,5.0l+303cid+v8,1435699", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1950, "model": "88"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1954,88,5.3l+324cid+v8,1435713", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1954, "model": "88"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1950,series+76,4.2l+257cid+l6,1487232", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1950, "model": "SERIES 76"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1950,98,5.0l+303cid+v8,1435698", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1950, "model": "98"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1954,98,5.3l+324cid+v8,1435710", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1954, "model": "98"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1951,98,5.0l+303cid+v8,1435697", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1951, "model": "98"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1953,super+88,5.0l+303cid+v8,1435687", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1953, "model": "SUPER 88"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1952,deluxe+88,5.0l+303cid+v8,1435693", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1952, "model": "DELUXE 88"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1952,super+88,5.0l+303cid+v8,1435688", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1952, "model": "SUPER 88"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1954,super+88,5.3l+324cid+v8,1435707", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1954, "model": "SUPER 88"}}}

@@ -1,7 +1,3 @@
 {"node_type": "carcode", "href": "/en/catalog/sunbeam,1973,alpine,all+engines,953502", "payload": {"nodetype": "carcode", "ctx": {"make": "SUNBEAM", "year": 1973, "model": "ALPINE"}}}
 {"node_type": "carcode", "href": "/en/catalog/sunbeam,1974,alpine,all+engines,953506", "payload": {"nodetype": "carcode", "ctx": {"make": "SUNBEAM", "year": 1974, "model": "ALPINE"}}}
-{"node_type": "carcode", "href": "/en/catalog/sunbeam,1970,alpine,1.7l+l4,1496719", "payload": {"nodetype": "carcode", "ctx": {"make": "SUNBEAM", "year": 1970, "model": "ALPINE"}}}
-{"node_type": "carcode", "href": "/en/catalog/sunbeam,1970,arrow,1.7l+l4,1496720", "payload": {"nodetype": "carcode", "ctx": {"make": "SUNBEAM", "year": 1970, "model": "ARROW"}}}
-{"node_type": "carcode", "href": "/en/catalog/sunbeam,1970,rapier,1.7l+l4,1496721", "payload": {"nodetype": "carcode", "ctx": {"make": "SUNBEAM", "year": 1970, "model": "RAPIER"}}}
-{"node_type": "carcode", "href": "/en/catalog/sunbeam,1971,alpine,1.7l+l4,574", "payload": {"nodetype": "carcode", "ctx": {"make": "SUNBEAM", "year": 1971, "model": "ALPINE"}}}
 {"node_type": "carcode", "href": "/en/catalog/sunbeam,1972,alpine,all+engines,953497", "payload": {"nodetype": "carcode", "ctx": {"make": "SUNBEAM", "year": 1972, "model": "ALPINE"}}}

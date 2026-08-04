@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2025,prius", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2025, "model": "PRIUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2026,sequoia,3.4l+v6+electric/gas+turbocharged,3459531", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2026, "model": "SEQUOIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2025,sienna,2.5l+l4+electric/gas,3458262", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2025, "model": "SIENNA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2026,corolla+cross,2.0l+l4+electric/gas,3459045", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2026, "model": "COROLLA CROSS"}}}

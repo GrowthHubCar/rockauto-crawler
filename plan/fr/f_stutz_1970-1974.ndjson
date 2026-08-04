@@ -2,6 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/stutz,1972,blackhawk", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1972, "model": "BLACKHAWK"}}}
 {"node_type": "model", "href": "/en/catalog/stutz,1973,duplex", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1973, "model": "DUPLEX"}}}
 {"node_type": "model", "href": "/en/catalog/stutz,1972,limousine", "payload": {"nodetype": "model", "ctx": {"make": "STUTZ", "year": 1972, "model": "LIMOUSINE"}}}
-{"node_type": "carcode", "href": "/en/catalog/stutz,1970,blackhawk,6.6l+400cid+v8,1435949", "payload": {"nodetype": "carcode", "ctx": {"make": "STUTZ", "year": 1970, "model": "BLACKHAWK"}}}
-{"node_type": "carcode", "href": "/en/catalog/stutz,1974,blackhawk,7.5l+455cid+v8,1435950", "payload": {"nodetype": "carcode", "ctx": {"make": "STUTZ", "year": 1974, "model": "BLACKHAWK"}}}
-{"node_type": "carcode", "href": "/en/catalog/stutz,1973,blackhawk,7.5l+455cid+v8,1435951", "payload": {"nodetype": "carcode", "ctx": {"make": "STUTZ", "year": 1973, "model": "BLACKHAWK"}}}

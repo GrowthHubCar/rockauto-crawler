@@ -1,6 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/pontiac,1931,model+401", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1931, "model": "MODEL 401"}}}
 {"node_type": "model", "href": "/en/catalog/pontiac,1932,model+402", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1932, "model": "MODEL 402"}}}
 {"node_type": "model", "href": "/en/catalog/pontiac,1932,model+302", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1932, "model": "MODEL 302"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1930,model+6-30+b,3.3l+200cid+l6,1485465", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1930, "model": "MODEL 6-30 B"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1933,model+601,3.6l+223cid+l8,1485585", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1933, "model": "MODEL 601"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1934,model+603,3.6l+223cid+l8,1485629", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1934, "model": "MODEL 603"}}}

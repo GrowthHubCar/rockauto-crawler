@@ -2,4 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/austin,1970,america", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1970, "model": "AMERICA"}}}
 {"node_type": "model", "href": "/en/catalog/austin,1971,america", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1971, "model": "AMERICA"}}}
 {"node_type": "model", "href": "/en/catalog/austin,1972,america", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1972, "model": "AMERICA"}}}
-{"node_type": "carcode", "href": "/en/catalog/austin,1974,marina,1.8l+l4,1009561", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN", "year": 1974, "model": "MARINA"}}}

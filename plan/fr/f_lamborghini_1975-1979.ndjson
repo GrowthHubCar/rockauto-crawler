@@ -2,13 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/lamborghini,1975,jarama", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1975, "model": "JARAMA"}}}
 {"node_type": "model", "href": "/en/catalog/lamborghini,1975,urraco", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1975, "model": "URRACO"}}}
 {"node_type": "model", "href": "/en/catalog/lamborghini,1975,countach", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 1975, "model": "COUNTACH"}}}
-{"node_type": "carcode", "href": "/en/catalog/lamborghini,1976,urraco,3.0l+v8,1407035", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1976, "model": "URRACO"}}}
-{"node_type": "carcode", "href": "/en/catalog/lamborghini,1977,espada,4.0l+v12,1407169", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1977, "model": "ESPADA"}}}
-{"node_type": "carcode", "href": "/en/catalog/lamborghini,1976,urraco,2.0l+v8,1407013", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1976, "model": "URRACO"}}}
-{"node_type": "carcode", "href": "/en/catalog/lamborghini,1976,silhouette,3.0l+v8,1407002", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1976, "model": "SILHOUETTE"}}}
-{"node_type": "carcode", "href": "/en/catalog/lamborghini,1976,urraco,2.5l+v8,1407024", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1976, "model": "URRACO"}}}
-{"node_type": "carcode", "href": "/en/catalog/lamborghini,1976,countach,3.9l+v12,1393477", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1976, "model": "COUNTACH"}}}
-{"node_type": "carcode", "href": "/en/catalog/lamborghini,1977,silhouette,3.0l+v8,1407181", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1977, "model": "SILHOUETTE"}}}
-{"node_type": "carcode", "href": "/en/catalog/lamborghini,1976,jarama,4.0l+v12,1406999", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1976, "model": "JARAMA"}}}
-{"node_type": "carcode", "href": "/en/catalog/lamborghini,1978,espada,4.0l+v12,1407271", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1978, "model": "ESPADA"}}}
-{"node_type": "carcode", "href": "/en/catalog/lamborghini,1976,espada,4.0l+v12,1406988", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 1976, "model": "ESPADA"}}}

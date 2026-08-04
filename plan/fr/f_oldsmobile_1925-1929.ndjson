@@ -3,4 +3,3 @@
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1927,model+30-e", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1927, "model": "MODEL 30-E"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1929,viking", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1929, "model": "VIKING"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1929,model+f-29", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1929, "model": "MODEL F-29"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1928,model+f-28,197cid+l6,952274", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1928, "model": "MODEL F-28"}}}

@@ -16,4 +16,3 @@
 {"node_type": "model", "href": "/en/catalog/elcar,1929,model+95", "payload": {"nodetype": "model", "ctx": {"make": "ELCAR", "year": 1929, "model": "MODEL 95"}}}
 {"node_type": "model", "href": "/en/catalog/elcar,1929,model+75", "payload": {"nodetype": "model", "ctx": {"make": "ELCAR", "year": 1929, "model": "MODEL 75"}}}
 {"node_type": "model", "href": "/en/catalog/elcar,1929,model+120", "payload": {"nodetype": "model", "ctx": {"make": "ELCAR", "year": 1929, "model": "MODEL 120"}}}
-{"node_type": "carcode", "href": "/en/catalog/elcar,1927,model+6-70,6cyl,2001412", "payload": {"nodetype": "carcode", "ctx": {"make": "ELCAR", "year": 1927, "model": "MODEL 6-70"}}}

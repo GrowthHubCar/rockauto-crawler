@@ -1,5 +1,1 @@
 {"node_type": "model", "href": "/en/catalog/smart,2004,roadster", "payload": {"nodetype": "model", "ctx": {"make": "SMART", "year": 2004, "model": "ROADSTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/smart,2003,city+coupe,698cc+l3+turbocharged,211216", "payload": {"nodetype": "carcode", "ctx": {"make": "SMART", "year": 2003, "model": "CITY COUPE"}}}
-{"node_type": "carcode", "href": "/en/catalog/smart,2004,crossblade,599cc+l3+turbocharged,213340", "payload": {"nodetype": "carcode", "ctx": {"make": "SMART", "year": 2004, "model": "CROSSBLADE"}}}
-{"node_type": "carcode", "href": "/en/catalog/smart,2004,cabrio,698cc+l3+turbocharged,951742", "payload": {"nodetype": "carcode", "ctx": {"make": "SMART", "year": 2004, "model": "CABRIO"}}}
-{"node_type": "carcode", "href": "/en/catalog/smart,2004,city+coupe,698cc+l3+turbocharged,2002611", "payload": {"nodetype": "carcode", "ctx": {"make": "SMART", "year": 2004, "model": "CITY COUPE"}}}

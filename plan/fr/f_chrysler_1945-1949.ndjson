@@ -18,9 +18,6 @@
 {"node_type": "model", "href": "/en/catalog/chrysler,1946,imperial+c-40", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1946, "model": "IMPERIAL C-40"}}}
 {"node_type": "model", "href": "/en/catalog/chrysler,1947,imperial+c-40", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1947, "model": "IMPERIAL C-40"}}}
 {"node_type": "model", "href": "/en/catalog/chrysler,1948,imperial+c-40", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1948, "model": "IMPERIAL C-40"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1947,windsor+series,4.1l+251cid+l6,1486590", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1947, "model": "WINDSOR SERIES"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1949,imperial,5.3l+324cid+l8,1486945", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1949, "model": "IMPERIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1946,saratoga+series,5.3l+324cid+l8,1486457", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1946, "model": "SARATOGA SERIES"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1948,windsor+series,4.1l+251cid+l6,1486762", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1948, "model": "WINDSOR SERIES"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1947,town+&+country,5.3l+324cid+l8,1486589", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1947, "model": "TOWN & COUNTRY"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1949,town+&+country,5.3l+324cid+l8,1486950", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1949, "model": "TOWN & COUNTRY"}}}

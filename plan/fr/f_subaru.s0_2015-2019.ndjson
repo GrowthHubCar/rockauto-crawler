@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/subaru,2019,outback", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2019, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2015,brz,2.0l+h4,3308932", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2015, "model": "BRZ"}}}

@@ -12,15 +12,3 @@
 {"node_type": "model", "href": "/en/catalog/aston+martin,2012,rapide", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2012, "model": "RAPIDE"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,2013,rapide", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2013, "model": "RAPIDE"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,2011,one-77", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2011, "model": "ONE-77"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,2010,v12+vantage,6.0l+v12,1501778", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2010, "model": "V12 VANTAGE"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,2010,db9,6.0l+v12,1446092", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2010, "model": "DB9"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,2010,dbs,6.0l+v12,1446090", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2010, "model": "DBS"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,2010,rapide,5.9l+v12,3032909", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2010, "model": "RAPIDE"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,2011,v8+vantage,4.7l+v8,1447692", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2011, "model": "V8 VANTAGE"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,2011,v12+vantage,6.0l+v12,1447695", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2011, "model": "V12 VANTAGE"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,2014,db9,6.0l+v12,3305976", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2014, "model": "DB9"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,2014,vanquish,6.0l+v12,3305785", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2014, "model": "VANQUISH"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,2014,rapide,6.0l+v12,3305977", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2014, "model": "RAPIDE"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,2010,v8+vantage,4.7l+v8,1446091", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2010, "model": "V8 VANTAGE"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,2011,rapide,6.0l+v12,1447694", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2011, "model": "RAPIDE"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,2014,v8+vantage,4.7l+v8,3305979", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2014, "model": "V8 VANTAGE"}}}

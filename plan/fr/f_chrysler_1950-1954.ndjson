@@ -19,19 +19,12 @@
 {"node_type": "model", "href": "/en/catalog/chrysler,1953,windsor", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1953, "model": "WINDSOR"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1954,town+&+country,4.3l+265cid+l6,1328240", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1954, "model": "TOWN & COUNTRY"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1950,newport,5.3l+324cid+l8,1487151", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1950, "model": "NEWPORT"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1952,imperial,5.4l+331cid+v8,1328330", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1952, "model": "IMPERIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1953,imperial,5.4l+331cid+v8,1328262", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1953, "model": "IMPERIAL"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1954,town+&+country,5.4l+331cid+v8,1328251", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1954, "model": "TOWN & COUNTRY"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1952,town+&+country,5.4l+331cid+v8,1328396", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1952, "model": "TOWN & COUNTRY"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1952,town+&+country,4.1l+251cid+l6,1487436", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1952, "model": "TOWN & COUNTRY"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1950,newport,5.3l+324cid+v8,1328510", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1950, "model": "NEWPORT"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1954,imperial,5.4l+331cid+v8,1328206", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1954, "model": "IMPERIAL"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1950,town+&+country,5.3l+324cid+l8,1487155", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1950, "model": "TOWN & COUNTRY"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1954,new+yorker,5.4l+331cid+v8,1328217", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1954, "model": "NEW YORKER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1952,windsor,4.3l+265cid+l6,1328408", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1952, "model": "WINDSOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1950,royal,4.1l+251cid+l6,1487152", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1950, "model": "ROYAL"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1953,town+&+country,5.4l+331cid+v8,1328318", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1953, "model": "TOWN & COUNTRY"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1950,windsor,4.1l+251cid+l6,1487156", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1950, "model": "WINDSOR"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1951,newport,4.1l+251cid+l6,1487290", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1951, "model": "NEWPORT"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1954,windsor,4.3l+265cid+l6,1487767", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1954, "model": "WINDSOR"}}}
 {"node_type": "carcode", "href": "/en/catalog/chrysler,1952,town+&+country,4.3l+265cid+l6,1487437", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1952, "model": "TOWN & COUNTRY"}}}

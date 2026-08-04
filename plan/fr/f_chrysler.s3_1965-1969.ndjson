@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/chrysler,1967,300", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1967, "model": "300"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1965,300,6.8l+413cid+v8,1327216", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1965, "model": "300"}}}

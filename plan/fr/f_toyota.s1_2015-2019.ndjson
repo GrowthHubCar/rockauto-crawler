@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2018,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2018, "model": "LAND CRUISER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2016,tacoma", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2016, "model": "TACOMA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2016,prius", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2016, "model": "PRIUS"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2019,highlander", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2019, "model": "HIGHLANDER"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2016,prius+c", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2016, "model": "PRIUS C"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2019,prius,1.8l+l4+electric/gas,3443905", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2019, "model": "PRIUS"}}}

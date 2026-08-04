@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/buick,1987,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1987, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1986,skylark,2.5l+151cid+l4,1377110", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1986, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1987,somerset,2.5l+151cid+l4,1377154", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1987, "model": "SOMERSET"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1987,regal,5.0l+307cid+v8,1020980", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1987, "model": "REGAL"}}}

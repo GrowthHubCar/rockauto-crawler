@@ -13,6 +13,3 @@
 {"node_type": "model", "href": "/en/catalog/austin,1966,princess", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1966, "model": "PRINCESS"}}}
 {"node_type": "model", "href": "/en/catalog/austin,1965,mini+moke", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1965, "model": "MINI MOKE"}}}
 {"node_type": "model", "href": "/en/catalog/austin,1966,mini+moke", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1966, "model": "MINI MOKE"}}}
-{"node_type": "carcode", "href": "/en/catalog/austin,1966,mini+cooper,997cc+l4,1436501", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN", "year": 1966, "model": "MINI COOPER"}}}
-{"node_type": "carcode", "href": "/en/catalog/austin,1969,america,1.3l+l4,1009505", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN", "year": 1969, "model": "AMERICA"}}}
-{"node_type": "carcode", "href": "/en/catalog/austin,1966,mini+cooper,1.3l+l4,1391127", "payload": {"nodetype": "carcode", "ctx": {"make": "AUSTIN", "year": 1966, "model": "MINI COOPER"}}}

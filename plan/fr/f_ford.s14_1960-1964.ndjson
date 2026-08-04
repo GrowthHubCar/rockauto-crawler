@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ford,1964,sunliner", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1964, "model": "SUNLINER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1963,country+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1963, "model": "COUNTRY SEDAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1963,sunliner,4.3l+260cid+v8,1491186", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1963, "model": "SUNLINER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1963,victoria,6.6l+406cid+v8,1491197", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1963, "model": "VICTORIA"}}}

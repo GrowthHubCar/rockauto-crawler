@@ -2,34 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/nissan,1976,610", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1976, "model": "610"}}}
 {"node_type": "model", "href": "/en/catalog/nissan,1978,810", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1978, "model": "810"}}}
 {"node_type": "model", "href": "/en/catalog/nissan,1979,210", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1979, "model": "210"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1978,620+pickup,2.0l+l4,1210149", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1978, "model": "620 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1978,b210,1.4l+l4,1210824", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1978, "model": "B210"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1977,280z,2.8l+l6,1209248", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1977, "model": "280Z"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1979,210,1.5l+l4,1438462", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1979, "model": "210"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1978,510,2.0l+l4,1210004", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1978, "model": "510"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1979,620+pickup,2.0l+l4,1210150", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1979, "model": "620 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1979,810,2.4l+l6,1210431", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1979, "model": "810"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1976,f10,1.4l+l4,1211140", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1976, "model": "F10"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1979,280zx,2.8l+l6,1209293", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1979, "model": "280ZX"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1977,b210,1.4l+l4,1210813", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1977, "model": "B210"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1979,210,1.4l+l4,1208809", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1979, "model": "210"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1977,620+pickup,2.0l+l4,1210138", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1977, "model": "620 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1976,280z,2.8l+l6,1209226", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1976, "model": "280Z"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1976,710,2.0l+l4,1210183", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1976, "model": "710"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1975,710,2.0l+l4,1210172", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1975, "model": "710"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1978,280z,2.8l+l6,1209260", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1978, "model": "280Z"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1977,f10,1.4l+l4,1211151", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1977, "model": "F10"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1976,620+pickup,2.0l+l4,1210127", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1976, "model": "620 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1975,260z,2.6l+l6,1388000", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1975, "model": "260Z"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1979,310,1.4l+l4,1209877", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1979, "model": "310"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1979,200sx,2.0l+l4,1208539", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1979, "model": "200SX"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1975,610,2.0l+l4,1210060", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1975, "model": "610"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1979,510,2.0l+l4,1210015", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1979, "model": "510"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1977,810,2.4l+l6,1210419", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1977, "model": "810"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1978,f10,1.4l+l4,1211162", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1978, "model": "F10"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1975,620+pickup,2.0l+l4,1210116", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1975, "model": "620 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1975,280z,2.8l+l6,1209204", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1975, "model": "280Z"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1978,200sx,2.0l+l4,1208528", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1978, "model": "200SX"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1977,200sx,2.0l+l4,1208517", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1977, "model": "200SX"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1977,710,2.0l+l4,1210194", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1977, "model": "710"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,1975,b210,1.4l+l4,1210790", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 1975, "model": "B210"}}}

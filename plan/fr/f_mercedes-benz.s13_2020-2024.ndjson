@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2023,s450l", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "S450L"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2022,maybach+s580", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "MAYBACH S580"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2020,cla45+amg,2.0l+l4+turbocharged,3445889", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2020, "model": "CLA45 AMG"}}}

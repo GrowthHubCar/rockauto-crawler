@@ -1,0 +1,3 @@
+{"node_type": "carcode", "href": "/en/catalog/kia,2014,optima,2.0l+l4+turbocharged,3307145", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2014, "model": "OPTIMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/kia,2014,forte,1.6l+l4+turbocharged,3300340", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2014, "model": "FORTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/kia,2011,rio5,1.6l+l4,1447549", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2011, "model": "RIO5"}}}

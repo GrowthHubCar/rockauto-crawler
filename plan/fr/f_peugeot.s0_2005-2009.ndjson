@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/peugeot,2007,partner", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2007, "model": "PARTNER"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2008,manager,2.2l+l4+diesel+turbocharged,3186159", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2008, "model": "MANAGER"}}}

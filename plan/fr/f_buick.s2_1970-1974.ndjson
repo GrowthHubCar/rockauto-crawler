@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/buick,1974,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1974, "model": "REGAL"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1972,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1972, "model": "ESTATE WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1972,skylark,4.1l+250cid+l6,1497828", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1972, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1974,century,5.7l+350cid+v8,1013678", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1974, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1970,estate+wagon,7.5l+455cid+v8,1017504", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1970, "model": "ESTATE WAGON"}}}

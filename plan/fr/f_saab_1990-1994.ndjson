@@ -6,11 +6,6 @@
 {"node_type": "model", "href": "/en/catalog/saab,1993,9000", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1993, "model": "9000"}}}
 {"node_type": "model", "href": "/en/catalog/saab,1994,9000", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1994, "model": "9000"}}}
 {"node_type": "carcode", "href": "/en/catalog/saab,1993,900,2.0l+l4+turbocharged,1265712", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1993, "model": "900"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1990,9000,2.3l+l4,1266061", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1990, "model": "9000"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1991,9000,2.3l+l4+turbocharged,1266072", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1991, "model": "9000"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1990,9000,2.0l+l4+turbocharged,1266027", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1990, "model": "9000"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1990,900,2.0l+l4+turbocharged,1265600", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1990, "model": "900"}}}
 {"node_type": "carcode", "href": "/en/catalog/saab,1990,9000,2.0l+l4,1266050", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1990, "model": "9000"}}}
 {"node_type": "carcode", "href": "/en/catalog/saab,1993,9000,2.3l+l4+turbocharged,1266241", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1993, "model": "9000"}}}
 {"node_type": "carcode", "href": "/en/catalog/saab,1993,900,2.1l+l4,1265723", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1993, "model": "900"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1990,900,2.0l+l4,1265611", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1990, "model": "900"}}}

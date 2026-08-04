@@ -3,29 +3,10 @@
 {"node_type": "model", "href": "/en/catalog/mercury,1989,cougar", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1989, "model": "COUGAR"}}}
 {"node_type": "model", "href": "/en/catalog/mercury,1985,lynx", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1985, "model": "LYNX"}}}
 {"node_type": "model", "href": "/en/catalog/mercury,1986,topaz", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1986, "model": "TOPAZ"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1986,lynx,2.0l+122cid+l4+diesel,1199842", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1986, "model": "LYNX"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1985,cougar,2.3l+140cid+l4+turbocharged,1198481", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1985, "model": "COUGAR"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1988,cougar,3.8l+232cid+v6,1198593", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1988, "model": "COUGAR"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1987,cougar,5.0l+302cid+v8,1198571", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1987, "model": "COUGAR"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1987,lynx,1.9l+116cid+l4,1199864", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1987, "model": "LYNX"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1989,colony+park,5.0l+302cid+v8,1197097", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1989, "model": "COLONY PARK"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1988,grand+marquis,5.8l+351cid+v8,1199482", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1988, "model": "GRAND MARQUIS"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1987,cougar,3.8l+232cid+v6,1198559", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1987, "model": "COUGAR"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1986,lynx,1.9l+116cid+l4,1199831", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1986, "model": "LYNX"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1989,tracer,1.6l+98cid+l4,1204108", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1989, "model": "TRACER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1985,lynx,1.9l+116cid+l4,1199819", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1985, "model": "LYNX"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1988,grand+marquis,5.0l+302cid+v8,1199471", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1988, "model": "GRAND MARQUIS"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1989,grand+marquis,5.0l+302cid+v8,1199505", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1989, "model": "GRAND MARQUIS"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1989,sable,3.0l+182cid+v6,1203556", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1989, "model": "SABLE"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1985,topaz,2.3l+140cid+l4,1203781", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1985, "model": "TOPAZ"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1986,topaz,2.0l+122cid+l4+diesel,1203804", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1986, "model": "TOPAZ"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1988,colony+park,5.0l+302cid+v8,1197086", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1988, "model": "COLONY PARK"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1985,capri,5.0l+302cid+v8,1430269", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1985, "model": "CAPRI"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1989,sable,3.8l+232cid+v6,1203567", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1989, "model": "SABLE"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1989,topaz,2.3l+140cid+l4,1203927", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1989, "model": "TOPAZ"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1985,marquis,3.8l+232cid+v6,1200890", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1985, "model": "MARQUIS"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1985,topaz,2.0l+122cid+l4+diesel,1203769", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1985, "model": "TOPAZ"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1988,sable,3.8l+232cid+v6,1203545", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1988, "model": "SABLE"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1985,lynx,1.6l+98cid+l4,1199796", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1985, "model": "LYNX"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1985,capri,2.3l+140cid+l4,1196557", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1985, "model": "CAPRI"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1986,grand+marquis,5.8l+351cid+v8,1199426", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1986, "model": "GRAND MARQUIS"}}}

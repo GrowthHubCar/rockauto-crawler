@@ -5,7 +5,3 @@
 {"node_type": "model", "href": "/en/catalog/lotus,2012,evora", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 2012, "model": "EVORA"}}}
 {"node_type": "model", "href": "/en/catalog/lotus,2010,exige", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 2010, "model": "EXIGE"}}}
 {"node_type": "model", "href": "/en/catalog/lotus,2011,exige", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 2011, "model": "EXIGE"}}}
-{"node_type": "carcode", "href": "/en/catalog/lotus,2013,evora,3.5l+v6,3294251", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 2013, "model": "EVORA"}}}
-{"node_type": "carcode", "href": "/en/catalog/lotus,2014,evora,3.5l+v6,3306991", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 2014, "model": "EVORA"}}}
-{"node_type": "carcode", "href": "/en/catalog/lotus,2013,evora,3.5l+v6+supercharged,3294252", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 2013, "model": "EVORA"}}}
-{"node_type": "carcode", "href": "/en/catalog/lotus,2014,evora,3.5l+v6+supercharged,3306990", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 2014, "model": "EVORA"}}}

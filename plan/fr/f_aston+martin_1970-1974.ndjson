@@ -1,11 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/aston+martin,1973,vantage", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1973, "model": "VANTAGE"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,1974,vantage", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1974, "model": "VANTAGE"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,1974,v-8", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1974, "model": "V-8"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,1970,db6,4.0l+l6,1390115", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1970, "model": "DB6"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,1972,v-8,5.3l+v8,1390474", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1972, "model": "V-8"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,1970,dbs,4.0l+l6,1390205", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1970, "model": "DBS"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,1973,v-8,5.3l+v8,1390485", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1973, "model": "V-8"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,1971,dbs,4.0l+l6,1390227", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1971, "model": "DBS"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,1972,vantage,4.0l+l6,1390935", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1972, "model": "VANTAGE"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,1970,dbs,5.3l+v8,1495837", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1970, "model": "DBS"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,1971,dbs,5.3l+v8,1390238", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1971, "model": "DBS"}}}

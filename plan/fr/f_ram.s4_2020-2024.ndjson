@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/ram,2024,700", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2024, "model": "700"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2023,4000", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2023, "model": "4000"}}}
+{"node_type": "model", "href": "/en/catalog/ram,2020,1500+classic", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2020, "model": "1500 CLASSIC"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2020,5500,6.4l+v8,3446168", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2020, "model": "5500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ram,2022,1500,5.7l+v8,3450273", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2022, "model": "1500"}}}

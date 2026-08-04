@@ -8,10 +8,3 @@
 {"node_type": "model", "href": "/en/catalog/maserati,2010,grancabrio", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2010, "model": "GRANCABRIO"}}}
 {"node_type": "model", "href": "/en/catalog/maserati,2011,grancabrio", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2011, "model": "GRANCABRIO"}}}
 {"node_type": "model", "href": "/en/catalog/maserati,2013,grancabrio", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2013, "model": "GRANCABRIO"}}}
-{"node_type": "carcode", "href": "/en/catalog/maserati,2014,quattroporte,3.8l+v8+turbocharged,3307571", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 2014, "model": "QUATTROPORTE"}}}
-{"node_type": "carcode", "href": "/en/catalog/maserati,2010,quattroporte,4.7l+v8,1446120", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 2010, "model": "QUATTROPORTE"}}}
-{"node_type": "carcode", "href": "/en/catalog/maserati,2014,ghibli,3.0l+v6+turbocharged,3307568", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 2014, "model": "GHIBLI"}}}
-{"node_type": "carcode", "href": "/en/catalog/maserati,2014,granturismo,4.7l+v8,3307569", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 2014, "model": "GRANTURISMO"}}}
-{"node_type": "carcode", "href": "/en/catalog/maserati,2014,quattroporte,3.0l+v6+turbocharged,3307570", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 2014, "model": "QUATTROPORTE"}}}
-{"node_type": "carcode", "href": "/en/catalog/maserati,2014,granturismo,4.2l+v8,3096781", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 2014, "model": "GRANTURISMO"}}}
-{"node_type": "carcode", "href": "/en/catalog/maserati,2014,grancabrio,4.7l+v8,3096795", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 2014, "model": "GRANCABRIO"}}}

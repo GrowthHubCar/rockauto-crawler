@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2021,nexo", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "NEXO"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,santa+cruz,2.5l+l4,3449983", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "SANTA CRUZ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,sonata,2.5l+l4+turbocharged,3455096", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,sonata,2.5l+l4+turbocharged,3452776", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "SONATA"}}}

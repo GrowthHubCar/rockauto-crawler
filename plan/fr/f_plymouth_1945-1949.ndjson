@@ -3,8 +3,3 @@
 {"node_type": "model", "href": "/en/catalog/plymouth,1948,special+deluxe", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1948, "model": "SPECIAL DELUXE"}}}
 {"node_type": "model", "href": "/en/catalog/plymouth,1947,p15+deluxe", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1947, "model": "P15 DELUXE"}}}
 {"node_type": "model", "href": "/en/catalog/plymouth,1949,suburban", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1949, "model": "SUBURBAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/plymouth,1949,special+deluxe,3.6l+218cid+l6,124607", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1949, "model": "SPECIAL DELUXE"}}}
-{"node_type": "carcode", "href": "/en/catalog/plymouth,1948,p15+deluxe,3.6l+218cid+l6,1486874", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1948, "model": "P15 DELUXE"}}}
-{"node_type": "carcode", "href": "/en/catalog/plymouth,1949,suburban,3.8l+230cid+l6,1487076", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1949, "model": "SUBURBAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/plymouth,1946,p15+deluxe,3.6l+218cid+l6,1486539", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1946, "model": "P15 DELUXE"}}}
-{"node_type": "carcode", "href": "/en/catalog/plymouth,1946,special+deluxe,218cid+l6,124606", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1946, "model": "SPECIAL DELUXE"}}}

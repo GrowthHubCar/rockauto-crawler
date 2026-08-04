@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2026,saveiro", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2026, "model": "SAVEIRO"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2026,golf+r,2.0l+l4+turbocharged,3459200", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2026, "model": "GOLF R"}}}

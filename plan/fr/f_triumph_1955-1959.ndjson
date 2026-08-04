@@ -4,5 +4,3 @@
 {"node_type": "model", "href": "/en/catalog/triumph,1957,tr3", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1957, "model": "TR3"}}}
 {"node_type": "model", "href": "/en/catalog/triumph,1955,tr2", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1955, "model": "TR2"}}}
 {"node_type": "model", "href": "/en/catalog/triumph,1956,tr2", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1956, "model": "TR2"}}}
-{"node_type": "carcode", "href": "/en/catalog/triumph,1955,tr3,2.0l+l4,1488169", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1955, "model": "TR3"}}}
-{"node_type": "carcode", "href": "/en/catalog/triumph,1956,tr3,2.0l+l4,1436212", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1956, "model": "TR3"}}}

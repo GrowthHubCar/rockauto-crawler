@@ -1,2 +1,1 @@
 {"node_type": "model", "href": "/en/catalog/vespa,1960,400", "payload": {"nodetype": "model", "ctx": {"make": "VESPA", "year": 1960, "model": "400"}}}
-{"node_type": "carcode", "href": "/en/catalog/vespa,1961,400,393cc+l2,1438638", "payload": {"nodetype": "carcode", "ctx": {"make": "VESPA", "year": 1961, "model": "400"}}}

@@ -3,7 +3,3 @@
 {"node_type": "model", "href": "/en/catalog/chirey,2024,tiggo+7pro", "payload": {"nodetype": "model", "ctx": {"make": "CHIREY", "year": 2024, "model": "TIGGO 7PRO"}}}
 {"node_type": "model", "href": "/en/catalog/chirey,2024,tiggo+4pro", "payload": {"nodetype": "model", "ctx": {"make": "CHIREY", "year": 2024, "model": "TIGGO 4PRO"}}}
 {"node_type": "model", "href": "/en/catalog/chirey,2024,arrizo+8", "payload": {"nodetype": "model", "ctx": {"make": "CHIREY", "year": 2024, "model": "ARRIZO 8"}}}
-{"node_type": "carcode", "href": "/en/catalog/chirey,2023,omoda+5,1.5l+l4,3454305", "payload": {"nodetype": "carcode", "ctx": {"make": "CHIREY", "year": 2023, "model": "OMODA 5"}}}
-{"node_type": "carcode", "href": "/en/catalog/chirey,2023,tiggo+8pro,2.0l+l4+turbocharged,3452749", "payload": {"nodetype": "carcode", "ctx": {"make": "CHIREY", "year": 2023, "model": "TIGGO 8PRO"}}}
-{"node_type": "carcode", "href": "/en/catalog/chirey,2023,tiggo+4pro,1.5l+l4,3454306", "payload": {"nodetype": "carcode", "ctx": {"make": "CHIREY", "year": 2023, "model": "TIGGO 4PRO"}}}
-{"node_type": "carcode", "href": "/en/catalog/chirey,2023,tiggo+7pro,1.5l+l4,3452748", "payload": {"nodetype": "carcode", "ctx": {"make": "CHIREY", "year": 2023, "model": "TIGGO 7PRO"}}}

@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2021,tahoe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2021, "model": "TAHOE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2022,groove", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2022, "model": "GROOVE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2022,cheyenne+nueva", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2022, "model": "CHEYENNE NUEVA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2024,montana", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "MONTANA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2022,tahoe,3.0l+l6+diesel+turbocharged,3450543", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2022, "model": "TAHOE"}}}

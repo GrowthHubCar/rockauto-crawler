@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volvo,2020,xc40", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2020, "model": "XC40"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,2022,s60,2.0l+l4+electric/gas+turbocharged,3450977", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 2022, "model": "S60"}}}

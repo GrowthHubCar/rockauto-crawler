@@ -5,4 +5,3 @@
 {"node_type": "model", "href": "/en/catalog/reo,1916,model+m", "payload": {"nodetype": "model", "ctx": {"make": "REO", "year": 1916, "model": "MODEL M"}}}
 {"node_type": "model", "href": "/en/catalog/reo,1917,model+m", "payload": {"nodetype": "model", "ctx": {"make": "REO", "year": 1917, "model": "MODEL M"}}}
 {"node_type": "model", "href": "/en/catalog/reo,1918,model+m", "payload": {"nodetype": "model", "ctx": {"make": "REO", "year": 1918, "model": "MODEL M"}}}
-{"node_type": "carcode", "href": "/en/catalog/reo,1916,the+fifth,4cyl,951951", "payload": {"nodetype": "carcode", "ctx": {"make": "REO", "year": 1916, "model": "THE FIFTH"}}}

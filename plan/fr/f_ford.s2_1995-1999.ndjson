@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/ford,1996,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "RANGER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,sable", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "SABLE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,mystique", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "MYSTIQUE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "F-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,e-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "E-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,bronco", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "BRONCO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,escort", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "ESCORT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,b+series+bus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "B SERIES BUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1998,taurus,3.4l+v8,1304626", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1998, "model": "TAURUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1998,ranger,electric,1304503", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1998, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1997,f-150,4.2l+v6,1122455", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1997, "model": "F-150"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1997,escort,2.0l+l4,1119361", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1997, "model": "ESCORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1998,sable,3.0l+v6,951481", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1998, "model": "SABLE"}}}

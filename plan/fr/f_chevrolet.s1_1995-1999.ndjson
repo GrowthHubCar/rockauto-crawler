@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1995,stepvan", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1995, "model": "STEPVAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,corvette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "CORVETTE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,k1500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "K1500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1997,bus", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "BUS"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,c1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "C1500 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1997,g30,6.5l+v8+diesel+turbocharged,1048711", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "G30"}}}

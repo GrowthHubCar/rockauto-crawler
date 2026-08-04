@@ -1,10 +1,1 @@
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1958,silver+cloud,4.9l+l6,1396908", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1958, "model": "SILVER CLOUD"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1957,silver+wraith,4.9l+l6,1397336", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1957, "model": "SILVER WRAITH"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1955,silver+cloud,4.9l+l6,1396874", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1955, "model": "SILVER CLOUD"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1956,silver+wraith,4.9l+l6,1397325", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1956, "model": "SILVER WRAITH"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1957,silver+cloud,4.9l+l6,1396896", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1957, "model": "SILVER CLOUD"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1959,silver+cloud,6.2l+v8,1396919", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1959, "model": "SILVER CLOUD"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1955,silver+wraith,4.9l+l6,1397314", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1955, "model": "SILVER WRAITH"}}}
 {"node_type": "carcode", "href": "/en/catalog/rolls-royce,1959,phantom,6.2l+v8,1489395", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1959, "model": "PHANTOM"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1958,silver+wraith,4.9l+l6,1397347", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1958, "model": "SILVER WRAITH"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1956,silver+cloud,4.9l+l6,1396885", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1956, "model": "SILVER CLOUD"}}}

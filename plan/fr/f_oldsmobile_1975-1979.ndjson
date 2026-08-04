@@ -45,32 +45,18 @@
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1979,cutlass+salon", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1979, "model": "CUTLASS SALON"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1978,cutlass+calais", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1978, "model": "CUTLASS CALAIS"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1979,cutlass+calais", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1979, "model": "CUTLASS CALAIS"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1979,toronado,5.7l+350cid+v8,1225819", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1979, "model": "TORONADO"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1979,toronado,5.7l+350cid+v8+diesel,1225808", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1979, "model": "TORONADO"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1979,delta+88,5.7l+350cid+v8+diesel,1214255", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1979, "model": "DELTA 88"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1979,cutlass+salon,4.3l+260cid+v8+diesel,1218080", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1979, "model": "CUTLASS SALON"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1976,cutlass+supreme,4.1l+250cid+l6,1221871", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1976, "model": "CUTLASS SUPREME"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1978,cutlass+cruiser,3.8l+231cid+v6,1221163", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1978, "model": "CUTLASS CRUISER"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1978,delta+88,3.8l+231cid+v6,1214121", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1978, "model": "DELTA 88"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1979,cutlass+salon,5.7l+350cid+v8,1430323", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1979, "model": "CUTLASS SALON"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1975,delta+88,6.6l+400cid+v8,1440848", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1975, "model": "DELTA 88"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1979,omega,5.0l+305cid+v8,1224874", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1979, "model": "OMEGA"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1979,starfire,2.5l+151cid+l4,1225549", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1979, "model": "STARFIRE"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1978,omega,5.0l+305cid+v8,1224795", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1978, "model": "OMEGA"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1977,cutlass,5.7l+350cid+v8,1430327", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1977, "model": "CUTLASS"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1979,starfire,5.0l+305cid+v8,1225572", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1979, "model": "STARFIRE"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1975,delta+88,7.5l+455cid+v8,1213906", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1975, "model": "DELTA 88"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1979,cutlass+supreme,5.0l+305cid+v8,1222197", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1979, "model": "CUTLASS SUPREME"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1977,cutlass+salon,4.3l+260cid+v8,1217944", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1977, "model": "CUTLASS SALON"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1978,cutlass+supreme,5.7l+350cid+v8,1419487", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1978, "model": "CUTLASS SUPREME"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1977,custom+cruiser,6.6l+403cid+v8,1217348", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1977, "model": "CUSTOM CRUISER"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1976,cutlass+salon,7.5l+455cid+v8,1217898", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1976, "model": "CUTLASS SALON"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1975,omega,4.1l+250cid+l6,1224414", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1975, "model": "OMEGA"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1976,cutlass,7.5l+455cid+v8,1217865", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1976, "model": "CUTLASS"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1977,98,5.7l+350cid+v8,1215751", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1977, "model": "98"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1976,cutlass,4.3l+260cid+v8,1217843", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1976, "model": "CUTLASS"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1977,cutlass+salon,5.7l+350cid+v8,1217955", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1977, "model": "CUTLASS SALON"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1977,omega,3.8l+231cid+v6,1224649", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1977, "model": "OMEGA"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1979,cutlass+cruiser,5.0l+305cid+v8,1221264", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1979, "model": "CUTLASS CRUISER"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1979,starfire,3.8l+231cid+v6,1225561", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1979, "model": "STARFIRE"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1977,cutlass+salon,6.6l+403cid+v8,1217966", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1977, "model": "CUTLASS SALON"}}}

@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/ford,1968,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1968, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1968,torino", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1968, "model": "TORINO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1966,custom", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1966, "model": "CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1965,econoline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1965, "model": "ECONOLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,mustang,7.0l+429cid+v8,1495144", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,falcon+sedan+delivery,4.7l+289cid+v8,1333493", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "FALCON SEDAN DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,p-350,2.8l+170cid+l6,1492979", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "P-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,ranchero,3.3l+200cid+l6,1332403", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,galaxie,6.4l+390cid+v8,1128440", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "GALAXIE"}}}

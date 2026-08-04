@@ -1,10 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/pontiac,1940,special+series+25", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1940, "model": "SPECIAL SERIES 25"}}}
 {"node_type": "model", "href": "/en/catalog/pontiac,1940,deluxe+series+28", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1940, "model": "DELUXE SERIES 28"}}}
 {"node_type": "model", "href": "/en/catalog/pontiac,1942,streamliner", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1942, "model": "STREAMLINER"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1941,custom,all+engines,2002466", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1941, "model": "CUSTOM"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1940,deluxe+series+26,3.6l+223cid+l6,2002434", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1940, "model": "DELUXE SERIES 26"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1942,torpedo,3.9l+239cid+l6,1486296", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1942, "model": "TORPEDO"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1940,torpedo+series+29,4.1l+249cid+l8,1486058", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1940, "model": "TORPEDO SERIES 29"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1941,torpedo,4.1l+249cid+l8,1486176", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1941, "model": "TORPEDO"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1942,torpedo,4.1l+249cid+l8,1486297", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1942, "model": "TORPEDO"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1941,torpedo,3.9l+239cid+l6,124625", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1941, "model": "TORPEDO"}}}

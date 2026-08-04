@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2017,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2017, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2016,malibu,1.8l+l4+electric/gas,3353754", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "MALIBU"}}}

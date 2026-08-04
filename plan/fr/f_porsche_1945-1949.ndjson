@@ -1,2 +1,1 @@
 {"node_type": "model", "href": "/en/catalog/porsche,1948,356", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1948, "model": "356"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,1949,356,1.1l+66cid+h4,1396212", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1949, "model": "356"}}}

@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2011,slk350", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "SLK350"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2012,slk200", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2012, "model": "SLK200"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2014,viano", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2014, "model": "VIANO"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2011,r350", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "R350"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2011,r350,3.0l+v6+diesel+turbocharged,1447607", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "R350"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2012,c250,1.8l+l4+turbocharged,1503177", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2012, "model": "C250"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2011,e63+amg,6.3l+v8,1447595", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "E63 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2011,s500,5.5l+v12+turbocharged,3015305", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "S500"}}}

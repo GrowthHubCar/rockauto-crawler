@@ -2,21 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/buick,1959,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1959, "model": "LESABRE"}}}
 {"node_type": "model", "href": "/en/catalog/buick,1959,invicta", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1959, "model": "INVICTA"}}}
 {"node_type": "model", "href": "/en/catalog/buick,1959,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1959, "model": "ESTATE WAGON"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1957,special,6.0l+364cid+v8,1319936", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1957, "model": "SPECIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1959,lesabre,6.6l+401cid+v8,1489122", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1959, "model": "LESABRE"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1956,century,5.3l+322cid+v8,1319958", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1956, "model": "CENTURY"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1957,super,6.0l+364cid+v8,1319947", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1957, "model": "SUPER"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1958,limited,6.0l+364cid+v8,1319879", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1958, "model": "LIMITED"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1956,special,5.3l+322cid+v8,1319970", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1956, "model": "SPECIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1957,roadmaster,6.0l+364cid+v8,1319925", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1957, "model": "ROADMASTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1956,super,5.3l+322cid+v8,1319981", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1956, "model": "SUPER"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1956,roadmaster,5.3l+322cid+v8,1319969", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1956, "model": "ROADMASTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1955,century,5.3l+322cid+v8,1319992", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1955, "model": "CENTURY"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1959,electra,6.6l+401cid+v8,1319835", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1959, "model": "ELECTRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1958,super,6.0l+364cid+v8,1319903", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1958, "model": "SUPER"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1955,roadmaster,5.3l+322cid+v8,1320006", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1955, "model": "ROADMASTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1955,super,5.3l+322cid+v8,1320028", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1955, "model": "SUPER"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1955,special,4.3l+264cid+v8,1320017", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1955, "model": "SPECIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1957,century,6.0l+364cid+v8,1319914", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1957, "model": "CENTURY"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1958,special,6.0l+364cid+v8,1319891", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1958, "model": "SPECIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1958,century,6.0l+364cid+v8,1319868", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1958, "model": "CENTURY"}}}

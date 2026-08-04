@@ -11,13 +11,3 @@
 {"node_type": "model", "href": "/en/catalog/saab,1971,99", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1971, "model": "99"}}}
 {"node_type": "model", "href": "/en/catalog/saab,1972,99", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1972, "model": "99"}}}
 {"node_type": "model", "href": "/en/catalog/saab,1973,99", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1973, "model": "99"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1970,99,1.7l+l4,1405101", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1970, "model": "99"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1973,99,2.0l+l4,1437383", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1973, "model": "99"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1972,99,1.9l+l4,1437381", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1972, "model": "99"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1973,sonett,1.7l+v4,1266713", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1973, "model": "SONETT"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1970,96,1.7l+v4,1496712", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1970, "model": "96"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1974,99,2.0l+l4,1406708", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1974, "model": "99"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1971,99,1.9l+l4,1405820", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1971, "model": "99"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1972,99,2.0l+l4,1378650", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1972, "model": "99"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1972,sonett,1.7l+v4,1498747", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1972, "model": "SONETT"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,1974,sonett,1.7l+v4,1266724", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1974, "model": "SONETT"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1966,1800ti", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1966, "model": "1800TI"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1968,1600-2", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1968, "model": "1600-2"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1969,2000tii", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1969, "model": "2000TII"}}}

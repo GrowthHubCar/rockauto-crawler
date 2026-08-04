@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/ford,1988,f-800", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1988, "model": "F-800"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1986,f-350,5.8l+351cid+v8,1126336", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1986, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1988,l+series+truck,6.6l+401cid+l6+diesel+turbocharged,3296501", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1988, "model": "L SERIES TRUCK"}}}

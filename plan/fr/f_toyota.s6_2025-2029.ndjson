@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2025,sequoia", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2025, "model": "SEQUOIA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2026,corolla+cross", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2026, "model": "COROLLA CROSS"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2025,avanza,1.5l+l4,3458250", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2025, "model": "AVANZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2025,4runner,2.4l+l4+electric/gas+turbocharged,3458785", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2025, "model": "4RUNNER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2026,camry,2.5l+l4+electric/gas,3458786", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2026, "model": "CAMRY"}}}

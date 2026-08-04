@@ -19,15 +19,10 @@
 {"node_type": "model", "href": "/en/catalog/isuzu,2023,elf", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2023, "model": "ELF"}}}
 {"node_type": "model", "href": "/en/catalog/isuzu,2024,elf", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2024, "model": "ELF"}}}
 {"node_type": "carcode", "href": "/en/catalog/isuzu,2022,npr,6.6l+v8,3451140", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2022, "model": "NPR"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2020,f+series+truck,5.2l+l4+diesel+turbocharged,3444855", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2020, "model": "F SERIES TRUCK"}}}
 {"node_type": "carcode", "href": "/en/catalog/isuzu,2024,nrr,6.6l+v8,3455309", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2024, "model": "NRR"}}}
 {"node_type": "carcode", "href": "/en/catalog/isuzu,2023,npr,6.6l+v8,3452780", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2023, "model": "NPR"}}}
 {"node_type": "carcode", "href": "/en/catalog/isuzu,2022,nrr,6.0l+v8,3450735", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2022, "model": "NRR"}}}
 {"node_type": "carcode", "href": "/en/catalog/isuzu,2022,npr,5.2l+l4+diesel+turbocharged,3450731", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2022, "model": "NPR"}}}
 {"node_type": "carcode", "href": "/en/catalog/isuzu,2021,npr,6.6l+v8,3451139", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2021, "model": "NPR"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2022,nrr,5.2l+l4+diesel+turbocharged,3450734", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2022, "model": "NRR"}}}
 {"node_type": "carcode", "href": "/en/catalog/isuzu,2023,nrr,5.2l+l4+diesel+turbocharged,3452782", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2023, "model": "NRR"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2021,nrr,5.2l+l4+diesel+turbocharged,3449082", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2021, "model": "NRR"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2021,nqr,5.2l+l4+diesel+turbocharged,3449081", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2021, "model": "NQR"}}}
-{"node_type": "carcode", "href": "/en/catalog/isuzu,2020,elf,3.0l+l4+diesel+turbocharged,3454947", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2020, "model": "ELF"}}}
 {"node_type": "carcode", "href": "/en/catalog/isuzu,2023,f+series+truck,6.7l+l6+diesel+turbocharged,3454392", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2023, "model": "F SERIES TRUCK"}}}

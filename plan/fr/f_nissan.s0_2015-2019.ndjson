@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/nissan,2018,sentra", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2018, "model": "SENTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2017,kicks,1.6l+l4,3437008", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2017, "model": "KICKS"}}}

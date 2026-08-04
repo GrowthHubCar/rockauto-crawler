@@ -7,4 +7,3 @@
 {"node_type": "model", "href": "/en/catalog/triumph,1952,mayflower", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1952, "model": "MAYFLOWER"}}}
 {"node_type": "model", "href": "/en/catalog/triumph,1953,mayflower", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1953, "model": "MAYFLOWER"}}}
 {"node_type": "model", "href": "/en/catalog/triumph,1954,tr2", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1954, "model": "TR2"}}}
-{"node_type": "carcode", "href": "/en/catalog/triumph,1953,tr2,2.0l+l4,1487726", "payload": {"nodetype": "carcode", "ctx": {"make": "TRIUMPH", "year": 1953, "model": "TR2"}}}

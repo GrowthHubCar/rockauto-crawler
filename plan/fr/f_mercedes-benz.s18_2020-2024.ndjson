@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2021,e300", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2021, "model": "E300"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2023,gle450+suv", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "GLE450 SUV"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2024,s63+amg,4.0l+v8+electric/gas+turbocharged,3455670", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2024, "model": "S63 AMG"}}}

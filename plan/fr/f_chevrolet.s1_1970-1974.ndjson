@@ -1,0 +1,18 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1971,bel+air", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1971, "model": "BEL AIR"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1973,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1973, "model": "IMPALA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1973,p20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1973, "model": "P20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1972,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1972, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1974,monte+carlo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1974, "model": "MONTE CARLO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1971,kingswood", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1971, "model": "KINGSWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1973,k20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1973, "model": "K20 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1973,k30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1973, "model": "K30 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1974,g30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1974, "model": "G30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1970,caprice", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1970, "model": "CAPRICE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1973,c20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1973, "model": "C20 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1972,blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1972, "model": "BLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1972,c30+pickup,4.8l+292cid+l6,1033591", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1972, "model": "C30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1970,k30+pickup,4.1l+250cid+l6,1308125", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1970, "model": "K30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1971,townsman,7.4l+454cid+v8,1496951", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1971, "model": "TOWNSMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1972,k20+pickup,5.0l+307cid+v8,1440731", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1972, "model": "K20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1970,nova,5.7l+350cid+v8,1056945", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1970, "model": "NOVA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1972,k10+pickup,6.6l+402cid+v8,1497963", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1972, "model": "K10 PICKUP"}}}

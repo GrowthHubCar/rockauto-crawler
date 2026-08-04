@@ -1,15 +1,1 @@
 {"node_type": "model", "href": "/en/catalog/porsche,1970,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1970, "model": "911"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,1971,914,1.7l+h4,1263136", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1971, "model": "914"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,1973,914,1.7l+h4,1263169", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1973, "model": "914"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,1972,914,1.7l+h4,1263158", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1972, "model": "914"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,1972,911,2.3l+h6,1433479", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1972, "model": "911"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,1973,914,2.0l+h4,1499712", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1973, "model": "914"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,1974,914,2.0l+h4,1500866", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1974, "model": "914"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,1971,914,2.0l+h6,1263147", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1971, "model": "914"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,1973,911,2.3l+h6,1433482", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1973, "model": "911"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,1974,914,1.8l+h4,1263170", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1974, "model": "914"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,1972,914,2.0l+h6,1433944", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1972, "model": "914"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,1974,911,2.7l+h6,1262483", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1974, "model": "911"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,1970,914,1.7l+h4,1291452", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1970, "model": "914"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,1970,914,2.0l+h6,1291463", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1970, "model": "914"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,1971,911,2.2l+h6,1262393", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 1971, "model": "911"}}}

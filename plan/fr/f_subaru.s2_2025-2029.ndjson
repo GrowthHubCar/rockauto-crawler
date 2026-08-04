@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/subaru,2025,solterra", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2025, "model": "SOLTERRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2026,ascent,2.4l+h4+turbocharged,3459633", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2026, "model": "ASCENT"}}}

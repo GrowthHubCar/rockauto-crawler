@@ -7,4 +7,3 @@
 {"node_type": "model", "href": "/en/catalog/aston+martin,1967,dbs", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1967, "model": "DBS"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,1968,dbs", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1968, "model": "DBS"}}}
 {"node_type": "model", "href": "/en/catalog/aston+martin,1969,dbs", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1969, "model": "DBS"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,1969,dbs,5.3l+v8,1436314", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 1969, "model": "DBS"}}}

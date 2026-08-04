@@ -18,5 +18,3 @@
 {"node_type": "model", "href": "/en/catalog/fargo,1958,fl8+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1958, "model": "FL8 PANEL DELIVERY"}}}
 {"node_type": "model", "href": "/en/catalog/fargo,1958,fl6+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1958, "model": "FL6 PICKUP"}}}
 {"node_type": "model", "href": "/en/catalog/fargo,1958,fl6+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1958, "model": "FL6 PANEL DELIVERY"}}}
-{"node_type": "carcode", "href": "/en/catalog/fargo,1956,fc4b+pickup,4.4l+270cid+v8,1488262", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1956, "model": "FC4B PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/fargo,1956,fc4b+panel+delivery,4.1l+251cid+l6,1488259", "payload": {"nodetype": "carcode", "ctx": {"make": "FARGO", "year": 1956, "model": "FC4B PANEL DELIVERY"}}}

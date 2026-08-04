@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/ford,1975,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1975, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1978,f-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1978, "model": "F-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1978,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1978, "model": "E-250"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1976,maverick,4.7l+289cid+v8,3443040", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1976, "model": "MAVERICK"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1978,f-250,5.0l+302cid+v8,1123175", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1978, "model": "F-250"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1976,gran+torino,7.5l+460cid+v8,1129676", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1976, "model": "GRAN TORINO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1975,e-100,5.0l+302cid+v8,1109641", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1975, "model": "E-100"}}}

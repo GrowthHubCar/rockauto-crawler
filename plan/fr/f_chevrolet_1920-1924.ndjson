@@ -6,5 +6,3 @@
 {"node_type": "model", "href": "/en/catalog/chevrolet,1924,superior+f", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1924, "model": "SUPERIOR F"}}}
 {"node_type": "carcode", "href": "/en/catalog/chevrolet,1920,truck,all+engines,952001", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1920, "model": "TRUCK"}}}
 {"node_type": "carcode", "href": "/en/catalog/chevrolet,1922,truck,all+engines,952041", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1922, "model": "TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1923,superior,all+engines,3396128", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1923, "model": "SUPERIOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1922,490,all+engines,3396004", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1922, "model": "490"}}}

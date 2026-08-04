@@ -9,25 +9,9 @@
 {"node_type": "model", "href": "/en/catalog/ford,1939,1+ton+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1939, "model": "1 TON PICKUP"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1939,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1939, "model": "DELUXE"}}}
 {"node_type": "carcode", "href": "/en/catalog/ford,1937,sedan+delivery,3.6l+221cid+v8,1485791", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1937, "model": "SEDAN DELIVERY"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1937,1+ton+pickup,2.3l+136cid+v8,1485782", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1937, "model": "1 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1938,model+82+a,2.3l+136cid+v8,1485857", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1938, "model": "MODEL 82 A"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1938,1/2+ton+pickup,2.2l+136cid+v8,2002300", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1938, "model": "1/2 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1938,sedan+delivery,2.3l+136cid+v8,1485858", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1938, "model": "SEDAN DELIVERY"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1936,68+(1/2+ton),136cid+v8,123937", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1936, "model": "68 (1/2 TON)"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1939,standard,2.3l+136cid+v8,1485937", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1939, "model": "STANDARD"}}}
 {"node_type": "carcode", "href": "/en/catalog/ford,1938,3/4+ton+pickup,2.3l+136cid+v8,1485854", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1938, "model": "3/4 TON PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/ford,1938,sedan+delivery,3.6l+221cid+v8,1485859", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1938, "model": "SEDAN DELIVERY"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1935,model+50,all+engines,3294152", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1935, "model": "MODEL 50"}}}
 {"node_type": "carcode", "href": "/en/catalog/ford,1939,3/4+ton+pickup,3.9l+239cid+v8,1485932", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1939, "model": "3/4 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1938,1+ton+pickup,2.3l+136cid+v8,1485850", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1938, "model": "1 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1939,1/2+ton+pickup,2.3l+136cid+v8,1485927", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1939, "model": "1/2 TON PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/ford,1937,1/2+ton+pickup,3.6l+221cid+v8,1485785", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1937, "model": "1/2 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1937,1/2+ton+pickup,2.3l+136cid+v8,1485784", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1937, "model": "1/2 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1938,model+81+a,3.6l+221cid+v8,1485856", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1938, "model": "MODEL 81 A"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1937,model+74,2.3l+136cid+v8,952837", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1937, "model": "MODEL 74"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1937,sedan+delivery,2.3l+136cid+v8,1485790", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1937, "model": "SEDAN DELIVERY"}}}
 {"node_type": "carcode", "href": "/en/catalog/ford,1939,1/2+ton+pickup,3.9l+239cid+v8,1485929", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1939, "model": "1/2 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1935,model+48,3.6l+221cid+v8,124689", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1935, "model": "MODEL 48"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1937,model+78,3.6l+221cid+v8,124320", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1937, "model": "MODEL 78"}}}
 {"node_type": "carcode", "href": "/en/catalog/ford,1937,3/4+ton+pickup,3.6l+221cid+v8,1485787", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1937, "model": "3/4 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1938,model+85,all+engines,2002301", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1938, "model": "MODEL 85"}}}

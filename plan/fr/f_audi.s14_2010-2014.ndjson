@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/audi,2011,a1", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2011, "model": "A1"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2013,a3,2.0l+l4+turbocharged,3015120", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2013, "model": "A3"}}}

@@ -14,7 +14,6 @@
 {"node_type": "carcode", "href": "/en/catalog/land+rover,2026,defender+110,3.0l+l6+turbocharged,3459603", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2026, "model": "DEFENDER 110"}}}
 {"node_type": "carcode", "href": "/en/catalog/land+rover,2025,defender+110,4.4l+v8+turbocharged,3458021", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2025, "model": "DEFENDER 110"}}}
 {"node_type": "carcode", "href": "/en/catalog/land+rover,2026,defender+90,5.0l+v8+supercharged,3459608", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2026, "model": "DEFENDER 90"}}}
-{"node_type": "carcode", "href": "/en/catalog/land+rover,2025,defender+130,5.0l+v8+supercharged,3455610", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2025, "model": "DEFENDER 130"}}}
 {"node_type": "carcode", "href": "/en/catalog/land+rover,2026,defender+130,3.0l+l6+turbocharged,3459606", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2026, "model": "DEFENDER 130"}}}
 {"node_type": "carcode", "href": "/en/catalog/land+rover,2026,range+rover+sport,3.0l+l6+electric/gas+turbocharged,3459610", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2026, "model": "RANGE ROVER SPORT"}}}
 {"node_type": "carcode", "href": "/en/catalog/land+rover,2026,range+rover+evoque,2.0l+l4+turbocharged,3459431", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2026, "model": "RANGE ROVER EVOQUE"}}}
@@ -24,7 +23,6 @@
 {"node_type": "carcode", "href": "/en/catalog/land+rover,2026,defender+110,4.4l+v8+turbocharged,3459604", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2026, "model": "DEFENDER 110"}}}
 {"node_type": "carcode", "href": "/en/catalog/land+rover,2025,range+rover,3.0l+l6+turbocharged,3455835", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2025, "model": "RANGE ROVER"}}}
 {"node_type": "carcode", "href": "/en/catalog/land+rover,2025,range+rover+velar,3.0l+l6+turbocharged,3455612", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2025, "model": "RANGE ROVER VELAR"}}}
-{"node_type": "carcode", "href": "/en/catalog/land+rover,2026,defender+130,5.0l+v8+supercharged,3459607", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2026, "model": "DEFENDER 130"}}}
 {"node_type": "carcode", "href": "/en/catalog/land+rover,2026,range+rover+velar,2.0l+l4+electric/gas+turbocharged,3461955", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2026, "model": "RANGE ROVER VELAR"}}}
 {"node_type": "carcode", "href": "/en/catalog/land+rover,2026,range+rover+sport,4.4l+v8+turbocharged,3459612", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2026, "model": "RANGE ROVER SPORT"}}}
 {"node_type": "carcode", "href": "/en/catalog/land+rover,2026,range+rover+evoque,1.5l+l3+electric/gas+turbocharged,3461954", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2026, "model": "RANGE ROVER EVOQUE"}}}

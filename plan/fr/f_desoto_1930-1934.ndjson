@@ -7,6 +7,3 @@
 {"node_type": "model", "href": "/en/catalog/desoto,1931,model+sa", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1931, "model": "MODEL SA"}}}
 {"node_type": "model", "href": "/en/catalog/desoto,1932,model+sa", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1932, "model": "MODEL SA"}}}
 {"node_type": "model", "href": "/en/catalog/desoto,1932,model+sc", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1932, "model": "MODEL SC"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1931,model+cf,3.6l+221cid+l8,1485491", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1931, "model": "MODEL CF"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1933,model+sd,218cid+l6,952571", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1933, "model": "MODEL SD"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1934,se+airflow,4.0l+242cid+l6,123867", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1934, "model": "SE AIRFLOW"}}}

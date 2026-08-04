@@ -1,6 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/panoz,2002,esperante", "payload": {"nodetype": "model", "ctx": {"make": "PANOZ", "year": 2002, "model": "ESPERANTE"}}}
 {"node_type": "model", "href": "/en/catalog/panoz,2000,aiv+roadster", "payload": {"nodetype": "model", "ctx": {"make": "PANOZ", "year": 2000, "model": "AIV ROADSTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/panoz,2001,esperante,4.6l+v8,1374645", "payload": {"nodetype": "carcode", "ctx": {"make": "PANOZ", "year": 2001, "model": "ESPERANTE"}}}
-{"node_type": "carcode", "href": "/en/catalog/panoz,2004,esperante,4.6l+v8,1428511", "payload": {"nodetype": "carcode", "ctx": {"make": "PANOZ", "year": 2004, "model": "ESPERANTE"}}}
-{"node_type": "carcode", "href": "/en/catalog/panoz,2004,esperante,4.6l+v8+supercharged,1429747", "payload": {"nodetype": "carcode", "ctx": {"make": "PANOZ", "year": 2004, "model": "ESPERANTE"}}}
-{"node_type": "carcode", "href": "/en/catalog/panoz,2003,esperante,4.6l+v8,1417508", "payload": {"nodetype": "carcode", "ctx": {"make": "PANOZ", "year": 2003, "model": "ESPERANTE"}}}

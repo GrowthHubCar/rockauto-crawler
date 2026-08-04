@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/audi,2025,a3", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2025, "model": "A3"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2025,a7", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2025, "model": "A7"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2026,q8,3.0l+v6+turbocharged,3459054", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2026, "model": "Q8"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2025,s5,3.0l+v6+turbocharged,3457735", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2025, "model": "S5"}}}

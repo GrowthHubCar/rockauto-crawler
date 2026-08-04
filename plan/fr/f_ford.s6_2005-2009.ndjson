@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/ford,2006,f-650", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "F-650"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,five+hundred", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "FIVE HUNDRED"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,e-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "E-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,lcf,4.5l+v6+diesel+turbocharged,3294786", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "LCF"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,explorer,4.0l+v6,1441674", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "EXPLORER"}}}

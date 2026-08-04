@@ -15,18 +15,3 @@
 {"node_type": "model", "href": "/en/catalog/chrysler,1934,airflow+series+cu", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1934, "model": "AIRFLOW SERIES CU"}}}
 {"node_type": "model", "href": "/en/catalog/chrysler,1933,royal+series+ct", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1933, "model": "ROYAL SERIES CT"}}}
 {"node_type": "model", "href": "/en/catalog/chrysler,1933,imperial+series+cq", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1933, "model": "IMPERIAL SERIES CQ"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1931,series+cd,4.3l+261cid+l8,1485484", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1931, "model": "SERIES CD"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1930,series+cj,3.2l+196cid+l6,123839", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1930, "model": "SERIES CJ"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1930,series+80+l+imperial,5.0l+309cid+l6,2001712", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1930, "model": "SERIES 80 L IMPERIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1934,airflow+series+cu,4.9l+299cid+l8,1485605", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1934, "model": "AIRFLOW SERIES CU"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1930,series+cg+imperial,5.0l+309cid+l6,2002815", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1930, "model": "SERIES CG IMPERIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1930,series+77,4.4l+268cid+l6,123833", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1930, "model": "SERIES 77"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1934,imperial+airflow+series+cv,5.3l+324cid+l8,1485606", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1934, "model": "IMPERIAL AIRFLOW SERIES CV"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1931,series+cg+imperial,6.3l+384cid+l8,123837", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1931, "model": "SERIES CG IMPERIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1934,imperial+custom+airflow+series+cw,6.3l+384cid+l8,1485607", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1934, "model": "IMPERIAL CUSTOM AIRFLOW SERIES CW"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1932,series+ch,6.3l+384cid+l8,952486", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1932, "model": "SERIES CH"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1932,series+ci,3.7l+224cid+l6,123838", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1932, "model": "SERIES CI"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1934,series+cb,4.0l+242cid+l6,123835", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1934, "model": "SERIES CB"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1931,series+six+cm,3.6l+218cid+l6,123840", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1931, "model": "SERIES SIX CM"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1933,series+co,3.7l+224cid+l6,123841", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1933, "model": "SERIES CO"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1933,imperial+custom+series+cl,6.3l+384cid+l8,952568", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1933, "model": "IMPERIAL CUSTOM SERIES CL"}}}

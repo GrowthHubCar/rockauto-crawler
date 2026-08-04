@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/ford,2004,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2004, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2003,f-450+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2003, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2004,fiesta", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2004, "model": "FIESTA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2003,f-350+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2003, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2004,expedition", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2004, "model": "EXPEDITION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2003,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2003, "model": "E-150"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2003,mustang,4.6l+v8+dohc,1415090", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2003, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2004,lobo,5.4l+v8,951459", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2004, "model": "LOBO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2004,lobo,4.6l+v8,951451", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2004, "model": "LOBO"}}}

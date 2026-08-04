@@ -1,3 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/lasalle,1928,series+303", "payload": {"nodetype": "model", "ctx": {"make": "LASALLE", "year": 1928, "model": "SERIES 303"}}}
 {"node_type": "model", "href": "/en/catalog/lasalle,1929,series+328", "payload": {"nodetype": "model", "ctx": {"make": "LASALLE", "year": 1929, "model": "SERIES 328"}}}
-{"node_type": "carcode", "href": "/en/catalog/lasalle,1927,series+303,303cid+v8,2001436", "payload": {"nodetype": "carcode", "ctx": {"make": "LASALLE", "year": 1927, "model": "SERIES 303"}}}

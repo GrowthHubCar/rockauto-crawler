@@ -31,73 +31,32 @@
 {"node_type": "model", "href": "/en/catalog/dodge,1979,cb300", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1979, "model": "CB300"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,1975,b100", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1975, "model": "B100"}}}
 {"node_type": "model", "href": "/en/catalog/dodge,1976,b100", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1976, "model": "B100"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1979,w200+pickup,5.9l+360cid+v8,1100888", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1979, "model": "W200 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1977,cb300,5.9l+360cid+v8,1078220", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1977, "model": "CB300"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1975,ramcharger,3.7l+225cid+l6,1096646", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1975, "model": "RAMCHARGER"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1978,w150+pickup,7.2l+440cid+v8,1099784", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1978, "model": "W150 PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1976,w200+pickup,3.7l+225cid+l6,1100686", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1976, "model": "W200 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1979,aspen,3.7l+225cid+l6,1069703", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1979, "model": "ASPEN"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1979,st.+regis,5.2l+318cid+v8,1098558", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1979, "model": "ST. REGIS"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1977,w300+pickup,7.2l+440cid+v8,1101744", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1977, "model": "W300 PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1975,ramcharger,5.2l+318cid+v8,1096668", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1975, "model": "RAMCHARGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1979,rd200,5.9l+360cid+v8,1430538", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1979, "model": "RD200"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1976,aspen,5.2l+318cid+v8,1069411", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1976, "model": "ASPEN"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1978,w200+pickup,4.0l+243cid+l6+diesel,1100798", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1978, "model": "W200 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1978,b300,7.2l+440cid+v8,1075115", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1978, "model": "B300"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1977,b100,5.9l+360cid+v8,1070378", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1977, "model": "B100"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1978,monaco,3.7l+225cid+l6,1093609", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1978, "model": "MONACO"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1979,d100+pickup,5.2l+318cid+v8,1084069", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1979, "model": "D100 PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1979,w200+pickup,4.0l+243cid+l6+diesel,1100855", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1979, "model": "W200 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1979,w200+pickup,5.2l+318cid+v8,1100866", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1979, "model": "W200 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1976,d300+pickup,5.2l+318cid+v8,1086601", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1976, "model": "D300 PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1978,b200,7.2l+440cid+v8,1072471", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1978, "model": "B200"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1977,ramcharger,7.2l+440cid+v8,1096804", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1977, "model": "RAMCHARGER"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1975,dart,3.7l+225cid+l6,1088928", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1975, "model": "DART"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1976,ramcharger,6.6l+400cid+v8,1096736", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1976, "model": "RAMCHARGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1977,d200+pickup,6.6l+400cid+v8,1085475", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1977, "model": "D200 PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1976,coronet,6.6l+400cid+v8,1083305", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1976, "model": "CORONET"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1977,aspen,3.7l+225cid+l6,1069501", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1977, "model": "ASPEN"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1975,w300+pickup,5.2l+318cid+v8,1101621", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1975, "model": "W300 PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1975,ramcharger,7.2l+440cid+v8,1096691", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1975, "model": "RAMCHARGER"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1977,b200,6.6l+400cid+v8,1072268", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1977, "model": "B200"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1975,d300+pickup,5.2l+318cid+v8,1086566", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1975, "model": "D300 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1978,b300,5.2l+318cid+v8,1075081", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1978, "model": "B300"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1979,w300+pickup,5.9l+360cid+v8,1101801", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1979, "model": "W300 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1977,b200,5.2l+318cid+v8,1072246", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1977, "model": "B200"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1979,w150+pickup,5.9l+360cid+v8,1099841", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1979, "model": "W150 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1975,w100+pickup,6.6l+400cid+v8,1099469", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1975, "model": "W100 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1977,w200+pickup,3.7l+225cid+l6,1100732", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1977, "model": "W200 PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1979,w150+pickup,5.2l+318cid+v8,1099829", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1979, "model": "W150 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1975,w200+pickup,7.2l+440cid+v8,1100675", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1975, "model": "W200 PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1977,d200+pickup,3.7l+225cid+l6,1085442", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1977, "model": "D200 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1979,aspen,5.9l+360cid+v8,1069736", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1979, "model": "ASPEN"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1977,w200+pickup,5.9l+360cid+v8,1100754", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1977, "model": "W200 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1975,b200,3.7l+225cid+l6,1071852", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1975, "model": "B200"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1979,ramcharger,3.7l+225cid+l6,1096860", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1979, "model": "RAMCHARGER"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1979,aspen,5.2l+318cid+v8,1069725", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1979, "model": "ASPEN"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1978,w200+pickup,6.6l+400cid+v8,1100822", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1978, "model": "W200 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1977,cb300,7.2l+440cid+v8,1078242", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1977, "model": "CB300"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1978,rd200,5.9l+360cid+v8,1400465", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1978, "model": "RD200"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1975,w100+pickup,7.2l+440cid+v8,1099481", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1975, "model": "W100 PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1975,monaco,5.2l+318cid+v8,1093249", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1975, "model": "MONACO"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1976,b300,3.7l+225cid+l6,1074721", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1976, "model": "B300"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1975,w200+pickup,5.2l+318cid+v8,1100653", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1975, "model": "W200 PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1977,ramcharger,5.2l+318cid+v8,1096770", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1977, "model": "RAMCHARGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1978,monaco,7.2l+440cid+v8,1093698", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1978, "model": "MONACO"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1976,w200+pickup,7.2l+440cid+v8,1100721", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1976, "model": "W200 PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1978,challenger,2.6l+156cid+l4,1078725", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1978, "model": "CHALLENGER"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1976,dart,5.2l+318cid+v8,1089064", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1976, "model": "DART"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1977,ramcharger,3.7l+225cid+l6,1096769", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1977, "model": "RAMCHARGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1977,w200+pickup,7.2l+440cid+v8,1100776", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1977, "model": "W200 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1977,d200+pickup,7.2l+440cid+v8,1085486", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1977, "model": "D200 PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1978,cb300,6.6l+400cid+v8,1078286", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1978, "model": "CB300"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1976,royal+monaco,5.9l+360cid+v8,1097489", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1976, "model": "ROYAL MONACO"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1977,w200+pickup,5.2l+318cid+v8,1100743", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1977, "model": "W200 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1975,w300+pickup,7.2l+440cid+v8,1101643", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1975, "model": "W300 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1979,d200+pickup,5.9l+360cid+v8,1085598", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1979, "model": "D200 PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1976,ramcharger,5.2l+318cid+v8,1096714", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1976, "model": "RAMCHARGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1975,w200+pickup,5.9l+360cid+v8,1100664", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1975, "model": "W200 PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1978,b100,3.7l+225cid+l6,1070413", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1978, "model": "B100"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1978,b300,6.6l+400cid+v8,1075104", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1978, "model": "B300"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1978,omni,1.7l+105cid+l4,1094071", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1978, "model": "OMNI"}}}
 {"node_type": "carcode", "href": "/en/catalog/dodge,1977,monaco,5.9l+360cid+v8,1093520", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1977, "model": "MONACO"}}}

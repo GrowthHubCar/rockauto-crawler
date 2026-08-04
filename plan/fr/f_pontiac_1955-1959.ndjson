@@ -3,13 +3,5 @@
 {"node_type": "model", "href": "/en/catalog/pontiac,1958,strato-chief", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1958, "model": "STRATO-CHIEF"}}}
 {"node_type": "model", "href": "/en/catalog/pontiac,1958,pathfinder", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1958, "model": "PATHFINDER"}}}
 {"node_type": "model", "href": "/en/catalog/pontiac,1958,laurentian", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1958, "model": "LAURENTIAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1958,bonneville,6.1l+370cid+v8,1350986", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1958, "model": "BONNEVILLE"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1958,star+chief,4.3l+261cid+l6,1489049", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1958, "model": "STAR CHIEF"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1957,super+chief,5.7l+347cid+v8,1351077", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1957, "model": "SUPER CHIEF"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1958,star+chief,6.1l+370cid+v8,1351011", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1958, "model": "STAR CHIEF"}}}
 {"node_type": "carcode", "href": "/en/catalog/pontiac,1957,star+chief,5.7l+347cid+v8,1351066", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1957, "model": "STAR CHIEF"}}}
 {"node_type": "carcode", "href": "/en/catalog/pontiac,1956,star+chief,5.2l+316cid+v8,1351101", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1956, "model": "STAR CHIEF"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1958,strato-chief,5.7l+348cid+v8,1489052", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1958, "model": "STRATO-CHIEF"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1958,super+chief,6.1l+370cid+v8,1351022", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1958, "model": "SUPER CHIEF"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1955,star+chief,4.7l+287cid+v8,1351134", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1955, "model": "STAR CHIEF"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1958,catalina,6.1l+370cid+v8,1350997", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1958, "model": "CATALINA"}}}

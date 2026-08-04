@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2017,gls500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2017, "model": "GLS500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2017,glc43+amg,3.0l+v6+turbocharged,3435337", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2017, "model": "GLC43 AMG"}}}

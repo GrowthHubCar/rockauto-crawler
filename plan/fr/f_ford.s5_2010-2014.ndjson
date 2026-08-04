@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/ford,2011,lobo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "LOBO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,focus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "FOCUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,f-350+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2012,expedition", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "EXPEDITION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,e-450", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "E-450"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "E-150"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2014,explorer,3.5l+v6+turbocharged,3298576", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2014, "model": "EXPLORER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2012,lobo,6.2l+v8,3015259", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2012, "model": "LOBO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2013,f-650,6.8l+v10,3298463", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2013, "model": "F-650"}}}

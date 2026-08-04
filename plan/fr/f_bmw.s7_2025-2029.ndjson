@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2026,540i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2026, "model": "540I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2026,550e", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2026, "model": "550E"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2025,m135i,2.0l+l4+turbocharged,3457767", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2025, "model": "M135I"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2026,x3,3.0l+l6+turbocharged,3458328", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2026, "model": "X3"}}}

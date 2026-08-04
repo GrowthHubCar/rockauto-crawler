@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/ford,2021,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2021, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2021,expedition,3.5l+v6+turbocharged,3447341", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2021, "model": "EXPEDITION"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2021,ecosport,1.5l+l3,3448443", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2021, "model": "ECOSPORT"}}}

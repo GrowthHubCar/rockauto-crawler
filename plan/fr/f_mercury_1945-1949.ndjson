@@ -1,8 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/mercury,1949,mercury", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1949, "model": "MERCURY"}}}
 {"node_type": "model", "href": "/en/catalog/mercury,1948,m+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1948, "model": "M SERIES TRUCK"}}}
 {"node_type": "model", "href": "/en/catalog/mercury,1949,m+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1949, "model": "M SERIES TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1946,mercury,3.9l+239cid+v8,1345845", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1946, "model": "MERCURY"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1948,m+series+truck,4.2l+255cid+v8,3294154", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1948, "model": "M SERIES TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1949,mercury,4.2l+255cid+v8,1487058", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1949, "model": "MERCURY"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1947,mercury,3.9l+239cid+v8,1345834", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1947, "model": "MERCURY"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1948,mercury,3.9l+239cid+v8,1345823", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1948, "model": "MERCURY"}}}

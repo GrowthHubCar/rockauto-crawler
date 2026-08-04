@@ -20,25 +20,5 @@
 {"node_type": "model", "href": "/en/catalog/ford,1942,gpw", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1942, "model": "GPW"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1943,gpw", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1943, "model": "GPW"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1944,gpw", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1944, "model": "GPW"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1942,3/4+ton+pickup,3.6l+221cid+v8,1486253", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1942, "model": "3/4 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1942,1/2+ton+pickup,3.6l+221cid+v8,1486248", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1942, "model": "1/2 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1942,3/4+ton+pickup,3.7l+226cid+l6,1486254", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1942, "model": "3/4 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1942,3/4+ton+pickup,3.9l+239cid+v8,1486255", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1942, "model": "3/4 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1944,3/4+ton+pickup,3.9l+239cid+v8,1486370", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1944, "model": "3/4 TON PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/ford,1941,deluxe,all+engines,124294", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1941, "model": "DELUXE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1942,sedan+delivery,3.9l+239cid+v8,1486262", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1942, "model": "SEDAN DELIVERY"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1940,1-1/2+ton+pickup,all+engines,952971", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1940, "model": "1-1/2 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1940,pickup,all+engines,2002812", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1940, "model": "PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1941,3/4+ton+pickup,all+engines,2002446", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1941, "model": "3/4 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1941,sedan+delivery,3.9l+239cid+v8,1486142", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1941, "model": "SEDAN DELIVERY"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1941,1-1/2+ton+pickup,all+engines,124308", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1941, "model": "1-1/2 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1942,model+2ga,3.7l+226cid+l6,1486256", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1942, "model": "MODEL 2GA"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1942,super+deluxe,3.6l+221cid+v8,124326", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1942, "model": "SUPER DELUXE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1940,standard,2.3l+136cid+v8,1486030", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1940, "model": "STANDARD"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1942,1/2+ton+pickup,3.7l+226cid+l6,1486249", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1942, "model": "1/2 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1942,1/2+ton+pickup,3.9l+239cid+v8,1486250", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1942, "model": "1/2 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1942,3/4+ton+pickup,2.0l+120cid+l4,1486252", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1942, "model": "3/4 TON PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1940,3/4+ton+pickup,2.2l+136cid+v8,2002411", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1940, "model": "3/4 TON PICKUP"}}}
 {"node_type": "carcode", "href": "/en/catalog/ford,1941,super+deluxe,all+engines,124325", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1941, "model": "SUPER DELUXE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1942,sedan+delivery,2.0l+120cid+l4,1486258", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1942, "model": "SEDAN DELIVERY"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1940,1+ton+pickup,2.2l+136cid+v8,2002409", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1940, "model": "1 TON PICKUP"}}}

@@ -11,9 +11,7 @@
 {"node_type": "model", "href": "/en/catalog/pontiac,1973,grand+safari", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1973, "model": "GRAND SAFARI"}}}
 {"node_type": "carcode", "href": "/en/catalog/pontiac,1971,firebird,7.5l+455cid+v8,1249400", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1971, "model": "FIREBIRD"}}}
 {"node_type": "carcode", "href": "/en/catalog/pontiac,1971,grand+prix,7.5l+455cid+v8,1254192", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1971, "model": "GRAND PRIX"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1973,firebird,7.5l+455cid+v8,1434953", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1973, "model": "FIREBIRD"}}}
 {"node_type": "carcode", "href": "/en/catalog/pontiac,1973,grand+am,6.6l+400cid+v8,1252303", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1973, "model": "GRAND AM"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1971,catalina,6.6l+400cid+v8,1247712", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1971, "model": "CATALINA"}}}
 {"node_type": "carcode", "href": "/en/catalog/pontiac,1970,lemans,7.5l+455cid+v8,1257016", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1970, "model": "LEMANS"}}}
 {"node_type": "carcode", "href": "/en/catalog/pontiac,1971,grandville,6.6l+400cid+v8,1256251", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1971, "model": "GRANDVILLE"}}}
 {"node_type": "carcode", "href": "/en/catalog/pontiac,1972,bonneville,7.5l+455cid+v8,1246058", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1972, "model": "BONNEVILLE"}}}

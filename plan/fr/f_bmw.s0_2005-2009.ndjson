@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2008,z4", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2008, "model": "Z4"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2009,335i,3.0l+l6+turbocharged,1443056", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2009, "model": "335I"}}}

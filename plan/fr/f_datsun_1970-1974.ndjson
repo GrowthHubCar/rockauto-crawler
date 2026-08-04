@@ -7,5 +7,3 @@
 {"node_type": "model", "href": "/en/catalog/datsun,1970,sedan", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1970, "model": "SEDAN"}}}
 {"node_type": "model", "href": "/en/catalog/datsun,1971,sedan", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1971, "model": "SEDAN"}}}
 {"node_type": "model", "href": "/en/catalog/datsun,1972,sedan", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1972, "model": "SEDAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/datsun,1971,station+wagon,1.5l+l4,3443649", "payload": {"nodetype": "carcode", "ctx": {"make": "DATSUN", "year": 1971, "model": "STATION WAGON"}}}
-{"node_type": "carcode", "href": "/en/catalog/datsun,1971,pickup,1.6l+l4,3438994", "payload": {"nodetype": "carcode", "ctx": {"make": "DATSUN", "year": 1971, "model": "PICKUP"}}}

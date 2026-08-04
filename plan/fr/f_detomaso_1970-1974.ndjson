@@ -2,6 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/detomaso,1971,mangusta", "payload": {"nodetype": "model", "ctx": {"make": "DETOMASO", "year": 1971, "model": "MANGUSTA"}}}
 {"node_type": "model", "href": "/en/catalog/detomaso,1972,mangusta", "payload": {"nodetype": "model", "ctx": {"make": "DETOMASO", "year": 1972, "model": "MANGUSTA"}}}
 {"node_type": "model", "href": "/en/catalog/detomaso,1974,pantera", "payload": {"nodetype": "model", "ctx": {"make": "DETOMASO", "year": 1974, "model": "PANTERA"}}}
-{"node_type": "carcode", "href": "/en/catalog/detomaso,1973,pantera,5.8l+v8,1391251", "payload": {"nodetype": "carcode", "ctx": {"make": "DETOMASO", "year": 1973, "model": "PANTERA"}}}
-{"node_type": "carcode", "href": "/en/catalog/detomaso,1972,pantera,5.8l+v8,1391240", "payload": {"nodetype": "carcode", "ctx": {"make": "DETOMASO", "year": 1972, "model": "PANTERA"}}}
-{"node_type": "carcode", "href": "/en/catalog/detomaso,1971,pantera,5.8l+v8,1391239", "payload": {"nodetype": "carcode", "ctx": {"make": "DETOMASO", "year": 1971, "model": "PANTERA"}}}

@@ -30,12 +30,3 @@
 {"node_type": "model", "href": "/en/catalog/mack,1992,cs250p+mid-liner", "payload": {"nodetype": "model", "ctx": {"make": "MACK", "year": 1992, "model": "CS250P MID-LINER"}}}
 {"node_type": "model", "href": "/en/catalog/mack,1993,cs250p+mid-liner", "payload": {"nodetype": "model", "ctx": {"make": "MACK", "year": 1993, "model": "CS250P MID-LINER"}}}
 {"node_type": "model", "href": "/en/catalog/mack,1994,cs250p+mid-liner", "payload": {"nodetype": "model", "ctx": {"make": "MACK", "year": 1994, "model": "CS250P MID-LINER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mack,1994,cs300t+mid-liner,6.2l+l6+diesel+turbocharged,3297429", "payload": {"nodetype": "carcode", "ctx": {"make": "MACK", "year": 1994, "model": "CS300T MID-LINER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mack,1994,ms200p+mid-liner,6.2l+l6+diesel+turbocharged,3295489", "payload": {"nodetype": "carcode", "ctx": {"make": "MACK", "year": 1994, "model": "MS200P MID-LINER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mack,1994,cs200p+mid-liner,6.2l+l6+diesel+turbocharged,3295471", "payload": {"nodetype": "carcode", "ctx": {"make": "MACK", "year": 1994, "model": "CS200P MID-LINER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mack,1994,ms250p+mid-liner,6.2l+l6+diesel+turbocharged,3295496", "payload": {"nodetype": "carcode", "ctx": {"make": "MACK", "year": 1994, "model": "MS250P MID-LINER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mack,1994,cs300p+mid-liner,6.2l+l6+diesel+turbocharged,3297015", "payload": {"nodetype": "carcode", "ctx": {"make": "MACK", "year": 1994, "model": "CS300P MID-LINER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mack,1994,ms300t+mid-liner,6.2l+l6+diesel+turbocharged,3298385", "payload": {"nodetype": "carcode", "ctx": {"make": "MACK", "year": 1994, "model": "MS300T MID-LINER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mack,1990,cs300t+mid-liner,8.8l+l6+diesel+turbocharged,3297017", "payload": {"nodetype": "carcode", "ctx": {"make": "MACK", "year": 1990, "model": "CS300T MID-LINER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mack,1994,ms300p+mid-liner,6.2l+l6+diesel+turbocharged,3297040", "payload": {"nodetype": "carcode", "ctx": {"make": "MACK", "year": 1994, "model": "MS300P MID-LINER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mack,1991,cs250p+mid-liner,5.5l+l6+diesel+turbocharged,3297417", "payload": {"nodetype": "carcode", "ctx": {"make": "MACK", "year": 1991, "model": "CS250P MID-LINER"}}}

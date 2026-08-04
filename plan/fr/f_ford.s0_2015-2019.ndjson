@@ -1,0 +1,15 @@
+{"node_type": "model", "href": "/en/catalog/ford,2016,transit", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2016, "model": "TRANSIT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2018,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2018, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2016,police+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2016, "model": "POLICE SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2018,fusion", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2018, "model": "FUSION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2016,escape", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2016, "model": "ESCAPE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2017,fiesta", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "FIESTA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2019,flex", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2019, "model": "FLEX"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2017,f-250+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "F-250 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2018,ecosport", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2018, "model": "ECOSPORT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2018,c-max", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2018, "model": "C-MAX"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2017,focus,electric,3436086", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2017, "model": "FOCUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2015,ranger,2.2l+l4+diesel+turbocharged,3073125", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2015, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2019,police+responder+hybrid,2.0l+l4+electric/gas,3444067", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2019, "model": "POLICE RESPONDER HYBRID"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2016,ranger,2.2l+l4+diesel+turbocharged,3357569", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2016, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2015,fusion,2.0l+l4+turbocharged,3308877", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2015, "model": "FUSION"}}}

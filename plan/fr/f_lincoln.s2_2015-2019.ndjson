@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/lincoln,2016,mkz", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2016, "model": "MKZ"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2019,nautilus,2.0l+l4+turbocharged,3443310", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2019, "model": "NAUTILUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2018,mkz,2.0l+l4+electric/gas,3441365", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2018, "model": "MKZ"}}}

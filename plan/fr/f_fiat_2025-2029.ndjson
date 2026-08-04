@@ -1,4 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/fiat,2025,argo", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2025, "model": "ARGO"}}}
 {"node_type": "model", "href": "/en/catalog/fiat,2025,fastback", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2025, "model": "FASTBACK"}}}
 {"node_type": "model", "href": "/en/catalog/fiat,2025,pulse", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2025, "model": "PULSE"}}}
-{"node_type": "carcode", "href": "/en/catalog/fiat,2025,500e,electric,3455793", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2025, "model": "500E"}}}

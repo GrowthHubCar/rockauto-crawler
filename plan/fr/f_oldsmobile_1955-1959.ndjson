@@ -2,18 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1959,fiesta", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1959, "model": "FIESTA"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1959,dynamic", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1959, "model": "DYNAMIC"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1959,98", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1959, "model": "98"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1958,super+88,6.1l+371cid+v8,1347049", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1958, "model": "SUPER 88"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1959,dynamic,6.5l+394cid+v8,1489367", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1959, "model": "DYNAMIC"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1955,88,5.3l+324cid+v8,1435712", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1955, "model": "88"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1959,super+88,6.5l+394cid+v8,1489370", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1959, "model": "SUPER 88"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1955,super+88,5.3l+324cid+v8,1435706", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1955, "model": "SUPER 88"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1957,golden+rocket+88,6.1l+371cid+v8,1488717", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1957, "model": "GOLDEN ROCKET 88"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1959,98,6.5l+394cid+v8,1489365", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1959, "model": "98"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1958,98,6.1l+371cid+v8,1347005", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1958, "model": "98"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1957,starfire,6.1l+371cid+v8,1347083", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1957, "model": "STARFIRE"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1956,98,5.3l+324cid+v8,1435708", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1956, "model": "98"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1955,98,5.3l+324cid+v8,1435709", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1955, "model": "98"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1956,super+88,5.3l+324cid+v8,1435705", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1956, "model": "SUPER 88"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1958,fiesta,6.1l+371cid+v8,1347027", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1958, "model": "FIESTA"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1956,88,5.3l+324cid+v8,1435711", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1956, "model": "88"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1958,dynamic,6.1l+371cid+v8,1347016", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1958, "model": "DYNAMIC"}}}

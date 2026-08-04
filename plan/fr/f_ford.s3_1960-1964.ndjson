@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ford,1963,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1963, "model": "THUNDERBIRD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1963,p-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1963, "model": "P-100"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1964,victoria,4.7l+289cid+v8,1491789", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1964, "model": "VICTORIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1963,galaxie,3.7l+223cid+l6,1435495", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1963, "model": "GALAXIE"}}}

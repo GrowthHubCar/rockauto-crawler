@@ -6,12 +6,4 @@
 {"node_type": "model", "href": "/en/catalog/studebaker,1939,state+president", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1939, "model": "STATE PRESIDENT"}}}
 {"node_type": "model", "href": "/en/catalog/studebaker,1938,state+commander", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1938, "model": "STATE COMMANDER"}}}
 {"node_type": "carcode", "href": "/en/catalog/studebaker,1939,champion,2.7l+164cid+l6,124649", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1939, "model": "CHAMPION"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1937,j5,3.6l+218cid+l6,1485816", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1937, "model": "J5"}}}
 {"node_type": "carcode", "href": "/en/catalog/studebaker,1938,commander,3.7l+226cid+l6,124656", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1938, "model": "COMMANDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1937,president,4.1l+250cid+l8,1485817", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1937, "model": "PRESIDENT"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1939,l5,3.7l+226cid+l6,1485961", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1939, "model": "L5"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1935,president,4.1l+250cid+l8,1485682", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1935, "model": "PRESIDENT"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1938,state+president,250cid+l8,2002340", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1938, "model": "STATE PRESIDENT"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1938,k5,3.7l+226cid+l6,1485892", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1938, "model": "K5"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1938,president,4.1l+250cid+l8,124679", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1938, "model": "PRESIDENT"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1936,president,4.1l+250cid+l8,124678", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1936, "model": "PRESIDENT"}}}

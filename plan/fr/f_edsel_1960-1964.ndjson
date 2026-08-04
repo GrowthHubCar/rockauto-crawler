@@ -1,6 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/edsel,1960,villager", "payload": {"nodetype": "model", "ctx": {"make": "EDSEL", "year": 1960, "model": "VILLAGER"}}}
 {"node_type": "model", "href": "/en/catalog/edsel,1960,ranger", "payload": {"nodetype": "model", "ctx": {"make": "EDSEL", "year": 1960, "model": "RANGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/edsel,1960,ranger,4.8l+292cid+v8,1440368", "payload": {"nodetype": "carcode", "ctx": {"make": "EDSEL", "year": 1960, "model": "RANGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/edsel,1960,villager,3.6l+223cid+l6,1489568", "payload": {"nodetype": "carcode", "ctx": {"make": "EDSEL", "year": 1960, "model": "VILLAGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/edsel,1960,villager,5.8l+352cid+v8,1489569", "payload": {"nodetype": "carcode", "ctx": {"make": "EDSEL", "year": 1960, "model": "VILLAGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/edsel,1960,ranger,5.8l+352cid+v8,1489567", "payload": {"nodetype": "carcode", "ctx": {"make": "EDSEL", "year": 1960, "model": "RANGER"}}}

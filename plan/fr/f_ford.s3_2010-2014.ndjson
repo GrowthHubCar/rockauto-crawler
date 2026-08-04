@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/ford,2014,police+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2014, "model": "POLICE SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2012,escape", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "ESCAPE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,flex", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "FLEX"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "EXPLORER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,e-450", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "E-450"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,econoline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "ECONOLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2013,f59,6.8l+v10,3356575", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2013, "model": "F59"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2011,mustang,5.0l+v8,1446394", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2011, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2011,expedition,5.4l+v8,3015237", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2011, "model": "EXPEDITION"}}}

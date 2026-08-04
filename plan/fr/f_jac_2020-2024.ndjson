@@ -53,17 +53,3 @@
 {"node_type": "model", "href": "/en/catalog/jac,2024,ej7", "payload": {"nodetype": "model", "ctx": {"make": "JAC", "year": 2024, "model": "EJ7"}}}
 {"node_type": "model", "href": "/en/catalog/jac,2022,e10x", "payload": {"nodetype": "model", "ctx": {"make": "JAC", "year": 2022, "model": "E10X"}}}
 {"node_type": "model", "href": "/en/catalog/jac,2023,e10x", "payload": {"nodetype": "model", "ctx": {"make": "JAC", "year": 2023, "model": "E10X"}}}
-{"node_type": "carcode", "href": "/en/catalog/jac,2022,frison,2.0l+l4+diesel+turbocharged,3452092", "payload": {"nodetype": "carcode", "ctx": {"make": "JAC", "year": 2022, "model": "FRISON"}}}
-{"node_type": "carcode", "href": "/en/catalog/jac,2024,e10x,electric,3455313", "payload": {"nodetype": "carcode", "ctx": {"make": "JAC", "year": 2024, "model": "E10X"}}}
-{"node_type": "carcode", "href": "/en/catalog/jac,2023,sei+6,1.5l+l4+turbocharged,3453645", "payload": {"nodetype": "carcode", "ctx": {"make": "JAC", "year": 2023, "model": "SEI 6"}}}
-{"node_type": "carcode", "href": "/en/catalog/jac,2022,sunray,2.7l+l4+diesel+turbocharged,3452093", "payload": {"nodetype": "carcode", "ctx": {"make": "JAC", "year": 2022, "model": "SUNRAY"}}}
-{"node_type": "carcode", "href": "/en/catalog/jac,2024,sei+6,1.5l+l4+turbocharged,3455322", "payload": {"nodetype": "carcode", "ctx": {"make": "JAC", "year": 2024, "model": "SEI 6"}}}
-{"node_type": "carcode", "href": "/en/catalog/jac,2022,sei+7,1.5l+l4+turbocharged,3450745", "payload": {"nodetype": "carcode", "ctx": {"make": "JAC", "year": 2022, "model": "SEI 7"}}}
-{"node_type": "carcode", "href": "/en/catalog/jac,2022,sei+4,1.5l+l4+turbocharged,3450743", "payload": {"nodetype": "carcode", "ctx": {"make": "JAC", "year": 2022, "model": "SEI 4"}}}
-{"node_type": "carcode", "href": "/en/catalog/jac,2022,x200,2.0l+l4+diesel+turbocharged,3453646", "payload": {"nodetype": "carcode", "ctx": {"make": "JAC", "year": 2022, "model": "X200"}}}
-{"node_type": "carcode", "href": "/en/catalog/jac,2022,sei+2,1.5l+l4,3450741", "payload": {"nodetype": "carcode", "ctx": {"make": "JAC", "year": 2022, "model": "SEI 2"}}}
-{"node_type": "carcode", "href": "/en/catalog/jac,2022,frison,2.0l+l4+turbocharged,3450738", "payload": {"nodetype": "carcode", "ctx": {"make": "JAC", "year": 2022, "model": "FRISON"}}}
-{"node_type": "carcode", "href": "/en/catalog/jac,2022,j7,1.5l+l4+turbocharged,3451142", "payload": {"nodetype": "carcode", "ctx": {"make": "JAC", "year": 2022, "model": "J7"}}}
-{"node_type": "carcode", "href": "/en/catalog/jac,2022,sei+3,1.6l+l4,3450742", "payload": {"nodetype": "carcode", "ctx": {"make": "JAC", "year": 2022, "model": "SEI 3"}}}
-{"node_type": "carcode", "href": "/en/catalog/jac,2022,e+sunray,electric,3452090", "payload": {"nodetype": "carcode", "ctx": {"make": "JAC", "year": 2022, "model": "E SUNRAY"}}}
-{"node_type": "carcode", "href": "/en/catalog/jac,2022,x250,2.7l+l4+diesel+turbocharged,3453648", "payload": {"nodetype": "carcode", "ctx": {"make": "JAC", "year": 2022, "model": "X250"}}}

@@ -7,8 +7,4 @@
 {"node_type": "model", "href": "/en/catalog/daimler,1969,250", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1969, "model": "250"}}}
 {"node_type": "model", "href": "/en/catalog/daimler,1965,majestic+major", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1965, "model": "MAJESTIC MAJOR"}}}
 {"node_type": "model", "href": "/en/catalog/daimler,1966,majestic+major", "payload": {"nodetype": "model", "ctx": {"make": "DAIMLER", "year": 1966, "model": "MAJESTIC MAJOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/daimler,1967,sovereign,4.2l+l6,1436620", "payload": {"nodetype": "carcode", "ctx": {"make": "DAIMLER", "year": 1967, "model": "SOVEREIGN"}}}
-{"node_type": "carcode", "href": "/en/catalog/daimler,1967,250,2.5l+v8,1436604", "payload": {"nodetype": "carcode", "ctx": {"make": "DAIMLER", "year": 1967, "model": "250"}}}
-{"node_type": "carcode", "href": "/en/catalog/daimler,1968,250,2.5l+v8,1442187", "payload": {"nodetype": "carcode", "ctx": {"make": "DAIMLER", "year": 1968, "model": "250"}}}
-{"node_type": "carcode", "href": "/en/catalog/daimler,1967,majestic+major,4.6l+v8,1436621", "payload": {"nodetype": "carcode", "ctx": {"make": "DAIMLER", "year": 1967, "model": "MAJESTIC MAJOR"}}}
 {"node_type": "carcode", "href": "/en/catalog/daimler,1967,sp250,2.5l+v8,1493577", "payload": {"nodetype": "carcode", "ctx": {"make": "DAIMLER", "year": 1967, "model": "SP250"}}}

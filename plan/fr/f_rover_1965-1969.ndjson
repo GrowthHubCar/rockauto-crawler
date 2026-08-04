@@ -6,5 +6,3 @@
 {"node_type": "model", "href": "/en/catalog/rover,1966,2000", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1966, "model": "2000"}}}
 {"node_type": "model", "href": "/en/catalog/rover,1967,2000", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1967, "model": "2000"}}}
 {"node_type": "model", "href": "/en/catalog/rover,1969,2000", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1969, "model": "2000"}}}
-{"node_type": "carcode", "href": "/en/catalog/rover,1968,2000,2.0l+l4,1437293", "payload": {"nodetype": "carcode", "ctx": {"make": "ROVER", "year": 1968, "model": "2000"}}}
-{"node_type": "carcode", "href": "/en/catalog/rover,1969,3500s,3.5l+v8,1312653", "payload": {"nodetype": "carcode", "ctx": {"make": "ROVER", "year": 1969, "model": "3500S"}}}

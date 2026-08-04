@@ -9,17 +9,5 @@
 {"node_type": "model", "href": "/en/catalog/renault,1965,r4", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1965, "model": "R4"}}}
 {"node_type": "model", "href": "/en/catalog/renault,1966,r4", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1966, "model": "R4"}}}
 {"node_type": "model", "href": "/en/catalog/renault,1967,r4", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1967, "model": "R4"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1967,dauphine,845cc+l4,1494104", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1967, "model": "DAUPHINE"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1968,r10,1.1l+l4,1437285", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1968, "model": "R10"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1968,r4,845cc+l4,948501", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1968, "model": "R4"}}}
 {"node_type": "carcode", "href": "/en/catalog/renault,1968,r16,1.6l+l4,1494861", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1968, "model": "R16"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1969,r10,1.1l+l4,1437284", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1969, "model": "R10"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1967,r10,1.1l+l4,1437286", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1967, "model": "R10"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1967,r8,956cc+l4,1494105", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1967, "model": "R8"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1967,caravelle,956cc+l4,1494102", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1967, "model": "CARAVELLE"}}}
 {"node_type": "carcode", "href": "/en/catalog/renault,1968,caravelle,all+engines,953480", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1968, "model": "CARAVELLE"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1967,caravelle,1.1l+l4,1494103", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1967, "model": "CARAVELLE"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1969,r10,1.3l+l4,1495771", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1969, "model": "R10"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1969,r16,1.6l+l4,1290765", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1969, "model": "R16"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1969,r4,845cc+l4,948518", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1969, "model": "R4"}}}
-{"node_type": "carcode", "href": "/en/catalog/renault,1968,r10,1.3l+l4,1290080", "payload": {"nodetype": "carcode", "ctx": {"make": "RENAULT", "year": 1968, "model": "R10"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2011,120i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2011, "model": "120I"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2011,x6,4.4l+v8+electric/gas+turbocharged,1446325", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2011, "model": "X6"}}}

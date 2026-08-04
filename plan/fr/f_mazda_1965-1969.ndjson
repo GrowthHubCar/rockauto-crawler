@@ -1,3 +1,1 @@
 {"node_type": "model", "href": "/en/catalog/mazda,1968,1500", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1968, "model": "1500"}}}
-{"node_type": "carcode", "href": "/en/catalog/mazda,1969,1500,1.5l+l4,1495461", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1969, "model": "1500"}}}
-{"node_type": "carcode", "href": "/en/catalog/mazda,1967,1500,1.5l+l4,1493953", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1967, "model": "1500"}}}

@@ -5,4 +5,3 @@
 {"node_type": "model", "href": "/en/catalog/flint,1927,model+e-80", "payload": {"nodetype": "model", "ctx": {"make": "FLINT", "year": 1927, "model": "MODEL E-80"}}}
 {"node_type": "model", "href": "/en/catalog/flint,1927,model+b-60", "payload": {"nodetype": "model", "ctx": {"make": "FLINT", "year": 1927, "model": "MODEL B-60"}}}
 {"node_type": "model", "href": "/en/catalog/flint,1927,junior+z-18", "payload": {"nodetype": "model", "ctx": {"make": "FLINT", "year": 1927, "model": "JUNIOR Z-18"}}}
-{"node_type": "carcode", "href": "/en/catalog/flint,1926,model+80,6cyl,2001328", "payload": {"nodetype": "carcode", "ctx": {"make": "FLINT", "year": 1926, "model": "MODEL 80"}}}

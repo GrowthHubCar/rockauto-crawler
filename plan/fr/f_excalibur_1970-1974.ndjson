@@ -2,4 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/excalibur,1972,phaeton", "payload": {"nodetype": "model", "ctx": {"make": "EXCALIBUR", "year": 1972, "model": "PHAETON"}}}
 {"node_type": "model", "href": "/en/catalog/excalibur,1973,phaeton", "payload": {"nodetype": "model", "ctx": {"make": "EXCALIBUR", "year": 1973, "model": "PHAETON"}}}
 {"node_type": "model", "href": "/en/catalog/excalibur,1974,phaeton", "payload": {"nodetype": "model", "ctx": {"make": "EXCALIBUR", "year": 1974, "model": "PHAETON"}}}
-{"node_type": "carcode", "href": "/en/catalog/excalibur,1971,phaeton,5.7l+350cid+v8,1391554", "payload": {"nodetype": "carcode", "ctx": {"make": "EXCALIBUR", "year": 1971, "model": "PHAETON"}}}

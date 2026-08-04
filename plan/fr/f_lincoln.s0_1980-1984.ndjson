@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/lincoln,1984,continental", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1984, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1980,mark+vi,5.0l+302cid+v8,1430242", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1980, "model": "MARK VI"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,1980,continental,5.0l+302cid+v8,1440411", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1980, "model": "CONTINENTAL"}}}

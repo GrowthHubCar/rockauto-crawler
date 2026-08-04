@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1999,318ti", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1999, "model": "318TI"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,1999,m5,4.9l+v8,951081", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 1999, "model": "M5"}}}

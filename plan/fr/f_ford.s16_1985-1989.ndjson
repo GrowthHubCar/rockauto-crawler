@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/ford,1988,c+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1988, "model": "C SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1987,p-350,5.8l+351cid+v8,3441891", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1987, "model": "P-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1987,l+series+truck,14.0l+855cid+l6+diesel+turbocharged,3411333", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1987, "model": "L SERIES TRUCK"}}}

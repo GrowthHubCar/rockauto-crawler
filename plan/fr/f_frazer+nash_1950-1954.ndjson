@@ -12,5 +12,3 @@
 {"node_type": "model", "href": "/en/catalog/frazer+nash,1953,targa+florio", "payload": {"nodetype": "model", "ctx": {"make": "FRAZER NASH", "year": 1953, "model": "TARGA FLORIO"}}}
 {"node_type": "model", "href": "/en/catalog/frazer+nash,1954,sebring", "payload": {"nodetype": "model", "ctx": {"make": "FRAZER NASH", "year": 1954, "model": "SEBRING"}}}
 {"node_type": "model", "href": "/en/catalog/frazer+nash,1954,le+mans+coupe", "payload": {"nodetype": "model", "ctx": {"make": "FRAZER NASH", "year": 1954, "model": "LE MANS COUPE"}}}
-{"node_type": "carcode", "href": "/en/catalog/frazer+nash,1951,fast+roadster,2.0l+120cid+l6,1436422", "payload": {"nodetype": "carcode", "ctx": {"make": "FRAZER NASH", "year": 1951, "model": "FAST ROADSTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/frazer+nash,1954,targa+florio,2.0l+120cid+l6,1436406", "payload": {"nodetype": "carcode", "ctx": {"make": "FRAZER NASH", "year": 1954, "model": "TARGA FLORIO"}}}

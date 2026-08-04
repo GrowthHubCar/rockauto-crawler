@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/buick,1972,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1972, "model": "RIVIERA"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1971,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1971, "model": "ESTATE WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1970,skylark,4.1l+250cid+l6,1022959", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1970, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1972,sportwagon,7.5l+455cid+v8,1497831", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1972, "model": "SPORTWAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1970,lesabre,5.7l+350cid+v8,1017863", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1970, "model": "LESABRE"}}}

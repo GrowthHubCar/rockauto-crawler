@@ -8,5 +8,3 @@
 {"node_type": "model", "href": "/en/catalog/packard,1922,single+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1922, "model": "SINGLE EIGHT"}}}
 {"node_type": "model", "href": "/en/catalog/packard,1923,single+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1923, "model": "SINGLE EIGHT"}}}
 {"node_type": "model", "href": "/en/catalog/packard,1924,single+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1924, "model": "SINGLE EIGHT"}}}
-{"node_type": "carcode", "href": "/en/catalog/packard,1920,twin+six,424cid+v12,952008", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1920, "model": "TWIN SIX"}}}
-{"node_type": "carcode", "href": "/en/catalog/packard,1922,single+six,l6,952053", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1922, "model": "SINGLE SIX"}}}

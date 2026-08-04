@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2017,slc180", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2017, "model": "SLC180"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2016,c180,1.6l+l4+turbocharged,3361731", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2016, "model": "C180"}}}

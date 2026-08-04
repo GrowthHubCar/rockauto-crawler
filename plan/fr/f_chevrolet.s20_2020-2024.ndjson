@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2024,corvette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "CORVETTE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2022,colorado", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2022, "model": "COLORADO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2024,s10+max", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "S10 MAX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2022,tracker,1.2l+l3+turbocharged,3449806", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2022, "model": "TRACKER"}}}

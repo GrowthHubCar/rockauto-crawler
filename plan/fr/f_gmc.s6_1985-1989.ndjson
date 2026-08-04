@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/gmc,1985,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1985, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1986,g2500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1986, "model": "G2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1985,k1500+pickup,5.7l+350cid+v8,1157442", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1985, "model": "K1500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1987,v2500+suburban,5.7l+350cid+v8,1301016", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1987, "model": "V2500 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1985,medium+duty+truck,6.1l+374cid+l6+diesel+turbocharged,3295144", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1985, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1985,safari,2.5l+151cid+l4,1165014", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1985, "model": "SAFARI"}}}

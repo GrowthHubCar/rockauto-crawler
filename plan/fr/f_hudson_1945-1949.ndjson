@@ -6,8 +6,3 @@
 {"node_type": "model", "href": "/en/catalog/hudson,1949,commodore+series", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1949, "model": "COMMODORE SERIES"}}}
 {"node_type": "model", "href": "/en/catalog/hudson,1946,pickup", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1946, "model": "PICKUP"}}}
 {"node_type": "model", "href": "/en/catalog/hudson,1947,pickup", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1947, "model": "PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/hudson,1946,super+series,4.2l+254cid+l8,1486519", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1946, "model": "SUPER SERIES"}}}
-{"node_type": "carcode", "href": "/en/catalog/hudson,1949,super+series,4.3l+262cid+l6,1487038", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1949, "model": "SUPER SERIES"}}}
-{"node_type": "carcode", "href": "/en/catalog/hudson,1948,super+series,4.3l+262cid+l6,1486841", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1948, "model": "SUPER SERIES"}}}
-{"node_type": "carcode", "href": "/en/catalog/hudson,1946,commodore+series,4.2l+254cid+l8,1486517", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1946, "model": "COMMODORE SERIES"}}}
-{"node_type": "carcode", "href": "/en/catalog/hudson,1946,commodore+series,3.5l+212cid+l6,1486516", "payload": {"nodetype": "carcode", "ctx": {"make": "HUDSON", "year": 1946, "model": "COMMODORE SERIES"}}}

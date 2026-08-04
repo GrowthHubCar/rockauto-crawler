@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "P30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,malibu", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "MALIBU"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,monte+carlo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "MONTE CARLO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,k20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "K20 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,k10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "K10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,luv", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "LUV"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,citation", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "CITATION"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,camaro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "CAMARO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,c20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "C20 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,bus", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "BUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1983,malibu,5.7l+350cid+v8+diesel,1055472", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1983,p30,5.7l+350cid+v8,1059117", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "P30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,el+camino,3.8l+229cid+v6,1042513", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "EL CAMINO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1980,k30+pickup,6.6l+400cid+v8,1398708", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "K30 PICKUP"}}}

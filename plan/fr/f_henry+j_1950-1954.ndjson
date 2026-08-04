@@ -2,8 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/henry+j,1952,corsair", "payload": {"nodetype": "model", "ctx": {"make": "HENRY J", "year": 1952, "model": "CORSAIR"}}}
 {"node_type": "model", "href": "/en/catalog/henry+j,1953,corsair", "payload": {"nodetype": "model", "ctx": {"make": "HENRY J", "year": 1953, "model": "CORSAIR"}}}
 {"node_type": "model", "href": "/en/catalog/henry+j,1954,corsair", "payload": {"nodetype": "model", "ctx": {"make": "HENRY J", "year": 1954, "model": "CORSAIR"}}}
-{"node_type": "carcode", "href": "/en/catalog/henry+j,1953,corsair,2.2l+134cid+l4,1442195", "payload": {"nodetype": "carcode", "ctx": {"make": "HENRY J", "year": 1953, "model": "CORSAIR"}}}
-{"node_type": "carcode", "href": "/en/catalog/henry+j,1951,standard,2.2l+134cid+l4,1442198", "payload": {"nodetype": "carcode", "ctx": {"make": "HENRY J", "year": 1951, "model": "STANDARD"}}}
-{"node_type": "carcode", "href": "/en/catalog/henry+j,1954,corsair,2.6l+161cid+l6,1487847", "payload": {"nodetype": "carcode", "ctx": {"make": "HENRY J", "year": 1954, "model": "CORSAIR"}}}
-{"node_type": "carcode", "href": "/en/catalog/henry+j,1951,deluxe,2.6l+161cid+l6,1442202", "payload": {"nodetype": "carcode", "ctx": {"make": "HENRY J", "year": 1951, "model": "DELUXE"}}}
-{"node_type": "carcode", "href": "/en/catalog/henry+j,1951,deluxe,2.2l+134cid+l4,1487349", "payload": {"nodetype": "carcode", "ctx": {"make": "HENRY J", "year": 1951, "model": "DELUXE"}}}

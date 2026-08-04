@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/dodge,2013,i10", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2013, "model": "I10"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2014,durango,3.6l+v6,3300339", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2014, "model": "DURANGO"}}}

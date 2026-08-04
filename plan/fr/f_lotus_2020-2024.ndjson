@@ -2,4 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/lotus,2023,emira", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 2023, "model": "EMIRA"}}}
 {"node_type": "model", "href": "/en/catalog/lotus,2024,emira", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 2024, "model": "EMIRA"}}}
 {"node_type": "model", "href": "/en/catalog/lotus,2024,eletre", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 2024, "model": "ELETRE"}}}
-{"node_type": "carcode", "href": "/en/catalog/lotus,2020,evora+gt,3.5l+v6+supercharged,3445445", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 2020, "model": "EVORA GT"}}}

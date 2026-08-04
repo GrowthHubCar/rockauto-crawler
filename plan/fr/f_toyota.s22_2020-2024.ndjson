@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2024,hilux", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2024, "model": "HILUX"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2023,camry,2.5l+l4+electric/gas,3454203", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2023, "model": "CAMRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2023,tundra,3.5l+v6+turbocharged,3451533", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2023, "model": "TUNDRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2024,sequoia,3.4l+v6+electric/gas+turbocharged,3454935", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2024, "model": "SEQUOIA"}}}

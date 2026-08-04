@@ -1,4 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/continental,1933,flyer", "payload": {"nodetype": "model", "ctx": {"make": "CONTINENTAL", "year": 1933, "model": "FLYER"}}}
 {"node_type": "model", "href": "/en/catalog/continental,1934,beacon", "payload": {"nodetype": "model", "ctx": {"make": "CONTINENTAL", "year": 1934, "model": "BEACON"}}}
-{"node_type": "carcode", "href": "/en/catalog/continental,1933,beacon,4cyl,2001981", "payload": {"nodetype": "carcode", "ctx": {"make": "CONTINENTAL", "year": 1933, "model": "BEACON"}}}
-{"node_type": "carcode", "href": "/en/catalog/continental,1933,ace,6cyl,2001980", "payload": {"nodetype": "carcode", "ctx": {"make": "CONTINENTAL", "year": 1933, "model": "ACE"}}}

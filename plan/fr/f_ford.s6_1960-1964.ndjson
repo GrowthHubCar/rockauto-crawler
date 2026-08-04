@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ford,1961,zephyr", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1961, "model": "ZEPHYR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1962,galaxie", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1962, "model": "GALAXIE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1960,p-100,3.6l+223cid+l6,1489609", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1960, "model": "P-100"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1962,thunderbird,6.7l+410cid+v8,1335709", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1962, "model": "THUNDERBIRD"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,1989,fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1989, "model": "FLEETWOOD"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1986,fleetwood,5.0l+307cid+v8,1027066", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1986, "model": "FLEETWOOD"}}}

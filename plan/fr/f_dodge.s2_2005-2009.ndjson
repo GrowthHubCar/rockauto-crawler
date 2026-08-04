@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/dodge,2006,attitude", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2006, "model": "ATTITUDE"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2007,nitro,3.7l+v6,1434482", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2007, "model": "NITRO"}}}

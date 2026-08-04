@@ -6,11 +6,6 @@
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1941,series+96", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1941, "model": "SERIES 96"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1941,series+66", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1941, "model": "SERIES 66"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1942,series+66", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1942, "model": "SERIES 66"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1942,special,all+engines,124558", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1942, "model": "SPECIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1940,series+60,3.8l+230cid+l6,304", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1940, "model": "SERIES 60"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1941,series+68,4.2l+257cid+l8,1486167", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1941, "model": "SERIES 68"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1942,series+98,4.2l+257cid+l8,1486292", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1942, "model": "SERIES 98"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1941,series+98,4.2l+257cid+l8,1486171", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1941, "model": "SERIES 98"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1940,l-40+series+90,4.2l+257cid+l8,1486054", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1940, "model": "L-40 SERIES 90"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1940,special,all+engines,124556", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1940, "model": "SPECIAL"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1942,series+76,3.9l+238cid+l6,1486290", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1942, "model": "SERIES 76"}}}

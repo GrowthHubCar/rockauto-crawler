@@ -4,10 +4,4 @@
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1938,f-38", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1938, "model": "F-38"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1939,g-39", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1939, "model": "G-39"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1939,f-39", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1939, "model": "F-39"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1935,l-35,3.9l+240cid+l8,1485676", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1935, "model": "L-35"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1937,f-37,3.8l+230cid+l6,3310086", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1937, "model": "F-37"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1939,l-39,3.8l+230cid+l6,3310087", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1939, "model": "L-39"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1937,l+series,4.2l+257cid+l8,1485811", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1937, "model": "L SERIES"}}}
 {"node_type": "carcode", "href": "/en/catalog/oldsmobile,1939,l-39,4.2l+257cid+l8,1485956", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1939, "model": "L-39"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1935,f-35,3.5l+213cid+l6,1485675", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1935, "model": "F-35"}}}
-{"node_type": "carcode", "href": "/en/catalog/oldsmobile,1938,l-38,4.2l+257cid+l8,1485887", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 1938, "model": "L-38"}}}

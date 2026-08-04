@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/studebaker,1964,lark", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1964, "model": "LARK"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1961,6e7d", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1961, "model": "6E7D"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1961,5e5", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1961, "model": "5E5"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1962,7e12d", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1962, "model": "7E12D"}}}

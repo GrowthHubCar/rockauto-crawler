@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/studebaker,1963,taxi", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1963, "model": "TAXI"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1961,7e13d", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1961, "model": "7E13D"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1961,6e12d", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1961, "model": "6E12D"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1961,5e11", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1961, "model": "5E11"}}}

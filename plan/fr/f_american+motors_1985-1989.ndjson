@@ -1,4 +1,1 @@
 {"node_type": "model", "href": "/en/catalog/american+motors,1986,eagle", "payload": {"nodetype": "model", "ctx": {"make": "AMERICAN MOTORS", "year": 1986, "model": "EAGLE"}}}
-{"node_type": "carcode", "href": "/en/catalog/american+motors,1985,eagle,4.2l+258cid+l6,1003532", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1985, "model": "EAGLE"}}}
-{"node_type": "carcode", "href": "/en/catalog/american+motors,1987,eagle,4.2l+258cid+l6,1003576", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1987, "model": "EAGLE"}}}
-{"node_type": "carcode", "href": "/en/catalog/american+motors,1988,eagle,4.2l+258cid+l6,1003598", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1988, "model": "EAGLE"}}}

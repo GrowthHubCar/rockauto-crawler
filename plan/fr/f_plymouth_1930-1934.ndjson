@@ -4,8 +4,3 @@
 {"node_type": "model", "href": "/en/catalog/plymouth,1933,pd+deluxe", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1933, "model": "PD DELUXE"}}}
 {"node_type": "model", "href": "/en/catalog/plymouth,1934,standard+pf+model", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1934, "model": "STANDARD PF MODEL"}}}
 {"node_type": "model", "href": "/en/catalog/plymouth,1934,pfxx+special", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1934, "model": "PFXX SPECIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/plymouth,1934,standard+pg+model,201cid+l6,2002099", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1934, "model": "STANDARD PG MODEL"}}}
-{"node_type": "carcode", "href": "/en/catalog/plymouth,1934,deluxe+pe+model,3.3l+201cid+l6,1485628", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1934, "model": "DELUXE PE MODEL"}}}
-{"node_type": "carcode", "href": "/en/catalog/plymouth,1931,model+pa,196cid+l4,952450", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1931, "model": "MODEL PA"}}}
-{"node_type": "carcode", "href": "/en/catalog/plymouth,1933,pc,190cid+l6,124597", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1933, "model": "PC"}}}
-{"node_type": "carcode", "href": "/en/catalog/plymouth,1930,model+30u,196cid+l4,952388", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1930, "model": "MODEL 30U"}}}

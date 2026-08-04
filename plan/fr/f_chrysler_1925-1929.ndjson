@@ -12,7 +12,3 @@
 {"node_type": "model", "href": "/en/catalog/chrysler,1929,series+70", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1929, "model": "SERIES 70"}}}
 {"node_type": "model", "href": "/en/catalog/chrysler,1929,series+66", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1929, "model": "SERIES 66"}}}
 {"node_type": "model", "href": "/en/catalog/chrysler,1929,series+65", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1929, "model": "SERIES 65"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1928,series+52,170cid+l4,2001505", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1928, "model": "SERIES 52"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1925,model+b-70,201cid+l6,2001217", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1925, "model": "MODEL B-70"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1928,series+72,249cid+l6,2001507", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1928, "model": "SERIES 72"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1926,series+58,186cid+l4,2001310", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1926, "model": "SERIES 58"}}}

@@ -1,9 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/humber,1967,hawk", "payload": {"nodetype": "model", "ctx": {"make": "HUMBER", "year": 1967, "model": "HAWK"}}}
 {"node_type": "model", "href": "/en/catalog/humber,1967,super+snipe", "payload": {"nodetype": "model", "ctx": {"make": "HUMBER", "year": 1967, "model": "SUPER SNIPE"}}}
 {"node_type": "model", "href": "/en/catalog/humber,1967,imperial", "payload": {"nodetype": "model", "ctx": {"make": "HUMBER", "year": 1967, "model": "IMPERIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/humber,1965,super+snipe,3.0l+l6,1439621", "payload": {"nodetype": "carcode", "ctx": {"make": "HUMBER", "year": 1965, "model": "SUPER SNIPE"}}}
-{"node_type": "carcode", "href": "/en/catalog/humber,1966,imperial,3.0l+l6,1439628", "payload": {"nodetype": "carcode", "ctx": {"make": "HUMBER", "year": 1966, "model": "IMPERIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/humber,1966,hawk,2.3l+l4,1439465", "payload": {"nodetype": "carcode", "ctx": {"make": "HUMBER", "year": 1966, "model": "HAWK"}}}
-{"node_type": "carcode", "href": "/en/catalog/humber,1966,super+snipe,3.0l+l6,1439620", "payload": {"nodetype": "carcode", "ctx": {"make": "HUMBER", "year": 1966, "model": "SUPER SNIPE"}}}
-{"node_type": "carcode", "href": "/en/catalog/humber,1965,imperial,3.0l+l6,1439629", "payload": {"nodetype": "carcode", "ctx": {"make": "HUMBER", "year": 1965, "model": "IMPERIAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/humber,1965,hawk,2.3l+l4,1439466", "payload": {"nodetype": "carcode", "ctx": {"make": "HUMBER", "year": 1965, "model": "HAWK"}}}

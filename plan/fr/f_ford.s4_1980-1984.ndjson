@@ -1,0 +1,13 @@
+{"node_type": "model", "href": "/en/catalog/ford,1982,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1982, "model": "THUNDERBIRD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1983,f-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1983, "model": "F-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1982,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1982, "model": "L SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1981,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1981, "model": "F-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1984,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1984, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1981,f-600", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1981, "model": "F-600"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1981,e-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1981, "model": "E-100"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1983,c+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1983, "model": "C SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1984,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1984, "model": "E-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1984,exp", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1984, "model": "EXP"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1983,f-800,7.0l+429cid+v8,3297786", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1983, "model": "F-800"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1980,f-250,7.7l+460cid+v8,21996", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1980, "model": "F-250"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1982,fairmont,4.2l+255cid+v8,1127775", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1982, "model": "FAIRMONT"}}}

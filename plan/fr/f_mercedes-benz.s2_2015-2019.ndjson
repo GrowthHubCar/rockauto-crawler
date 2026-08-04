@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2016,slk55+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2016, "model": "SLK55 AMG"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2019,maybach+s650", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2019, "model": "MAYBACH S650"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2018,maybach+s650,6.0l+v12+turbocharged+sohc,3443334", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2018, "model": "MAYBACH S650"}}}

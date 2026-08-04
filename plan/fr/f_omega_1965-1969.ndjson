@@ -1,3 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/omega,1967,omega", "payload": {"nodetype": "model", "ctx": {"make": "OMEGA", "year": 1967, "model": "OMEGA"}}}
 {"node_type": "model", "href": "/en/catalog/omega,1968,omega", "payload": {"nodetype": "model", "ctx": {"make": "OMEGA", "year": 1968, "model": "OMEGA"}}}
-{"node_type": "carcode", "href": "/en/catalog/omega,1968,omega,5.0l+v8,1494739", "payload": {"nodetype": "carcode", "ctx": {"make": "OMEGA", "year": 1968, "model": "OMEGA"}}}

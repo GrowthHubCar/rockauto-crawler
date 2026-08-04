@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2013,venza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2013, "model": "VENZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2012,prius,1.8l+l4+electric/gas,1503615", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2012, "model": "PRIUS"}}}

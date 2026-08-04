@@ -1,4 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/lotus,2016,evora", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 2016, "model": "EVORA"}}}
 {"node_type": "model", "href": "/en/catalog/lotus,2017,evora", "payload": {"nodetype": "model", "ctx": {"make": "LOTUS", "year": 2017, "model": "EVORA"}}}
-{"node_type": "carcode", "href": "/en/catalog/lotus,2018,evora,3.5l+v6+supercharged,3441367", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 2018, "model": "EVORA"}}}
-{"node_type": "carcode", "href": "/en/catalog/lotus,2019,evora,3.5l+v6+supercharged,3443128", "payload": {"nodetype": "carcode", "ctx": {"make": "LOTUS", "year": 2019, "model": "EVORA"}}}

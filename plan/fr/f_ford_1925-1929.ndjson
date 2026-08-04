@@ -5,9 +5,3 @@
 {"node_type": "model", "href": "/en/catalog/ford,1927,model+tt", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1927, "model": "MODEL TT"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1927,model+a", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1927, "model": "MODEL A"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1928,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1928, "model": "SEDAN DELIVERY"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1929,model+a,3.3l+200cid+l4,1485433", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1929, "model": "MODEL A"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1927,model+t,2.9l+177cid+l4,952211", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1927, "model": "MODEL T"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1928,model+a,3.3l+200cid+l4,1485427", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1928, "model": "MODEL A"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1928,model+aa,3.3l+200cid+l4,1485428", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1928, "model": "MODEL AA"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1929,sedan+delivery,3.3l+200cid+l4,1485435", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1929, "model": "SEDAN DELIVERY"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1929,model+aa,3.3l+200cid+l4,1485434", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1929, "model": "MODEL AA"}}}

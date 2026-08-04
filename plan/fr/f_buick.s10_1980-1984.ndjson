@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/buick,1982,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1982, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1984,lesabre,5.0l+307cid+v8,1019191", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1984, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1984,riviera,5.0l+307cid+v8,1021857", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1984, "model": "RIVIERA"}}}

@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2008,s600", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2008, "model": "S600"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2006,ml500,5.0l+v8,1431840", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2006, "model": "ML500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2007,slk280,3.0l+v6,1437456", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2007, "model": "SLK280"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2008,e320,3.0l+v6+diesel+turbocharged,1440489", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2008, "model": "E320"}}}

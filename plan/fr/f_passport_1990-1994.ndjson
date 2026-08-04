@@ -1,2 +1,1 @@
 {"node_type": "model", "href": "/en/catalog/passport,1990,optima", "payload": {"nodetype": "model", "ctx": {"make": "PASSPORT", "year": 1990, "model": "OPTIMA"}}}
-{"node_type": "carcode", "href": "/en/catalog/passport,1991,optima,1.6l+l4,1226854", "payload": {"nodetype": "carcode", "ctx": {"make": "PASSPORT", "year": 1991, "model": "OPTIMA"}}}

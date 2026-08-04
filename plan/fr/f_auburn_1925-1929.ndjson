@@ -17,6 +17,3 @@
 {"node_type": "model", "href": "/en/catalog/auburn,1929,model+6-80", "payload": {"nodetype": "model", "ctx": {"make": "AUBURN", "year": 1929, "model": "MODEL 6-80"}}}
 {"node_type": "model", "href": "/en/catalog/auburn,1929,model+120", "payload": {"nodetype": "model", "ctx": {"make": "AUBURN", "year": 1929, "model": "MODEL 120"}}}
 {"node_type": "model", "href": "/en/catalog/auburn,1929,model+8-90", "payload": {"nodetype": "model", "ctx": {"make": "AUBURN", "year": 1929, "model": "MODEL 8-90"}}}
-{"node_type": "carcode", "href": "/en/catalog/auburn,1927,model+6-66,l6,2001391", "payload": {"nodetype": "carcode", "ctx": {"make": "AUBURN", "year": 1927, "model": "MODEL 6-66"}}}
-{"node_type": "carcode", "href": "/en/catalog/auburn,1925,model+6-66,l6,2001207", "payload": {"nodetype": "carcode", "ctx": {"make": "AUBURN", "year": 1925, "model": "MODEL 6-66"}}}
-{"node_type": "carcode", "href": "/en/catalog/auburn,1927,model+8-88,l8,2001393", "payload": {"nodetype": "carcode", "ctx": {"make": "AUBURN", "year": 1927, "model": "MODEL 8-88"}}}

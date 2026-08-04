@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/ford,2005,f-550+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "F-550 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,courier", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "COURIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,f-350+super+duty,6.8l+v10,1433120", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,f-750,7.2l+l6+diesel+turbocharged,3296608", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "F-750"}}}

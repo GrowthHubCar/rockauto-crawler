@@ -1,10 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/saab,2011,9-4x", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 2011, "model": "9-4X"}}}
 {"node_type": "model", "href": "/en/catalog/saab,2012,9-3+griffin", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 2012, "model": "9-3 GRIFFIN"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,2011,9-5,2.0l+l4+turbocharged,1447838", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 2011, "model": "9-5"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,2011,9-3x,2.0l+l4+turbocharged,1501560", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 2011, "model": "9-3X"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,2011,9-4x,3.0l+v6,1503155", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 2011, "model": "9-4X"}}}
 {"node_type": "carcode", "href": "/en/catalog/saab,2011,9-3,2.0l+l4+turbocharged,1500959", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 2011, "model": "9-3"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,2010,9-3,2.0l+l4+turbocharged,1446381", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 2010, "model": "9-3"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,2010,9-3x,2.0l+l4+turbocharged,3016907", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 2010, "model": "9-3X"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,2011,9-5,2.8l+v6+turbocharged,1447835", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 2011, "model": "9-5"}}}
-{"node_type": "carcode", "href": "/en/catalog/saab,2010,9-5,2.8l+v6+turbocharged,1447307", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 2010, "model": "9-5"}}}

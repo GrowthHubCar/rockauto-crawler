@@ -11,4 +11,3 @@
 {"node_type": "model", "href": "/en/catalog/gmc,1938,t15", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1938, "model": "T15"}}}
 {"node_type": "model", "href": "/en/catalog/gmc,1938,t145", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1938, "model": "T145"}}}
 {"node_type": "model", "href": "/en/catalog/gmc,1936,t14", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1936, "model": "T14"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1939,ac250,228cid+l6,2002360", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1939, "model": "AC250"}}}

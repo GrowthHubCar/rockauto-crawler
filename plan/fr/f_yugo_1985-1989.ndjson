@@ -1,9 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/yugo,1988,gv", "payload": {"nodetype": "model", "ctx": {"make": "YUGO", "year": 1988, "model": "GV"}}}
 {"node_type": "model", "href": "/en/catalog/yugo,1989,gv", "payload": {"nodetype": "model", "ctx": {"make": "YUGO", "year": 1989, "model": "GV"}}}
 {"node_type": "model", "href": "/en/catalog/yugo,1988,gvl", "payload": {"nodetype": "model", "ctx": {"make": "YUGO", "year": 1988, "model": "GVL"}}}
-{"node_type": "carcode", "href": "/en/catalog/yugo,1988,gvs,1.1l+l4,1289392", "payload": {"nodetype": "carcode", "ctx": {"make": "YUGO", "year": 1988, "model": "GVS"}}}
-{"node_type": "carcode", "href": "/en/catalog/yugo,1988,gvx,1.3l+l4,1360617", "payload": {"nodetype": "carcode", "ctx": {"make": "YUGO", "year": 1988, "model": "GVX"}}}
-{"node_type": "carcode", "href": "/en/catalog/yugo,1989,gvl,1.1l+l4,1289381", "payload": {"nodetype": "carcode", "ctx": {"make": "YUGO", "year": 1989, "model": "GVL"}}}
-{"node_type": "carcode", "href": "/en/catalog/yugo,1987,gv,1.1l+l4,1289291", "payload": {"nodetype": "carcode", "ctx": {"make": "YUGO", "year": 1987, "model": "GV"}}}
-{"node_type": "carcode", "href": "/en/catalog/yugo,1989,gvx,1.3l+l4,1289415", "payload": {"nodetype": "carcode", "ctx": {"make": "YUGO", "year": 1989, "model": "GVX"}}}
-{"node_type": "carcode", "href": "/en/catalog/yugo,1986,gv,1.1l+l4,1289280", "payload": {"nodetype": "carcode", "ctx": {"make": "YUGO", "year": 1986, "model": "GV"}}}

@@ -1,10 +1,1 @@
-{"node_type": "carcode", "href": "/en/catalog/acura,1986,legend,2.5l+v6,1000528", "payload": {"nodetype": "carcode", "ctx": {"make": "ACURA", "year": 1986, "model": "LEGEND"}}}
-{"node_type": "carcode", "href": "/en/catalog/acura,1987,legend,2.5l+v6,1000539", "payload": {"nodetype": "carcode", "ctx": {"make": "ACURA", "year": 1987, "model": "LEGEND"}}}
 {"node_type": "carcode", "href": "/en/catalog/acura,1986,legend,2.7l+v6,7428", "payload": {"nodetype": "carcode", "ctx": {"make": "ACURA", "year": 1986, "model": "LEGEND"}}}
-{"node_type": "carcode", "href": "/en/catalog/acura,1987,legend,2.7l+v6,1000540", "payload": {"nodetype": "carcode", "ctx": {"make": "ACURA", "year": 1987, "model": "LEGEND"}}}
-{"node_type": "carcode", "href": "/en/catalog/acura,1987,integra,1.6l+l4,1000056", "payload": {"nodetype": "carcode", "ctx": {"make": "ACURA", "year": 1987, "model": "INTEGRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/acura,1986,integra,1.6l+l4,1000034", "payload": {"nodetype": "carcode", "ctx": {"make": "ACURA", "year": 1986, "model": "INTEGRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/acura,1989,legend,2.7l+v6,1000629", "payload": {"nodetype": "carcode", "ctx": {"make": "ACURA", "year": 1989, "model": "LEGEND"}}}
-{"node_type": "carcode", "href": "/en/catalog/acura,1988,integra,1.6l+l4,1000089", "payload": {"nodetype": "carcode", "ctx": {"make": "ACURA", "year": 1988, "model": "INTEGRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/acura,1989,integra,1.6l+l4,1000135", "payload": {"nodetype": "carcode", "ctx": {"make": "ACURA", "year": 1989, "model": "INTEGRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/acura,1988,legend,2.7l+v6,1000584", "payload": {"nodetype": "carcode", "ctx": {"make": "ACURA", "year": 1988, "model": "LEGEND"}}}

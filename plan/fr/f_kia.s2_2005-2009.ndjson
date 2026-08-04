@@ -1,0 +1,3 @@
+{"node_type": "carcode", "href": "/en/catalog/kia,2009,spectra,2.0l+l4,1443467", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2009, "model": "SPECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/kia,2009,borrego,4.6l+v8,1443487", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2009, "model": "BORREGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/kia,2007,amanti,3.8l+v6,1434889", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2007, "model": "AMANTI"}}}

@@ -4,27 +4,9 @@
 {"node_type": "model", "href": "/en/catalog/suzuki,2002,aerio", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2002, "model": "AERIO"}}}
 {"node_type": "model", "href": "/en/catalog/suzuki,2004,aerio", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2004, "model": "AERIO"}}}
 {"node_type": "model", "href": "/en/catalog/suzuki,2004,forenza", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2004, "model": "FORENZA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2002,vitara,2.0l+l4,1388695", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2002, "model": "VITARA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2001,esteem,1.6l+l4,1438585", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2001, "model": "ESTEEM"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2001,swift,1.3l+l4,1375130", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2001, "model": "SWIFT"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2001,vitara,2.0l+l4,1375152", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2001, "model": "VITARA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2001,vitara,1.6l+l4,1375141", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2001, "model": "VITARA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2000,grand+vitara,2.5l+v6,1364565", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2000, "model": "GRAND VITARA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2000,vitara,2.0l+l4,1364598", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2000, "model": "VITARA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2001,grand+vitara,2.5l+v6,1375129", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2001, "model": "GRAND VITARA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2001,esteem,1.8l+l4,1375118", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2001, "model": "ESTEEM"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2000,esteem,1.8l+l4,1364554", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2000, "model": "ESTEEM"}}}
 {"node_type": "carcode", "href": "/en/catalog/suzuki,2003,aerio,2.0l+l4,1409880", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2003, "model": "AERIO"}}}
 {"node_type": "carcode", "href": "/en/catalog/suzuki,2003,grand+vitara,2.5l+v6,1418206", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2003, "model": "GRAND VITARA"}}}
 {"node_type": "carcode", "href": "/en/catalog/suzuki,2002,grand+vitara,2.5l+v6,1388594", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2002, "model": "GRAND VITARA"}}}
 {"node_type": "carcode", "href": "/en/catalog/suzuki,2004,verona,2.5l+l6,1432666", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2004, "model": "VERONA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2004,xl-7,2.7l+v6,1428858", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2004, "model": "XL-7"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2000,swift,1.3l+l4,1364576", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2000, "model": "SWIFT"}}}
 {"node_type": "carcode", "href": "/en/catalog/suzuki,2003,xl-7,2.7l+v6,1418217", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2003, "model": "XL-7"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2000,esteem,1.6l+l4,1375781", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2000, "model": "ESTEEM"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2002,vitara,1.6l+l4,1438586", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2002, "model": "VITARA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2004,vitara,2.5l+v6,1428870", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2004, "model": "VITARA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2001,grand+vitara,2.7l+v6,1378986", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2001, "model": "GRAND VITARA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2002,xl-7,2.7l+v6,1388606", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2002, "model": "XL-7"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2003,vitara,2.0l+l4,1418228", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2003, "model": "VITARA"}}}
 {"node_type": "carcode", "href": "/en/catalog/suzuki,2002,esteem,1.8l+l4,1388583", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2002, "model": "ESTEEM"}}}

@@ -12,4 +12,3 @@
 {"node_type": "model", "href": "/en/catalog/marmon,1931,model+70", "payload": {"nodetype": "model", "ctx": {"make": "MARMON", "year": 1931, "model": "MODEL 70"}}}
 {"node_type": "model", "href": "/en/catalog/marmon,1932,series+70", "payload": {"nodetype": "model", "ctx": {"make": "MARMON", "year": 1932, "model": "SERIES 70"}}}
 {"node_type": "model", "href": "/en/catalog/marmon,1932,series+125", "payload": {"nodetype": "model", "ctx": {"make": "MARMON", "year": 1932, "model": "SERIES 125"}}}
-{"node_type": "carcode", "href": "/en/catalog/marmon,1931,series+16,491cid+v16,2001857", "payload": {"nodetype": "carcode", "ctx": {"make": "MARMON", "year": 1931, "model": "SERIES 16"}}}

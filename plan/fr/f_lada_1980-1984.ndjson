@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lada,1984,niva", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1984, "model": "NIVA"}}}
-{"node_type": "model", "href": "/en/catalog/lada,1984,signet", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1984, "model": "SIGNET"}}}
-{"node_type": "carcode", "href": "/en/catalog/lada,1984,signet,1.5l+l4,1186556", "payload": {"nodetype": "carcode", "ctx": {"make": "LADA", "year": 1984, "model": "SIGNET"}}}
-{"node_type": "carcode", "href": "/en/catalog/lada,1983,1300,1.3l+l4,1438573", "payload": {"nodetype": "carcode", "ctx": {"make": "LADA", "year": 1983, "model": "1300"}}}

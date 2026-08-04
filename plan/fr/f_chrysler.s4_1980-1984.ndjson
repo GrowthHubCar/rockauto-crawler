@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/chrysler,1981,valiant", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1981, "model": "VALIANT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1982,cordoba", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1982, "model": "CORDOBA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1983,fifth+avenue,3.7l+225cid+l6,1063448", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1983, "model": "FIFTH AVENUE"}}}

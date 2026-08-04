@@ -8,4 +8,3 @@
 {"node_type": "model", "href": "/en/catalog/durant,1929,model+66", "payload": {"nodetype": "model", "ctx": {"make": "DURANT", "year": 1929, "model": "MODEL 66"}}}
 {"node_type": "model", "href": "/en/catalog/durant,1929,model+60", "payload": {"nodetype": "model", "ctx": {"make": "DURANT", "year": 1929, "model": "MODEL 60"}}}
 {"node_type": "model", "href": "/en/catalog/durant,1929,model+40", "payload": {"nodetype": "model", "ctx": {"make": "DURANT", "year": 1929, "model": "MODEL 40"}}}
-{"node_type": "carcode", "href": "/en/catalog/durant,1929,model+m4,all+engines,2001620", "payload": {"nodetype": "carcode", "ctx": {"make": "DURANT", "year": 1929, "model": "MODEL M4"}}}

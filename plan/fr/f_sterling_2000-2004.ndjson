@@ -17,6 +17,3 @@
 {"node_type": "model", "href": "/en/catalog/sterling,2002,acterra+5500", "payload": {"nodetype": "model", "ctx": {"make": "STERLING", "year": 2002, "model": "ACTERRA 5500"}}}
 {"node_type": "model", "href": "/en/catalog/sterling,2003,acterra+5500", "payload": {"nodetype": "model", "ctx": {"make": "STERLING", "year": 2003, "model": "ACTERRA 5500"}}}
 {"node_type": "model", "href": "/en/catalog/sterling,2004,acterra+5500", "payload": {"nodetype": "model", "ctx": {"make": "STERLING", "year": 2004, "model": "ACTERRA 5500"}}}
-{"node_type": "carcode", "href": "/en/catalog/sterling,2001,acterra+6500,6.4l+l6+diesel+turbocharged,3296650", "payload": {"nodetype": "carcode", "ctx": {"make": "STERLING", "year": 2001, "model": "ACTERRA 6500"}}}
-{"node_type": "carcode", "href": "/en/catalog/sterling,2002,l7500,7.2l+l6+diesel+turbocharged,3298386", "payload": {"nodetype": "carcode", "ctx": {"make": "STERLING", "year": 2002, "model": "L7500"}}}
-{"node_type": "carcode", "href": "/en/catalog/sterling,2002,acterra+5500,4.3l+l4+diesel+turbocharged,3297071", "payload": {"nodetype": "carcode", "ctx": {"make": "STERLING", "year": 2002, "model": "ACTERRA 5500"}}}

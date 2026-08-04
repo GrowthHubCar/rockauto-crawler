@@ -9,4 +9,3 @@
 {"node_type": "model", "href": "/en/catalog/packard,1929,model+640", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1929, "model": "MODEL 640"}}}
 {"node_type": "model", "href": "/en/catalog/packard,1929,model+633", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1929, "model": "MODEL 633"}}}
 {"node_type": "model", "href": "/en/catalog/packard,1929,model+626", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1929, "model": "MODEL 626"}}}
-{"node_type": "carcode", "href": "/en/catalog/packard,1929,model+645,385cid+l8,2001670", "payload": {"nodetype": "carcode", "ctx": {"make": "PACKARD", "year": 1929, "model": "MODEL 645"}}}

@@ -10,8 +10,3 @@
 {"node_type": "model", "href": "/en/catalog/bentley,1993,turbo+r", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1993, "model": "TURBO R"}}}
 {"node_type": "model", "href": "/en/catalog/bentley,1994,turbo+r", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1994, "model": "TURBO R"}}}
 {"node_type": "model", "href": "/en/catalog/bentley,1990,eight", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1990, "model": "EIGHT"}}}
-{"node_type": "carcode", "href": "/en/catalog/bentley,1991,eight,6.7l+v8,1009909", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1991, "model": "EIGHT"}}}
-{"node_type": "carcode", "href": "/en/catalog/bentley,1991,mulsanne,6.7l+v8,1010002", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1991, "model": "MULSANNE"}}}
-{"node_type": "carcode", "href": "/en/catalog/bentley,1991,turbo+r,6.7l+v8+turbocharged,1010046", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1991, "model": "TURBO R"}}}
-{"node_type": "carcode", "href": "/en/catalog/bentley,1993,brooklands,6.7l+v8,1009628", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1993, "model": "BROOKLANDS"}}}
-{"node_type": "carcode", "href": "/en/catalog/bentley,1991,continental,6.7l+v8,1009763", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1991, "model": "CONTINENTAL"}}}

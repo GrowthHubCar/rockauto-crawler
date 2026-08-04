@@ -7,4 +7,3 @@
 {"node_type": "model", "href": "/en/catalog/morris,1957,minor", "payload": {"nodetype": "model", "ctx": {"make": "MORRIS", "year": 1957, "model": "MINOR"}}}
 {"node_type": "model", "href": "/en/catalog/morris,1958,minor", "payload": {"nodetype": "model", "ctx": {"make": "MORRIS", "year": 1958, "model": "MINOR"}}}
 {"node_type": "model", "href": "/en/catalog/morris,1959,minor", "payload": {"nodetype": "model", "ctx": {"make": "MORRIS", "year": 1959, "model": "MINOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/morris,1957,oxford,1.5l+l4,1488715", "payload": {"nodetype": "carcode", "ctx": {"make": "MORRIS", "year": 1957, "model": "OXFORD"}}}

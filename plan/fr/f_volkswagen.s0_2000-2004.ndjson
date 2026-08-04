@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2004,polo", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2004, "model": "POLO"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2000,pointer", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2000, "model": "POINTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2001,passat,2.8l+v6,1431656", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2001, "model": "PASSAT"}}}

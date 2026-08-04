@@ -1,11 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/rolls-royce,2013,phantom", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2013, "model": "PHANTOM"}}}
 {"node_type": "model", "href": "/en/catalog/rolls-royce,2013,ghost", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 2013, "model": "GHOST"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2011,ghost,6.6l+v12+turbocharged,1500957", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2011, "model": "GHOST"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2014,ghost,6.6l+v12+turbocharged,3307439", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2014, "model": "GHOST"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2014,wraith,6.6l+v12+turbocharged,3307441", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2014, "model": "WRAITH"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2010,phantom,6.7l+v12,1446132", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2010, "model": "PHANTOM"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2012,phantom,6.7l+v12,1503149", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2012, "model": "PHANTOM"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2014,phantom,6.7l+v12,3307440", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2014, "model": "PHANTOM"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2011,phantom,6.7l+v12,1500953", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2011, "model": "PHANTOM"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2010,ghost,6.6l+v12+turbocharged,3209512", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2010, "model": "GHOST"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,2012,ghost,6.6l+v12+turbocharged,1503148", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 2012, "model": "GHOST"}}}

@@ -2,8 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/lamborghini,2012,gallardo", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 2012, "model": "GALLARDO"}}}
 {"node_type": "model", "href": "/en/catalog/lamborghini,2012,aventador", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 2012, "model": "AVENTADOR"}}}
 {"node_type": "model", "href": "/en/catalog/lamborghini,2010,murcielago", "payload": {"nodetype": "model", "ctx": {"make": "LAMBORGHINI", "year": 2010, "model": "MURCIELAGO"}}}
-{"node_type": "carcode", "href": "/en/catalog/lamborghini,2014,gallardo,5.2l+v10,3307566", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 2014, "model": "GALLARDO"}}}
-{"node_type": "carcode", "href": "/en/catalog/lamborghini,2013,gallardo,5.2l+v10,3294253", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 2013, "model": "GALLARDO"}}}
-{"node_type": "carcode", "href": "/en/catalog/lamborghini,2014,aventador,6.5l+v12,3307375", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 2014, "model": "AVENTADOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/lamborghini,2011,gallardo,5.2l+v10,1447759", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 2011, "model": "GALLARDO"}}}
-{"node_type": "carcode", "href": "/en/catalog/lamborghini,2013,aventador,6.5l+v12,3294226", "payload": {"nodetype": "carcode", "ctx": {"make": "LAMBORGHINI", "year": 2013, "model": "AVENTADOR"}}}

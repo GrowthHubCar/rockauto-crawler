@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2010,avalon", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2010, "model": "AVALON"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2011,sienna,3.5l+v6,1446193", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2011, "model": "SIENNA"}}}

@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/buick,1987,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1987, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1987,electra,3.8l+231cid+v6,1017346", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1987, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1988,riviera,3.8l+231cid+v6,1021958", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1988, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1985,regal,5.0l+305cid+v8,1020867", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1985, "model": "REGAL"}}}

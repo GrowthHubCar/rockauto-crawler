@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/gmc,2009,sierra+2500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2009, "model": "SIERRA 2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2008,sierra+3500,6.0l+v8,1441195", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2008, "model": "SIERRA 3500"}}}

@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/foton,2017,aumark+3000", "payload": {"nodetype": "model", "ctx": {"make": "FOTON", "year": 2017, "model": "AUMARK 3000"}}}
-{"node_type": "model", "href": "/en/catalog/foton,2018,aumark+3000", "payload": {"nodetype": "model", "ctx": {"make": "FOTON", "year": 2018, "model": "AUMARK 3000"}}}
-{"node_type": "model", "href": "/en/catalog/foton,2016,aumark+2000", "payload": {"nodetype": "model", "ctx": {"make": "FOTON", "year": 2016, "model": "AUMARK 2000"}}}
-{"node_type": "model", "href": "/en/catalog/foton,2017,aumark+2000", "payload": {"nodetype": "model", "ctx": {"make": "FOTON", "year": 2017, "model": "AUMARK 2000"}}}
-{"node_type": "model", "href": "/en/catalog/foton,2018,aumark+2000", "payload": {"nodetype": "model", "ctx": {"make": "FOTON", "year": 2018, "model": "AUMARK 2000"}}}
-{"node_type": "carcode", "href": "/en/catalog/foton,2016,aumark+3000,2.8l+l4+diesel+turbocharged,3442189", "payload": {"nodetype": "carcode", "ctx": {"make": "FOTON", "year": 2016, "model": "AUMARK 3000"}}}

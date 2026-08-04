@@ -1,4 +1,1 @@
 {"node_type": "model", "href": "/en/catalog/kia,1993,sephia+gs", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 1993, "model": "SEPHIA GS"}}}
-{"node_type": "carcode", "href": "/en/catalog/kia,1993,sephia+rs,1.6l+l4,1185566", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 1993, "model": "SEPHIA RS"}}}
-{"node_type": "carcode", "href": "/en/catalog/kia,1994,sephia,1.6l+l4,1185577", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 1994, "model": "SEPHIA"}}}
-{"node_type": "carcode", "href": "/en/catalog/kia,1993,sephia+ls,1.6l+l4,1185555", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 1993, "model": "SEPHIA LS"}}}

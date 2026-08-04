@@ -1,10 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/lincoln,1954,capri", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1954, "model": "CAPRI"}}}
 {"node_type": "model", "href": "/en/catalog/lincoln,1951,cosmopolitan", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1951, "model": "COSMOPOLITAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1954,cosmopolitan,5.2l+318cid+v8,1342459", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1954, "model": "COSMOPOLITAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1953,cosmopolitan,5.2l+318cid+v8,1342471", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1953, "model": "COSMOPOLITAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1950,lincoln,5.5l+337cid+v8,1435742", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1950, "model": "LINCOLN"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1952,cosmopolitan,5.2l+318cid+v8,1342493", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1952, "model": "COSMOPOLITAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1952,capri,5.2l+318cid+v8,1342482", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1952, "model": "CAPRI"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1950,cosmopolitan,5.5l+337cid+v8,1435744", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1950, "model": "COSMOPOLITAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1951,lincoln,5.5l+337cid+v8,1435741", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1951, "model": "LINCOLN"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,1953,capri,5.2l+318cid+v8,1342460", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 1953, "model": "CAPRI"}}}

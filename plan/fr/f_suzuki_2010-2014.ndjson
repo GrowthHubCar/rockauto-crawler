@@ -4,28 +4,10 @@
 {"node_type": "model", "href": "/en/catalog/suzuki,2011,sx4", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2011, "model": "SX4"}}}
 {"node_type": "model", "href": "/en/catalog/suzuki,2013,kizashi", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 2013, "model": "KIZASHI"}}}
 {"node_type": "carcode", "href": "/en/catalog/suzuki,2012,swift,1.4l+l4,3015449", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2012, "model": "SWIFT"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2011,kizashi,2.4l+l4,1447475", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2011, "model": "KIZASHI"}}}
 {"node_type": "carcode", "href": "/en/catalog/suzuki,2011,equator,4.0l+v6,1447469", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2011, "model": "EQUATOR"}}}
 {"node_type": "carcode", "href": "/en/catalog/suzuki,2011,swift,1.5l+l4,3015740", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2011, "model": "SWIFT"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2010,sx4,2.0l+l4,1445365", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2010, "model": "SX4"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2010,swift%2B,1.6l+l4,3444453", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2010, "model": "SWIFT%2B"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2010,grand+vitara,3.2l+v6,1445555", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2010, "model": "GRAND VITARA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2010,equator,4.0l+v6,1445552", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2010, "model": "EQUATOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2012,sx4,2.0l+l4,1503162", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2012, "model": "SX4"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2013,sx4,2.0l+l4,3294321", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2013, "model": "SX4"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2012,equator,4.0l+v6,1503877", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2012, "model": "EQUATOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2010,kizashi,2.4l+l4,1446185", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2010, "model": "KIZASHI"}}}
 {"node_type": "carcode", "href": "/en/catalog/suzuki,2014,swift,1.4l+l4,3307607", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2014, "model": "SWIFT"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2013,grand+vitara,2.4l+l4,3294267", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2013, "model": "GRAND VITARA"}}}
 {"node_type": "carcode", "href": "/en/catalog/suzuki,2014,kizashi,2.4l+l4,3307583", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2014, "model": "KIZASHI"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2012,kizashi,2.4l+l4,1503158", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2012, "model": "KIZASHI"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2010,grand+vitara,2.4l+l4,1445554", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2010, "model": "GRAND VITARA"}}}
 {"node_type": "carcode", "href": "/en/catalog/suzuki,2014,swift,1.6l+l4,3202609", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2014, "model": "SWIFT"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2012,equator,2.5l+l4,1503875", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2012, "model": "EQUATOR"}}}
 {"node_type": "carcode", "href": "/en/catalog/suzuki,2010,swift,1.5l+l4,3015739", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2010, "model": "SWIFT"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2014,s-cross,1.6l+l4,3307653", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2014, "model": "S-CROSS"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2010,equator,2.5l+l4,1445550", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2010, "model": "EQUATOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2011,grand+vitara,2.4l+l4,1447471", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2011, "model": "GRAND VITARA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2012,grand+vitara,2.4l+l4,1502600", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2012, "model": "GRAND VITARA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,2011,equator,2.5l+l4,1447466", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2011, "model": "EQUATOR"}}}
 {"node_type": "carcode", "href": "/en/catalog/suzuki,2014,sx4,2.0l+l4,3307584", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 2014, "model": "SX4"}}}

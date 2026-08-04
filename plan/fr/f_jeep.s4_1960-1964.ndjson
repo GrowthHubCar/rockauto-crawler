@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/jeep,1962,truck", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1962, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1962,gladiator", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1962, "model": "GLADIATOR"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1963,6-226", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1963, "model": "6-226"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,1963,wagoneer,3.8l+230cid+l6,1341942", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1963, "model": "WAGONEER"}}}

@@ -1,6 +1,1 @@
 {"node_type": "carcode", "href": "/en/catalog/uaz,2022,hunter,2.7l+l4,3454001", "payload": {"nodetype": "carcode", "ctx": {"make": "UAZ", "year": 2022, "model": "HUNTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/uaz,2020,hunter,2.2l+l4+diesel+turbocharged,3446855", "payload": {"nodetype": "carcode", "ctx": {"make": "UAZ", "year": 2020, "model": "HUNTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/uaz,2020,hunter,2.7l+l4,3446856", "payload": {"nodetype": "carcode", "ctx": {"make": "UAZ", "year": 2020, "model": "HUNTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/uaz,2020,profi,2.7l+l4,3450962", "payload": {"nodetype": "carcode", "ctx": {"make": "UAZ", "year": 2020, "model": "PROFI"}}}
-{"node_type": "carcode", "href": "/en/catalog/uaz,2020,pickup,2.2l+l4+diesel+turbocharged,3446857", "payload": {"nodetype": "carcode", "ctx": {"make": "UAZ", "year": 2020, "model": "PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/uaz,2020,pickup,2.7l+l4,3446858", "payload": {"nodetype": "carcode", "ctx": {"make": "UAZ", "year": 2020, "model": "PICKUP"}}}

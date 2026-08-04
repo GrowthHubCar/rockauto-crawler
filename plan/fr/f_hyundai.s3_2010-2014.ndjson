@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2012,veracruz", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2012, "model": "VERACRUZ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2014,sonata,2.4l+l4+electric/gas,3307602", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2014,veloster,1.6l+l4,3300347", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "VELOSTER"}}}

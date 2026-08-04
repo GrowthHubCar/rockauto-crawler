@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,malibu", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "MALIBU"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1999,k1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1999, "model": "K1500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,caprice", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "CAPRICE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,c2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "C2500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1995,p30,7.4l+v8,1059689", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1995, "model": "P30"}}}

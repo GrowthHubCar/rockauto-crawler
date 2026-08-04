@@ -2,4 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/datsun,1977,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1977, "model": "PICKUP"}}}
 {"node_type": "model", "href": "/en/catalog/datsun,1978,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1978, "model": "PICKUP"}}}
 {"node_type": "model", "href": "/en/catalog/datsun,1979,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1979, "model": "PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/datsun,1975,pickup,1.6l+l4,3437577", "payload": {"nodetype": "carcode", "ctx": {"make": "DATSUN", "year": 1975, "model": "PICKUP"}}}

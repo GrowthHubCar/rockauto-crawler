@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2023,creta", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "CRETA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,accent,1.6l+l4,3450703", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "ACCENT"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,sonata,1.6l+l4+turbocharged,3446643", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "SONATA"}}}

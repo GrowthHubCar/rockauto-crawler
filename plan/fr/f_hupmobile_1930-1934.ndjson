@@ -25,4 +25,3 @@
 {"node_type": "model", "href": "/en/catalog/hupmobile,1934,series+427-t", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1934, "model": "SERIES 427-T"}}}
 {"node_type": "model", "href": "/en/catalog/hupmobile,1934,series+421-j", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1934, "model": "SERIES 421-J"}}}
 {"node_type": "model", "href": "/en/catalog/hupmobile,1934,series+417-w", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1934, "model": "SERIES 417-W"}}}
-{"node_type": "carcode", "href": "/en/catalog/hupmobile,1931,model+u,366cid+l8,952440", "payload": {"nodetype": "carcode", "ctx": {"make": "HUPMOBILE", "year": 1931, "model": "MODEL U"}}}

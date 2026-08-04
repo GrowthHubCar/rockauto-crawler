@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2023,malibu", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "MALIBU"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2023,express+cargo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "EXPRESS CARGO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2022,blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2022, "model": "BLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2021,equinox,1.5l+l4+turbocharged,3447289", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2021, "model": "EQUINOX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2020,sonic,1.4l+l4+turbocharged,3444642", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2020, "model": "SONIC"}}}

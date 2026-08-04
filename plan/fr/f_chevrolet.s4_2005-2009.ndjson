@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2008,suburban+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "SUBURBAN 1500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2009,colorado", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "COLORADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,malibu,3.5l+v6,1445048", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,silverado+2500,4.8l+v8,3298853", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "SILVERADO 2500"}}}

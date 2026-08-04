@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2018,x5", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2018, "model": "X5"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2015,228i,2.0l+l4+turbocharged,3309697", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2015, "model": "228I"}}}

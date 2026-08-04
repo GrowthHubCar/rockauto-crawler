@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/jeep,1972,jeepster", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1972, "model": "JEEPSTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/jeep,1974,cj5,5.9l+360cid+v8,2185", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1974, "model": "CJ5"}}}

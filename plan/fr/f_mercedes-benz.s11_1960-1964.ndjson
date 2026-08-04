@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1960,190db", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1960, "model": "190DB"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1962,300d,3.0l+l6,1435380", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1962, "model": "300D"}}}

@@ -1,6 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/polestar,2021,polestar+1", "payload": {"nodetype": "model", "ctx": {"make": "POLESTAR", "year": 2021, "model": "POLESTAR 1"}}}
 {"node_type": "model", "href": "/en/catalog/polestar,2023,polestar+2", "payload": {"nodetype": "model", "ctx": {"make": "POLESTAR", "year": 2023, "model": "POLESTAR 2"}}}
 {"node_type": "model", "href": "/en/catalog/polestar,2024,polestar+2", "payload": {"nodetype": "model", "ctx": {"make": "POLESTAR", "year": 2024, "model": "POLESTAR 2"}}}
-{"node_type": "carcode", "href": "/en/catalog/polestar,2020,polestar+1,2.0l+l4+electric/gas+turbocharged,3446389", "payload": {"nodetype": "carcode", "ctx": {"make": "POLESTAR", "year": 2020, "model": "POLESTAR 1"}}}
-{"node_type": "carcode", "href": "/en/catalog/polestar,2022,polestar+2,electric,3450237", "payload": {"nodetype": "carcode", "ctx": {"make": "POLESTAR", "year": 2022, "model": "POLESTAR 2"}}}
-{"node_type": "carcode", "href": "/en/catalog/polestar,2021,polestar+2,electric,3450236", "payload": {"nodetype": "carcode", "ctx": {"make": "POLESTAR", "year": 2021, "model": "POLESTAR 2"}}}

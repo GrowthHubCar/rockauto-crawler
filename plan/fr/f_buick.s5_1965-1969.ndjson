@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/buick,1967,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1967, "model": "LESABRE"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1968,sportwagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1968, "model": "SPORTWAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1965,sportwagon,3.7l+225cid+v6,1319396", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1965, "model": "SPORTWAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1967,skylark,4.9l+300cid+v8,1319071", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1967, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1965,riviera,6.6l+401cid+v8,1319329", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1965, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1968,special,4.1l+250cid+l6,1494168", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1968, "model": "SPECIAL"}}}

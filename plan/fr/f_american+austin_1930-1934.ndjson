@@ -2,4 +2,3 @@
 {"node_type": "model", "href": "/en/catalog/american+austin,1931,american+austin", "payload": {"nodetype": "model", "ctx": {"make": "AMERICAN AUSTIN", "year": 1931, "model": "AMERICAN AUSTIN"}}}
 {"node_type": "model", "href": "/en/catalog/american+austin,1933,american+austin", "payload": {"nodetype": "model", "ctx": {"make": "AMERICAN AUSTIN", "year": 1933, "model": "AMERICAN AUSTIN"}}}
 {"node_type": "model", "href": "/en/catalog/american+austin,1934,american+austin", "payload": {"nodetype": "model", "ctx": {"make": "AMERICAN AUSTIN", "year": 1934, "model": "AMERICAN AUSTIN"}}}
-{"node_type": "carcode", "href": "/en/catalog/american+austin,1932,american+austin,747cc+46cid+l4,1485505", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN AUSTIN", "year": 1932, "model": "AMERICAN AUSTIN"}}}

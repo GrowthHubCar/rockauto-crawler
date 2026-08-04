@@ -3,10 +3,3 @@
 {"node_type": "model", "href": "/en/catalog/alfa+romeo,1985,gtv-6", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1985, "model": "GTV-6"}}}
 {"node_type": "model", "href": "/en/catalog/alfa+romeo,1987,spider", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1987, "model": "SPIDER"}}}
 {"node_type": "model", "href": "/en/catalog/alfa+romeo,1989,spider", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1989, "model": "SPIDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1986,gtv-6,2.5l+v6,1001338", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1986, "model": "GTV-6"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1988,spider,2.0l+l4,1001631", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1988, "model": "SPIDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1989,milano,3.0l+v6,1001428", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1989, "model": "MILANO"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1987,milano,3.0l+v6,1446343", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1987, "model": "MILANO"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1987,milano,2.5l+v6,1001349", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1987, "model": "MILANO"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1985,spider,2.0l+l4,1360718", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1985, "model": "SPIDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1986,spider,2.0l+l4,1360640", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1986, "model": "SPIDER"}}}

@@ -14,12 +14,4 @@
 {"node_type": "model", "href": "/en/catalog/pontiac,1952,catalina", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1952, "model": "CATALINA"}}}
 {"node_type": "model", "href": "/en/catalog/pontiac,1953,catalina", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1953, "model": "CATALINA"}}}
 {"node_type": "model", "href": "/en/catalog/pontiac,1954,catalina", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1954, "model": "CATALINA"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1953,chieftain,4.4l+268cid+l8,1378436", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1953, "model": "CHIEFTAIN"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1952,streamliner,4.4l+268cid+l8,1378481", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1952, "model": "STREAMLINER"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1951,chieftain,3.9l+239cid+l6,1351314", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1951, "model": "CHIEFTAIN"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1950,streamliner,4.4l+268cid+l8,1378469", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1950, "model": "STREAMLINER"}}}
 {"node_type": "carcode", "href": "/en/catalog/pontiac,1954,star+chief,4.4l+268cid+l8,1378458", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1954, "model": "STAR CHIEF"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1954,catalina,3.9l+239cid+l6,1351145", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1954, "model": "CATALINA"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1951,streamliner,4.4l+268cid+l8,1378470", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1951, "model": "STREAMLINER"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1953,catalina,3.9l+239cid+l6,1351190", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1953, "model": "CATALINA"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1950,chieftain,3.9l+239cid+l6,1351370", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1950, "model": "CHIEFTAIN"}}}

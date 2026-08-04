@@ -26,46 +26,21 @@
 {"node_type": "model", "href": "/en/catalog/mercury,1967,comet", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1967, "model": "COMET"}}}
 {"node_type": "model", "href": "/en/catalog/mercury,1968,comet", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1968, "model": "COMET"}}}
 {"node_type": "model", "href": "/en/catalog/mercury,1966,s-55", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1966, "model": "S-55"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1969,cyclone,7.0l+429cid+v8,1495505", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1969, "model": "CYCLONE"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1966,commuter,6.4l+390cid+v8,1343966", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1966, "model": "COMMUTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1968,cyclone,5.0l+302cid+v8,1198852", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1968, "model": "CYCLONE"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1968,colony+park,7.0l+428cid+v8,1196737", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1968, "model": "COLONY PARK"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1967,brougham,6.4l+390cid+v8,1493961", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1967, "model": "BROUGHAM"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1967,commuter,6.4l+390cid+v8,1343517", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1967, "model": "COMMUTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1967,park+lane,6.7l+410cid+v8,1343708", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1967, "model": "PARK LANE"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1969,montego,4.1l+250cid+l6,1201341", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1969, "model": "MONTEGO"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1965,comet,4.3l+260cid+v8,1492635", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1965, "model": "COMET"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1968,montego,7.0l+427cid+v8,1404021", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1968, "model": "MONTEGO"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1965,caliente,7.0l+427cid+v8,1344282", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1965, "model": "CALIENTE"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1966,marauder,7.0l+428cid+v8,1493289", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1966, "model": "MARAUDER"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1967,marauder,6.7l+410cid+v8,1493975", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1967, "model": "MARAUDER"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1967,monterey,6.7l+410cid+v8,1343663", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1967, "model": "MONTEREY"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1967,villager,6.4l+390cid+v8,1343753", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1967, "model": "VILLAGER"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1967,monterey,7.0l+428cid+v8,1343696", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1967, "model": "MONTEREY"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1968,montego,3.3l+200cid+l6,1201240", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1968, "model": "MONTEGO"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1968,montego,4.7l+289cid+v8,1494667", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1968, "model": "MONTEGO"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1966,monterey,7.0l+427cid+v8,1344125", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1966, "model": "MONTEREY"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1968,marquis,6.4l+390cid+v8,1199987", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1968, "model": "MARQUIS"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1969,cyclone,6.4l+390cid+v8,1198931", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1969, "model": "CYCLONE"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1969,cougar,6.4l+390cid+v8,1197660", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1969, "model": "COUGAR"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1967,monterey,6.4l+390cid+v8,1343674", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1967, "model": "MONTEREY"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1966,caliente,7.0l+427cid+v8,1493273", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1966, "model": "CALIENTE"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1969,montego,7.0l+428cid+v8,1495516", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1969, "model": "MONTEGO"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1969,cougar,5.0l+302cid+v8,1495479", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1969, "model": "COUGAR"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1965,park+lane,6.4l+390cid+v8,1344440", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1965, "model": "PARK LANE"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1965,marauder,7.0l+427cid+v8,1344394", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1965, "model": "MARAUDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1966,monterey,6.4l+390cid+v8,1344114", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1966, "model": "MONTEREY"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1966,monterey,7.0l+428cid+v8,1344136", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1966, "model": "MONTEREY"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1968,colony+park,6.4l+390cid+v8,1196715", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1968, "model": "COLONY PARK"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1965,marauder,6.4l+390cid+v8,1344383", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1965, "model": "MARAUDER"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1969,cyclone,5.8l+351cid+v8,1198919", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1969, "model": "CYCLONE"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1965,villager,2.8l+170cid+l6,1492637", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1965, "model": "VILLAGER"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1966,marauder,7.0l+427cid+v8,1493286", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1966, "model": "MARAUDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1967,comet,6.4l+390cid+v8,1343472", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1967, "model": "COMET"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1968,cyclone,6.4l+390cid+v8,1198874", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1968, "model": "CYCLONE"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1965,comet,3.3l+200cid+l6,1344316", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1965, "model": "COMET"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1969,monterey,7.0l+429cid+v8,1202779", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1969, "model": "MONTEREY"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1969,montego,7.0l+427cid+v8,1495521", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1969, "model": "MONTEGO"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1966,monterey,6.7l+410cid+v8,1344103", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1966, "model": "MONTEREY"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1968,montego,6.4l+390cid+v8,1201273", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1968, "model": "MONTEGO"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1965,colony+park,6.4l+390cid+v8,1344293", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1965, "model": "COLONY PARK"}}}

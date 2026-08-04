@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,silverado+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "SILVERADO 2500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,express+4500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "EXPRESS 4500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2012,equinox", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "EQUINOX"}}}

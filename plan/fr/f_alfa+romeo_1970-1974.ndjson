@@ -14,9 +14,3 @@
 {"node_type": "model", "href": "/en/catalog/alfa+romeo,1971,montreal", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1971, "model": "MONTREAL"}}}
 {"node_type": "model", "href": "/en/catalog/alfa+romeo,1972,montreal", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1972, "model": "MONTREAL"}}}
 {"node_type": "model", "href": "/en/catalog/alfa+romeo,1974,montreal", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1974, "model": "MONTREAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1970,spider,1.8l+l4,1404515", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1970, "model": "SPIDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1971,gt+veloce,2.0l+l4,1496752", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1971, "model": "GT VELOCE"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1972,spider,2.0l+l4,1292262", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1972, "model": "SPIDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1973,montreal,2.6l+v8,1436198", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1973, "model": "MONTREAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1972,berlina,1.8l+l4,1436146", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1972, "model": "BERLINA"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1970,spider,2.0l+l4,1495802", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1970, "model": "SPIDER"}}}

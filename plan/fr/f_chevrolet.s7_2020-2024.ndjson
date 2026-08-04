@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2024,tornado+van", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "TORNADO VAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2024,express+pasajeros", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "EXPRESS PASAJEROS"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2024,cheyenne", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "CHEYENNE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2023,silverado+1500,2.7l+l4+turbocharged,3451804", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2020,silverado+1500,4.3l+v6,3444631", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2020, "model": "SILVERADO 1500"}}}

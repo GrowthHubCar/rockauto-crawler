@@ -6,12 +6,3 @@
 {"node_type": "model", "href": "/en/catalog/desoto,1956,adventurer", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1956, "model": "ADVENTURER"}}}
 {"node_type": "model", "href": "/en/catalog/desoto,1958,adventurer", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1958, "model": "ADVENTURER"}}}
 {"node_type": "model", "href": "/en/catalog/desoto,1959,adventurer", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1959, "model": "ADVENTURER"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1959,firesweep,5.9l+361cid+v8,1440356", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1959, "model": "FIRESWEEP"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1957,firedome,5.6l+341cid+v8,1440350", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1957, "model": "FIREDOME"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1956,firedome,5.4l+330cid+v8,1440348", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1956, "model": "FIREDOME"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1957,fireflite,5.6l+341cid+v8,1440349", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1957, "model": "FIREFLITE"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1958,firedome,5.9l+361cid+v8,1440358", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1958, "model": "FIREDOME"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1957,adventurer,5.6l+345cid+v8,1440352", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1957, "model": "ADVENTURER"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1959,fireflite,6.3l+383cid+v8,1440361", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1959, "model": "FIREFLITE"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1955,firedome,4.8l+291cid+v8,1440346", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1955, "model": "FIREDOME"}}}
-{"node_type": "carcode", "href": "/en/catalog/desoto,1956,fireflite,5.4l+330cid+v8,1440347", "payload": {"nodetype": "carcode", "ctx": {"make": "DESOTO", "year": 1956, "model": "FIREFLITE"}}}

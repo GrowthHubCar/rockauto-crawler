@@ -9,8 +9,3 @@
 {"node_type": "model", "href": "/en/catalog/changan,2024,hunter", "payload": {"nodetype": "model", "ctx": {"make": "CHANGAN", "year": 2024, "model": "HUNTER"}}}
 {"node_type": "model", "href": "/en/catalog/changan,2024,honor+s", "payload": {"nodetype": "model", "ctx": {"make": "CHANGAN", "year": 2024, "model": "HONOR S"}}}
 {"node_type": "model", "href": "/en/catalog/changan,2024,deepal+s07", "payload": {"nodetype": "model", "ctx": {"make": "CHANGAN", "year": 2024, "model": "DEEPAL S07"}}}
-{"node_type": "carcode", "href": "/en/catalog/changan,2022,alsvin,1.5l+l4,3450507", "payload": {"nodetype": "carcode", "ctx": {"make": "CHANGAN", "year": 2022, "model": "ALSVIN"}}}
-{"node_type": "carcode", "href": "/en/catalog/changan,2024,cs35,1.4l+l4+turbocharged,3454659", "payload": {"nodetype": "carcode", "ctx": {"make": "CHANGAN", "year": 2024, "model": "CS35"}}}
-{"node_type": "carcode", "href": "/en/catalog/changan,2023,alsvin,1.5l+l4,3451764", "payload": {"nodetype": "carcode", "ctx": {"make": "CHANGAN", "year": 2023, "model": "ALSVIN"}}}
-{"node_type": "carcode", "href": "/en/catalog/changan,2024,cs35,1.6l+l4,3455518", "payload": {"nodetype": "carcode", "ctx": {"make": "CHANGAN", "year": 2024, "model": "CS35"}}}
-{"node_type": "carcode", "href": "/en/catalog/changan,2023,cs55+plus,1.5l+l4+turbocharged,3451767", "payload": {"nodetype": "carcode", "ctx": {"make": "CHANGAN", "year": 2023, "model": "CS55 PLUS"}}}

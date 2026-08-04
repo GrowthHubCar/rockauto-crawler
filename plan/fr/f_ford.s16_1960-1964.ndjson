@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ford,1964,sprint", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1964, "model": "SPRINT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1961,club", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1961, "model": "CLUB"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1961,starliner,6.4l+390cid+v8,1490026", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1961, "model": "STARLINER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1962,sunliner,4.3l+260cid+v8,1490555", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1962, "model": "SUNLINER"}}}

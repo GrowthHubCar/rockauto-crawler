@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2020,maybach+s560", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2020, "model": "MAYBACH S560"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2023,g63+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "G63 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2023,gla250,2.0l+l4+turbocharged,3451221", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "GLA250"}}}

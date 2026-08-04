@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/pontiac,1962,strato-chief", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1962, "model": "STRATO-CHIEF"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1960,laurentian", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1960, "model": "LAURENTIAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1961,tempest,6.4l+389cid+v8,1350896", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1961, "model": "TEMPEST"}}}
+{"node_type": "carcode", "href": "/en/catalog/pontiac,1962,catalina,6.4l+389cid+v8,1350795", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1962, "model": "CATALINA"}}}

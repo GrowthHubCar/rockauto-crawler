@@ -11,7 +11,3 @@
 {"node_type": "model", "href": "/en/catalog/iso,1971,lele", "payload": {"nodetype": "model", "ctx": {"make": "ISO", "year": 1971, "model": "LELE"}}}
 {"node_type": "model", "href": "/en/catalog/iso,1973,lele", "payload": {"nodetype": "model", "ctx": {"make": "ISO", "year": 1973, "model": "LELE"}}}
 {"node_type": "model", "href": "/en/catalog/iso,1974,lele", "payload": {"nodetype": "model", "ctx": {"make": "ISO", "year": 1974, "model": "LELE"}}}
-{"node_type": "carcode", "href": "/en/catalog/iso,1972,grifo,5.3l+v8,1439873", "payload": {"nodetype": "carcode", "ctx": {"make": "ISO", "year": 1972, "model": "GRIFO"}}}
-{"node_type": "carcode", "href": "/en/catalog/iso,1972,lele,5.7l+v8,1439902", "payload": {"nodetype": "carcode", "ctx": {"make": "ISO", "year": 1972, "model": "LELE"}}}
-{"node_type": "carcode", "href": "/en/catalog/iso,1972,grifo,7.0l+v8,1439935", "payload": {"nodetype": "carcode", "ctx": {"make": "ISO", "year": 1972, "model": "GRIFO"}}}
-{"node_type": "carcode", "href": "/en/catalog/iso,1972,s4+fidia,5.3l+v8,1439859", "payload": {"nodetype": "carcode", "ctx": {"make": "ISO", "year": 1972, "model": "S4 FIDIA"}}}

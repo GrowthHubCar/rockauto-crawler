@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mazda,1976,808", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1976, "model": "808"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1978,cosmo", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1978, "model": "COSMO"}}}

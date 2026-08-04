@@ -10,9 +10,3 @@
 {"node_type": "model", "href": "/en/catalog/vam,1976,pacer", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1976, "model": "PACER"}}}
 {"node_type": "model", "href": "/en/catalog/vam,1977,pacer", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1977, "model": "PACER"}}}
 {"node_type": "model", "href": "/en/catalog/vam,1979,pacer", "payload": {"nodetype": "model", "ctx": {"make": "VAM", "year": 1979, "model": "PACER"}}}
-{"node_type": "carcode", "href": "/en/catalog/vam,1979,american,4.2l+l6,3442922", "payload": {"nodetype": "carcode", "ctx": {"make": "VAM", "year": 1979, "model": "AMERICAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/vam,1976,classic,4.6l+l6,3353693", "payload": {"nodetype": "carcode", "ctx": {"make": "VAM", "year": 1976, "model": "CLASSIC"}}}
-{"node_type": "carcode", "href": "/en/catalog/vam,1977,gremlin,4.2l+l6,3310531", "payload": {"nodetype": "carcode", "ctx": {"make": "VAM", "year": 1977, "model": "GREMLIN"}}}
-{"node_type": "carcode", "href": "/en/catalog/vam,1976,american,4.2l+l6,3310446", "payload": {"nodetype": "carcode", "ctx": {"make": "VAM", "year": 1976, "model": "AMERICAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/vam,1976,american,4.6l+l6,3442917", "payload": {"nodetype": "carcode", "ctx": {"make": "VAM", "year": 1976, "model": "AMERICAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/vam,1978,pacer,4.6l+l6,3442943", "payload": {"nodetype": "carcode", "ctx": {"make": "VAM", "year": 1978, "model": "PACER"}}}

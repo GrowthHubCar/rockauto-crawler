@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,1971,karmann+ghia", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1971, "model": "KARMANN GHIA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1973,fastback", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1973, "model": "FASTBACK"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1972,safari", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1972, "model": "SAFARI"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1974,campmobile,1.8l+h4,1368930", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1974, "model": "CAMPMOBILE"}}}

@@ -3,4 +3,3 @@
 {"node_type": "model", "href": "/en/catalog/opel,1949,olympia", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1949, "model": "OLYMPIA"}}}
 {"node_type": "model", "href": "/en/catalog/opel,1948,kapitan", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1948, "model": "KAPITAN"}}}
 {"node_type": "model", "href": "/en/catalog/opel,1949,kapitan", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1949, "model": "KAPITAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/opel,1947,kapitan,2.5l+151cid+l6,1486704", "payload": {"nodetype": "carcode", "ctx": {"make": "OPEL", "year": 1947, "model": "KAPITAN"}}}

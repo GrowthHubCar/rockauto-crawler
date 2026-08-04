@@ -15,10 +15,4 @@
 {"node_type": "model", "href": "/en/catalog/maserati,1968,ghibli", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 1968, "model": "GHIBLI"}}}
 {"node_type": "model", "href": "/en/catalog/maserati,1969,ghibli", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 1969, "model": "GHIBLI"}}}
 {"node_type": "carcode", "href": "/en/catalog/maserati,1969,quattroporte,4.1l+v8,1495459", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1969, "model": "QUATTROPORTE"}}}
-{"node_type": "carcode", "href": "/en/catalog/maserati,1969,mistral,4.0l+l6,1404425", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1969, "model": "MISTRAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/maserati,1965,sebring,4.0l+l6,1437050", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1965, "model": "SEBRING"}}}
-{"node_type": "carcode", "href": "/en/catalog/maserati,1969,mexico,4.7l+v8,1495458", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1969, "model": "MEXICO"}}}
 {"node_type": "carcode", "href": "/en/catalog/maserati,1969,quattroporte,4.7l+v8,1404436", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1969, "model": "QUATTROPORTE"}}}
-{"node_type": "carcode", "href": "/en/catalog/maserati,1969,indy,4.1l+v8,1404403", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1969, "model": "INDY"}}}
-{"node_type": "carcode", "href": "/en/catalog/maserati,1969,mistral,3.7l+l6,1404414", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1969, "model": "MISTRAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/maserati,1969,mexico,4.1l+v8,1495457", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 1969, "model": "MEXICO"}}}

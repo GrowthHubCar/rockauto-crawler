@@ -33,24 +33,5 @@
 {"node_type": "model", "href": "/en/catalog/ferrari,2023,monza+sp2", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2023, "model": "MONZA SP2"}}}
 {"node_type": "model", "href": "/en/catalog/ferrari,2023,monza+sp1", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2023, "model": "MONZA SP1"}}}
 {"node_type": "model", "href": "/en/catalog/ferrari,2023,daytona+sp3", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2023, "model": "DAYTONA SP3"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2021,portofino+m,3.9l+v8+turbocharged,3451072", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2021, "model": "PORTOFINO M"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2022,f8+tributo,3.9l+v8+turbocharged,3450582", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2022, "model": "F8 TRIBUTO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2022,296+gtb,3.0l+v6+electric/gas+turbocharged,3451837", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2022, "model": "296 GTB"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2022,portofino+m,3.9l+v8+turbocharged,3451073", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2022, "model": "PORTOFINO M"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2022,sf90+spider,4.0l+v8+electric/gas+turbocharged,3451846", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2022, "model": "SF90 SPIDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2022,812+superfast,6.5l+v12,3450580", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2022, "model": "812 SUPERFAST"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2021,488+pista,3.9l+v8+turbocharged,3448219", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2021, "model": "488 PISTA"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2021,sf90+spider,4.0l+v8+electric/gas+turbocharged,3449845", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2021, "model": "SF90 SPIDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2021,812+gts,6.5l+v12,3448222", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2021, "model": "812 GTS"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2021,sf90+stradale,4.0l+v8+electric/gas+turbocharged,3449846", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2021, "model": "SF90 STRADALE"}}}
 {"node_type": "carcode", "href": "/en/catalog/ferrari,2020,gtc4lusso,3.9l+v8+turbocharged,3446558", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2020, "model": "GTC4LUSSO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2021,roma,3.8l+v8+turbocharged,3449844", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2021, "model": "ROMA"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2021,f8+tributo,3.9l+v8+turbocharged,3449841", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2021, "model": "F8 TRIBUTO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2022,f8+spider,3.9l+v8+turbocharged,3450581", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2022, "model": "F8 SPIDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2021,812+superfast,6.5l+v12,3448223", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2021, "model": "812 SUPERFAST"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2021,f8+spider,3.9l+v8+turbocharged,3449839", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2021, "model": "F8 SPIDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2022,812+gts,6.5l+v12,3450579", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2022, "model": "812 GTS"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2021,488+pista+spider,3.9l+v8+turbocharged,3448220", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2021, "model": "488 PISTA SPIDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2022,sf90+stradale,4.0l+v8+electric/gas+turbocharged,3451849", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2022, "model": "SF90 STRADALE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,2022,roma,3.9l+v8+turbocharged,3451844", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2022, "model": "ROMA"}}}
 {"node_type": "carcode", "href": "/en/catalog/ferrari,2021,portofino,3.8l+v8+turbocharged,3449843", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2021, "model": "PORTOFINO"}}}

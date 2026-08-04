@@ -14,29 +14,11 @@
 {"node_type": "model", "href": "/en/catalog/mercury,1959,colony+park", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1959, "model": "COLONY PARK"}}}
 {"node_type": "model", "href": "/en/catalog/mercury,1958,park+lane", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1958, "model": "PARK LANE"}}}
 {"node_type": "model", "href": "/en/catalog/mercury,1959,park+lane", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1959, "model": "PARK LANE"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1957,montclair,6.0l+368cid+v8,1345586", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1957, "model": "MONTCLAIR"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1957,turnpike+cruiser,6.0l+368cid+v8,1345610", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1957, "model": "TURNPIKE CRUISER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1955,monterey,4.8l+292cid+v8,1345700", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1955, "model": "MONTEREY"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1959,montclair,6.3l+383cid+v8,1345306", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1959, "model": "MONTCLAIR"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1959,monterey,6.3l+383cid+v8,1345339", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1959, "model": "MONTEREY"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1958,park+lane,5.1l+312cid+v8,1489023", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1958, "model": "PARK LANE"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1958,montclair,5.1l+312cid+v8,1345463", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1958, "model": "MONTCLAIR"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1959,park+lane,5.1l+312cid+v8,1345351", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1959, "model": "PARK LANE"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1958,monterey,5.1l+312cid+v8,1345496", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1958, "model": "MONTEREY"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1959,country+cruiser,5.1l+312cid+v8,1345261", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1959, "model": "COUNTRY CRUISER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1956,montclair,5.1l+312cid+v8,1345665", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1956, "model": "MONTCLAIR"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1957,voyager,6.0l+368cid+v8,1345632", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1957, "model": "VOYAGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1959,monterey,7.0l+430cid+v8,1345340", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1959, "model": "MONTEREY"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1958,voyager,6.3l+383cid+v8,1345520", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1958, "model": "VOYAGER"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1958,monterey,7.0l+430cid+v8,1489021", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1958, "model": "MONTEREY"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1958,voyager,7.0l+430cid+v8,1345531", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1958, "model": "VOYAGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1959,montclair,5.1l+312cid+v8,1345294", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1959, "model": "MONTCLAIR"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1957,monterey,6.0l+368cid+v8,1345609", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1957, "model": "MONTEREY"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1955,montclair,4.8l+292cid+v8,1345698", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1955, "model": "MONTCLAIR"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1958,colony+park,7.0l+430cid+v8,1345429", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1958, "model": "COLONY PARK"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1959,monterey,5.1l+312cid+v8,1345328", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1959, "model": "MONTEREY"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1958,montclair,7.0l+430cid+v8,1345485", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1958, "model": "MONTCLAIR"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1956,monterey,5.1l+312cid+v8,1345676", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1956, "model": "MONTEREY"}}}
 {"node_type": "carcode", "href": "/en/catalog/mercury,1958,commuter,5.1l+312cid+v8,1345430", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1958, "model": "COMMUTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1956,custom,5.1l+312cid+v8,1345643", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1956, "model": "CUSTOM"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1955,custom,4.8l+292cid+v8,1345687", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1955, "model": "CUSTOM"}}}

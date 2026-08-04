@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2022,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2022, "model": "CAMRY"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2020,avanza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "AVANZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2021,gr+supra,2.0l+l4+turbocharged,3446847", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2021, "model": "GR SUPRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2021,prius+c,1.5l+l4+electric/gas,3449413", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2021, "model": "PRIUS C"}}}

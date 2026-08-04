@@ -1,5 +1,1 @@
 {"node_type": "model", "href": "/en/catalog/avanti,1971,ii", "payload": {"nodetype": "model", "ctx": {"make": "AVANTI", "year": 1971, "model": "II"}}}
-{"node_type": "carcode", "href": "/en/catalog/avanti,1972,ii,5.7l+350cid+v8,1311503", "payload": {"nodetype": "carcode", "ctx": {"make": "AVANTI", "year": 1972, "model": "II"}}}
-{"node_type": "carcode", "href": "/en/catalog/avanti,1973,ii,6.6l+400cid+v8,1311513", "payload": {"nodetype": "carcode", "ctx": {"make": "AVANTI", "year": 1973, "model": "II"}}}
-{"node_type": "carcode", "href": "/en/catalog/avanti,1970,ii,5.7l+350cid+v8,1311483", "payload": {"nodetype": "carcode", "ctx": {"make": "AVANTI", "year": 1970, "model": "II"}}}
-{"node_type": "carcode", "href": "/en/catalog/avanti,1974,ii,6.6l+400cid+v8,1311523", "payload": {"nodetype": "carcode", "ctx": {"make": "AVANTI", "year": 1974, "model": "II"}}}

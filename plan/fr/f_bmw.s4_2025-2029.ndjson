@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2025,m3", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2025, "model": "M3"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2026,i7", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2026, "model": "I7"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2025,330e,2.0l+l4+electric/gas+turbocharged,3457753", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2025, "model": "330E"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2026,z4,2.0l+l4+turbocharged,3458929", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2026, "model": "Z4"}}}

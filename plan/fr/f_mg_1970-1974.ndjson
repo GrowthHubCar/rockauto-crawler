@@ -1,11 +1,3 @@
 {"node_type": "model", "href": "/en/catalog/mg,1973,midget", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1973, "model": "MIDGET"}}}
 {"node_type": "model", "href": "/en/catalog/mg,1974,midget", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1974, "model": "MIDGET"}}}
 {"node_type": "model", "href": "/en/catalog/mg,1973,mgb", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1973, "model": "MGB"}}}
-{"node_type": "carcode", "href": "/en/catalog/mg,1970,midget,1.3l+l4,1204872", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1970, "model": "MIDGET"}}}
-{"node_type": "carcode", "href": "/en/catalog/mg,1974,mgb,1.8l+l4,1204782", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1974, "model": "MGB"}}}
-{"node_type": "carcode", "href": "/en/catalog/mg,1970,mgb,1.8l+l4,1496436", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1970, "model": "MGB"}}}
-{"node_type": "carcode", "href": "/en/catalog/mg,1971,mgb,1.8l+l4,1204726", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1971, "model": "MGB"}}}
-{"node_type": "carcode", "href": "/en/catalog/mg,1972,midget,1.3l+l4,1204894", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1972, "model": "MIDGET"}}}
-{"node_type": "carcode", "href": "/en/catalog/mg,1974,mgb,3.5l+v8,1436271", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1974, "model": "MGB"}}}
-{"node_type": "carcode", "href": "/en/catalog/mg,1972,mgb,1.8l+l4,1204748", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1972, "model": "MGB"}}}
-{"node_type": "carcode", "href": "/en/catalog/mg,1971,midget,1.3l+l4,1204883", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1971, "model": "MIDGET"}}}

@@ -4,7 +4,3 @@
 {"node_type": "model", "href": "/en/catalog/ford,1922,model+tt", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1922, "model": "MODEL TT"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1923,model+tt", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1923, "model": "MODEL TT"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1924,model+tt", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1924, "model": "MODEL TT"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1920,model+t,2.9l+177cid+l4,952003", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1920, "model": "MODEL T"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1923,model+t,2.9l+177cid+l4,952072", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1923, "model": "MODEL T"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1920,model+tt,2.9l+177cid+l4,1485404", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1920, "model": "MODEL TT"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1922,model+t,2.9l+177cid+l4,952044", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1922, "model": "MODEL T"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/audi,2022,s6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2022, "model": "S6"}}}
+{"node_type": "model", "href": "/en/catalog/audi,2022,e-tron", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2022, "model": "E-TRON"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2020,a6,2.0l+l4+turbocharged,3445584", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "A6"}}}

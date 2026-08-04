@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2024,tahoe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "TAHOE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2024,groove", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "GROOVE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2021,cheyenne", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2021, "model": "CHEYENNE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2024,silverado+4500+hd,6.6l+v8+diesel+turbocharged,3455784", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "SILVERADO 4500 HD"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2021,silverado+1500,3.0l+l6+diesel+turbocharged,3447302", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2021, "model": "SILVERADO 1500"}}}
