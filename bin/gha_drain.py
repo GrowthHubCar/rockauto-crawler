@@ -115,6 +115,48 @@ def free_gb() -> float:
     return shutil.disk_usage(WORK).free / 1e9
 
 
+
+STAGE_MAX_GB = 2.0
+
+
+def reclaim_staging() -> None:
+    """TRUNCATE the staging tables once nothing is unprocessed and they have grown large.
+
+    THIS EXISTS BECAUSE IT TOOK THE DATABASE DOWN. loader.py marks rows processed=1 but
+    never deletes them, so stg_listings.ibd reached 7.6 GB and stg_fitment.ibd 1.5 GB while
+    holding zero useful rows. C: hit 100% and mysqld was killed mid-query
+    ("Lost connection ... 10054"). InnoDB survived intact, but the crawl was down until the
+    space was reclaimed by hand.
+
+    DELETE does not return space to the OS; TRUNCATE on innodb_file_per_table drops and
+    recreates the tablespace, which does. Guarded on processed=0 being empty in BOTH tables
+    so an in-flight batch is never destroyed.
+    """
+    try:
+        sys.path.insert(0, os.path.join(ROOT, "scraper"))
+        import db  # noqa: PLC0415
+        conn = db.connect()
+        cur = conn.cursor()
+        cur.execute("SET SESSION TRANSACTION ISOLATION LEVEL READ UNCOMMITTED")
+        for t in ("stg_listings", "stg_fitment"):
+            cur.execute(f"SELECT COUNT(*) AS n FROM {t} WHERE processed=0")
+            if cur.fetchone()["n"]:
+                return                      # work in flight — never truncate
+        cur.execute("""SELECT SUM(data_length+index_length)/1073741824 AS gb
+                       FROM information_schema.TABLES
+                       WHERE table_schema=DATABASE() AND table_name IN
+                             ('stg_listings','stg_fitment')""")
+        gb = float(cur.fetchone()["gb"] or 0)
+        if gb < STAGE_MAX_GB:
+            return
+        for t in ("stg_listings", "stg_fitment"):
+            cur.execute(f"TRUNCATE TABLE {t}")
+        log(f"staging reclaimed: {gb:.1f} GB returned to the OS "
+            f"(free now {free_gb():.1f} GB)")
+    except Exception as exc:                # noqa: BLE001 — never kill the drain over this
+        log(f"[warn] staging reclaim skipped: {type(exc).__name__}: {exc}")
+
+
 def drain(tagged: str, keep: bool = False) -> bool:
     # "<owner>/<repo>#<run_id>" — run ids are globally unique, but carrying the repo is
     # what lets `gh run download` find the run at all.
@@ -214,6 +256,8 @@ def drain(tagged: str, keep: bool = False) -> bool:
     log(f"run {tagged}: loaded {loaded}/{len(files)} artifacts in "
         f"{len(batches)} batches — stage {stage_s/60:.1f}m load {load_s/60:.1f}m "
         f"({rows/max(stage_s+load_s,1):.0f} rows/s)")
+
+    reclaim_staging()
 
     _mark(tagged)                          # only after the loader succeeded
     if not keep:
