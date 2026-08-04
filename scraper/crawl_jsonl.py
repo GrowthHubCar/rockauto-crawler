@@ -547,13 +547,18 @@ def run(shard_index: int, shard_total: int, out_path: str,
     if visited_out:
         try:
             os.makedirs(os.path.dirname(visited_out) or ".", exist_ok=True)
-            # MERGE with `prior`, never just `new_keys`. The file is opened "w", so
+            # MERGE with `prior` ONLY when we are the cache. The file is opened "w", so
             # writing only this run's keys TRUNCATED every earlier run's cache — chunk
             # N+1 destroyed chunk N's record, and those leaves got re-crawled forever
-            # while `skipped` stayed at 0. When visited_out == visited_file (the normal
-            # case) this is a read-modify-write of a shared cache.
+            # while `skipped` stayed at 0. When visited_out == visited_file (a box) this
+            # is a read-modify-write of a shared cache.
+            # When it is a SEPARATE artifact path (Actions), `prior` is dead weight: the
+            # workflow already comm-13'd it back out, and re-serialising it built a second
+            # multi-hundred-MB set plus a full-file string in EVERY lane at the same instant
+            # (all lanes exit on max_seconds together) — the spike that OOM'd 16 GB runners.
+            same = visited_file and os.path.abspath(visited_out) == os.path.abspath(visited_file)
             with open(visited_out, "w", encoding="utf-8") as fh:
-                fh.write("\n".join(sorted(prior | new_keys)))
+                fh.write("\n".join(sorted((prior | new_keys) if same else new_keys)))
         except OSError as exc:
             print(f"[warn] could not write visited_out: {exc}", flush=True)
 

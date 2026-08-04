@@ -92,15 +92,47 @@ jobs:
       # 60 jobs at 20 concurrent is 3 waves instead of 6, so the cycle shortens without
       # losing coverage.
       max-parallel: 20
+      # MATRIX STAYS 35. A 31-job matrix was proposed to kill the second-wave tail and is
+      # WRONG: per = jobs*lanes = 31*24 = 744 < 823 units/account, so cycle goes 1 -> 2 and
+      # `block` starts flipping every REPEAT runs. The frontier cache key is
+      # rockauto-frontier-v2-${UNIT} with UNIT = picked[0], and the cached bundle holds
+      # in_*.ndjson for that job's 24 picked units — so a block flip hands every job a
+      # bundle for units it is not crawling. 665 of 823 units re-seed from plan/fr and
+      # re-walk their whole nav tree, to recover 17/840 = 2% duplicate lane-slots.
+      # Keep 35*24 = 840 >= 823 so cycle == 1 and unit -> (job, lane) is fixed forever.
+      # The walled-runner rate is 6-14 of 35 (runs 699-711), not a stable 13, so no static
+      # matrix size fits 20 slots anyway — the tail is fixed by the wave deadline below.
       matrix:
         index: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
                 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]
     runs-on: ubuntu-latest
     timeout-minutes: 350
     steps:
+      # PREFLIGHT FIRST — before checkout/python/pip/skip-set.
+      # 37% of runners are born walled (13/35 in both runs 709 and 710). The probe used to
+      # live inside the Crawl step, so a dead runner still paid 24 s of setup (of which 9.2 s
+      # was gunzip+sort of the 14.4M-key skip-set) plus ~20 s of post steps before exiting:
+      # measured 47-60 s of a held slot for zero requests. curl is preinstalled, so probing
+      # at step 0 hands the slot back in ~10 s and the backfill job starts ~43 s sooner.
+      - name: Preflight — is this runner's IP walled?
+        id: pf
+        run: |
+          UA='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36'
+          PROBE='https://www.rockauto.com/en/catalog/ac,1947,two-litre,2.0l+122cid+l6,1486554,cooling+system,coolant+/+antifreeze,11393'
+          live=0
+          for _ in 1 2; do   # twice: one dropped connection must not cost a whole job
+            curl -sS --compressed --max-time 10 -A "$UA" "$PROBE" \
+              | grep -q 'ranavnode\|navlabellink\|listing-\|nchildren' && { live=1; break; }
+            sleep 2
+          done
+          echo "live=$live" >> "$GITHUB_OUTPUT"
+          [ "$live" = 1 ] || echo "[preflight] runner IP is walled — skipping the rest so the slot recycles"
+
       - uses: actions/checkout@v4
+        if: steps.pf.outputs.live == '1'
 
       - uses: actions/setup-python@v5
+        if: steps.pf.outputs.live == '1'
         with:
           python-version: "3.13"
           cache: 'pip'   # shard-swap speedup: cache deps so a swapped-in fresh-IP job
@@ -112,6 +144,7 @@ jobs:
       # CAPTCHA AVOIDANCE, not solving. Dropping the apt install also shaves ~30s of
       # per-job setup, which matters when jobs are short (abort at the IP's wall).
       - name: Install Python deps
+        if: steps.pf.outputs.live == '1'
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
@@ -139,6 +172,7 @@ jobs:
       # interleaved (slot 0 takes even, slot 1 odd), so neither can ever crawl the other's
       # unit no matter how far their run_numbers drift apart. Unset = one account, all units.
       - name: Resolve unit from targeted frontier
+        if: steps.pf.outputs.live == '1'
         env:
           ACCOUNT_SLOT:  ${{ vars.ACCOUNT_SLOT  || '0' }}
           ACCOUNT_COUNT: ${{ vars.ACCOUNT_COUNT || '1' }}
@@ -185,13 +219,14 @@ jobs:
           PYEOF
 
       - name: Show unit
+        if: steps.pf.outputs.live == '1'
         run: echo "[units] $UNITS (slot ${{ vars.ACCOUNT_SLOT || '0' }}/${{ vars.ACCOUNT_COUNT || '1' }}, $UNITS_MINE units, cycle $CYCLE)"
 
       # Resume: this shard's un-expanded frontier from its previous run (per-GLOBAL
       # cache). Continuing the DFS here instead of re-seeding from makes is the core
       # throughput win — no re-walking the make->year->model branches every run.
       - name: Restore frontier (resume DFS)
-        if: ${{ (github.event.inputs.mode || 'full') != 'tree' }}
+        if: ${{ steps.pf.outputs.live == '1' && (github.event.inputs.mode || 'full') != 'tree' }}
         uses: actions/cache/restore@v4
         with:
           path: frontier
@@ -202,7 +237,7 @@ jobs:
       # run skips them and reaches NEW ground (cumulative full-catalog coverage).
       # tree mode fetches make/year/model pages (not leaves) -> no visited cache.
       - name: Restore crawled-leaves cache
-        if: ${{ (github.event.inputs.mode || 'full') != 'tree' }}
+        if: ${{ steps.pf.outputs.live == '1' && (github.event.inputs.mode || 'full') != 'tree' }}
         uses: actions/cache/restore@v4
         with:
           path: coverage/visited.txt
@@ -222,6 +257,7 @@ jobs:
       # permanently suppress ground that was never crawled (crawl_jsonl caches a leaf ONLY
       # when it yielded rows, for exactly this reason).
       - name: Seed skip-set from DB-proven leaves
+        if: steps.pf.outputs.live == '1'
         run: |
           mkdir -p coverage
           touch coverage/visited.txt
@@ -241,7 +277,9 @@ jobs:
       #
       # Each lane owns its own unit, frontier and output file, so lanes never collide.
       - name: Crawl ${{ env.UNITS }}
+        if: steps.pf.outputs.live == '1'
         env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # wave deadline reads run_started_at
           SP_USE_PROXIES: "0"        # each runner already has its own fresh IP
           # THE ABORT RAILS. Measured on run 30776903933: 120 jobs made only 24,225
           # requests total (~202 each) against a 1,800 budget, exit_reason='blocked', with
@@ -298,23 +336,6 @@ jobs:
           UA='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36'
           PROBE='https://www.rockauto.com/en/catalog/ac,1947,two-litre,2.0l+122cid+l6,1486554,cooling+system,coolant+/+antifreeze,11393'
 
-          # PREFLIGHT — 25% of runners are born WALLED. Measured over runs 596/600/604:
-          # exactly 15 of 60 jobs each run made 2 requests per lane, 0 nodes, 0 listings,
-          # then sat in retry backoff for the full 300 s while holding one of the 20
-          # concurrent slots for ~392 s. One leaf fetch says so in a second; exiting hands
-          # the slot to the next matrix job, which is a different runner = a different IP.
-          # exit 0 (not 1) so the post steps still run and the matrix does not go red.
-          live=0
-          for _ in 1 2; do   # twice: one dropped connection must not cost a whole job
-            curl -sS --compressed --max-time 10 -A "$UA" "$PROBE" \
-              | grep -q 'ranavnode\|navlabellink\|listing-\|nchildren' && { live=1; break; }
-            sleep 2
-          done
-          if [ "$live" != 1 ]; then
-            echo "[preflight] runner IP is walled — exiting so the slot goes to a fresh runner"
-            exit 0
-          fi
-
           # SHRINK THE SKIP-SET TO THIS JOB'S MAKES — the OOM fix.
           # crawl_jsonl loads VISITED_FILE into a Python set PER LANE. Measured on this
           # laptop: 5,980,428 keys = 1,081 MB of set, and run 605 merged cache+seed to
@@ -331,9 +352,37 @@ jobs:
           LC_ALL=C grep -F -f mk.pat coverage/visited.txt > job_skip.txt || :
           echo "skip-set: $(wc -l < coverage/visited.txt) keys -> $(wc -l < job_skip.txt) for this job's makes"
 
+          # WAVE DEADLINE — cap on RUN age, not on JOB age.
+          # 35 jobs at 20 concurrent is 2-3 waves, and the top-level concurrency group holds
+          # the next run until the LAST job finishes. Measured run 30917576569 (shard A):
+          # after +495 s only 4 of 24 producing jobs were still crawling, and they ran on to
+          # +771 s — 276 s at 4/20 utilisation that every other slot paid for. A uniform
+          # --max-seconds cut is the wrong tool (measured -5.8% cycle for -8% leaves); this
+          # touches wave-1 jobs not at all and only trims what starts late.
+          # Set repo variable WAVE_DEADLINE=9999 to disable.
+          MAXS=${{ github.event.inputs.max_seconds || '300' }}
+          WD=${{ vars.WAVE_DEADLINE || '420' }}
+          STARTED=$(gh api "repos/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" --jq .run_started_at 2>/dev/null || echo "")
+          if [ -n "$STARTED" ]; then
+            LEFT=$(( WD - ( $(date -u +%s) - $(date -u -d "$STARTED" +%s) ) ))
+            [ "$LEFT" -lt "$MAXS" ] && MAXS=$LEFT
+            [ "$MAXS" -lt 60 ] && MAXS=60
+            echo "[deadline] run age $(( WD - LEFT ))s of ${WD}s -> --max-seconds $MAXS"
+          fi
+
           n=0
           for U in $UNITS; do
             IN="frontier/in_${U}.ndjson"
+            # A unit that already DRAINED is finished — never re-seed it. Without this the
+            # "rm -f" below deleted the drained frontier and the cp re-seeded the unit, so it
+            # re-walked its entire nav tree from scratch EVERY run, forever. Measured on runs
+            # 30914261412 + 30915849458 (19 min apart, same block, 0 cache misses): 174 units
+            # were seeded in BOTH runs, and 223 of 440 lanes exited 'drained' having spent
+            # 11,316 requests -- 29% of the fleet's whole budget -- for 6 new leaves.
+            if [ -e "frontier/done_${U}" ]; then
+              echo "[lane $n] $U COMPLETE (drained earlier) — skipping, slot goes to live work"
+              n=$((n+1)); continue
+            fi
             if [ ! -s "$IN" ]; then
               cp "plan/fr/f_${U}.ndjson" "$IN" 2>/dev/null || { echo "[lane $n] no seed for $U"; n=$((n+1)); continue; }
               echo "[lane $n] $U seeded ($(wc -l < "$IN") nodes)"
@@ -376,8 +425,11 @@ jobs:
                 --frontier-out "frontier/out_${U}.ndjson" \
                 --out "artifacts/shard-${{ matrix.index }}-${n}.ndjson" \
                 --budget "${{ github.event.inputs.budget || '1800' }}" \
-                --max-seconds "${{ github.event.inputs.max_seconds || '300' }}"
-            ) > "logs/lane_${n}.log" 2>&1 &
+                --max-seconds "$MAXS"
+            # Log name carries the UNIT so the staging step below can ask whether THIS unit
+            # really finished (crawl_jsonl prints `complete=True` only for exit_reason
+            # 'drained' with an empty frontier). Still matches logs/lane_*.log.
+            ) > "logs/lane_${n}_${U}.log" 2>&1 &
             n=$((n+1))
           done
           wait
@@ -403,7 +455,7 @@ jobs:
       #
       # Cache under the SAME path the restore asks for.
       - name: Stage frontier for caching
-        if: ${{ always() && (github.event.inputs.mode || 'full') != 'tree' }}
+        if: ${{ always() && steps.pf.outputs.live == '1' && (github.event.inputs.mode || 'full') != 'tree' }}
         run: |
           # Cache what the NEXT run will read (in_*), not what this run wrote (out_*).
           # actions/cache restores files under the path they were archived with, so caching
@@ -415,13 +467,27 @@ jobs:
             if [ -s "$f" ]; then
               mv "$f" "frontier/in_${U}.ndjson"; kept=$((kept+1))
             else
-              rm -f "$f" "frontier/in_${U}.ndjson"   # drained: do not carry an empty frontier
+              # Drained = this unit is COMPLETE. Record that in the cached frontier dir so the
+              # seed step above never re-walks it. Deleting the frontier without a marker is
+              # what made 174 units re-seed every run for 6 new leaves total.
+              #
+              # GATE ON complete=True, NEVER ON FILE SIZE. crawl_jsonl.py:406 sets
+              # exit_reason="no_seeds" when the frontier was empty AT START, then writes a
+              # zero-byte out file — indistinguishable here from a real drain. Marking that
+              # unit done retires it permanently having crawled nothing, which is the exact
+              # failure crawl_jsonl.py:405 exists to prevent ("Never signal complete without
+              # real work"). One grep closes the hole.
+              rm -f "$f" "frontier/in_${U}.ndjson"
+              if grep -q 'complete=True' logs/lane_*_"${U}".log 2>/dev/null; then
+                : > "frontier/done_${U}"
+                echo "[frontier] $U COMPLETE — retired"
+              fi
             fi
           done
           echo "[frontier] carrying $kept unit frontiers to next run"
 
       - name: Save frontier (for next run's resume)
-        if: ${{ always() && (github.event.inputs.mode || 'full') != 'tree' && hashFiles('frontier/**') != '' }}
+        if: ${{ always() && steps.pf.outputs.live == '1' && (github.event.inputs.mode || 'full') != 'tree' && hashFiles('frontier/**') != '' }}
         uses: actions/cache/save@v4
         with:
           path: frontier
@@ -442,7 +508,7 @@ jobs:
       # file 60 times per run and then throw the result away.)
 
       - name: Upload shard artifact (crawl output)
-        if: always()
+        if: ${{ always() && steps.pf.outputs.live == '1' }}
         uses: actions/upload-artifact@v4
         with:
           name: rockauto-shard-${{ matrix.index }}
@@ -456,7 +522,7 @@ jobs:
       # merge a few MB of leaf keys, and `relaunch` waits on aggregate — measured a
       # 40-minute cycle for ~25 minutes of crawling.
       - name: Upload visited delta
-        if: ${{ always() && (github.event.inputs.mode || 'full') != 'tree' }}
+        if: ${{ always() && steps.pf.outputs.live == '1' && (github.event.inputs.mode || 'full') != 'tree' }}
         uses: actions/upload-artifact@v4
         with:
           name: rockauto-visited-${{ matrix.index }}
@@ -485,11 +551,21 @@ jobs:
         run: |
           mkdir -p coverage
           touch coverage/visited.txt
-          find dl -name 'visited-*.txt' -exec cat {} + >> coverage/visited.txt 2>/dev/null || true
-          # LC_ALL=C: byte order, not UTF-8 collation. Measured 154 s for this one sort on
-          # an 8.6M-line file (12% of the whole 1,626 s cycle, and the next run cannot start
-          # until it finishes because the concurrency group waits for THIS run to complete).
-          LC_ALL=C sort -u --parallel=4 -S 50% coverage/visited.txt -o coverage/visited.txt
+          # MERGE, DO NOT RE-SORT. The old line re-sorted the whole cumulative set from
+          # scratch every cycle to absorb ~9,400 new lines:
+          #   LC_ALL=C sort -u --parallel=4 -S 50% coverage/visited.txt -o coverage/visited.txt
+          # Measured on run 30917576569 (shard A, 8.42M keys): "Merge" took 342 s of a
+          # 447 s aggregate, inside a 1,244 s cycle in which the top-level concurrency
+          # group holds the NEXT run — so it is 27% of the cycle with all 20 slots idle.
+          # coverage/visited.txt is always already sorted (every writer here is sort -u),
+          # so sorting only the new artifacts and doing a linear -m merge is equivalent.
+          # `sort -c` is the belt: O(n), ~5 s, and a merge on unsorted input silently
+          # produces an unsorted file that would poison every later run.
+          LC_ALL=C sort -c coverage/visited.txt 2>/dev/null \
+            || LC_ALL=C sort -u --parallel=4 -S 50% coverage/visited.txt -o coverage/visited.txt
+          find dl -name 'visited-*.txt' -exec cat {} + 2>/dev/null \
+            | LC_ALL=C sort -u --parallel=4 -S 25% > new.txt || :
+          LC_ALL=C sort -m -u coverage/visited.txt new.txt -o coverage/visited.txt
           echo "total leaves crawled to date: $(wc -l < coverage/visited.txt)"
       - name: Save updated crawled-leaves cache
         uses: actions/cache/save@v4
