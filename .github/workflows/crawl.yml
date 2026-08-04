@@ -341,8 +341,14 @@ jobs:
               echo "[lane $n] $U resumed ($(wc -l < "$IN") nodes)"
             fi
             MK="${U%_*}"; BAND="${U##*_}"
-            # Append this unit's PREDICTED missing leaves (see bin/add_candidates.py).
-            python bin/add_candidates.py "$U" "$IN" 20000 || true
+            # PREDICTED-LEAF INJECTION REMOVED. bin/add_candidates.py fed each lane up to
+            # 20,000 leaf hrefs derived from engine-scoped family unions. A 60-URL probe from
+            # the LOCAL line measured a 40% hit rate; on GitHub runners the same URLs returned
+            # almost nothing. Measured on run 30894182489: 13,497 requests -> 407 listings =
+            # 0.03 rows/request, new_leaves 0/lane, and rows per run collapsed 645,772 ->
+            # 19,503. A direct leaf fetch without the nav walk that precedes it does not
+            # behave the same from a runner. Probe on the SAME infrastructure you will deploy
+            # to; a local probe is not evidence about runner behaviour.
             Y0="${BAND%-*}"; Y1="${BAND#*-}"
             MKU=$(echo "${MK%.s*}" | tr '_' '+') # _ -> + (alfa_romeo -> alfa+romeo); .sN = shard suffix, not part of the make
             SKIP="coverage/skip_${U}.txt"
