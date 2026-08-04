@@ -73,9 +73,14 @@ WORKFLOW = os.getenv("SP_SYNC_WORKFLOW", "crawl.yml")
 STATE_FILE = os.path.join(ROOT, ".auto_sync_state.json")
 LOG_FILE = os.path.join(ROOT, "logs", "auto_sync.log")
 DL_DIR = os.path.join(ROOT, "artifacts", "_autosync")
-# Pace between artifact downloads (seconds) so ingestion doesn't spike network load /
-# compete with the crawl. Raise via SP_SYNC_DL_PACE to be even gentler.
-DL_PACE = float(os.getenv("SP_SYNC_DL_PACE", "3"))
+# Pace between artifact downloads (seconds). This was 3s to stop ingestion competing
+# with the crawl for local network — but the crawl has not run on this box since the
+# fleet moved to GitHub Actions, so it was pacing against a constraint that no longer
+# exists. MEASURED 2026-08-04 on run 30910254832: download 163s, stage 12s, load 99s,
+# i.e. 60% of every ingest cycle was sleeping, and 36 artifacts x 3s = 108s of that.
+# API cost is ~1,000 calls/h against a 5,000/h limit, so the pace buys nothing.
+# Raise via SP_SYNC_DL_PACE if a future architecture shares this machine's uplink.
+DL_PACE = float(os.getenv("SP_SYNC_DL_PACE", "0.2"))
 GH = r"C:\Program Files\GitHub CLI\gh.exe"
 MYSQLD = r"C:\xampp\mysql\bin\mysqld.exe"
 MYSQL_INI = r"C:\xampp\mysql\bin\my.ini"
