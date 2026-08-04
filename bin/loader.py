@@ -191,6 +191,16 @@ class Loader:
         # writes during that per-row replay, preserving failure attribution.
         self._fit_buf: list[tuple] = []
         self._fit_immediate = False
+        # Existence-check cache for ONE part's children. _insert_absent used to issue a
+        # SELECT per image / per document / per attribute; part_documents averages ~20
+        # rows per part, so materialising one part cost ~31 existence SELECTs. Measured
+        # in-flight query mix: part_images 17.0%, part_documents 14.0%, part_attributes
+        # 7.2% = 38% of ALL loader queries were these checks. One SELECT per (table,
+        # part) replaces them. Scoped to the current part_id so memory stays O(1 part) —
+        # load_listing materialises each sku once per batch (_part_done), so nothing
+        # revisits an earlier part.
+        self._exist_pid: int | None = None
+        self._exist: dict[str, set[tuple]] = {}
 
     # -- discard identity caches after a rollback --------------------------
     def _drop_caches(self) -> None:
@@ -209,6 +219,10 @@ class Loader:
         self._part_done.clear()
         # a rollback discarded whatever these rows referenced — never replay them
         self._fit_buf.clear()
+        # The rollback undid child INSERTs this set recorded as present; keeping it
+        # would make _insert_absent skip re-inserting them and silently lose rows.
+        self._exist_pid = None
+        self._exist.clear()
 
     # -- rollback that tolerates the server having killed our transaction ---
     def _rollback_to(self, name: str) -> None:
@@ -365,11 +379,37 @@ class Loader:
         that lack a UNIQUE key: part_images / part_attributes / part_documents).
         Keeps re-runs idempotent WITHOUT deleting existing (generated) children.
         """
-        where = " AND ".join(f"`{k}`<=>%s" for k in match)  # <=> handles NULLs
-        self.cur.execute(f"SELECT id FROM `{table}` WHERE {where} LIMIT 1",
-                         list(match.values()))
-        if self.cur.fetchone():
-            return
+        pid = match.get("part_id")
+        if pid is not None and len(match) > 1:
+            # Fetch this part's existing child keys ONCE, then answer every subsequent
+            # check for the same part from memory. Same semantics as the per-item
+            # SELECT: a key already present in the table is skipped, and a key inserted
+            # earlier in THIS part is added to the set so intra-part duplicates are
+            # skipped too (the old code caught those via the re-SELECT).
+            if pid != self._exist_pid:
+                self._exist_pid, self._exist = pid, {}
+            keycols = [k for k in match if k != "part_id"]
+            ck = table + "|" + ",".join(keycols)
+            have = self._exist.get(ck)
+            if have is None:
+                collist = ",".join(f"`{c}`" for c in keycols)
+                self.cur.execute(
+                    f"SELECT {collist} FROM `{table}` WHERE `part_id`=%s", [pid])
+                have = set()
+                for r in self.cur.fetchall():
+                    have.add(tuple(r[c] for c in keycols) if isinstance(r, dict)
+                             else tuple(r))
+                self._exist[ck] = have
+            probe = tuple(match[c] for c in keycols)
+            if probe in have:
+                return
+            have.add(probe)
+        else:
+            where = " AND ".join(f"`{k}`<=>%s" for k in match)  # <=> handles NULLs
+            self.cur.execute(f"SELECT id FROM `{table}` WHERE {where} LIMIT 1",
+                             list(match.values()))
+            if self.cur.fetchone():
+                return
         cols = list(vals.keys())
         collist = ",".join(f"`{c}`" for c in cols)
         placeholders = ",".join(["%s"] * len(cols))
@@ -998,11 +1038,35 @@ def selftest() -> int:
         b2 = batch + "-reingest"
         vals2 = [listings[0].get(c) for c in listings[0].keys()] + [b2, 0]
         cur.execute(f"INSERT INTO stg_listings ({collist}) VALUES ({ph})", vals2)
-        Loader(conn).process_batch(b2)
+        counts2 = Loader(conn).process_batch(b2)
         cur.execute("SELECT description FROM parts WHERE id=%s", [pid])
         redesc = cur.fetchone()["description"]
         assert redesc.startswith("ENRICHED"), \
             f"leaf re-ingest CLOBBERED the enriched description -> {redesc!r}"
+
+        # REGRESSION (child-table dedup): _insert_absent answers existence from a
+        # per-part cache (one SELECT per table per part) instead of a SELECT per item.
+        # If that cache ever went stale or keyed wrongly, a re-ingest would DUPLICATE
+        # children rather than skip them — and part_documents / part_attributes have no
+        # UNIQUE key to catch it.
+        #
+        # Assert the re-ingest SUCCEEDED first. Counting children alone is not enough:
+        # part_images IS protected by uq_part_path, so a broken cache raises 1062 there,
+        # the row rolls back, and every child count still looks correct — a silently
+        # toothless test. A clean re-ingest with unchanged counts is the real check.
+        assert counts2["listings_failed"] == 0, \
+            f"re-ingest failed rows (broken child dedup?): {counts2}"
+        for tbl, want in (("part_images", 1), ("part_interchange", 1),
+                          ("part_variants", 2)):
+            cur.execute(f"SELECT COUNT(*) n FROM {tbl} WHERE part_id=%s", [pid])
+            got = cur.fetchone()["n"]
+            assert got == want, f"{tbl} duplicated on re-ingest: {got} != {want}"
+        cur.execute("SELECT COUNT(*) n FROM part_attributes WHERE part_id=%s", [pid])
+        n_attr = cur.fetchone()["n"]
+        cur.execute("SELECT COUNT(DISTINCT `name`,`value`) n FROM part_attributes "
+                    "WHERE part_id=%s", [pid])
+        assert n_attr == cur.fetchone()["n"], \
+            f"part_attributes duplicated on re-ingest ({n_attr} rows, fewer distinct)"
 
         print(f"[selftest] loaded part id={pid}, vehicle id={veh['id']}, "
               f"fitments={fit}, counts={counts}")
