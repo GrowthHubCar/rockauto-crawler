@@ -48,8 +48,11 @@ def _run(cmd: list[str], token: str | None = None, timeout: int = 180) -> tuple[
     env = dict(os.environ)
     if token:
         env["GH_TOKEN"] = token
+    # Runs from a 5-minute scheduled task on the user's desktop — without this every
+    # gh call flashes a console window and makes the machine unusable.
     p = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True,
-                       timeout=timeout, env=env, encoding="utf-8", errors="replace")
+                       timeout=timeout, env=env, encoding="utf-8", errors="replace",
+                       creationflags=getattr(subprocess, "CREATE_NO_WINDOW", 0))
     return p.returncode, (p.stdout or "") + (p.stderr or "")
 
 

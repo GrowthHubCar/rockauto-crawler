@@ -28,6 +28,19 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "scraper"))
 import db  # noqa: E402
 
+# Windows-only: the scheduled task runs unattended on the user's DESKTOP, and every
+# gh/loader child spawned from it flashes a console window. At a 15-minute cadence
+# with ~11 children per cycle that is unusable. CREATE_NO_WINDOW suppresses them.
+_NO_WINDOW = getattr(subprocess, "CREATE_NO_WINDOW", 0)
+
+
+def _run(*args, **kwargs):
+    """subprocess.run that never pops a console window."""
+    kwargs.setdefault("creationflags", _NO_WINDOW)
+    return subprocess.run(*args, **kwargs)  # noqa: S603
+
+
+
 # The 9-account free fleet. auto_sync pulls artifacts from EVERY account's fork
 # (each crawls a disjoint slice, ACCOUNT_OFFSET 0..8). Override with SP_SYNC_REPOS.
 # 2026-07-17: GitHub SUSPENDED 7 of the 9 accounts (multi-account continuous-Actions
@@ -96,7 +109,7 @@ def ensure_db() -> bool:
 
 
 def gh_json(args: list[str]):
-    out = subprocess.run([GH, *args], capture_output=True, text=True, cwd=ROOT)
+    out = _run([GH, *args], capture_output=True, text=True, cwd=ROOT)
     if out.returncode != 0:
         raise RuntimeError(f"gh {' '.join(args)} failed: {out.stderr.strip()}")
     return json.loads(out.stdout or "[]")
@@ -152,13 +165,13 @@ def maybe_dispatch(repo: str) -> None:
     # fork). Switch gh's active account to the owner just for the dispatch; main()
     # restores the primary at the end. Reads above work as any account (public repos).
     owner = _auth_user(repo)
-    sw = subprocess.run([GH, "auth", "switch", "--user", owner],
+    sw = _run([GH, "auth", "switch", "--user", owner],
                         capture_output=True, text=True, cwd=ROOT)
     if sw.returncode != 0:
         log(f"{repo}: cannot switch to {owner} to dispatch ({sw.stderr.strip()[:80]}) — skipping")
         return
     log(f"{repo}: no recent run — dispatching one to keep coverage going.")
-    subprocess.run([GH, "workflow", "run", WORKFLOW, "--repo", repo,
+    _run([GH, "workflow", "run", WORKFLOW, "--repo", repo,
                     "-f", "budget=2500", "-f", "max_seconds=18000"], cwd=ROOT)
 
 
@@ -201,7 +214,7 @@ def copy_artifact_images(dest: str) -> int:
 
 def _run_artifact_names(repo: str, run_id: str) -> list[str] | None:
     """Names of every artifact GitHub has for this run (None on API failure)."""
-    out = subprocess.run(
+    out = _run(
         [GH, "api", f"repos/{repo}/actions/runs/{run_id}/artifacts",
          "--paginate", "--jq", ".artifacts[].name"],
         capture_output=True, text=True, cwd=ROOT)
@@ -250,7 +263,7 @@ def process_run(repo: str, run_id: str) -> bool:
         for attempt in range(3):
             shutil.rmtree(sub, ignore_errors=True)   # clean so a retry can't self-collide
             os.makedirs(sub, exist_ok=True)
-            subprocess.run([GH, "run", "download", run_id, "--repo", repo,
+            _run([GH, "run", "download", run_id, "--repo", repo,
                             "-n", name, "-D", sub],
                            capture_output=True, text=True, cwd=ROOT)
             # gh ABORTS zip extraction on a duplicate image path inside the artifact
@@ -284,13 +297,13 @@ def process_run(repo: str, run_id: str) -> bool:
     # Windows caps a command line at 32,767 chars (WinError 206 — "filename or
     # extension is too long"), which silently stalled every large run.
     # ingest_artifacts.py globs its args recursively.
-    ing = subprocess.run([PY, os.path.join("bin", "ingest_artifacts.py"), shard_glob],
+    ing = _run([PY, os.path.join("bin", "ingest_artifacts.py"), shard_glob],
                          capture_output=True, text=True, cwd=ROOT)
     log(f"  ingest: {(ing.stdout or ing.stderr).strip().splitlines()[-1] if (ing.stdout or ing.stderr).strip() else 'no output'}")
     if ing.returncode != 0:
         log(f"  ingest FAILED: {ing.stderr.strip()[:200]}")
         return False
-    ld = subprocess.run([PY, os.path.join("bin", "loader.py")],
+    ld = _run([PY, os.path.join("bin", "loader.py")],
                         capture_output=True, text=True, cwd=ROOT)
     tail = (ld.stdout or ld.stderr).strip().splitlines()
     log(f"  loader: {tail[-1] if tail else 'no output'}")
@@ -352,7 +365,7 @@ def _acquire_lock() -> bool:
                     pid = int((fh.read() or "0").strip() or 0)
             except (OSError, ValueError):
                 pid = 0
-            alive = pid > 0 and subprocess.run(
+            alive = pid > 0 and _run(
                 ["tasklist", "/FI", f"PID eq {pid}", "/NH"],
                 capture_output=True, text=True).stdout.strip().startswith("python")
             if alive:
@@ -390,7 +403,7 @@ def _main_locked() -> int:
         # Artifact downloads need a token with actions:read on THIS repo. A previous
         # repo's dispatch may have left gh switched to the other personal account, and
         # org-owned shards are only readable by their owner — switch before listing.
-        subprocess.run([GH, "auth", "switch", "--user", _auth_user(repo)],
+        _run([GH, "auth", "switch", "--user", _auth_user(repo)],
                        capture_output=True, text=True, cwd=ROOT)
         try:
             runs = gh_json(["run", "list", "--repo", repo, "--workflow", WORKFLOW,
@@ -425,7 +438,7 @@ def _main_locked() -> int:
         maybe_dispatch(repo)
 
     # maybe_dispatch may have left gh switched to a fork owner — restore the primary.
-    subprocess.run([GH, "auth", "switch", "--user", REPO.split("/")[0]],
+    _run([GH, "auth", "switch", "--user", REPO.split("/")[0]],
                    capture_output=True, text=True, cwd=ROOT)
     cleanup_staging()
     log("=== auto_sync done ===")
