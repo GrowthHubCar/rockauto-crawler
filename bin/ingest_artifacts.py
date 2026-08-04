@@ -32,7 +32,7 @@ import crawl       # noqa: E402  (stage_listings, make_batch_id)
 def _iter_listings(paths: list[str]):
     """Yield Listing dicts from every NDJSON file, skipping blank/bad lines."""
     for pattern in paths:
-        for path in (glob.glob(pattern) or [pattern]):
+        for path in (glob.glob(pattern, recursive=True) or [pattern]):
             if not os.path.isfile(path):
                 print(f"[warn] not a file: {path}")
                 continue

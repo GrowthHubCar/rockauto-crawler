@@ -33,8 +33,10 @@ import db  # noqa: E402
 # abuse detection — profiles + repos now 404). Only these two survived; ingesting the
 # dead ones just 404-errors. Restore the full list only if the accounts are reinstated.
 DEFAULT_REPOS = [
-    "ahmerfr/rockauto-crawler",
-    "haseeb-shoukat2029/rockauto-crawler",
+    "ahmerfr/rockauto-crawler",              # ACCOUNT_SLOT 0
+    "haseeb-shoukat2029/rockauto-crawler",   # ACCOUNT_SLOT 1
+    "Affilusion/rockauto-crawler",           # ACCOUNT_SLOT 2 (org, owned by ahmerfr)
+    "Nexarce/rockauto-crawler",              # ACCOUNT_SLOT 3 (org, owned by haseeb-shoukat2029)
 ]
 REPOS = [r.strip() for r in os.getenv("SP_SYNC_REPOS", ",".join(DEFAULT_REPOS)).split(",") if r.strip()]
 REPO = REPOS[0]  # primary (its bare run-ids in the legacy state file stay valid)
@@ -106,6 +108,24 @@ def gh_json(args: list[str]):
 DISPATCH_AFTER_HOURS = 7
 
 
+# An ORG repo's owner segment is the org, which is NOT a gh account — `gh auth switch
+# --user Affilusion` fails and the shard would never dispatch. Map each repo to the
+# personal account whose token can act on it. Override with SP_SYNC_AUTH=repo=user,...
+_AUTH_MAP = {
+    "Affilusion/rockauto-crawler": "ahmerfr",
+    "Nexarce/rockauto-crawler": "haseeb-shoukat2029",
+}
+for _pair in (os.getenv("SP_SYNC_AUTH") or "").split(","):
+    if "=" in _pair:
+        _r, _u = _pair.split("=", 1)
+        _AUTH_MAP[_r.strip()] = _u.strip()
+
+
+def _auth_user(repo: str) -> str:
+    """gh account that can dispatch/download for `repo` (org repos map to their owner)."""
+    return _AUTH_MAP.get(repo, repo.split("/")[0])
+
+
 def maybe_dispatch(repo: str) -> None:
     """Keep the crawl alive: dispatch a fleet run for `repo` if none is active/recent."""
     if os.getenv("SP_SYNC_NO_DISPATCH"):
@@ -130,7 +150,7 @@ def maybe_dispatch(repo: str) -> None:
     # Dispatching needs the FORK OWNER's token (ahmerfr can't dispatch on ahmerfrz's
     # fork). Switch gh's active account to the owner just for the dispatch; main()
     # restores the primary at the end. Reads above work as any account (public repos).
-    owner = repo.split("/")[0]
+    owner = _auth_user(repo)
     sw = subprocess.run([GH, "auth", "switch", "--user", owner],
                         capture_output=True, text=True, cwd=ROOT)
     if sw.returncode != 0:
@@ -209,8 +229,15 @@ def process_run(repo: str, run_id: str) -> bool:
     if names is None:
         log(f"run {run_id}: could not list artifacts — will retry next cycle")
         return False
+    # Only shard artifacts carry shard-*.ndjson. The run also publishes one
+    # rockauto-visited-N artifact per lane (~150MB of bookkeeping txt the crawler
+    # restores inside Actions and we never read). Downloading them cost ~10GB/run,
+    # and since _shard_in() finds no shard inside one they were retried 3x then
+    # counted "missing" — which made process_run return False, so NO run with a
+    # visited artifact was ever ingested or recorded. Filter them out.
+    names = [n for n in names if not n.startswith("rockauto-visited-")]
     if not names:
-        log(f"run {run_id}: no artifacts — nothing to load")
+        log(f"run {run_id}: no shard artifacts — nothing to load")
         return True
 
     missing = []
@@ -242,7 +269,8 @@ def process_run(repo: str, run_id: str) -> bool:
             f"({missing[:3]}) — will retry next cycle")
         return False
 
-    files = glob.glob(os.path.join(dest, "**", "shard-*.ndjson"), recursive=True)
+    shard_glob = os.path.join(dest, "**", "shard-*.ndjson")
+    files = glob.glob(shard_glob, recursive=True)
     if not files:
         log(f"run {run_id}: {len(names)} artifact(s) but no shard NDJSON — nothing to load")
         return True
@@ -251,7 +279,11 @@ def process_run(repo: str, run_id: str) -> bool:
     copied = copy_artifact_images(dest)
     if copied:
         log(f"  self-hosted {copied} thumbnail(s) -> assets/parts/")
-    ing = subprocess.run([PY, os.path.join("bin", "ingest_artifacts.py"), *files],
+    # Pass the GLOB, not the expanded list: a run can carry 500+ shard files and
+    # Windows caps a command line at 32,767 chars (WinError 206 — "filename or
+    # extension is too long"), which silently stalled every large run.
+    # ingest_artifacts.py globs its args recursively.
+    ing = subprocess.run([PY, os.path.join("bin", "ingest_artifacts.py"), shard_glob],
                          capture_output=True, text=True, cwd=ROOT)
     log(f"  ingest: {(ing.stdout or ing.stderr).strip().splitlines()[-1] if (ing.stdout or ing.stderr).strip() else 'no output'}")
     if ing.returncode != 0:
@@ -297,6 +329,11 @@ def main() -> int:
         return 1
     done = load_state()
     for repo in REPOS:
+        # Artifact downloads need a token with actions:read on THIS repo. A previous
+        # repo's dispatch may have left gh switched to the other personal account, and
+        # org-owned shards are only readable by their owner — switch before listing.
+        subprocess.run([GH, "auth", "switch", "--user", _auth_user(repo)],
+                       capture_output=True, text=True, cwd=ROOT)
         try:
             runs = gh_json(["run", "list", "--repo", repo, "--workflow", WORKFLOW,
                             "--limit", "40",
