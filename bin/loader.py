@@ -191,16 +191,6 @@ class Loader:
         # writes during that per-row replay, preserving failure attribution.
         self._fit_buf: list[tuple] = []
         self._fit_immediate = False
-        # Existence-check cache for ONE part's children. _insert_absent used to issue a
-        # SELECT per image / per document / per attribute; part_documents averages ~20
-        # rows per part, so materialising one part cost ~31 existence SELECTs. Measured
-        # in-flight query mix: part_images 17.0%, part_documents 14.0%, part_attributes
-        # 7.2% = 38% of ALL loader queries were these checks. One SELECT per (table,
-        # part) replaces them. Scoped to the current part_id so memory stays O(1 part) —
-        # load_listing materialises each sku once per batch (_part_done), so nothing
-        # revisits an earlier part.
-        self._exist_pid: int | None = None
-        self._exist: dict[str, set[tuple]] = {}
 
     # -- discard identity caches after a rollback --------------------------
     def _drop_caches(self) -> None:
@@ -219,10 +209,6 @@ class Loader:
         self._part_done.clear()
         # a rollback discarded whatever these rows referenced — never replay them
         self._fit_buf.clear()
-        # The rollback undid child INSERTs this set recorded as present; keeping it
-        # would make _insert_absent skip re-inserting them and silently lose rows.
-        self._exist_pid = None
-        self._exist.clear()
 
     # -- rollback that tolerates the server having killed our transaction ---
     def _rollback_to(self, name: str) -> None:
@@ -379,37 +365,23 @@ class Loader:
         that lack a UNIQUE key: part_images / part_attributes / part_documents).
         Keeps re-runs idempotent WITHOUT deleting existing (generated) children.
         """
-        pid = match.get("part_id")
-        if pid is not None and len(match) > 1:
-            # Fetch this part's existing child keys ONCE, then answer every subsequent
-            # check for the same part from memory. Same semantics as the per-item
-            # SELECT: a key already present in the table is skipped, and a key inserted
-            # earlier in THIS part is added to the set so intra-part duplicates are
-            # skipped too (the old code caught those via the re-SELECT).
-            if pid != self._exist_pid:
-                self._exist_pid, self._exist = pid, {}
-            keycols = [k for k in match if k != "part_id"]
-            ck = table + "|" + ",".join(keycols)
-            have = self._exist.get(ck)
-            if have is None:
-                collist = ",".join(f"`{c}`" for c in keycols)
-                self.cur.execute(
-                    f"SELECT {collist} FROM `{table}` WHERE `part_id`=%s", [pid])
-                have = set()
-                for r in self.cur.fetchall():
-                    have.add(tuple(r[c] for c in keycols) if isinstance(r, dict)
-                             else tuple(r))
-                self._exist[ck] = have
-            probe = tuple(match[c] for c in keycols)
-            if probe in have:
-                return
-            have.add(probe)
-        else:
-            where = " AND ".join(f"`{k}`<=>%s" for k in match)  # <=> handles NULLs
-            self.cur.execute(f"SELECT id FROM `{table}` WHERE {where} LIMIT 1",
-                             list(match.values()))
-            if self.cur.fetchone():
-                return
+        # TRIED AND REVERTED 2026-08-04: caching a part's existing child keys with one
+        # `SELECT <keycols> ... WHERE part_id=?` per (table, part), to replace the ~31
+        # per-item SELECTs one part costs. It made things WORSE — that query became
+        # 37.7% of all loader traffic, up from the 14% the per-item part_documents
+        # checks used, and insert throughput went to ~0.
+        # Reason: `idx_pdoc_part_url (part_id, url(190))` indexes url by PREFIX, so
+        # `SELECT url ... WHERE part_id=?` is type=ref but NOT "Using index" — it does a
+        # clustered-row lookup for each of the ~43 documents a part carries, i.e. random
+        # I/O on a 29.8M-row table. The per-item form below stays on the index prefix
+        # and stops at the first match. Fewer round-trips lost to more random reads.
+        # Making this pay would need the index widened to cover url, which is a schema
+        # change on 29.8M rows — not worth it while the fleet is running.
+        where = " AND ".join(f"`{k}`<=>%s" for k in match)  # <=> handles NULLs
+        self.cur.execute(f"SELECT id FROM `{table}` WHERE {where} LIMIT 1",
+                         list(match.values()))
+        if self.cur.fetchone():
+            return
         cols = list(vals.keys())
         collist = ",".join(f"`{c}`" for c in cols)
         placeholders = ",".join(["%s"] * len(cols))
