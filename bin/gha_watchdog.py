@@ -94,11 +94,20 @@ def drain_alive() -> bool:
     return True          # unknown -> assume alive; never spawn a second loader on a guess
 
 
+PAUSE_FLAG = os.path.join(ROOT, ".INGEST_PAUSED")
+
+
 def ensure_drain() -> None:
     """The drain is what actually moves crawled rows into the DB. It died once mid-run
     (staging held 1.95M rows while the DB sat flat), and nothing noticed until a human
     looked. A dead drain is invisible: the crawl keeps producing artifacts and everything
     looks healthy."""
+    if os.path.exists(PAUSE_FLAG):
+        # Ingest is deliberately paused — the DB volume filled and MariaDB was killed
+        # mid-query once already. The CRAWL must keep running (it writes nothing to this
+        # machine), so the shard checks below still execute; only the drain is held back.
+        # Delete .INGEST_PAUSED to resume.
+        return
     if drain_alive():
         return
     lock = os.path.join(ROOT, ".gha_drain.lock")
