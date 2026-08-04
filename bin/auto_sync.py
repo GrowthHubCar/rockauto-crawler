@@ -320,8 +320,53 @@ def cleanup_staging() -> None:
         log(f"staging cleanup skipped: {exc}")
 
 
+LOCK_FILE = os.path.join(ROOT, ".auto_sync.lock")
+
+
+def _acquire_lock() -> bool:
+    """Single-instance guard. Two loaders racing the same staging tables deadlock on
+    lock waits with staging GROWING — one worker is the only stable shape. The cron
+    task fires on a timer and does not know a manual run is already going."""
+    for _ in range(2):
+        try:
+            fd = os.open(LOCK_FILE, os.O_CREAT | os.O_EXCL | os.O_WRONLY)
+            os.write(fd, str(os.getpid()).encode())
+            os.close(fd)
+            return True
+        except FileExistsError:
+            try:
+                with open(LOCK_FILE, encoding="utf-8") as fh:
+                    pid = int((fh.read() or "0").strip() or 0)
+            except (OSError, ValueError):
+                pid = 0
+            alive = pid > 0 and subprocess.run(
+                ["tasklist", "/FI", f"PID eq {pid}", "/NH"],
+                capture_output=True, text=True).stdout.strip().startswith("python")
+            if alive:
+                log(f"another auto_sync is running (pid {pid}) — exiting")
+                return False
+            log(f"clearing stale lock (pid {pid} gone)")
+            try:
+                os.unlink(LOCK_FILE)
+            except OSError:
+                return False
+    return False
+
+
 def main() -> int:
     log("=== auto_sync start ===")
+    if not _acquire_lock():
+        return 0
+    try:
+        return _main_locked()
+    finally:
+        try:
+            os.unlink(LOCK_FILE)
+        except OSError:
+            pass
+
+
+def _main_locked() -> int:
     if not os.path.exists(GH):
         log(f"gh CLI not found at {GH} — cannot sync.")
         return 1
