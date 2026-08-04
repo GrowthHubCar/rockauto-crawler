@@ -14,6 +14,7 @@ new data flows in, already-loaded runs are skipped, and the loader dedupes on sk
 """
 from __future__ import annotations
 
+import ctypes
 import glob
 import json
 import os
@@ -334,6 +335,18 @@ def _acquire_lock() -> bool:
             os.close(fd)
             return True
         except FileExistsError:
+            # A lock written BEFORE the last boot is stale by definition — the process
+            # that held it cannot have survived. Check this first: Windows reuses PIDs,
+            # so after a reboot the recorded pid can belong to an unrelated python and
+            # the pid check alone would refuse to ever run again (silent ingest death).
+            try:
+                boot = time.time() - ctypes.windll.kernel32.GetTickCount64() / 1000.0
+                if os.path.getmtime(LOCK_FILE) < boot:
+                    log("clearing lock left by a pre-reboot run")
+                    os.unlink(LOCK_FILE)
+                    continue
+            except (OSError, AttributeError):
+                pass
             try:
                 with open(LOCK_FILE, encoding="utf-8") as fh:
                     pid = int((fh.read() or "0").strip() or 0)
