@@ -195,8 +195,8 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: frontier
-          key: rockauto-frontier-${{ env.UNIT }}-${{ github.run_id }}
-          restore-keys: rockauto-frontier-${{ env.UNIT }}-
+          key: rockauto-frontier-v2-${{ env.UNIT }}-${{ github.run_id }}
+          restore-keys: rockauto-frontier-v2-${{ env.UNIT }}-
 
       # Shared cross-run memory of which LEAF pages are already crawled, so this
       # run skips them and reaches NEW ground (cumulative full-catalog coverage).
@@ -393,7 +393,7 @@ jobs:
       # run. Each unit therefore re-walked make->year->model->carcode->group from scratch
       # forever and almost every request went to a nav page:
       #
-      #   Cache not found for input keys: rockauto-frontier-abarth_1960-1979-...
+      #   Cache not found for input keys: rockauto-frontier-v2-abarth_1960-1979-...
       #   [frontier] seeded plan/fr/f_abarth_1960-1979.ndjson (40 nodes)
       #
       # Measured cost: 1.09 rows/request against the 4.445 plan/targets.tsv promises, and
@@ -425,7 +425,7 @@ jobs:
         uses: actions/cache/save@v4
         with:
           path: frontier
-          key: rockauto-frontier-${{ env.UNIT }}-${{ github.run_id }}
+          key: rockauto-frontier-v2-${{ env.UNIT }}-${{ github.run_id }}
 
       # Upload only the leaves crawled THIS run, not the whole cache.
       #
