@@ -14,6 +14,7 @@ new data flows in, already-loaded runs are skipped, and the loader dedupes on sk
 """
 from __future__ import annotations
 
+import concurrent.futures
 import ctypes
 import glob
 import json
@@ -81,6 +82,9 @@ DL_DIR = os.path.join(ROOT, "artifacts", "_autosync")
 # API cost is ~1,000 calls/h against a 5,000/h limit, so the pace buys nothing.
 # Raise via SP_SYNC_DL_PACE if a future architecture shares this machine's uplink.
 DL_PACE = float(os.getenv("SP_SYNC_DL_PACE", "0.2"))
+# Parallel artifact downloads. Each artifact lands in its own -D subdir so workers
+# cannot collide; 6 keeps well inside the 5,000/h API budget (~1,000/h needed).
+DL_WORKERS = int(os.getenv("SP_SYNC_DL_WORKERS", "6"))
 GH = r"C:\Program Files\GitHub CLI\gh.exe"
 MYSQLD = r"C:\xampp\mysql\bin\mysqld.exe"
 MYSQL_INI = r"C:\xampp\mysql\bin\my.ini"
@@ -265,30 +269,37 @@ def process_run(repo: str, run_id: str) -> bool:
         log(f"run {run_id}: no shard artifacts — nothing to load")
         return True
 
-    missing = []
-    for name in names:
+    def _fetch(name: str) -> str | None:
+        """Download one artifact. Returns its name if it FAILED, else None."""
         sub = os.path.join(dest, name)
         if _shard_in(sub):
-            continue                       # already have it (resumable)
-        ok = False
-        for attempt in range(3):
+            return None                    # already have it (resumable)
+        for _attempt in range(3):
             shutil.rmtree(sub, ignore_errors=True)   # clean so a retry can't self-collide
             os.makedirs(sub, exist_ok=True)
             _run([GH, "run", "download", run_id, "--repo", repo,
-                            "-n", name, "-D", sub],
-                           capture_output=True, text=True, cwd=ROOT)
+                  "-n", name, "-D", sub],
+                 capture_output=True, text=True, cwd=ROOT)
             # gh ABORTS zip extraction on a duplicate image path inside the artifact
             # (the same shared part-photo is archived twice) and returns non-zero — but
             # the shard NDJSON we actually need is archived FIRST and lands before the
             # collision. Trust the NDJSON's presence, not gh's exit code. (Was: this
             # made ~40-60% of shards look "failed" and stall the whole run.)
             if _shard_in(sub):
-                ok = True
-                break
+                return None
             time.sleep(3)
-        if not ok:
-            missing.append(name)
-        time.sleep(DL_PACE)   # pace: spread downloads so they don't spike network load
+        return name
+
+    # Artifacts are independent: each lands in its OWN subdirectory via -D, so parallel
+    # gh calls cannot collide, and gh's auth is already switched to this repo's owner
+    # before we get here. Serial download was 62s of a 152s cycle. Downloads are pure
+    # network wait, so widening this does not compete with the loader for CPU.
+    missing = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=DL_WORKERS) as pool:
+        for failed in pool.map(_fetch, names):
+            if failed:
+                missing.append(failed)
+            time.sleep(DL_PACE)
     if missing:
         log(f"run {run_id}: {len(missing)}/{len(names)} artifact(s) failed to download "
             f"({missing[:3]}) — will retry next cycle")
