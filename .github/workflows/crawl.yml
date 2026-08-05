@@ -360,7 +360,11 @@ jobs:
           # --max-seconds cut is the wrong tool (measured -5.8% cycle for -8% leaves); this
           # touches wave-1 jobs not at all and only trims what starts late.
           # Set repo variable WAVE_DEADLINE=9999 to disable.
-          MAXS=${{ github.event.inputs.max_seconds || '300' }}
+          # MEASURED 2026-08-05: jobs ended at median 316 / max 497 requests against
+          # a per-IP wall of ~1,644 — every runner was discarded having used under 30%
+          # of its budget, capped by TIME not by the IP. Promote to a repo variable so
+          # the ceiling can be A/B'd across shards without a code push.
+          MAXS=${{ github.event.inputs.max_seconds || vars.MAX_SECONDS || '300' }}
           WD=${{ vars.WAVE_DEADLINE || '420' }}
           STARTED=$(gh api "repos/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" --jq .run_started_at 2>/dev/null || echo "")
           if [ -n "$STARTED" ]; then
