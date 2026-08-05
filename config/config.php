@@ -1,9 +1,9 @@
 <?php
-// Supreme Parts — app + DB config (XAMPP defaults).
+// Supreme Spare Parts — app + DB config (XAMPP defaults).
 // Change db.pass if your MySQL root has a password.
 return [
     'app' => [
-        'name'      => 'Supreme Parts',
+        'name'      => 'Supreme Spare Parts',
         'base_path' => '/RockAuto',   // URL prefix under htdocs (folder name)
         'env'       => 'local',
         'debug'     => true,

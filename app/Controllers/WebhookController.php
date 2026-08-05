@@ -17,8 +17,9 @@ class WebhookController extends Controller
         try {
             $event = $stripe->constructEvent($payload, $sig);
         } catch (\Throwable $e) {
+            error_log('[SupremeParts] stripe webhook rejected: ' . $e->getMessage());
             http_response_code(400);
-            echo 'Webhook error: ' . $e->getMessage();
+            echo 'Invalid signature';
             return;
         }
 

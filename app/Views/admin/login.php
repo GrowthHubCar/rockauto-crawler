@@ -19,7 +19,7 @@
 <body class="admin adm-login-body">
   <form class="adm-login" method="post" action="<?= e($_controller->url('/admin/login')) ?>">
     <div class="adm-login-brand">
-      <img class="brand-logo" src="<?= e($_controller->url('assets/img/site-logo.png')) ?>" alt="Supreme Motors Equipments Limited" width="1801" height="904">
+      <img class="brand-logo" src="<?= e($_controller->url('assets/img/site-logo.png')) ?>" alt="Supreme Spare Parts" width="220" height="110">
     </div>
     <h1>Sign in</h1>
     <?php if ($error): ?>

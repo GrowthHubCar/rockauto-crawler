@@ -57,7 +57,7 @@ class PartController extends Controller
         $stock = (int) ($stock->fetch()['qty'] ?? 0);
 
         $this->render('part', compact('part', 'images', 'attrs', 'fitCount', 'stock', 'variants'),
-            $part['name'] . ' — Supreme Parts');
+            $part['name'] . ' — Supreme Spare Parts');
     }
 
     /** GET /part/{sku}/fitment?page=N — paginated "fits these vehicles" list (JSON). */

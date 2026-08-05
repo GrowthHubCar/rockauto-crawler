@@ -14,8 +14,8 @@ $fAddr  = trim((string) (setting('contact_address', '') ?? ''));
 <footer class="site-footer">
   <div class="wrap footer-inner">
     <div class="fbrand">
-      <a class="brand" href="<?= $f('/') ?>" aria-label="Supreme Parts">
-        <img class="brand-logo" src="<?= $f('assets/img/site-logo.png') ?>" alt="Supreme Parts">
+      <a class="brand" href="<?= $f('/') ?>" aria-label="Supreme Spare Parts">
+        <img class="brand-logo" src="<?= $f('assets/img/site-logo.png') ?>" alt="Supreme Spare Parts">
       </a>
       <p>Replacement and performance parts matched to your exact vehicle by verified fitment data
          &mdash; so what you order is what fits.</p>
@@ -62,7 +62,7 @@ $fAddr  = trim((string) (setting('contact_address', '') ?? ''));
   </div>
 
   <div class="footer-base"><div class="wrap">
-    <span>&copy; <?= date('Y') ?> Supreme Parts. Every part matched to your vehicle by verified fitment data.</span>
+    <span>&copy; <?= date('Y') ?> Supreme Spare Parts. Every part matched to your vehicle by verified fitment data.</span>
     <span class="sp"></span>
     <div class="fpay">
       <img src="<?= $f('assets/img/pay/visa.svg') ?>" alt="Visa" height="20">

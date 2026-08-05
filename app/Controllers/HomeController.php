@@ -9,7 +9,7 @@ class HomeController extends Controller
 {
     public function index(): void
     {
-        // The homepage is the full "Supreme Autos" design — a standalone page
+        // The homepage is the full "Supreme Spare Parts" design — a standalone page
         // with its own head/header/footer, so render it directly (no layout).
         echo $this->capture('home', [
             'base'     => rtrim($this->url(''), '/'),

@@ -24,8 +24,8 @@ $q = $q ?? '';
 
 <header class="site-header" id="hdr">
   <div class="wrap header-inner">
-    <a class="brand" href="<?= $u('/') ?>" aria-label="Supreme Motors Equipments Limited home">
-      <img class="brand-logo" src="<?= $u('assets/img/site-logo.png') ?>" alt="Supreme Motors Equipments Limited">
+    <a class="brand" href="<?= $u('/') ?>" aria-label="Supreme Spare Parts home">
+      <img class="brand-logo" src="<?= $u('assets/img/site-logo.png') ?>" alt="Supreme Spare Parts">
     </a>
 
     <?php $navWa = whatsapp_link('Hi, I have a question about a part.'); ?>

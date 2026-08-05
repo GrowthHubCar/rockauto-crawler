@@ -29,7 +29,7 @@ class CatalogController extends Controller
         $vehicles = $stmt->fetchAll();
 
         $this->render('make', compact('make', 'vehicles'),
-            $make['name'] . ' Parts — Supreme Parts');
+            $make['name'] . ' Parts — Supreme Spare Parts');
     }
 
     /** A selected vehicle: show the categories that have parts fitting it. */
@@ -57,7 +57,7 @@ class CatalogController extends Controller
         $categories = $stmt->fetchAll();
 
         $this->render('vehicle', compact('vehicle', 'categories'),
-            $this->vehicleLabel($vehicle) . ' Parts — Supreme Parts');
+            $this->vehicleLabel($vehicle) . ' Parts — Supreme Spare Parts');
     }
 
     /** Parts of one category fitting one vehicle. */
@@ -95,7 +95,7 @@ class CatalogController extends Controller
         $parts = $stmt->fetchAll();
 
         $this->render('parts', compact('vehicle', 'category', 'parts'),
-            $category['name'] . ' — ' . $this->vehicleLabel($vehicle) . ' — Supreme Parts');
+            $category['name'] . ' — ' . $this->vehicleLabel($vehicle) . ' — Supreme Spare Parts');
     }
 
     /** Legacy route: search is part of the shop page now. Redirect so old
@@ -131,7 +131,7 @@ class CatalogController extends Controller
         } catch (\Throwable $e) {
             $brands = [];
         }
-        $this->render('brands', compact('brands'), 'Brands — Supreme Parts');
+        $this->render('brands', compact('brands'), 'Brands — Supreme Spare Parts');
     }
 
     /** All Products — a paginated grid of everything sellable. */
@@ -244,7 +244,7 @@ class CatalogController extends Controller
         // whole viewport instead of being capped inside the content column.
         $pageHero = [
             'eyebrow' => 'Inventory',
-            'h1'      => $filter !== '' ? e($filter) : 'Browse Our Range of Parts',
+            'h1'      => $filter !== '' ? $filter : 'Browse Our Range of Parts',
             'lead'    => '',
             'img'     => 'https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=1600&auto=format&fit=crop',
             'rail'    => ['Parts live' => $stats['parts'] ?? 0, 'Fitments' => $stats['fitments'] ?? 0,
@@ -252,7 +252,7 @@ class CatalogController extends Controller
         ];
 
         $this->render('products', compact('products', 'page', 'more', 'veh', 'cat', 'brand', 'q', 'filter', 'stats', 'pageHero', 'preset'),
-            ($filter !== '' ? $filter . ' Parts' : 'All Products') . ' — Supreme Parts');
+            ($filter !== '' ? $filter . ' Parts' : 'All Products') . ' — Supreme Spare Parts');
     }
 
     /** Catalog figures for the shop hero rail. Shares the homepage's daily

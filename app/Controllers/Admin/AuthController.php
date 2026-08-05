@@ -19,6 +19,11 @@ class AuthController extends Controller
     public function login(): void
     {
         Auth::start();
+        $ip = (string) ($_SERVER['REMOTE_ADDR'] ?? '');
+        if (($wait = Auth::loginLockRemaining($ip)) > 0) {
+            $this->renderLogin('Too many attempts. Try again in ' . (int) ceil($wait / 60) . ' minute(s).');
+            return;
+        }
         if (!Auth::verify($_POST['_csrf'] ?? null)) {
             $this->renderLogin('Session expired — please try again.');
             return;
@@ -26,8 +31,10 @@ class AuthController extends Controller
         $email = trim((string) ($_POST['email'] ?? ''));
         $password = (string) ($_POST['password'] ?? '');
         if (Auth::attempt($email, $password)) {
+            Auth::loginCleared($ip);
             $this->redirect('/admin');
         }
+        Auth::loginFailed($ip);
         $this->renderLogin('Incorrect email or password.');
     }
 
@@ -40,7 +47,7 @@ class AuthController extends Controller
     private function renderLogin(?string $error = null): void
     {
         $data = [
-            'title'   => 'Admin Sign In — Supreme Parts',
+            'title'   => 'Admin Sign In — Supreme Spare Parts',
             'error'   => $error,
             'csrf'    => Auth::token(),
             '_controller' => $this,

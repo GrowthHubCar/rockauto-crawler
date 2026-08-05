@@ -64,15 +64,15 @@ $flashIcon = ($_flash['type'] ?? '') === 'ok' ? $icon('check') : $icon('alert');
 
 <header class="adm-top">
   <button class="adm-sidebar-toggle" type="button" aria-label="Toggle navigation" aria-controls="adm-side" aria-expanded="false"><?= $icon('menu') ?></button>
-  <a class="brand" href="<?= e($_controller->url('/admin')) ?>" aria-label="Supreme Motors Equipments Limited admin home">
-    <img class="brand-logo" src="<?= e($_controller->url('assets/img/site-logo.png')) ?>" alt="Supreme Motors Equipments Limited" width="1801" height="904">
+  <a class="brand" href="<?= e($_controller->url('/admin')) ?>" aria-label="Supreme Spare Parts admin home">
+    <img class="brand-logo" src="<?= e($_controller->url('assets/img/site-logo.png')) ?>" alt="Supreme Spare Parts" width="220" height="110">
   </a>
   <div class="adm-top-right">
     <a class="adm-viewsite" href="<?= e($_controller->url('/')) ?>" target="_blank" rel="noopener"><span>View store</span> <?= $icon('ext') ?></a>
-    <span class="adm-user">
+    <a class="adm-user" href="<?= e($_controller->url('/admin/account')) ?>" title="Edit my account">
       <span class="avatar" aria-hidden="true"><?= e(strtoupper(substr((string)($_user['name'] ?? 'A'), 0, 1))) ?></span>
       <span class="name"><?= e($_user['name'] ?? '') ?></span>
-    </span>
+    </a>
     <form method="post" action="<?= e($_controller->url('/admin/logout')) ?>" class="adm-logout">
       <button type="submit" class="btn btn-sm">Sign out</button>
     </form>
@@ -88,7 +88,7 @@ $flashIcon = ($_flash['type'] ?? '') === 'ok' ? $icon('check') : $icon('alert');
            <?= $_active === $key ? 'aria-current="page"' : '' ?>><?= $icon($ic) ?><span><?= e($label) ?></span></a>
       <?php endforeach; ?>
     <?php endforeach; ?>
-    <div class="adm-side__foot">Supreme Parts admin<br>Reseller storefront console</div>
+    <div class="adm-side__foot">Supreme Spare Parts admin<br>Reseller storefront console</div>
   </nav>
   <div class="adm-backdrop" hidden></div>
 

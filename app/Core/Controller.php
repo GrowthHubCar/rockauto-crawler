@@ -32,7 +32,7 @@ abstract class Controller
     /** Render a view inside the main layout and echo it. */
     protected function render(string $view, array $data = [], ?string $title = null): void
     {
-        $data['title'] = $title ?? 'Supreme Parts';
+        $data['title'] = $title ?? 'Supreme Spare Parts';
         $data['_controller'] = $this;
         $content = $this->capture($view, $data);
         $data['content'] = $content;
@@ -65,6 +65,6 @@ abstract class Controller
     protected function notFoundResponse(): void
     {
         http_response_code(404);
-        $this->render('not_found', [], 'Not Found — Supreme Parts');
+        $this->render('not_found', [], 'Not Found — Supreme Spare Parts');
     }
 }

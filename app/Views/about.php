@@ -20,7 +20,7 @@ $n   = fn($v) => number_format((int) $v);
     <div class="ab-seal" aria-hidden="true">
       <svg viewBox="0 0 120 120">
         <defs><path id="abcirc" d="M60,60 m-43,0 a43,43 0 1,1 86,0 a43,43 0 1,1 -86,0"/></defs>
-        <text><textPath href="#abcirc" startOffset="0">SUPREME PARTS &#183; VERIFIED FITMENT &#183; </textPath></text>
+        <text><textPath href="#abcirc" startOffset="0">SUPREME SPARE PARTS &#183; VERIFIED FITMENT &#183; </textPath></text>
       </svg>
       <span class="ab-seal-c">
         <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24"><path d="M7 17 17 7M9 7h8v8"/></svg>
@@ -146,7 +146,7 @@ $n   = fn($v) => number_format((int) $v);
     <p>So we built the catalog the other way round. Fitment comes first, and a part only appears
        against your car when the data says it belongs there. The search, the drill-down, the VIN
        decode &mdash; all of it serves that one promise.</p>
-    <p class="ab-word-by"><b>The Supreme Parts team</b><span>Catalog &amp; fitment</span></p>
+    <p class="ab-word-by"><b>The Supreme Spare Parts team</b><span>Catalog &amp; fitment</span></p>
   </div>
   <figure class="ab-word-im">
     <div class="ab-word-photo" role="presentation"

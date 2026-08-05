@@ -1,7 +1,7 @@
 <?php
 /** Shared page hero. Set before including:
  *    $ph_eyebrow  short uppercase kicker
- *    $ph_h1       heading (may contain <br>, already escaped by the caller)
+ *    $ph_h1       heading text (plain; escaped here at the sink)
  *    $ph_lead     lead paragraph
  *    $ph_img      background image URL
  *    $ph_rail     optional [label => number] figures rail along the base */
@@ -13,7 +13,7 @@ $ph_rail = array_filter($ph_rail ?? [], fn($v) => (int) $v > 0);
   <div class="phero-body">
     <div class="phero-t">
       <p class="eyebrow"><?= e($ph_eyebrow) ?></p>
-      <h1><?= $ph_h1 ?><span class="dot">.</span></h1>
+      <h1><?= e($ph_h1) ?><span class="dot">.</span></h1>
       <?php if (!empty($ph_lead)): ?>
         <p class="phero-lead"><?= e($ph_lead) ?></p>
       <?php endif; ?>

@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Supreme Autos — Quality Vehicle Parts</title>
+<title>Supreme Spare Parts — Quality Vehicle Parts</title>
 <meta name="description" content="Find the right replacement and performance parts for your exact vehicle. Search by vehicle or VIN.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -79,7 +79,9 @@ select.control{appearance:none;background-image:url("data:image/svg+xml;utf8,<sv
 .fb-row{display:grid;grid-template-columns:repeat(4,1fr) auto;gap:12px;align-items:center}
 .fb-row .control{height:48px}
 .fb-row .btn{height:48px;padding:0 24px;white-space:nowrap}
+.fb-row .ss-btn{height:48px}
 .fb-row-vin{grid-template-columns:1fr auto}
+@media(max-width:640px){.fb-top{flex-wrap:wrap;gap:10px} #panel-veh .fb-row{grid-template-columns:1fr 1fr} #panel-veh .fb-row .btn{grid-column:1 / -1}}
 .fb-body .msg{margin-top:12px}
 .fb-body .recent{margin:14px 0 0}
 .fb-body .vinnote{margin-top:12px}
@@ -476,10 +478,18 @@ select.control{appearance:none;background-image:url("data:image/svg+xml;utf8,<sv
 
       <div class="fb-body" id="panel-veh" role="tabpanel" aria-labelledby="tab-veh">
         <div class="fb-row">
-          <select class="control" id="v-make" aria-label="Make"><option value="">Select Make</option></select>
-          <select class="control" id="v-model" aria-label="Model" disabled><option value="">Select Model</option></select>
-          <select class="control" id="v-year" aria-label="Year" disabled><option value="">Select Year</option></select>
-          <select class="control" id="v-engine" aria-label="Engine" disabled><option value="">Select Engine</option></select>
+          <?php foreach ([['make','Make','Select make'],['model','Model','Make first'],['year','Year','Model first'],['engine','Engine','Year first']] as $hi => [$hk,$hlab,$hph]): ?>
+          <div class="ss" id="hv-<?= $hk ?>" data-k="<?= $hk ?>">
+            <button class="ss-btn" type="button" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-label="<?= $hlab ?>"<?= $hi > 0 ? ' disabled' : '' ?>>
+              <span class="ss-val"><?= $hph ?></span>
+              <span class="ss-cv"><svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></svg></span>
+            </button>
+            <div class="ss-pop" hidden>
+              <div class="ss-search"><input type="text" placeholder="Search&hellip;" aria-label="Search <?= $hlab ?>"></div>
+              <ul class="ss-list" role="listbox" aria-label="<?= $hlab ?>"></ul>
+            </div>
+          </div>
+          <?php endforeach; ?>
           <button class="btn btn-red" id="findParts">Find Parts <span class="ar"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></button>
         </div>
         <div class="msg" id="veh-msg" role="alert"><svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 8v5m0 3h.01"/></svg><span>Pick a make, model, year and engine to continue.</span></div>
@@ -559,12 +569,12 @@ select.control{appearance:none;background-image:url("data:image/svg+xml;utf8,<sv
   </div>
 
   <div class="mcat" id="mcat">
-    <div class="mstep open" data-step="make"><button class="mh"><span class="num">1</span>Select Make<span class="val"></span><span class="cv"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></svg></span></button><div class="mb"><div class="opt" data-v="Toyota">Toyota</div><div class="opt" data-v="Honda">Honda</div><div class="opt" data-v="Acura">Acura</div><div class="opt" data-v="Ford">Ford</div></div></div>
-    <div class="mstep" data-step="model" aria-disabled="true"><button class="mh"><span class="num">2</span>Select Model<span class="val"></span><span class="cv"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></svg></span></button><div class="mb"><div class="opt" data-v="MDX">MDX</div><div class="opt" data-v="TLX">TLX</div><div class="opt" data-v="RDX">RDX</div></div></div>
-    <div class="mstep" data-step="year" aria-disabled="true"><button class="mh"><span class="num">3</span>Select Year<span class="val"></span><span class="cv"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></svg></span></button><div class="mb"><div class="opt" data-v="2024">2024</div><div class="opt" data-v="2023">2023</div><div class="opt" data-v="2022">2022</div><div class="opt" data-v="2021">2021</div><div class="opt" data-v="2020">2020</div></div></div>
-    <div class="mstep" data-step="engine" aria-disabled="true"><button class="mh"><span class="num">4</span>Select Engine<span class="val"></span><span class="cv"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></svg></span></button><div class="mb"><div class="opt" data-v="3.5L V6">3.5L V6</div><div class="opt" data-v="2.0L L4 Turbo">2.0L L4 Turbo</div></div></div>
-    <div class="mstep" data-step="cat" aria-disabled="true"><button class="mh"><span class="num">5</span>Select Category<span class="val"></span><span class="cv"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></svg></span></button><div class="mb"><div class="opt" data-v="Brakes">Brakes</div><div class="opt" data-v="Engine">Engine</div><div class="opt" data-v="Suspension">Suspension</div><div class="opt" data-v="Filters">Filters</div></div></div>
-    <button class="btn btn-red btn-block" style="margin-top:8px">View Matching Parts</button>
+    <div class="mstep open" data-step="make"><button class="mh"><span class="num">1</span>Select Make<span class="val"></span><span class="cv"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></svg></span></button><div class="mb"></div></div>
+    <div class="mstep" data-step="model" aria-disabled="true"><button class="mh"><span class="num">2</span>Select Model<span class="val"></span><span class="cv"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></svg></span></button><div class="mb"></div></div>
+    <div class="mstep" data-step="year" aria-disabled="true"><button class="mh"><span class="num">3</span>Select Year<span class="val"></span><span class="cv"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></svg></span></button><div class="mb"></div></div>
+    <div class="mstep" data-step="engine" aria-disabled="true"><button class="mh"><span class="num">4</span>Select Engine<span class="val"></span><span class="cv"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></svg></span></button><div class="mb"></div></div>
+    <div class="mstep" data-step="cat" aria-disabled="true"><button class="mh"><span class="num">5</span>Select Category<span class="val"></span><span class="cv"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></svg></span></button><div class="mb"></div></div>
+    <button class="btn btn-red btn-block" id="mViewMatch" style="margin-top:8px">View Matching Parts</button>
   </div>
 </div></section>
 
@@ -674,6 +684,7 @@ select.control{appearance:none;background-image:url("data:image/svg+xml;utf8,<sv
 <button class="totop" id="totop" aria-label="Back to top"><svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 19V5M6 11l6-6 6 6"/></svg></button>
 
 <script>window.SP={base:<?= json_encode($base, JSON_UNESCAPED_SLASHES) ?>};</script>
+<script src="<?= e($base) ?>/assets/js/searchselect.js?v=<?= @filemtime(dirname(__DIR__, 2) . '/assets/js/searchselect.js') ?>"></script>
 <script>
 (function(){
   var rm=matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -744,47 +755,37 @@ select.control{appearance:none;background-image:url("data:image/svg+xml;utf8,<sv
     document.getElementById('panel-veh').hidden=which!=='veh';
     document.getElementById('panel-vin').hidden=which!=='vin';
   })});
-  // cascading vehicle selects -> real API (year -> make -> model -> engine/vehicle)
-  var vy=document.getElementById('v-year'),vm=document.getElementById('v-make'),
-      vmo=document.getElementById('v-model'),ve=document.getElementById('v-engine');
-  function optFill(sel,items,ph,valfn,txtfn){
-    if(!sel)return; sel.innerHTML='<option value="">'+ph+'</option>';
-    items.forEach(function(it){var o=document.createElement('option');o.value=valfn(it);o.textContent=txtfn(it);sel.appendChild(o)});
-  }
-  if(vm){
-    // Make -> Model -> Year -> Engine (same order as the catalog browser)
-    optFill(vmo,[],'Select Model'); optFill(vy,[],'Select Year'); optFill(ve,[],'Select Engine');
-    vmo.disabled=vy.disabled=ve.disabled=true;
+  // Searchable vehicle picker (Make -> Model -> Year -> Engine) — the same
+  // SearchSelect component the shop page uses. Picking Engine enables "Find Parts".
+  var HV={}, HS={make:'',model:'',year:'',engine:''}, hvOrder=['make','model','year','engine'];
+  var hvPH={make:'Select make',model:'Make first',year:'Model first',engine:'Year first'};
+  function hvReset(from){ for(var j=from;j<hvOrder.length;j++){var k=hvOrder[j]; HS[k]=''; HV[k].reset(hvPH[k]);} }
+  var hvNext={
+    make: function(){return api('/models?make='+encodeURIComponent(HS.make)).then(function(d){
+             HV.model.set(d.map(function(x){return {v:x.slug,t:x.name}}),'Select model')})},
+    model:function(){return api('/tree/years?make='+encodeURIComponent(HS.make)+'&model='+encodeURIComponent(HS.model)).then(function(d){
+             HV.year.set(d.map(function(x){return {v:String(x),t:String(x)}}),'Select year')})},
+    year: function(){return api('/vehicles?year='+encodeURIComponent(HS.year)+'&make='+encodeURIComponent(HS.make)+'&model='+encodeURIComponent(HS.model)).then(function(d){
+             HV.engine.set(d.map(function(x){return {v:x.slug,t:x.label}}),'Select engine')})},
+    engine:function(){return Promise.resolve()}
+  };
+  if(document.getElementById('hv-make') && window.SearchSelect){
+    hvOrder.forEach(function(k,i){
+      HV[k]=SearchSelect(document.getElementById('hv-'+k),function(v,t){
+        HS[k]=v; hvReset(i+1);
+        document.getElementById('veh-msg').classList.remove('err');
+        if(v&&hvNext[k])hvNext[k]();
+      });
+    });
     api('/tree/makes').then(function(ms){
-      optFill(vm,ms,'Select Make',function(m){return m.slug},function(m){return m.name})});
-    vm.addEventListener('change',function(){
-      vy.disabled=ve.disabled=true; optFill(vy,[],'Select Year'); optFill(ve,[],'Select Engine');
-      document.getElementById('veh-msg').classList.remove('err');
-      if(!vm.value){vmo.disabled=true;optFill(vmo,[],'Select Model');return}
-      vmo.disabled=false;
-      api('/models?make='+encodeURIComponent(vm.value)).then(function(ms){
-        optFill(vmo,ms,'Select Model',function(m){return m.slug},function(m){return m.name})});
-    });
-    vmo.addEventListener('change',function(){
-      ve.disabled=true; optFill(ve,[],'Select Engine');
-      if(!vmo.value){vy.disabled=true;optFill(vy,[],'Select Year');return}
-      vy.disabled=false;
-      api('/tree/years?make='+encodeURIComponent(vm.value)+'&model='+encodeURIComponent(vmo.value)).then(function(ys){
-        optFill(vy,ys,'Select Year',function(y){return y},function(y){return y})});
-    });
-    vy.addEventListener('change',function(){
-      if(!vy.value){ve.disabled=true;optFill(ve,[],'Select Engine');return}
-      ve.disabled=false;
-      api('/vehicles?year='+encodeURIComponent(vy.value)+'&make='+encodeURIComponent(vm.value)+'&model='+encodeURIComponent(vmo.value)).then(function(vs){
-        optFill(ve,vs,'Select Engine',function(v){return v.slug},function(v){return v.label})});
-    });
+      HV.make.set(ms.map(function(m){return {v:m.slug,t:m.name}}),'Select make')});
   }
   var findBtn=document.getElementById('findParts');
   findBtn&&findBtn.addEventListener('click',function(){
     var m=document.getElementById('veh-msg');
-    if(!ve||!ve.value){m.classList.add('err');return}
+    if(!HS.engine){m.classList.add('err');return}
     m.classList.remove('err'); this.innerHTML='Loading matching parts…';
-    location.href=SP_BASE+'/products?vehicle='+encodeURIComponent(ve.value);
+    location.href=SP_BASE+'/products?vehicle='+encodeURIComponent(HS.engine);
   });
   // VIN -> decode (NHTSA vPIC) -> match our catalog -> open that exact vehicle
   var vin=document.getElementById('vin-input');
@@ -889,6 +890,7 @@ select.control{appearance:none;background-image:url("data:image/svg+xml;utf8,<sv
     C_count(name,items.length);list.innerHTML='';
     items.forEach(function(it){var v=valfn(it),t=txtfn(it),n=countfn?countfn(it):null,fl=flagsfn?flagsfn(it):null;
       var o=document.createElement('div');o.className='opt';o.dataset.v=v;o.dataset.t=t;
+      o.setAttribute('role','option');o.tabIndex=-1;
       o.innerHTML='<span class="opt-l">'+esc(t)+C_flags(fl)+'</span>'+(n!=null?'<span class="n">'+esc(n)+'</span>':C_chev);list.appendChild(o)});
   }
   function C_clearFrom(i){for(var j=i;j<C_order.length;j++){C_sel[C_order[j]]={v:'',t:''};var l=C_list(C_order[j]);if(l){l.innerHTML='';C_count(C_order[j],null)}}}
@@ -907,6 +909,16 @@ select.control{appearance:none;background-image:url("data:image/svg+xml;utf8,<sv
       C_sel[cname]={v:opt.dataset.v,t:opt.dataset.t};C_clearFrom(C_order.indexOf(cname)+1);C_crumb();
       if(cname!=='sub')C_next(cname);
     });
+    if(list){list.setAttribute('role','listbox');list.tabIndex=0;
+      list.addEventListener('keydown',function(ev){
+        var opts=[].slice.call(list.querySelectorAll('.opt')).filter(function(o){return o.dataset.v&&o.style.display!=='none'});
+        if(!opts.length)return;
+        var cur=(document.activeElement&&document.activeElement.closest)?document.activeElement.closest('.opt'):null,i=opts.indexOf(cur);
+        if(ev.key==='ArrowDown'){ev.preventDefault();(opts[i+1]||opts[0]).focus()}
+        else if(ev.key==='ArrowUp'){ev.preventDefault();(opts[i-1]||opts[opts.length-1]).focus()}
+        else if((ev.key==='Enter'||ev.key===' ')&&cur){ev.preventDefault();cur.click()}
+      });
+    }
     var f=col.querySelector('.filt input');if(f)f.addEventListener('input',function(){var q=this.value.toLowerCase();col.querySelectorAll('.opt').forEach(function(o){o.style.display=o.textContent.toLowerCase().indexOf(q)>-1?'':'none'})});
   });
   if(document.querySelector('.cols')){
@@ -924,23 +936,71 @@ select.control{appearance:none;background-image:url("data:image/svg+xml;utf8,<sv
     if(cat)q+='&category='+encodeURIComponent(cat);
     location.href=SP_BASE+'/products?'+q;
   });
-  // mobile catalog accordion (progressive)
+  // Mobile catalog accordion — wired to the SAME drill API as the desktop .cols,
+  // sharing C_sel so "View Matching Parts" resolves the deepest selection.
   var mOrder=['make','model','year','engine','cat'];
-  document.querySelectorAll('.mstep').forEach(function(st){
+  var mcatEl=document.getElementById('mcat');
+  function mStep(s){return mcatEl&&mcatEl.querySelector('.mstep[data-step="'+s+'"]')}
+  function mBody(s){var st=mStep(s);return st&&st.querySelector('.mb')}
+  // Only the open step's options are keyboard-reachable (closed .mb is max-height:0).
+  function mSync(){if(!mcatEl)return;mcatEl.querySelectorAll('.mstep').forEach(function(s){
+    var b=s.querySelector('.mb');if(b){b.setAttribute('role','listbox');b.tabIndex=s.classList.contains('open')?0:-1}})}
+  function mRender(step,items,valfn,txtfn,countfn){
+    var b=mBody(step);if(!b)return;
+    if(!items.length){b.innerHTML='<div class="opt" style="color:var(--mute)">None found</div>';return}
+    b.innerHTML='';
+    items.forEach(function(it){var o=document.createElement('div');o.className='opt';
+      o.setAttribute('role','option');o.tabIndex=-1;o.dataset.v=valfn(it);o.dataset.t=txtfn(it);
+      var n=countfn?countfn(it):null;
+      o.innerHTML='<span class="opt-l">'+esc(o.dataset.t)+'</span>'+(n!=null?'<span class="n">'+esc(n)+'</span>':'');
+      b.appendChild(o)});
+    mSync();
+  }
+  function mReset(from){for(var j=from;j<mOrder.length;j++){var st=mStep(mOrder[j]);if(!st)continue;
+    C_sel[mOrder[j]]={v:'',t:''};st.classList.remove('done','open');st.setAttribute('aria-disabled','true');
+    var v=st.querySelector('.val');if(v)v.textContent='';var b=mBody(mOrder[j]);if(b)b.innerHTML=''}mSync()}
+  function mNext(step){var mk=C_sel.make.v,mo=C_sel.model.v,y=C_sel.year.v,en=C_sel.engine.v;
+    if(step==='make') return api('/models?make='+encodeURIComponent(mk)).then(function(d){mRender('model',d,function(x){return x.slug},function(x){return x.name})});
+    if(step==='model')return api('/tree/years?make='+encodeURIComponent(mk)+'&model='+encodeURIComponent(mo)).then(function(d){mRender('year',d,function(x){return String(x)},function(x){return String(x)})});
+    if(step==='year') return api('/vehicles?year='+encodeURIComponent(y)+'&make='+encodeURIComponent(mk)+'&model='+encodeURIComponent(mo)).then(function(d){mRender('engine',d,function(x){return x.slug},function(x){return x.label})});
+    if(step==='engine')return api('/tree/groups?vehicle='+encodeURIComponent(en)).then(function(d){mRender('cat',d,function(x){return x.slug},function(x){return x.name},function(x){return x.n})});
+    return Promise.resolve()}
+  function mChoose(st,opt){if(!opt.dataset.v)return;var step=st.dataset.step,i=mOrder.indexOf(step);
+    st.querySelectorAll('.opt').forEach(function(o){o.classList.remove('on');o.setAttribute('aria-selected','false')});
+    opt.classList.add('on');opt.setAttribute('aria-selected','true');
+    C_sel[step]={v:opt.dataset.v,t:opt.dataset.t};
+    st.classList.add('done');st.querySelector('.val').textContent=opt.dataset.t;
+    mReset(i+1);st.classList.remove('open');
+    if(step!=='cat')mNext(step).then(function(){var nx=mStep(mOrder[i+1]);if(nx){nx.setAttribute('aria-disabled','false');nx.classList.add('open')}mSync()});
+    else mSync();
+  }
+  if(mcatEl)mcatEl.querySelectorAll('.mstep').forEach(function(st){
     st.querySelector('.mh').addEventListener('click',function(){
       if(st.getAttribute('aria-disabled')==='true')return;
       var wasOpen=st.classList.contains('open');
-      document.querySelectorAll('.mstep').forEach(function(s){s.classList.remove('open')});
+      mcatEl.querySelectorAll('.mstep').forEach(function(s){s.classList.remove('open')});
       if(!wasOpen)st.classList.add('open');
+      mSync();
     });
-    st.querySelectorAll('.opt').forEach(function(opt){opt.addEventListener('click',function(){
-      st.querySelectorAll('.opt').forEach(function(o){o.classList.remove('on')});opt.classList.add('on');
-      st.classList.add('done');st.querySelector('.val').textContent=opt.dataset.v;
-      var i=mOrder.indexOf(st.dataset.step),nxt=document.querySelector('.mstep[data-step="'+mOrder[i+1]+'"]');
-      st.classList.remove('open');
-      if(nxt){nxt.setAttribute('aria-disabled','false');nxt.classList.add('open')}
-    })});
+    var b=st.querySelector('.mb');
+    b.addEventListener('click',function(ev){var o=ev.target.closest('.opt');if(o&&o.dataset.v)mChoose(st,o)});
+    b.addEventListener('keydown',function(ev){
+      var opts=[].slice.call(b.querySelectorAll('.opt')).filter(function(x){return x.dataset.v});if(!opts.length)return;
+      var cur=(document.activeElement&&document.activeElement.closest)?document.activeElement.closest('.opt'):null,i=opts.indexOf(cur);
+      if(ev.key==='ArrowDown'){ev.preventDefault();(opts[i+1]||opts[0]).focus()}
+      else if(ev.key==='ArrowUp'){ev.preventDefault();(opts[i-1]||opts[opts.length-1]).focus()}
+      else if((ev.key==='Enter'||ev.key===' ')&&cur){ev.preventDefault();mChoose(st,cur)}
+    });
   });
+  function mcatInit(){if(!mcatEl||mcatEl.dataset.init)return;if(getComputedStyle(mcatEl).display==='none')return;
+    mcatEl.dataset.init='1';
+    api('/tree/makes').then(function(d){mRender('make',d,function(x){return x.slug},function(x){return x.name},function(x){return x.n})});
+  }
+  mcatInit();window.addEventListener('resize',mcatInit);
+  var mView=document.getElementById('mViewMatch');
+  mView&&mView.addEventListener('click',function(){if(!C_sel.engine.v)return;
+    var q='vehicle='+encodeURIComponent(C_sel.engine.v),cat=C_sel.sub.v||C_sel.cat.v;
+    if(cat)q+='&category='+encodeURIComponent(cat);location.href=SP_BASE+'/products?'+q});
   // popular-vehicle chips -> drill the catalog through Make > Model > Year.
   // Each level loads async, so poll for the option to appear before clicking it.
   document.querySelectorAll('.chipv').forEach(function(chip){

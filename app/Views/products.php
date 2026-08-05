@@ -85,6 +85,7 @@ $levels = [
 <?php endif; ?>
 </div>
 
+<script src="<?= $url('assets/js/searchselect.js') ?>?v=<?= @filemtime(dirname(__DIR__, 2) . '/assets/js/searchselect.js') ?>"></script>
 <script>
 (function(){
   var BASE=<?= json_encode(rtrim($_controller->url('/'), '/')) ?>;
@@ -107,86 +108,9 @@ $levels = [
   function api(p){return fetch(BASE+'/api'+p,{headers:{'Accept':'application/json'}})
     .then(function(r){if(!r.ok)throw new Error('HTTP '+r.status);return r.json()})}
 
-  /* Searchable dropdown. Native <select> can't filter, and Make alone is 300+
-     options — typing to narrow is the whole point. */
-  function SearchSelect(root,onPick){
-    var btn=root.querySelector('.ss-btn'), pop=root.querySelector('.ss-pop'),
-        val=root.querySelector('.ss-val'), q=pop.querySelector('input'),
-        list=pop.querySelector('.ss-list');
-    var items=[],ph='',cur='',mark=-1;
-
-    function render(){
-      var f=q.value.trim().toLowerCase();
-      var vis=items.filter(function(it){return !f||it.t.toLowerCase().indexOf(f)>-1});
-      if(!vis.length){list.innerHTML='<li class="ss-none">No matches</li>';mark=-1;return}
-      list.innerHTML=vis.map(function(it){
-        return '<li class="ss-opt'+(it.v===cur?' on':'')+'" role="option" data-v="'+esc(it.v)+'"'+
-               ' aria-selected="'+(it.v===cur?'true':'false')+'">'+
-               '<span>'+esc(it.t)+'</span>'+(it.n!=null?'<span class="n">'+esc(it.n)+'</span>':'')+'</li>';
-      }).join('');
-      mark=-1;
-    }
-    function open(){
-      if(btn.disabled)return;
-      closeAll(root);
-      root.classList.add('open'); pop.hidden=false; btn.setAttribute('aria-expanded','true');
-      q.value=''; render(); q.focus();
-    }
-    function close(){
-      root.classList.remove('open'); pop.hidden=true; btn.setAttribute('aria-expanded','false');
-    }
-    function choose(v,t){
-      cur=v; val.textContent=t||ph; close(); btn.focus(); onPick(v,t||'');
-    }
-    function moveMark(d){
-      var opts=list.querySelectorAll('.ss-opt'); if(!opts.length)return;
-      if(mark>-1)opts[mark].classList.remove('mark');
-      mark=(mark+d+opts.length)%opts.length;
-      opts[mark].classList.add('mark');
-      opts[mark].scrollIntoView({block:'nearest'});
-    }
-
-    btn.addEventListener('click',function(){root.classList.contains('open')?close():open()});
-    list.addEventListener('click',function(e){
-      var li=e.target.closest('.ss-opt'); if(!li)return;
-      choose(li.dataset.v,li.querySelector('span').textContent);
-    });
-    q.addEventListener('input',render);
-    q.addEventListener('keydown',function(e){
-      if(e.key==='ArrowDown'){e.preventDefault();moveMark(1)}
-      else if(e.key==='ArrowUp'){e.preventDefault();moveMark(-1)}
-      else if(e.key==='Enter'){
-        e.preventDefault();
-        var opts=list.querySelectorAll('.ss-opt'); if(!opts.length)return;
-        var li=opts[mark>-1?mark:0];
-        choose(li.dataset.v,li.querySelector('span').textContent);
-      } else if(e.key==='Escape'){e.preventDefault();close();btn.focus()}
-    });
-    btn.addEventListener('keydown',function(e){
-      if(e.key==='ArrowDown'||e.key==='Enter'||e.key===' '){e.preventDefault();open()}
-    });
-
-    return {
-      root:root,
-      set:function(list_,placeholder){
-        items=list_||[]; ph=placeholder; cur='';
-        val.textContent=items.length?placeholder:'None found';
-        btn.disabled=!items.length; render();
-      },
-      reset:function(placeholder){
-        items=[]; ph=placeholder; cur=''; val.textContent=placeholder;
-        btn.disabled=true; list.innerHTML=''; close();
-      },
-      /* set the value + label without firing onPick — used to hydrate the drill
-         from the URL, where the grid is already filtered server-side */
-      select:function(v,t){ cur=v; val.textContent=t||ph; btn.disabled=false; },
-      close:close
-    };
-  }
+  /* SearchSelect lives in assets/js/searchselect.js (shared with the homepage);
+     it handles close-on-outside-click and Escape for every instance itself. */
   var SS={};
-  function closeAll(except){order.forEach(function(k){if(SS[k]&&SS[k].root!==except)SS[k].close()})}
-  document.addEventListener('click',function(e){ if(!e.target.closest('.ss'))closeAll(null) });
-  document.addEventListener('keydown',function(e){ if(e.key==='Escape')closeAll(null) });
 
   function resetFrom(i){
     for(var j=i;j<order.length;j++){ var k=order[j]; S[k]='';T[k]=''; SS[k].reset(PH[j]) }

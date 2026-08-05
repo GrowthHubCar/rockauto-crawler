@@ -18,14 +18,26 @@ class CartController extends Controller
 
         if ($this->wantsJson()) { $this->json($this->miniData($cart)); return; }
 
-        // Return to where they were, or the cart.
-        $back = $_POST['back'] ?? ($_SERVER['HTTP_REFERER'] ?? '');
-        if ($back && str_contains($back, ($_SERVER['HTTP_HOST'] ?? ''))) {
+        // Return to where they were, or the cart — but only to a same-origin target.
+        // The old str_contains(host) check let "http://evil.com/localhost" through
+        // (open redirect); require a relative path or an exact host match instead.
+        $back = (string) ($_POST['back'] ?? ($_SERVER['HTTP_REFERER'] ?? ''));
+        if ($this->isSameOrigin($back)) {
             header('Location: ' . $back);
         } else {
             $this->redirect('/cart');
         }
         exit;
+    }
+
+    /** True only for a same-origin relative path or an absolute URL on our host —
+     *  guards the post-add redirect against open-redirect abuse. */
+    private function isSameOrigin(string $url): bool
+    {
+        if ($url === '') return false;
+        if ($url[0] === '/' && !str_starts_with($url, '//')) return true;   // relative path
+        $host = parse_url($url, PHP_URL_HOST);
+        return $host !== null && $host === ($_SERVER['HTTP_HOST'] ?? '');
     }
 
     public function view(): void
@@ -35,7 +47,7 @@ class CartController extends Controller
             'items'    => $cart->items(),
             'totals'   => $cart->totals(),
             'freeOver' => $this->freeOver(),
-        ], 'Cart — Supreme Parts');
+        ], 'Cart — Supreme Spare Parts');
     }
 
     public function update(): void

@@ -45,6 +45,7 @@ class MessageController extends AdminController
             'per'     => $per,
             'status'  => $status,
             'counts'  => $counts,
+            'csrf'    => \App\Core\Auth::token(),
             '_active' => 'messages',
         ], 'Messages');
     }
@@ -52,6 +53,7 @@ class MessageController extends AdminController
     /** Mark read / archived / back to new. */
     public function status(string $id): void
     {
+        $this->requireCsrf();
         $to = (string) ($_POST['status'] ?? '');
         if (in_array($to, ['new', 'read', 'archived'], true)) {
             $this->db()->prepare("UPDATE contact_messages SET status = ? WHERE id = ?")
@@ -62,6 +64,7 @@ class MessageController extends AdminController
 
     public function delete(string $id): void
     {
+        $this->requireCsrf();
         $this->db()->prepare("DELETE FROM contact_messages WHERE id = ?")->execute([(int) $id]);
         $this->redirect('/admin/messages');
     }

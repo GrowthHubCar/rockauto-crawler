@@ -23,7 +23,7 @@ class CheckoutController extends Controller
             'old'         => [],
             'stripeLive'  => $stripe->enabled(),
             'csrf'        => \App\Core\Auth::token(),
-        ], 'Checkout — Supreme Parts');
+        ], 'Checkout — Supreme Spare Parts');
     }
 
     /** POST /checkout — validate the form, create the order with the customer's
@@ -44,14 +44,27 @@ class CheckoutController extends Controller
             $this->render('checkout', [
                 'items' => $items, 'totals' => $totals, 'errors' => $errors, 'old' => $form,
                 'stripeLive' => $stripe->enabled(), 'csrf' => \App\Core\Auth::token(),
-            ], 'Checkout — Supreme Parts');
+            ], 'Checkout — Supreme Spare Parts');
             return;
         }
 
         [$orderId, $orderNumber] = $this->createPendingOrder($items, $totals, $form);
 
+        // Bind this order to the buyer's session so only they can open its
+        // confirmation page (blocks order-number enumeration / PII leak).
+        \App\Core\Auth::start();
+        $_SESSION['my_orders'] = array_slice(
+            array_merge($_SESSION['my_orders'] ?? [], [$orderNumber]), -10);
+
         if (!$stripe->enabled()) {
-            // MOCK mode: no keys configured — mark paid immediately (local demo only).
+            // No Stripe keys configured: only the local demo may mark an order paid
+            // without a real charge. Never in a deployed env — that would be free orders.
+            if ($this->appEnv() !== 'local') {
+                $this->render('checkout_error',
+                    ['message' => 'Online payment is not available right now. Please contact us to complete your order.'],
+                    'Checkout — Supreme Spare Parts');
+                return;
+            }
             $this->finalizeOrder($orderId, null, 'mock');
             $cart->clear();
             $this->redirect('/checkout/success?order=' . urlencode($orderNumber) . '&mock=1');
@@ -93,8 +106,9 @@ class CheckoutController extends Controller
                 'line_items' => $lineItems,
             ]);
         } catch (\Throwable $e) {
+            error_log('[SupremeParts] checkout create failed: ' . $e->getMessage());
             $this->db()->prepare("UPDATE orders SET status='cancelled' WHERE id=?")->execute([$orderId]);
-            $this->render('checkout_error', ['message' => $e->getMessage()], 'Checkout error — Supreme Parts');
+            $this->render('checkout_error', ['message' => 'We could not start checkout just now. Please try again.'], 'Checkout error — Supreme Spare Parts');
             return;
         }
 
@@ -111,16 +125,19 @@ class CheckoutController extends Controller
     /** GET /checkout/success */
     public function success(): void
     {
+        \App\Core\Auth::start();
         $cart = new Cart();
         $sessionId = (string) ($_GET['session_id'] ?? '');
         $orderNumber = (string) ($_GET['order'] ?? '');
+        $verified = false;   // true once ownership is proven (Stripe-paid or session-placed)
 
         if ($sessionId !== '') {
             $stripe = new Stripe();
             try {
                 $session = $stripe->retrieveSession($sessionId);
             } catch (\Throwable $e) {
-                $this->render('checkout_error', ['message' => 'Could not verify payment: ' . $e->getMessage()], 'Checkout — Supreme Parts');
+                error_log('[SupremeParts] session verify failed: ' . $e->getMessage());
+                $this->render('checkout_error', ['message' => 'We could not verify your payment. If you were charged, contact us and we will sort it out.'], 'Checkout — Supreme Spare Parts');
                 return;
             }
             $orderId = (int) ($session['metadata']['order_id'] ?? 0);
@@ -128,22 +145,27 @@ class CheckoutController extends Controller
                 $this->finalizeOrder($orderId, $session, 'stripe');
                 $cart->clear();
                 $orderNumber = $session['metadata']['order_number'] ?? '';
+                $verified = true;   // completing Stripe checkout proves ownership
             } else {
-                $this->render('checkout_error', ['message' => 'Payment was not completed.'], 'Checkout — Supreme Parts');
+                $this->render('checkout_error', ['message' => 'Payment was not completed.'], 'Checkout — Supreme Spare Parts');
                 return;
             }
         }
 
-        $order = $this->loadOrder($orderNumber);
-        if (!$order) { $this->redirect('/'); }
+        // Only show a confirmation the buyer is entitled to: one this session placed,
+        // or one just verified as paid via Stripe. Blocks order-number enumeration
+        // that would otherwise leak another customer's name/email/address.
+        $mine = $verified || in_array($orderNumber, $_SESSION['my_orders'] ?? [], true);
+        $order = $mine ? $this->loadOrder($orderNumber) : null;
+        if (!$order) { $this->redirect('/'); return; }
         $this->render('checkout_success', ['order' => $order['order'], 'items' => $order['items']],
-            'Order confirmed — Supreme Parts');
+            'Order confirmed — Supreme Spare Parts');
     }
 
     /** GET /checkout/cancel */
     public function cancel(): void
     {
-        $this->render('checkout_cancel', [], 'Checkout cancelled — Supreme Parts');
+        $this->render('checkout_cancel', [], 'Checkout cancelled — Supreme Spare Parts');
     }
 
     /** Public entry for the Stripe webhook to finalize an order (idempotent). */
@@ -212,12 +234,6 @@ class CheckoutController extends Controller
     private function finalizeOrder(int $orderId, ?array $session, string $mode): void
     {
         $db = $this->db();
-        $stmt = $db->prepare("SELECT id, `status` FROM orders WHERE id = ?");
-        $stmt->execute([$orderId]);
-        $order = $stmt->fetch();
-        if (!$order || $order['status'] === 'paid' || $order['status'] === 'completed') {
-            return; // already finalized — idempotent
-        }
 
         $email = '';
         $ship = null;
@@ -229,8 +245,14 @@ class CheckoutController extends Controller
 
         $db->beginTransaction();
         try {
-            $db->prepare("UPDATE orders SET `status`='paid', email = CASE WHEN ?='' THEN email ELSE ? END WHERE id = ?")
-               ->execute([$email, $email, $orderId]);
+            // Atomic claim: only the first caller to flip pending->paid proceeds.
+            // success() (GET) and the Stripe webhook can race; this prevents a double
+            // inventory decrement / duplicate payment row without locking the table.
+            $claim = $db->prepare(
+                "UPDATE orders SET `status`='paid', email = CASE WHEN ?='' THEN email ELSE ? END
+                  WHERE id = ? AND `status` NOT IN ('paid','completed')");
+            $claim->execute([$email, $email, $orderId]);
+            if ($claim->rowCount() !== 1) { $db->rollBack(); return; }  // already finalized or gone
 
             // payment: update the pending stripe row if present, else insert.
             $upd = $db->prepare("UPDATE payments SET `status`='captured', gateway_txn_id = COALESCE(?, gateway_txn_id) WHERE order_id = ?");
@@ -284,8 +306,14 @@ class CheckoutController extends Controller
         return ['order' => $order, 'items' => $items->fetchAll()];
     }
 
+    /** App environment ('local' in dev). Gates the keyless mock-payment path. */
+    private function appEnv(): string
+    {
+        return (string) ((require BASE_DIR . '/config/config.php')['app']['env'] ?? '');
+    }
+
     private function makeOrderNumber(): string
     {
-        return 'SP-' . date('Ymd') . '-' . strtoupper(bin2hex(random_bytes(3)));
+        return 'SP-' . date('Ymd') . '-' . strtoupper(bin2hex(random_bytes(4)));
     }
 }

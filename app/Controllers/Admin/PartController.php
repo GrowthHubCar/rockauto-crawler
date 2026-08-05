@@ -92,7 +92,8 @@ class PartController extends AdminController
             $stmt->execute($this->bind($data));
             $this->flash('ok', 'Part created.');
         } catch (\PDOException $e) {
-            $this->flash('error', 'Could not save: ' . $e->getMessage());
+            error_log('[SupremeParts] part save failed: ' . $e->getMessage());
+            $this->flash('error', 'Could not save — check for a duplicate SKU/slug or an invalid value.');
             $this->redirect('/admin/parts/create');
         }
         $this->redirect('/admin/parts');
@@ -118,7 +119,8 @@ class PartController extends AdminController
             )->execute($bind);
             $this->flash('ok', 'Part updated.');
         } catch (\PDOException $e) {
-            $this->flash('error', 'Could not save: ' . $e->getMessage());
+            error_log('[SupremeParts] part save failed: ' . $e->getMessage());
+            $this->flash('error', 'Could not save — check for a duplicate SKU/slug or an invalid value.');
             $this->redirect('/admin/parts/' . (int) $id . '/edit');
         }
         $this->redirect('/admin/parts');

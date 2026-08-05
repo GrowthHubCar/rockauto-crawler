@@ -20,7 +20,7 @@ abstract class AdminController extends Controller
     /** Render a view inside the admin layout. */
     protected function adminRender(string $view, array $data = [], ?string $title = null): void
     {
-        $data['title']   = ($title ? $title . ' — ' : '') . 'Supreme Parts Admin';
+        $data['title']   = ($title ? $title . ' — ' : '') . 'Supreme Spare Parts Admin';
         $data['_controller'] = $this;
         $data['_user']   = Auth::user();
         $data['_active'] = $data['_active'] ?? '';

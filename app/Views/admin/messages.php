@@ -43,15 +43,17 @@ $tab = function (string $key, string $label, int $n) use ($status, $u) {
           <?php foreach (['new' => 'Mark new', 'read' => 'Mark read', 'archived' => 'Archive'] as $k => $lbl): ?>
             <?php if ($m['status'] !== $k): ?>
               <form method="post" action="<?= $u('/admin/messages/' . (int) $m['id'] . '/status') ?>">
+                <input type="hidden" name="_csrf" value="<?= e($csrf) ?>">
                 <input type="hidden" name="status" value="<?= e($k) ?>">
                 <input type="hidden" name="back" value="<?= e($status) ?>">
                 <button class="btn btn-sm" type="submit"><?= e($lbl) ?></button>
               </form>
             <?php endif; ?>
           <?php endforeach; ?>
-          <a class="btn btn-sm" href="mailto:<?= e($m['email']) ?>?subject=<?= rawurlencode('Re: your enquiry — Supreme Parts') ?>">Reply</a>
+          <a class="btn btn-sm" href="mailto:<?= e($m['email']) ?>?subject=<?= rawurlencode('Re: your enquiry — Supreme Spare Parts') ?>">Reply</a>
           <form method="post" action="<?= $u('/admin/messages/' . (int) $m['id'] . '/delete') ?>"
                 onsubmit="return confirm('Delete this message permanently?')">
+            <input type="hidden" name="_csrf" value="<?= e($csrf) ?>">
             <button class="btn btn-sm adm-danger" type="submit">Delete</button>
           </form>
         </footer>

@@ -70,7 +70,15 @@ class DashboardController extends AdminController
         try {
             $raw = $db->query("SELECT `value` FROM settings WHERE `key`='admin_dash_cache'")->fetchColumn();
             $c = $raw ? json_decode((string) $raw, true) : null;
-            if (is_array($c) && (int) ($c['t'] ?? 0) > time() - 3600) {
+            // ALWAYS serve the cache when one exists, at ANY age. Recomputing costs ~46s
+            // now that part_fitment holds 24.8M rows (measured 2026-07-31: fitment count
+            // 21.1s + topCats 13.0s + priced 11.2s), so a TTL here means one unlucky admin
+            // per window waits ~46s for a page load. The refresh is done out-of-band by
+            // `php bin/refresh_dash_cache.php` instead; this path only computes inline on
+            // the very first run, when no cache row exists at all.
+            // (The old 5-min TTL existed to stop the panel reading FROZEN during a bulk
+            // ingest — the refresher covers that, and far more cheaply.)
+            if (is_array($c) && isset($c['counts'])) {
                 return $c;
             }
 
@@ -86,14 +94,22 @@ class DashboardController extends AdminController
             )->fetch(\PDO::FETCH_ASSOC);
             $counts = array_map('intval', $counts);
 
-            $priced = $db->query(
-                "SELECT SUM(price IS NOT NULL) AS priced, SUM(price IS NULL) AS unpriced FROM parts"
-            )->fetch(\PDO::FETCH_ASSOC);
+            // SUM(price IS NOT NULL) has to read every row (11.2s). Counting the NULLs
+            // alone is an index range scan on idx_parts_price and lands in 427ms; the
+            // priced side is just the difference. 26x, same numbers.
+            $unpriced = (int) $db->query("SELECT COUNT(*) FROM parts WHERE price IS NULL")
+                                 ->fetchColumn();
+            $priced = ['priced' => $counts['parts'] - $unpriced, 'unpriced' => $unpriced];
 
+            // Grouping over the JOIN forces a 1.3M-row scan (13.0s). Grouping on
+            // idx_parts_category alone is 1.35s, and only 6 category names are ever
+            // needed — so resolve those afterwards, off the grouped set. 9.6x.
             $topCats = $db->query(
-                "SELECT c.name, COUNT(*) AS n
-                   FROM parts p JOIN categories c ON c.id = p.category_id
-                  GROUP BY c.id ORDER BY n DESC LIMIT 6"
+                "SELECT c.name, t.n FROM (
+                     SELECT category_id, COUNT(*) AS n
+                       FROM parts GROUP BY category_id ORDER BY n DESC LIMIT 6
+                 ) t JOIN categories c ON c.id = t.category_id
+                 ORDER BY t.n DESC"
             )->fetchAll();
 
             $out = ['counts' => $counts, 'priced' => $priced, 'topCats' => $topCats, 't' => time()];

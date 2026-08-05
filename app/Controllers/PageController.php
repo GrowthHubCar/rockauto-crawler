@@ -15,7 +15,7 @@ final class PageController extends Controller
         $this->render('about', [
             'stats'  => $this->catalogFacts(),
             'showFaq' => true,
-        ], 'About Us — Supreme Parts');
+        ], 'About Us — Supreme Spare Parts');
     }
 
     /** Biggest brands by sellable part count, for the "brands we stock" strip.
@@ -41,7 +41,7 @@ final class PageController extends Controller
         $this->render('contact', [
             'sent' => $sent, 'errors' => [], 'old' => [],
             'showFaq' => true,
-        ], 'Contact Us — Supreme Parts');
+        ], 'Contact Us — Supreme Spare Parts');
     }
 
     /** Store a contact enquiry. Server-side validated; the honeypot catches the
@@ -80,7 +80,7 @@ final class PageController extends Controller
 
         if ($errors) {
             $this->render('contact', ['sent' => false, 'errors' => $errors, 'old' => $old,
-                'showFaq' => true], 'Contact Us — Supreme Parts');
+                'showFaq' => true], 'Contact Us — Supreme Spare Parts');
             return;
         }
 
@@ -101,7 +101,7 @@ final class PageController extends Controller
                 'errors' => ['message' => 'We could not send that just now. Please try again, or message us on WhatsApp.'],
                 'old'    => $old,
                 'showFaq' => true,
-            ], 'Contact Us — Supreme Parts');
+            ], 'Contact Us — Supreme Spare Parts');
             return;
         }
 

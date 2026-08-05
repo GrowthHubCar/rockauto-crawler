@@ -13,7 +13,7 @@ $ico = function (string $k): string {
 };
 ?>
 <h1 class="adm-h1">Dashboard</h1>
-<p class="adm-sub">Catalog and operations at a glance for the Supreme Parts storefront.</p>
+<p class="adm-sub">Catalog and operations at a glance for the Supreme Spare Parts storefront.</p>
 
 <div class="adm-cards">
   <?php

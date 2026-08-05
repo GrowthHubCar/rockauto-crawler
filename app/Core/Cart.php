@@ -72,7 +72,7 @@ class Cart
      */
     public function addBySku(string $sku, int $qty = 1, int $variantId = 0): bool
     {
-        $qty = max(1, $qty);
+        $qty = min(999, max(1, $qty));   // cap quantity: block overflow / absurd totals
         $stmt = $this->db->prepare("SELECT id, price, category_id FROM parts WHERE sku = ? AND status = 'active'");
         $stmt->execute([$sku]);
         $part = $stmt->fetch();
@@ -118,6 +118,7 @@ class Cart
         $cartId = $this->id(false);
         if ($cartId === null) return;
         if ($qty <= 0) { $this->remove($partId, $variantId); return; }
+        $qty = min(999, $qty);   // cap: block overflow / absurd-total abuse
         $this->db->prepare(
             "UPDATE cart_items SET quantity = ? WHERE cart_id = ? AND part_id = ? AND variant_id = ?"
         )->execute([$qty, $cartId, $partId, $variantId]);

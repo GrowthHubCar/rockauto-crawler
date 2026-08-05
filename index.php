@@ -5,6 +5,32 @@ use App\Core\Router;
 
 $config = require __DIR__ . '/bootstrap.php';
 
+// Error visibility: full errors locally, generic 500 (logged) in any deployed env.
+$debug = !empty($config['app']['debug']);
+error_reporting(E_ALL);
+ini_set('display_errors', $debug ? '1' : '0');
+if (!$debug) {
+    set_exception_handler(function (\Throwable $e): void {
+        error_log('[SupremeParts] uncaught: ' . $e);
+        http_response_code(500);
+        echo 'Something went wrong. Please try again later.';
+    });
+}
+
+// Baseline security headers on every response: clickjacking, MIME-sniffing and
+// referrer-leak defence, plus HSTS once served over HTTPS. The CSP is deliberately
+// narrow (framing/base-uri/plugins only) — the storefront is inline-script-heavy,
+// so a script-src policy would need nonces and is out of scope here.
+if (!headers_sent()) {
+    header('X-Frame-Options: DENY');
+    header('X-Content-Type-Options: nosniff');
+    header('Referrer-Policy: strict-origin-when-cross-origin');
+    header("Content-Security-Policy: frame-ancestors 'none'; base-uri 'self'; object-src 'none'");
+    if (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') {
+        header('Strict-Transport-Security: max-age=31536000; includeSubDomains');
+    }
+}
+
 $router = new Router($config['app']['base_path']);
 
 // Storefront
@@ -93,5 +119,8 @@ $router->post('/admin/messages/{id}/status', 'Admin\MessageController@status');
 $router->post('/admin/messages/{id}/delete', 'Admin\MessageController@delete');
 $router->get('/admin/settings', 'Admin\SettingsController@index');
 $router->post('/admin/settings', 'Admin\SettingsController@save');
+
+$router->get('/admin/account', 'Admin\AccountController@index');
+$router->post('/admin/account', 'Admin\AccountController@update');
 
 $router->dispatch($_SERVER['REQUEST_METHOD'], $_SERVER['REQUEST_URI']);
