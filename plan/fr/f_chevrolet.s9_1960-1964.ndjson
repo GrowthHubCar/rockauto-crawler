@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1962,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "MEDIUM DUTY TRUCK"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1961,p10+series", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "P10 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1961,k10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "K10 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1962,c10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "C10 SUBURBAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,k10+pickup,5.3l+327cid+v8,1324998", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "K10 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,k10+suburban,5.7l+348cid+v8,1489496", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "K10 SUBURBAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,suburban,6.7l+409cid+v8,1324190", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "SUBURBAN"}}}

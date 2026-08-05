@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/renault,1985,lecar", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1985, "model": "LECAR"}}}
-{"node_type": "model", "href": "/en/catalog/renault,1985,r18", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1985, "model": "R18"}}}
-{"node_type": "model", "href": "/en/catalog/renault,1986,r18", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1986, "model": "R18"}}}
-{"node_type": "model", "href": "/en/catalog/renault,1985,fuego", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1985, "model": "FUEGO"}}}

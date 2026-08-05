@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1960,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1960, "model": "RANCH WAGON"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1964,galaxie", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1964, "model": "GALAXIE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1960,thunderbird,5.8l+352cid+v8,1336632", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1960, "model": "THUNDERBIRD"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1964,falcon,4.3l+260cid+v8,1333976", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1964, "model": "FALCON"}}}

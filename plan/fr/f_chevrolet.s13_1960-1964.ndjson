@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1962,k10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "K10 SUBURBAN"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1961,kingswood", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "KINGSWOOD"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1961,c30+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "C30 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1960,c30+panel", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "C30 PANEL"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,medium+duty+truck,7.8l+478cid+v6+diesel,3438945", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "MEDIUM DUTY TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,k10+pickup,6.7l+409cid+v8,1491063", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "K10 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,c20+pickup,5.3l+327cid+v8,1324785", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "C20 PICKUP"}}}

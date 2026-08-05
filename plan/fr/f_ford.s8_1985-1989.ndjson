@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1985,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1985, "model": "L SERIES TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1989,b+series+bus,7.8l+473cid+l6+diesel+turbocharged,3440377", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1989, "model": "B SERIES BUS"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1989,b+series+bus,6.6l+401cid+l6+diesel+turbocharged,3296196", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1989, "model": "B SERIES BUS"}}}

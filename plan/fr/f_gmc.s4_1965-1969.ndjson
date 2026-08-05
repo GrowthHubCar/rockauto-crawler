@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1968,p35/p3500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1968, "model": "P35/P3500 VAN"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1965,pb1500+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1965, "model": "PB1500 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1967,k15/k1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1967, "model": "K15/K1500 SUBURBAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1967,suburban,4.1l+250cid+l6,1340378", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1967, "model": "SUBURBAN"}}}

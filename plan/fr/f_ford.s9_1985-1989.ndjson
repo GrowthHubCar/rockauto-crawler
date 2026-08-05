@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1987,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1987, "model": "L SERIES TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1986,f-800,6.1l+370cid+v8,3296480", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1986, "model": "F-800"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1989,ranger,2.9l+177cid+v6,1137642", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1989, "model": "RANGER"}}}

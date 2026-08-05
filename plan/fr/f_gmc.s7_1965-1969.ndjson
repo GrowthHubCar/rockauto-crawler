@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1965,pb1000+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1965, "model": "PB1000 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1968,k15/k1500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1968, "model": "K15/K1500 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1968,k25/k2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1968, "model": "K25/K2500 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1965,pb1500+series,2.5l+153cid+l4,1437589", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1965, "model": "PB1500 SERIES"}}}

@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/fiat,1976,128", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1976, "model": "128"}}}
-{"node_type": "model", "href": "/en/catalog/fiat,1975,x-1/9", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1975, "model": "X-1/9"}}}
-{"node_type": "model", "href": "/en/catalog/fiat,1978,brava", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1978, "model": "BRAVA"}}}
-{"node_type": "model", "href": "/en/catalog/fiat,1979,brava", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1979, "model": "BRAVA"}}}
-{"node_type": "model", "href": "/en/catalog/fiat,1975,131", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1975, "model": "131"}}}
-{"node_type": "model", "href": "/en/catalog/fiat,1977,131", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1977, "model": "131"}}}
-{"node_type": "model", "href": "/en/catalog/fiat,1978,131", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1978, "model": "131"}}}

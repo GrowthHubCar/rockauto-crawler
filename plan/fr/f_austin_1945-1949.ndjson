@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/austin,1947,a40", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1947, "model": "A40"}}}
-{"node_type": "model", "href": "/en/catalog/austin,1948,a40", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1948, "model": "A40"}}}
-{"node_type": "model", "href": "/en/catalog/austin,1949,a40", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1949, "model": "A40"}}}
-{"node_type": "model", "href": "/en/catalog/austin,1947,a125", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1947, "model": "A125"}}}
-{"node_type": "model", "href": "/en/catalog/austin,1948,a125", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1948, "model": "A125"}}}
-{"node_type": "model", "href": "/en/catalog/austin,1949,a125", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1949, "model": "A125"}}}
-{"node_type": "model", "href": "/en/catalog/austin,1949,a90", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1949, "model": "A90"}}}
-{"node_type": "model", "href": "/en/catalog/austin,1949,a70", "payload": {"nodetype": "model", "ctx": {"make": "AUSTIN", "year": 1949, "model": "A70"}}}

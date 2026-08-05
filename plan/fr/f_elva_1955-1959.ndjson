@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/elva,1958,courier", "payload": {"nodetype": "model", "ctx": {"make": "ELVA", "year": 1958, "model": "COURIER"}}}
-{"node_type": "model", "href": "/en/catalog/elva,1959,courier", "payload": {"nodetype": "model", "ctx": {"make": "ELVA", "year": 1959, "model": "COURIER"}}}
-{"node_type": "model", "href": "/en/catalog/elva,1958,competition", "payload": {"nodetype": "model", "ctx": {"make": "ELVA", "year": 1958, "model": "COMPETITION"}}}
-{"node_type": "model", "href": "/en/catalog/elva,1959,competition", "payload": {"nodetype": "model", "ctx": {"make": "ELVA", "year": 1959, "model": "COMPETITION"}}}

@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/datsun,1970,station+wagon", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1970, "model": "STATION WAGON"}}}
-{"node_type": "model", "href": "/en/catalog/datsun,1972,station+wagon", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1972, "model": "STATION WAGON"}}}
-{"node_type": "model", "href": "/en/catalog/datsun,1970,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1970, "model": "PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/datsun,1972,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1972, "model": "PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/datsun,1973,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1973, "model": "PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/datsun,1974,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1974, "model": "PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/datsun,1970,sedan", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1970, "model": "SEDAN"}}}
-{"node_type": "model", "href": "/en/catalog/datsun,1971,sedan", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1971, "model": "SEDAN"}}}
-{"node_type": "model", "href": "/en/catalog/datsun,1972,sedan", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1972, "model": "SEDAN"}}}

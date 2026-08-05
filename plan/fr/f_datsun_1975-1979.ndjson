@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/datsun,1976,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1976, "model": "PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/datsun,1977,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1977, "model": "PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/datsun,1978,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1978, "model": "PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/datsun,1979,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1979, "model": "PICKUP"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1996,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1996, "model": "SKYLARK"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1995,century,3.1l+v6,1016121", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1995, "model": "CENTURY"}}}

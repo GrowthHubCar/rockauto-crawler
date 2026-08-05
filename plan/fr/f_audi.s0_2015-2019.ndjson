@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2018,tt", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2018, "model": "TT"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2016,r8,4.2l+v8,3353726", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2016, "model": "R8"}}}

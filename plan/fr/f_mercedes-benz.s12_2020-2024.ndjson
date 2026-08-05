@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2022,s450l", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "S450L"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2023,eqs+580", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "EQS 580"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2023,amg+gt+63,4.0l+v8+turbocharged,3454465", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "AMG GT 63"}}}

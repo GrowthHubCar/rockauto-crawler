@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2021,gle63+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2021, "model": "GLE63 AMG"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2022,g63+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "G63 AMG"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2024,cle300,2.0l+l4+turbocharged,3455643", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2024, "model": "CLE300"}}}

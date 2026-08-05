@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1992,k3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1992, "model": "K3500 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1990,p30,3.9l+239cid+l4+diesel+turbocharged,1059410", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1990, "model": "P30"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1993,p30,4.3l+v6,1059555", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1993, "model": "P30"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1990,c2500+pickup,6.2l+379cid+v8+diesel,1032938", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1990, "model": "C2500 PICKUP"}}}

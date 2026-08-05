@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2021,venue", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "VENUE"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,sonata,2.0l+l4+electric/gas,3455298", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "SONATA"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,santa+fe,1.6l+l4+electric/gas+turbocharged,3455818", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "SANTA FE"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,sonata,2.0l+l4+electric/gas,3449989", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "SONATA"}}}

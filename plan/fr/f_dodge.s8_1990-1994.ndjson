@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/dodge,1994,ram+2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1994, "model": "RAM 2500 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1991,ram+50,2.4l+l4,1096488", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1991, "model": "RAM 50"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1991,d250+pickup,5.9l+v8,1086094", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1991, "model": "D250 PICKUP"}}}

@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2005,s600", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2005, "model": "S600"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2007,sprinter+3.5+ton,2.1l+l4+diesel+turbocharged,3018430", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2007, "model": "SPRINTER 3.5 TON"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2006,c230,2.5l+v6,1432266", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2006, "model": "C230"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2009,ml63+amg,6.3l+v8,1443238", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2009, "model": "ML63 AMG"}}}

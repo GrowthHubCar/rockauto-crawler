@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1988,p3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1988, "model": "P3500"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1989,v2500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "V2500 SUBURBAN"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1987,g3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1987, "model": "G3500"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1985,medium+duty+truck,5.7l+350cid+v8,3295550", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1985, "model": "MEDIUM DUTY TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1985,c1500+pickup,5.0l+305cid+v8,1143357", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1985, "model": "C1500 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1985,c1500+pickup,5.7l+350cid+v8,1143379", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1985, "model": "C1500 PICKUP"}}}

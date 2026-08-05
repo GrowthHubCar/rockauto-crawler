@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/cadillac,2023,ct4", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2023, "model": "CT4"}}}
-{"node_type": "carcode", "href": "/en/catalog/cadillac,2024,ct4,3.6l+v6+turbocharged,3454649", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 2024, "model": "CT4"}}}

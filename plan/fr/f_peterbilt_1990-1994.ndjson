@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/peterbilt,1993,200", "payload": {"nodetype": "model", "ctx": {"make": "PETERBILT", "year": 1993, "model": "200"}}}
-{"node_type": "model", "href": "/en/catalog/peterbilt,1991,224", "payload": {"nodetype": "model", "ctx": {"make": "PETERBILT", "year": 1991, "model": "224"}}}
-{"node_type": "model", "href": "/en/catalog/peterbilt,1993,224", "payload": {"nodetype": "model", "ctx": {"make": "PETERBILT", "year": 1993, "model": "224"}}}
-{"node_type": "model", "href": "/en/catalog/peterbilt,1991,265", "payload": {"nodetype": "model", "ctx": {"make": "PETERBILT", "year": 1991, "model": "265"}}}
-{"node_type": "model", "href": "/en/catalog/peterbilt,1993,265", "payload": {"nodetype": "model", "ctx": {"make": "PETERBILT", "year": 1993, "model": "265"}}}
-{"node_type": "model", "href": "/en/catalog/peterbilt,1991,227", "payload": {"nodetype": "model", "ctx": {"make": "PETERBILT", "year": 1991, "model": "227"}}}
-{"node_type": "model", "href": "/en/catalog/peterbilt,1993,227", "payload": {"nodetype": "model", "ctx": {"make": "PETERBILT", "year": 1993, "model": "227"}}}

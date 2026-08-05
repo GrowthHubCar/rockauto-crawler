@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jeep,1961,truck", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1961, "model": "TRUCK"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1964,j-230", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1964, "model": "J-230"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1962,6-226", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1962, "model": "6-226"}}}
-{"node_type": "carcode", "href": "/en/catalog/jeep,1964,wagoneer,3.8l+230cid+l6,1341874", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1964, "model": "WAGONEER"}}}

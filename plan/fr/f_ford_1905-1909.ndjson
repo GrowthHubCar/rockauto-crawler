@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1908,model+t", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1908, "model": "MODEL T"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1909,model+t", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1909, "model": "MODEL T"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1909,model+tt", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1909, "model": "MODEL TT"}}}

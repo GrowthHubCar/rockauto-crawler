@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2024,s580", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2024, "model": "S580"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2024,g550", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2024, "model": "G550"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2022,cls450,3.0l+l6+turbocharged,3450855", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "CLS450"}}}

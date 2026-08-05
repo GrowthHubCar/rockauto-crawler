@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/checker,1964,aerobus", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1964, "model": "AEROBUS"}}}
-{"node_type": "carcode", "href": "/en/catalog/checker,1962,marathon,3.7l+226cid+l6,1439764", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1962, "model": "MARATHON"}}}

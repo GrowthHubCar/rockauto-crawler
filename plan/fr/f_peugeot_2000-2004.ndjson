@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/peugeot,2003,partner", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2003, "model": "PARTNER"}}}
-{"node_type": "model", "href": "/en/catalog/peugeot,2003,406", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2003, "model": "406"}}}
-{"node_type": "model", "href": "/en/catalog/peugeot,2003,206", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2003, "model": "206"}}}
-{"node_type": "model", "href": "/en/catalog/peugeot,2003,607", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2003, "model": "607"}}}

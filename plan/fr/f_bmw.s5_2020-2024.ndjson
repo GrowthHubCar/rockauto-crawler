@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2024,740i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "740I"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2022,ix", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "IX"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2021,x5,4.4l+v8+turbocharged,3446493", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2021, "model": "X5"}}}

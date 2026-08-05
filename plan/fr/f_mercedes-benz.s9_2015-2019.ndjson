@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2015,sl65+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2015, "model": "SL65 AMG"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2017,gls63+amg,5.5l+v8+turbocharged,3428686", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2017, "model": "GLS63 AMG"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2018,g65+amg,6.0l+v12+turbocharged+sohc,3443321", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2018, "model": "G65 AMG"}}}

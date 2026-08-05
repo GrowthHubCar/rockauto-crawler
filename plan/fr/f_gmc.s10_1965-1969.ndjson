@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1966,g1000+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1966, "model": "G1000 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1965,i1000", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1965, "model": "I1000"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1967,g35/g3500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1967, "model": "G35/G3500 VAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1965,3500,5.7l+351cid+v6,1492392", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1965, "model": "3500"}}}

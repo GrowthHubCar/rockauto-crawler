@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1996,s-class", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "S-CLASS"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,e55+amg,5.5l+v8,3446353", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "E55 AMG"}}}

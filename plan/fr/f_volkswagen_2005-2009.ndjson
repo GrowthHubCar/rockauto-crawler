@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2005,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "JETTA"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,pointer,1.8l+l4,951858", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "POINTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2006,touareg,4.2l+v8,1432710", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2006, "model": "TOUAREG"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2008,touareg,4.2l+v8,1440115", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2008, "model": "TOUAREG"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2005,bora,2.5l+l5,3440191", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2005, "model": "BORA"}}}

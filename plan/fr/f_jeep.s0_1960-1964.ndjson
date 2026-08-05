@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jeep,1962,utility+wagon", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1962, "model": "UTILITY WAGON"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1963,j-320", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1963, "model": "J-320"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1961,cj6", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1961, "model": "CJ6"}}}
-{"node_type": "carcode", "href": "/en/catalog/jeep,1964,universal+truck,3.2l+192cid+l4+diesel,1491925", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1964, "model": "UNIVERSAL TRUCK"}}}

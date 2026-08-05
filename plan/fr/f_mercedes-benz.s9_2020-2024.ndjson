@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2021,s580", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2021, "model": "S580"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2022,g550", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "G550"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2020,e200,2.0l+l4+turbocharged,3445706", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2020, "model": "E200"}}}

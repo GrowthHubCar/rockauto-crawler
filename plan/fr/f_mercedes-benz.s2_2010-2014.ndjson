@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2014,sprinter+3500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2014, "model": "SPRINTER 3500"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2013,ml500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2013, "model": "ML500"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2011,gl550", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "GL550"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2010,glk350", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2010, "model": "GLK350"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2011,slk300,3.0l+v6,1447300", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "SLK300"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2010,glk300,3.0l+v6,3015625", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2010, "model": "GLK300"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2014,ml500,4.7l+v8+turbocharged,3307417", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2014, "model": "ML500"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2012,glk300,3.5l+v6,3015323", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2012, "model": "GLK300"}}}

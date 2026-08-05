@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2004,745li", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2004, "model": "745LI"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2001,325xi,2.5l+l6,1419184", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2001, "model": "325XI"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2026,tera", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2026, "model": "TERA"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2025,teramont,2.0l+l4+turbocharged,3458807", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2025, "model": "TERAMONT"}}}

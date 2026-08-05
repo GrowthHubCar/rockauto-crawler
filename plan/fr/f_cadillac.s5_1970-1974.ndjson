@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/cadillac,1973,commercial+chassis", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1973, "model": "COMMERCIAL CHASSIS"}}}
-{"node_type": "carcode", "href": "/en/catalog/cadillac,1970,calais,8.2l+500cid+v8,1495856", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1970, "model": "CALAIS"}}}
-{"node_type": "carcode", "href": "/en/catalog/cadillac,1970,fleetwood,8.2l+500cid+v8,1495862", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1970, "model": "FLEETWOOD"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2023,gla45+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "GLA45 AMG"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2024,eqs+450+", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2024, "model": "EQS 450+"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2022,a220,2.0l+l4+turbocharged,3450844", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "A220"}}}

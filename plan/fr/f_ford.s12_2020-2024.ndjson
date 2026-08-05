@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2020,transit+150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2020, "model": "TRANSIT 150"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2020,gt,3.5l+v6+turbocharged,3444741", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2020, "model": "GT"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2024,transit,2.0l+l4+diesel+turbocharged,3455560", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2024, "model": "TRANSIT"}}}

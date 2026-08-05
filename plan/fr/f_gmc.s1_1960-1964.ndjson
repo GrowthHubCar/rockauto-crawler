@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1962,v3000+forward+control", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1962, "model": "V3000 FORWARD CONTROL"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1963,1000+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1963, "model": "1000 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1963,1500+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1963, "model": "1500 SERIES"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1961,1500+series,4.3l+261cid+l6,1490042", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1961, "model": "1500 SERIES"}}}

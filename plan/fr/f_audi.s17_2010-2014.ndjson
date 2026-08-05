@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2014,rs5", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2014, "model": "RS5"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2014,a7,3.0l+v6+diesel+turbocharged,3305674", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2014, "model": "A7"}}}

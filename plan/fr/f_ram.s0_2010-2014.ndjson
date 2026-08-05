@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ram,2014,5500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2014, "model": "5500"}}}
-{"node_type": "carcode", "href": "/en/catalog/ram,2014,4500,6.4l+v8,3307188", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2014, "model": "4500"}}}

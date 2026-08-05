@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/plymouth,1971,barracuda", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1971, "model": "BARRACUDA"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1970,gtx", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1970, "model": "GTX"}}}

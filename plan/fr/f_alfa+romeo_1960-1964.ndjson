@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1960,giulietta", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1960, "model": "GIULIETTA"}}}
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1962,giulietta", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1962, "model": "GIULIETTA"}}}
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1960,2000", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1960, "model": "2000"}}}
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1962,2000", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1962, "model": "2000"}}}
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1962,giulia+sprint", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1962, "model": "GIULIA SPRINT"}}}
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1962,giulia", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1962, "model": "GIULIA"}}}
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1962,2600", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1962, "model": "2600"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1963,giulia,1.6l+l4,1436127", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1963, "model": "GIULIA"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,1964,giulia,1.6l+l4,1436143", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 1964, "model": "GIULIA"}}}

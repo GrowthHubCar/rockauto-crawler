@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/citroen,1949,2cv", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1949, "model": "2CV"}}}
-{"node_type": "model", "href": "/en/catalog/citroen,1946,11", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1946, "model": "11"}}}
-{"node_type": "model", "href": "/en/catalog/citroen,1947,11", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1947, "model": "11"}}}
-{"node_type": "model", "href": "/en/catalog/citroen,1948,11", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1948, "model": "11"}}}
-{"node_type": "model", "href": "/en/catalog/citroen,1949,11", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1949, "model": "11"}}}
-{"node_type": "model", "href": "/en/catalog/citroen,1948,15", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1948, "model": "15"}}}
-{"node_type": "model", "href": "/en/catalog/citroen,1949,15", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1949, "model": "15"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2021,transit", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2021, "model": "TRANSIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2020,mustang,5.2l+v8+supercharged,3445184", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2020, "model": "MUSTANG"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2024,ranger,2.0l+l4+diesel+turbocharged,3455276", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2024, "model": "RANGER"}}}

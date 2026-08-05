@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/suzuki,1987,forsa", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 1987, "model": "FORSA"}}}
-{"node_type": "model", "href": "/en/catalog/suzuki,1988,forsa", "payload": {"nodetype": "model", "ctx": {"make": "SUZUKI", "year": 1988, "model": "FORSA"}}}
-{"node_type": "carcode", "href": "/en/catalog/suzuki,1985,samurai,1.3l+l4,1271090", "payload": {"nodetype": "carcode", "ctx": {"make": "SUZUKI", "year": 1985, "model": "SAMURAI"}}}

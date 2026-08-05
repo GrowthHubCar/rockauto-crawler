@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/subaru,1978,dl", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1978, "model": "DL"}}}
-{"node_type": "carcode", "href": "/en/catalog/subaru,1977,brat,1.6l+h4,1739", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 1977, "model": "BRAT"}}}

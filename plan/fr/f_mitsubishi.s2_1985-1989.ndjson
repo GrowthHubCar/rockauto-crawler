@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mitsubishi,1985,cordia", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1985, "model": "CORDIA"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1989,galant,2.0l+l4+dohc,1206100", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1989, "model": "GALANT"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1989,sigma,3.0l+v6,1208089", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1989, "model": "SIGMA"}}}

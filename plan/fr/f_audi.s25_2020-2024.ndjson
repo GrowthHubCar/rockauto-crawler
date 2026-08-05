@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2022,r8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2022, "model": "R8"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2023,rs+e-tron+gt", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2023, "model": "RS E-TRON GT"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2020,a8,3.0l+v6+electric/gas+turbocharged,3452709", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "A8"}}}

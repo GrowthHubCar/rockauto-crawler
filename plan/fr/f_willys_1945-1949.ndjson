@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/willys,1948,station+sedan", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1948, "model": "STATION SEDAN"}}}
-{"node_type": "model", "href": "/en/catalog/willys,1949,station+sedan", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1949, "model": "STATION SEDAN"}}}
-{"node_type": "model", "href": "/en/catalog/willys,1946,station+wagon", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1946, "model": "STATION WAGON"}}}
-{"node_type": "model", "href": "/en/catalog/willys,1947,station+wagon", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1947, "model": "STATION WAGON"}}}
-{"node_type": "model", "href": "/en/catalog/willys,1948,station+wagon", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1948, "model": "STATION WAGON"}}}
-{"node_type": "model", "href": "/en/catalog/willys,1949,station+wagon", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1949, "model": "STATION WAGON"}}}
-{"node_type": "model", "href": "/en/catalog/willys,1945,mb", "payload": {"nodetype": "model", "ctx": {"make": "WILLYS", "year": 1945, "model": "MB"}}}

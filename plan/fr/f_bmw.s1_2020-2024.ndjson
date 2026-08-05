@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2022,z4", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "Z4"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2022,745le+xdrive", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "745LE XDRIVE"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2024,x5,4.4l+v8+turbocharged,3454267", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2024, "model": "X5"}}}

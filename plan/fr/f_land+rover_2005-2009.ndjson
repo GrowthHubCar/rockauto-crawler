@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/land+rover,2008,range+rover+sport", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2008, "model": "RANGE ROVER SPORT"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,2005,lr3", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2005, "model": "LR3"}}}
-{"node_type": "model", "href": "/en/catalog/land+rover,2008,lr3", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2008, "model": "LR3"}}}
-{"node_type": "carcode", "href": "/en/catalog/land+rover,2008,range+rover,4.2l+v8+supercharged,1441596", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2008, "model": "RANGE ROVER"}}}
-{"node_type": "carcode", "href": "/en/catalog/land+rover,2008,lr3,4.0l+v6,1442532", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2008, "model": "LR3"}}}
-{"node_type": "carcode", "href": "/en/catalog/land+rover,2008,lr2,3.2l+l6,1439994", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2008, "model": "LR2"}}}

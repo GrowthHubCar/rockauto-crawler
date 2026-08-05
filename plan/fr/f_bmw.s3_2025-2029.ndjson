@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2026,530i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2026, "model": "530I"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2026,ix", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2026, "model": "IX"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2025,x5,3.0l+l6+turbocharged,3455499", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2025, "model": "X5"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2026,x5,4.4l+v8+turbocharged,3458924", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2026, "model": "X5"}}}

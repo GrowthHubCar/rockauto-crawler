@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2015,x3", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2015, "model": "X3"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2016,120i,1.6l+l4+turbocharged,3344109", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2016, "model": "120I"}}}

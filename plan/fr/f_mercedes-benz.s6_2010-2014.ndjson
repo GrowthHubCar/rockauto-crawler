@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2013,sl63+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2013, "model": "SL63 AMG"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2013,ml350", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2013, "model": "ML350"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2011,e250", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "E250"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2013,cls500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2013, "model": "CLS500"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2011,gl450,4.7l+v8,1447293", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "GL450"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2010,slk200,1.8l+l4+supercharged,3015295", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2010, "model": "SLK200"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2014,gla200,1.6l+l4+turbocharged,3310048", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2014, "model": "GLA200"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2013,ml550,4.7l+v8+turbocharged,1505218", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2013, "model": "ML550"}}}

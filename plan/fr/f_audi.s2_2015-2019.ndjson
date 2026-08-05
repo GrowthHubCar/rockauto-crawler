@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2015,a8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2015, "model": "A8"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2015,q5,2.0l+l4+electric/gas+turbocharged,3309687", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2015, "model": "Q5"}}}

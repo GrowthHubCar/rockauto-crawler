@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1993,190e", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1993, "model": "190E"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1993,sl600", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1993, "model": "SL600"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1994,e420,4.2l+v8,1195602", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1994, "model": "E420"}}}

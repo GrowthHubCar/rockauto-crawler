@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2011,genesis", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "GENESIS"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2014,equus,5.0l+v8,3300388", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "EQUUS"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2014,veloster,1.6l+l4+turbocharged,3300440", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "VELOSTER"}}}

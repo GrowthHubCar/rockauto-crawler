@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2011,hhr", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "HHR"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2012,colorado", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "COLORADO"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,2014,trax,1.8l+l4,3307550", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2014, "model": "TRAX"}}}

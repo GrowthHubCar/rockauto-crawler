@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/dodge,1999,caravan", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1999, "model": "CARAVAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1999,ram+2500+pickup,5.9l+l6+diesel+turbocharged,1377569", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1999, "model": "RAM 2500 PICKUP"}}}

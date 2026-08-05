@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1988,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1988, "model": "SKYLARK"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1986,electra,3.8l+231cid+v6,1017289", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1986, "model": "ELECTRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1988,lesabre,3.8l+231cid+v6,1019449", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1988, "model": "LESABRE"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1987,regal,3.8l+231cid+v6,1020968", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1987, "model": "REGAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1988,electra,5.0l+307cid+v8,1017368", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1988, "model": "ELECTRA"}}}

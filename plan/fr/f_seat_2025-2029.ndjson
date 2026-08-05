@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/seat,2025,leon", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2025, "model": "LEON"}}}
-{"node_type": "model", "href": "/en/catalog/seat,2026,leon", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2026, "model": "LEON"}}}
-{"node_type": "model", "href": "/en/catalog/seat,2025,ibiza", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2025, "model": "IBIZA"}}}
-{"node_type": "model", "href": "/en/catalog/seat,2025,ateca", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2025, "model": "ATECA"}}}
-{"node_type": "model", "href": "/en/catalog/seat,2025,arona", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2025, "model": "ARONA"}}}

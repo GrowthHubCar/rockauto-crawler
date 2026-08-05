@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1965,pb2500+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1965, "model": "PB2500 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1966,l3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1966, "model": "L3500"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1967,c15/c1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1967, "model": "C15/C1500 SUBURBAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1967,suburban,5.7l+351cid+v6,1493748", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1967, "model": "SUBURBAN"}}}

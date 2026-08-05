@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1967,p25/p2500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1967, "model": "P25/P2500 VAN"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1966,pb15+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1966, "model": "PB15 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1966,k1000+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1966, "model": "K1000 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1967,suburban,5.0l+305cid+v6,1419465", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1967, "model": "SUBURBAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1968,c25/c2500+suburban,4.1l+250cid+l6,1311313", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1968, "model": "C25/C2500 SUBURBAN"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,2008,yukon+xl+1500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2008, "model": "YUKON XL 1500"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,2008,sierra+2500,6.0l+v8,1441196", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2008, "model": "SIERRA 2500"}}}

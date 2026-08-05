@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2026,taos", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2026, "model": "TAOS"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2026,tiguan,2.0l+l4+turbocharged,3459646", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2026, "model": "TIGUAN"}}}

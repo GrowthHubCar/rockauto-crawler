@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/porsche,2023,panamera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2023, "model": "PANAMERA"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,2023,718,4.0l+h6,3454548", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 2023, "model": "718"}}}

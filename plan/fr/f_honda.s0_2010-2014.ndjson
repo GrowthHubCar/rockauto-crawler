@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/honda,2011,fit", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2011, "model": "FIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/honda,2013,civic,1.5l+l4+electric/gas,3294224", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 2013, "model": "CIVIC"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2012,saveiro", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "SAVEIRO"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2014,passat,2.5l+l5,3307098", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2014, "model": "PASSAT"}}}

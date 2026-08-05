@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1976,sprint", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1976, "model": "SPRINT"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1979,k2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1979, "model": "K2500 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1979,caballero", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1979, "model": "CABALLERO"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1977,k25+suburban,4.8l+292cid+l6,1296367", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1977, "model": "K25 SUBURBAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1976,k15+pickup,5.0l+305cid+v8,1310803", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1976, "model": "K15 PICKUP"}}}

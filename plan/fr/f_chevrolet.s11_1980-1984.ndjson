@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,c10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "C10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,g30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "G30"}}}

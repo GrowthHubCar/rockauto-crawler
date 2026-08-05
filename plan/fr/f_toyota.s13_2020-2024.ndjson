@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2022,avalon", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2022, "model": "AVALON"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2023,corolla+cross", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2023, "model": "COROLLA CROSS"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2021,rav4,2.5l+l4,3447211", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2021, "model": "RAV4"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2024,rav4,2.5l+l4+electric/gas,3455450", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2024, "model": "RAV4"}}}

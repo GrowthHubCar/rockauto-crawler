@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2016,s65+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2016, "model": "S65 AMG"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2018,e250,2.0l+l4+turbocharged,3441681", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2018, "model": "E250"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2016,e350,3.5l+v6,3353604", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2016, "model": "E350"}}}

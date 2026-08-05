@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,1959,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1959, "model": "TRANSPORTER"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1959,beetle", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1959, "model": "BEETLE"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1957,karmann+ghia", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1957, "model": "KARMANN GHIA"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1959,karmann+ghia", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1959, "model": "KARMANN GHIA"}}}

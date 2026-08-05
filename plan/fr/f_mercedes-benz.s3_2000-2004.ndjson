@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2000,sl500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2000, "model": "SL500"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2001,a160,1.6l+l4,3017749", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2001, "model": "A160"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2003,c32+amg,3.2l+v6+supercharged,1416923", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2003, "model": "C32 AMG"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2000,c280,2.8l+v6,1363801", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2000, "model": "C280"}}}

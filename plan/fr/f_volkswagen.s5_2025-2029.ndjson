@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2026,polo", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2026, "model": "POLO"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2026,taos,1.5l+l4+turbocharged,3459205", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2026, "model": "TAOS"}}}

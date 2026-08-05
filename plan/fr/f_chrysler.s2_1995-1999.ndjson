@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chrysler,1998,cirrus", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1998, "model": "CIRRUS"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1996,stratus,2.4l+l4+turbocharged,951298", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1996, "model": "STRATUS"}}}

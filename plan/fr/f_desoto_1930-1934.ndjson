@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/desoto,1930,model+k", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1930, "model": "MODEL K"}}}
-{"node_type": "model", "href": "/en/catalog/desoto,1930,model+ck", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1930, "model": "MODEL CK"}}}
-{"node_type": "model", "href": "/en/catalog/desoto,1931,model+ck", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1931, "model": "MODEL CK"}}}
-{"node_type": "model", "href": "/en/catalog/desoto,1930,model+cf", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1930, "model": "MODEL CF"}}}
-{"node_type": "model", "href": "/en/catalog/desoto,1931,model+cf", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1931, "model": "MODEL CF"}}}
-{"node_type": "model", "href": "/en/catalog/desoto,1932,model+cf", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1932, "model": "MODEL CF"}}}
-{"node_type": "model", "href": "/en/catalog/desoto,1931,model+sa", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1931, "model": "MODEL SA"}}}
-{"node_type": "model", "href": "/en/catalog/desoto,1932,model+sa", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1932, "model": "MODEL SA"}}}
-{"node_type": "model", "href": "/en/catalog/desoto,1932,model+sc", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1932, "model": "MODEL SC"}}}

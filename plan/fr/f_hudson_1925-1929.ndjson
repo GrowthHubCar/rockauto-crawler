@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hudson,1925,super+series", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1925, "model": "SUPER SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/hudson,1926,super+series", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1926, "model": "SUPER SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/hudson,1927,model+s", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1927, "model": "MODEL S"}}}
-{"node_type": "model", "href": "/en/catalog/hudson,1928,model+s", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1928, "model": "MODEL S"}}}
-{"node_type": "model", "href": "/en/catalog/hudson,1927,model+o", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1927, "model": "MODEL O"}}}
-{"node_type": "model", "href": "/en/catalog/hudson,1928,model+o", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1928, "model": "MODEL O"}}}
-{"node_type": "model", "href": "/en/catalog/hudson,1929,model+r", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1929, "model": "MODEL R"}}}
-{"node_type": "model", "href": "/en/catalog/hudson,1929,model+l", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1929, "model": "MODEL L"}}}

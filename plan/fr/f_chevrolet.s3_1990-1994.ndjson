@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1994,tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1994, "model": "TILTMASTER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1990,caprice", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1990, "model": "CAPRICE"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1991,lumina,3.1l+v6,1053874", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1991, "model": "LUMINA"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1992,p30,5.7l+v8,1059522", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1992, "model": "P30"}}}

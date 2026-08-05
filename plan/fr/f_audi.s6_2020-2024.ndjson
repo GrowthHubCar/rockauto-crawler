@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2020,a8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2020, "model": "A8"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2023,q2", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2023, "model": "Q2"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2023,e-tron,electric,3454049", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "E-TRON"}}}

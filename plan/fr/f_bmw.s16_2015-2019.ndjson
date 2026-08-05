@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2016,m4", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2016, "model": "M4"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2018,340i,3.0l+l6+turbocharged,3440232", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2018, "model": "340I"}}}

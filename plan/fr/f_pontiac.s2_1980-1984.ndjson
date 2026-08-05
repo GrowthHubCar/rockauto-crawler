@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/pontiac,1981,laurentian", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1981, "model": "LAURENTIAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1980,parisienne,3.8l+229cid+v6,1259142", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1980, "model": "PARISIENNE"}}}

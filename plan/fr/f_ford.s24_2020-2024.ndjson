@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2021,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2021, "model": "EXPLORER"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2023,lobo,3.5l+v6+turbocharged,3454335", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2023, "model": "LOBO"}}}

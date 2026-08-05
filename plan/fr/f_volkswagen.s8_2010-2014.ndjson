@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2010,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2010, "model": "JETTA"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2014,touareg,4.2l+v8,3307609", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2014, "model": "TOUAREG"}}}

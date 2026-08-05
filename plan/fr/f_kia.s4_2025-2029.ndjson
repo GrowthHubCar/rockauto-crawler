@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/kia,2026,k5", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2026, "model": "K5"}}}
-{"node_type": "carcode", "href": "/en/catalog/kia,2025,sorento,2.5l+l4,3455831", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2025, "model": "SORENTO"}}}
-{"node_type": "carcode", "href": "/en/catalog/kia,2026,sportage,1.6l+l4+electric/gas+turbocharged,3458871", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2026, "model": "SPORTAGE"}}}

@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/plymouth,1930,model+u", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1930, "model": "MODEL U"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1932,model+pa", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1932, "model": "MODEL PA"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1932,model+pb", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1932, "model": "MODEL PB"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1933,pd+deluxe", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1933, "model": "PD DELUXE"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1934,standard+pf+model", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1934, "model": "STANDARD PF MODEL"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1934,pfxx+special", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1934, "model": "PFXX SPECIAL"}}}

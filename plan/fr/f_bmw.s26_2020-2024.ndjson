@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2022,m135i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "M135I"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2023,i7,electric,3454074", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2023, "model": "I7"}}}

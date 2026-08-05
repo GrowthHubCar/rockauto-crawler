@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2013,a8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2013, "model": "A8"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2014,a4,2.0l+l4+turbocharged,3305669", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2014, "model": "A4"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2010,q7,3.0l+v6+diesel+turbocharged,1445614", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2010, "model": "Q7"}}}

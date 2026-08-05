@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2015,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2015, "model": "JETTA"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2015,jetta,2.0l+l4,3308958", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2015, "model": "JETTA"}}}

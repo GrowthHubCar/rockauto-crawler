@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2024,silverado+6500+hd", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "SILVERADO 6500 HD"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2023,express+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "EXPRESS 2500"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2024,aveo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "AVEO"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,2020,silverado+2500,6.6l+v8,3445631", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2020, "model": "SILVERADO 2500"}}}

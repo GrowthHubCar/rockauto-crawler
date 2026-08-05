@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1963,suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1963, "model": "SUBURBAN"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1964,pb1000+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1964, "model": "PB1000 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1964,2500+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1964, "model": "2500 SERIES"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1963,2500+series,3.8l+230cid+l6,1491207", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1963, "model": "2500 SERIES"}}}

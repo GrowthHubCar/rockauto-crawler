@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/porsche,2020,718", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2020, "model": "718"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,2023,718,2.5l+h4+turbocharged,3454547", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 2023, "model": "718"}}}

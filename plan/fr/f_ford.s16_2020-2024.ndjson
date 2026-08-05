@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2021,gt", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2021, "model": "GT"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2022,f-350+super+duty,6.7l+v8+diesel+turbocharged,3449893", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2022, "model": "F-350 SUPER DUTY"}}}

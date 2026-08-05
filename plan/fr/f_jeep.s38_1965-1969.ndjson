@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jeep,1969,j-3500", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1969, "model": "J-3500"}}}
-{"node_type": "carcode", "href": "/en/catalog/jeep,1968,gladiator,5.3l+327cid+v8,1494616", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1968, "model": "GLADIATOR"}}}

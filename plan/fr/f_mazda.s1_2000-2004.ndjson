@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mazda,2003,mpv", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 2003, "model": "MPV"}}}
-{"node_type": "carcode", "href": "/en/catalog/mazda,2004,tribute,3.0l+v6,1434733", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2004, "model": "TRIBUTE"}}}
-{"node_type": "carcode", "href": "/en/catalog/mazda,2000,millenia,2.3l+v6+supercharged,1363755", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2000, "model": "MILLENIA"}}}
-{"node_type": "carcode", "href": "/en/catalog/mazda,2000,626,2.5l+v6,1363700", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2000, "model": "626"}}}

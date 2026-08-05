@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/edsel,1959,villager", "payload": {"nodetype": "model", "ctx": {"make": "EDSEL", "year": 1959, "model": "VILLAGER"}}}
-{"node_type": "model", "href": "/en/catalog/edsel,1958,roundup", "payload": {"nodetype": "model", "ctx": {"make": "EDSEL", "year": 1958, "model": "ROUNDUP"}}}
-{"node_type": "model", "href": "/en/catalog/edsel,1959,ranger", "payload": {"nodetype": "model", "ctx": {"make": "EDSEL", "year": 1959, "model": "RANGER"}}}
-{"node_type": "model", "href": "/en/catalog/edsel,1959,corsair", "payload": {"nodetype": "model", "ctx": {"make": "EDSEL", "year": 1959, "model": "CORSAIR"}}}
-{"node_type": "model", "href": "/en/catalog/edsel,1958,bermuda", "payload": {"nodetype": "model", "ctx": {"make": "EDSEL", "year": 1958, "model": "BERMUDA"}}}

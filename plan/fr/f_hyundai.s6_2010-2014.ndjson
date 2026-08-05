@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2013,accent", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2013, "model": "ACCENT"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2014,santa+fe,2.0l+l4+turbocharged,3300345", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "SANTA FE"}}}

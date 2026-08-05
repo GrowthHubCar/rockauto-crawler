@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1965,220s", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1965, "model": "220S"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1965,600", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1965, "model": "600"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1968,230s", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1968, "model": "230S"}}}

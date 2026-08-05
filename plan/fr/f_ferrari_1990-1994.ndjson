@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ferrari,1990,348", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1990, "model": "348"}}}
-{"node_type": "model", "href": "/en/catalog/ferrari,1991,348", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1991, "model": "348"}}}
-{"node_type": "model", "href": "/en/catalog/ferrari,1992,mondial+t", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1992, "model": "MONDIAL T"}}}
-{"node_type": "model", "href": "/en/catalog/ferrari,1992,512+tr", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1992, "model": "512 TR"}}}
-{"node_type": "carcode", "href": "/en/catalog/ferrari,1993,f40,2.9l+v8+turbocharged,21348", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 1993, "model": "F40"}}}

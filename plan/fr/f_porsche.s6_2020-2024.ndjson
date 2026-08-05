@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/porsche,2022,panamera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2022, "model": "PANAMERA"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,2020,cayenne,4.0l+v8+electric/gas+turbocharged,3445020", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 2020, "model": "CAYENNE"}}}

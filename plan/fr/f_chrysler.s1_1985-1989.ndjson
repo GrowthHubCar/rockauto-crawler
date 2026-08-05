@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chrysler,1987,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1987, "model": "NEW YORKER"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,1985,laser", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1985, "model": "LASER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1989,new+yorker,3.0l+181cid+v6,1065934", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1989, "model": "NEW YORKER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1986,fifth+avenue,5.2l+318cid+v8,1063493", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1986, "model": "FIFTH AVENUE"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1986,laser,2.5l+153cid+l4,1063910", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1986, "model": "LASER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1989,new+yorker,2.2l+135cid+l4+turbocharged,3353501", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1989, "model": "NEW YORKER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1986,lebaron,2.2l+135cid+l4,1064810", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1986, "model": "LEBARON"}}}

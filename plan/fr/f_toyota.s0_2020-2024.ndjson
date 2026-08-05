@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2020,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "LAND CRUISER"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2023,highlander", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2023, "model": "HIGHLANDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2021,sienna,2.5l+l4+electric/gas,3449415", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2021, "model": "SIENNA"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2020,sequoia,5.7l+v8,3445050", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2020, "model": "SEQUOIA"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2024,tacoma,2.4l+l4+electric/gas+turbocharged,3455737", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2024, "model": "TACOMA"}}}

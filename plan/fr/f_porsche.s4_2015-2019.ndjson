@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/porsche,2017,cayenne", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2017, "model": "CAYENNE"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,2015,panamera,3.0l+v6+diesel+turbocharged,3310101", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 2015, "model": "PANAMERA"}}}

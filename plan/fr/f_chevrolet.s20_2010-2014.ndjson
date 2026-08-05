@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2014,malibu", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2014, "model": "MALIBU"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2010,colorado", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "COLORADO"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,2011,suburban+1500,5.3l+v8,3015549", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "SUBURBAN 1500"}}}

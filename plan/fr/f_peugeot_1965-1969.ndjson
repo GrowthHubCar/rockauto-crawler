@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/peugeot,1967,403", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1967, "model": "403"}}}
-{"node_type": "model", "href": "/en/catalog/peugeot,1965,404", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1965, "model": "404"}}}
-{"node_type": "model", "href": "/en/catalog/peugeot,1966,404", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1966, "model": "404"}}}
-{"node_type": "model", "href": "/en/catalog/peugeot,1967,404", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 1967, "model": "404"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1965,404,1.9l+l4+diesel,151356", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1965, "model": "404"}}}
-{"node_type": "carcode", "href": "/en/catalog/peugeot,1969,504,1.8l+l4,1495580", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 1969, "model": "504"}}}

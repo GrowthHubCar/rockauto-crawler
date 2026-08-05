@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/dodge,2000,caravan", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2000, "model": "CARAVAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+2500+pickup,5.9l+l6+diesel+turbocharged,1440064", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 2500 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2003,ram+2500+pickup,5.7l+v8,1413504", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "RAM 2500 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2003,neon,2.0l+l4,1413234", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "NEON"}}}

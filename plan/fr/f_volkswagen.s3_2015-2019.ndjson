@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2019,teramont", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2019, "model": "TERAMONT"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2018,transporter,2.0l+l4+diesel+turbocharged,3441495", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2018, "model": "TRANSPORTER"}}}

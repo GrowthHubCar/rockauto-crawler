@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2020,transit", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2020, "model": "TRANSIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2021,ranger,2.3l+l4+turbocharged,3447362", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2021, "model": "RANGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2021,f-550+super+duty,7.3l+v8,3448464", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2021, "model": "F-550 SUPER DUTY"}}}

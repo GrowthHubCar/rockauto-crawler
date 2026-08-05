@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1965,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1965, "model": "RANCH WAGON"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1968,ltd", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1968, "model": "LTD"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1969,gt40", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1969, "model": "GT40"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1967,bronco", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1967, "model": "BRONCO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1968,ranchero,6.4l+390cid+v8,1127281", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "RANCHERO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1969,f-350,4.9l+300cid+l6,1495114", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "F-350"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1968,torino,7.0l+428cid+v8,1435050", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "TORINO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1968,thunderbird,6.4l+390cid+v8,1139789", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "THUNDERBIRD"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1965,ltd,4.7l+289cid+v8,1435041", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "LTD"}}}

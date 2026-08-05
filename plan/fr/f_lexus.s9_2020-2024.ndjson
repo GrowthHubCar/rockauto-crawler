@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lexus,2020,lc500h", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2020, "model": "LC500H"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2023,lx600", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2023, "model": "LX600"}}}
-{"node_type": "carcode", "href": "/en/catalog/lexus,2022,is300,2.0l+l4+turbocharged,3450809", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2022, "model": "IS300"}}}
-{"node_type": "carcode", "href": "/en/catalog/lexus,2022,lc500,5.0l+v8,3451183", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2022, "model": "LC500"}}}

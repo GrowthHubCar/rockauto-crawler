@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,1961,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1961, "model": "LAND CRUISER"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,1960,crown,1.5l+l4,1489857", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1960, "model": "CROWN"}}}

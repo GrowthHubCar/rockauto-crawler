@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2008,r350", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2008, "model": "R350"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2006,slk55+amg,5.5l+v8,1432297", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2006, "model": "SLK55 AMG"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2006,s65+amg,6.0l+v12+turbocharged,1431849", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2006, "model": "S65 AMG"}}}

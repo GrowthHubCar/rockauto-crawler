@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/dodge,1999,ram+3500+van", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1999, "model": "RAM 3500 VAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1998,intrepid,2.7l+v6,1314513", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1998, "model": "INTREPID"}}}

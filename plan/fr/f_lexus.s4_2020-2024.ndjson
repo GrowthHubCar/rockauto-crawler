@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lexus,2020,lx570", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2020, "model": "LX570"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2021,rc300", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2021, "model": "RC300"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2024,tx550h+", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2024, "model": "TX550H+"}}}
-{"node_type": "carcode", "href": "/en/catalog/lexus,2020,nx300,2.0l+l4+turbocharged,3444919", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2020, "model": "NX300"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bentley,1960,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1960, "model": "CONTINENTAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/bentley,1964,continental,6.2l+v8,1436575", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 1964, "model": "CONTINENTAL"}}}

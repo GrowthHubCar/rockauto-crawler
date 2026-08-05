@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2024,g500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2024, "model": "G500"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2020,maybach+s650", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2020, "model": "MAYBACH S650"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2023,sprinter+2500,2.0l+l4+diesel+turbocharged,3454509", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "SPRINTER 2500"}}}

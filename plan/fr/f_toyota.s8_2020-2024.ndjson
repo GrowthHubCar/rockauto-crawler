@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2020,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "4RUNNER"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2024,avanza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2024, "model": "AVANZA"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2024,rav4,2.5l+l4,3455449", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2024, "model": "RAV4"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2023,sienna,2.5l+l4+electric/gas,3451308", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2023, "model": "SIENNA"}}}

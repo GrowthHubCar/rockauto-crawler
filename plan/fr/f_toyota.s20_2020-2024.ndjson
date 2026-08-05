@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2020,hilux", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "HILUX"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2023,prius,2.0l+l4+electric/gas,3454593", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2023, "model": "PRIUS"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2021,rav4,2.5l+l4+electric/gas,3447210", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2021, "model": "RAV4"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2021,supra,3.0l+l6+turbocharged,3449417", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2021, "model": "SUPRA"}}}

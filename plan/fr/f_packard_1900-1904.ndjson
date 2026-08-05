@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/packard,1900,model+b", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1900, "model": "MODEL B"}}}
-{"node_type": "model", "href": "/en/catalog/packard,1901,model+c", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1901, "model": "MODEL C"}}}
-{"node_type": "model", "href": "/en/catalog/packard,1902,model+g", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1902, "model": "MODEL G"}}}
-{"node_type": "model", "href": "/en/catalog/packard,1902,model+f", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1902, "model": "MODEL F"}}}
-{"node_type": "model", "href": "/en/catalog/packard,1903,model+f", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1903, "model": "MODEL F"}}}
-{"node_type": "model", "href": "/en/catalog/packard,1903,model+k", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1903, "model": "MODEL K"}}}
-{"node_type": "model", "href": "/en/catalog/packard,1904,model+m", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1904, "model": "MODEL M"}}}
-{"node_type": "model", "href": "/en/catalog/packard,1904,model+l", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1904, "model": "MODEL L"}}}

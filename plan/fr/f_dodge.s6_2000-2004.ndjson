@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/dodge,2003,intrepid", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2003, "model": "INTREPID"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2000,ram+2500+pickup,5.9l+v8,1362013", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "RAM 2500 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2001,ram+2500+pickup,5.9l+v8,1366624", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "RAM 2500 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2000,ram+2500+pickup,5.9l+l6+diesel+turbocharged,1361999", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "RAM 2500 PICKUP"}}}

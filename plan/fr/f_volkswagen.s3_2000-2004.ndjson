@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2000,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2000, "model": "GOLF"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2004,jetta,2.8l+v6,1431722", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2004, "model": "JETTA"}}}

@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1963,sprint", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1963, "model": "SPRINT"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1960,courier+sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1960, "model": "COURIER SEDAN DELIVERY"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1960,galaxie,4.8l+292cid+v8,1336520", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1960, "model": "GALAXIE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1963,victoria,3.3l+200cid+l6,1335169", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1963, "model": "VICTORIA"}}}

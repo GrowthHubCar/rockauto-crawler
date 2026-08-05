@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lexus,2021,is350", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2021, "model": "IS350"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2024,nx350", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2024, "model": "NX350"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2021,is300", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2021, "model": "IS300"}}}
-{"node_type": "carcode", "href": "/en/catalog/lexus,2021,lx570,5.7l+v8,3447083", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2021, "model": "LX570"}}}

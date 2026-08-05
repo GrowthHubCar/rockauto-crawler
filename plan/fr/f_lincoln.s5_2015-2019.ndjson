@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lincoln,2015,mks", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2015, "model": "MKS"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,2017,mkt,3.7l+v6,3436907", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2017, "model": "MKT"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,2016,mkc,2.3l+l4+turbocharged,3333682", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2016, "model": "MKC"}}}

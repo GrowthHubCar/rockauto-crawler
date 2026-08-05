@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2023,mirai", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2023, "model": "MIRAI"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2021,hiace,3.5l+v6,3449410", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2021, "model": "HIACE"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2023,yaris,1.6l+l3+turbocharged,3454000", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2023, "model": "YARIS"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2023,sequoia,3.4l+v6+electric/gas+turbocharged,3454934", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2023, "model": "SEQUOIA"}}}

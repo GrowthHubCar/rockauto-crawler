@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lincoln,2000,ls", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2000, "model": "LS"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,2000,continental,4.6l+v8,1363610", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2000, "model": "CONTINENTAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,2000,ls,3.9l+v8,1363632", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2000, "model": "LS"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,2004,ls,3.0l+v6,1426126", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2004, "model": "LS"}}}

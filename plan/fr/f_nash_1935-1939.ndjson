@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/nash,1935,advanced", "payload": {"nodetype": "model", "ctx": {"make": "NASH", "year": 1935, "model": "ADVANCED"}}}
-{"node_type": "model", "href": "/en/catalog/nash,1938,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "NASH", "year": 1938, "model": "DELUXE"}}}
-{"node_type": "model", "href": "/en/catalog/nash,1935,ambassador", "payload": {"nodetype": "model", "ctx": {"make": "NASH", "year": 1935, "model": "AMBASSADOR"}}}
-{"node_type": "model", "href": "/en/catalog/nash,1937,ambassador", "payload": {"nodetype": "model", "ctx": {"make": "NASH", "year": 1937, "model": "AMBASSADOR"}}}
-{"node_type": "model", "href": "/en/catalog/nash,1938,ambassador", "payload": {"nodetype": "model", "ctx": {"make": "NASH", "year": 1938, "model": "AMBASSADOR"}}}
-{"node_type": "model", "href": "/en/catalog/nash,1939,ambassador", "payload": {"nodetype": "model", "ctx": {"make": "NASH", "year": 1939, "model": "AMBASSADOR"}}}
-{"node_type": "model", "href": "/en/catalog/nash,1936,400+series", "payload": {"nodetype": "model", "ctx": {"make": "NASH", "year": 1936, "model": "400 SERIES"}}}
-{"node_type": "carcode", "href": "/en/catalog/nash,1936,ambassador,4.3l+261cid+l8,1485735", "payload": {"nodetype": "carcode", "ctx": {"make": "NASH", "year": 1936, "model": "AMBASSADOR"}}}

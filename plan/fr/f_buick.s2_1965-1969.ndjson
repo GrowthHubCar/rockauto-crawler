@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1967,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1967, "model": "SKYLARK"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1966,wildcat", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1966, "model": "WILDCAT"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1968,gs+350", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1968, "model": "GS 350"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1966,skylark,6.6l+400cid+v8,1492832", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1966, "model": "SKYLARK"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1966,electra,6.6l+401cid+v8,1319149", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1966, "model": "ELECTRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1966,riviera,7.0l+425cid+v8,1319183", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1966, "model": "RIVIERA"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1965,riviera,7.0l+425cid+v8,1319330", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1965, "model": "RIVIERA"}}}

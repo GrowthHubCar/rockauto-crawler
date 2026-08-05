@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1958,roadmaster", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1958, "model": "ROADMASTER"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1959,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1959, "model": "LESABRE"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1959,invicta", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1959, "model": "INVICTA"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1959,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1959, "model": "ESTATE WAGON"}}}

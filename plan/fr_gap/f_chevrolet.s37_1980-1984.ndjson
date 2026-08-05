@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,chevette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "CHEVETTE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,luv", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "LUV"}}}

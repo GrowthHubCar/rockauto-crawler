@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2026,f-450+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2026, "model": "F-450 SUPER DUTY"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2026,bronco,3.0l+v6+turbocharged,3459712", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "BRONCO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2026,ranger,2.3l+l4+turbocharged,3458538", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "RANGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2025,f-150,electric,3458520", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "F-150"}}}

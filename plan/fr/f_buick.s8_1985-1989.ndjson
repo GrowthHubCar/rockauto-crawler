@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1987,estate+wagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1987, "model": "ESTATE WAGON"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1987,electra,5.0l+307cid+v8,1017324", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1987, "model": "ELECTRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1987,regal,5.0l+305cid+v8,1021015", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1987, "model": "REGAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1985,regal,3.8l+231cid+v6,1020834", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1985, "model": "REGAL"}}}

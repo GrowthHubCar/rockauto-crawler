@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/kia,2023,soul", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2023, "model": "SOUL"}}}
-{"node_type": "carcode", "href": "/en/catalog/kia,2023,rio,1.6l+l4,3453658", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2023, "model": "RIO"}}}

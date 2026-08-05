@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/dodge,1994,ramcharger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1994, "model": "RAMCHARGER"}}}
-{"node_type": "model", "href": "/en/catalog/dodge,1993,d250+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1993, "model": "D250 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1994,ram+1500+pickup,5.9l+v8,1095623", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1994, "model": "RAM 1500 PICKUP"}}}

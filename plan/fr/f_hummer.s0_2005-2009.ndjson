@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hummer,2008,h3", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 2008, "model": "H3"}}}
-{"node_type": "model", "href": "/en/catalog/hummer,2008,h2", "payload": {"nodetype": "model", "ctx": {"make": "HUMMER", "year": 2008, "model": "H2"}}}
-{"node_type": "carcode", "href": "/en/catalog/hummer,2009,h3t,3.7l+l5,1443937", "payload": {"nodetype": "carcode", "ctx": {"make": "HUMMER", "year": 2009, "model": "H3T"}}}

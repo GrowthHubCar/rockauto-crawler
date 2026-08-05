@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ram,2020,5500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2020, "model": "5500"}}}
-{"node_type": "model", "href": "/en/catalog/ram,2024,4500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2024, "model": "4500"}}}
-{"node_type": "model", "href": "/en/catalog/ram,2024,2500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2024, "model": "2500"}}}
-{"node_type": "carcode", "href": "/en/catalog/ram,2023,4500,6.7l+l6+diesel+turbocharged,3454556", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2023, "model": "4500"}}}
-{"node_type": "carcode", "href": "/en/catalog/ram,2023,2500,6.4l+v8,3453744", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2023, "model": "2500"}}}

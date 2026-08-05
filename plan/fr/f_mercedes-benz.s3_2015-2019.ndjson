@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2015,sl63+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2015, "model": "SL63 AMG"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2019,glc350", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2019, "model": "GLC350"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2018,g550,4.0l+v8+turbocharged,3440107", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2018, "model": "G550"}}}

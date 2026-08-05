@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1977,ltd", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1977, "model": "LTD"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1977,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1977, "model": "F-150"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1976,f-350,4.9l+300cid+l6,1125683", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1976, "model": "F-350"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1976,maverick,5.0l+302cid+v8,1132276", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1976, "model": "MAVERICK"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1979,f-350,7.5l+460cid+v8,1125975", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1979, "model": "F-350"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1978,mustang+ii,2.3l+140cid+l4,1134795", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1978, "model": "MUSTANG II"}}}

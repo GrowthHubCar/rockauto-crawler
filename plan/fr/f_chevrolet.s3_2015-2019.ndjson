@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2016,silverado+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2016, "model": "SILVERADO 2500"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,ss,6.2l+v8,3308865", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "SS"}}}

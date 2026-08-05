@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/ford,1982,courier", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1982, "model": "COURIER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1983,f+250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1983, "model": "F-250"}}}

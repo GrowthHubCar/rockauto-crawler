@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2019,740e", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2019, "model": "740E"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2015,activehybrid+5,3.0l+l6+electric/gas+turbocharged,3307747", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2015, "model": "ACTIVEHYBRID 5"}}}

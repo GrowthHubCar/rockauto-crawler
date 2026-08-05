@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/simca,1946,series+5", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1946, "model": "SERIES 5"}}}
-{"node_type": "model", "href": "/en/catalog/simca,1947,series+5", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1947, "model": "SERIES 5"}}}
-{"node_type": "model", "href": "/en/catalog/simca,1948,series+5", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1948, "model": "SERIES 5"}}}
-{"node_type": "model", "href": "/en/catalog/simca,1949,series+5", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1949, "model": "SERIES 5"}}}
-{"node_type": "model", "href": "/en/catalog/simca,1948,series+6", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1948, "model": "SERIES 6"}}}
-{"node_type": "model", "href": "/en/catalog/simca,1949,series+6", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1949, "model": "SERIES 6"}}}
-{"node_type": "model", "href": "/en/catalog/simca,1948,1100", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1948, "model": "1100"}}}
-{"node_type": "model", "href": "/en/catalog/simca,1949,1100", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1949, "model": "1100"}}}
-{"node_type": "model", "href": "/en/catalog/simca,1949,1200", "payload": {"nodetype": "model", "ctx": {"make": "SIMCA", "year": 1949, "model": "1200"}}}

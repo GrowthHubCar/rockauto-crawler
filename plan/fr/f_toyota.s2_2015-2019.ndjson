@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2016,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2016, "model": "COROLLA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2015,avalon", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2015, "model": "AVALON"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2018,prius", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2018, "model": "PRIUS"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2015,hiace", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2015, "model": "HIACE"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2018,c-hr", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2018, "model": "C-HR"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2019,highlander,3.5l+v6,3443371", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2019, "model": "HIGHLANDER"}}}

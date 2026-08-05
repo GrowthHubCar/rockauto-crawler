@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/porsche,2016,cayenne", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2016, "model": "CAYENNE"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,2015,cayman,3.4l+h6,3308929", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 2015, "model": "CAYMAN"}}}

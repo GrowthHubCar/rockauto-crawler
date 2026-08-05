@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/triumph,1970,herald", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1970, "model": "HERALD"}}}
-{"node_type": "model", "href": "/en/catalog/triumph,1972,spitfire", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1972, "model": "SPITFIRE"}}}
-{"node_type": "model", "href": "/en/catalog/triumph,1974,spitfire", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1974, "model": "SPITFIRE"}}}
-{"node_type": "model", "href": "/en/catalog/triumph,1970,gt6", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1970, "model": "GT6"}}}
-{"node_type": "model", "href": "/en/catalog/triumph,1972,gt6", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1972, "model": "GT6"}}}
-{"node_type": "model", "href": "/en/catalog/triumph,1973,gt6", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1973, "model": "GT6"}}}
-{"node_type": "model", "href": "/en/catalog/triumph,1971,tr6", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1971, "model": "TR6"}}}
-{"node_type": "model", "href": "/en/catalog/triumph,1972,stag", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1972, "model": "STAG"}}}
-{"node_type": "model", "href": "/en/catalog/triumph,1973,stag", "payload": {"nodetype": "model", "ctx": {"make": "TRIUMPH", "year": 1973, "model": "STAG"}}}

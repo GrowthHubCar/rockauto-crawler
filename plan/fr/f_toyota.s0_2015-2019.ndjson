@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2016,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2016, "model": "LAND CRUISER"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2019,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2019, "model": "4RUNNER"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2016,sequoia", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2016, "model": "SEQUOIA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2018,highlander", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2018, "model": "HIGHLANDER"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2016,prius+v", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2016, "model": "PRIUS V"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2019,hilux,2.7l+l4,3443903", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2019, "model": "HILUX"}}}

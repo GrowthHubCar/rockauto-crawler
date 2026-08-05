@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2013,avalon", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2013, "model": "AVALON"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2010,matrix,2.4l+l4,1444180", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2010, "model": "MATRIX"}}}

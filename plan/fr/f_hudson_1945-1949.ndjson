@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hudson,1947,super+series", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1947, "model": "SUPER SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/hudson,1948,super+series", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1948, "model": "SUPER SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/hudson,1949,super+series", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1949, "model": "SUPER SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/hudson,1947,commodore+series", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1947, "model": "COMMODORE SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/hudson,1948,commodore+series", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1948, "model": "COMMODORE SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/hudson,1949,commodore+series", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1949, "model": "COMMODORE SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/hudson,1946,pickup", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1946, "model": "PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/hudson,1947,pickup", "payload": {"nodetype": "model", "ctx": {"make": "HUDSON", "year": 1947, "model": "PICKUP"}}}

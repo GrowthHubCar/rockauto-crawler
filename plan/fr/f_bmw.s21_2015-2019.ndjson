@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2019,m850i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2019, "model": "M850I"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2018,x5,3.0l+l6+diesel+turbocharged,3440258", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2018, "model": "X5"}}}

@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/dodge,2000,ram+4000", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2000, "model": "RAM 4000"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2004,durango,3.7l+v6,1429231", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "DURANGO"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2004,atos,1000cc+l4,951318", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "ATOS"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2000,stratus,2.0l+l4,1362125", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "STRATUS"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2001,ram+2500+pickup,8.0l+v10,1366613", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "RAM 2500 PICKUP"}}}

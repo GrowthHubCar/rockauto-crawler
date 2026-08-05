@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/fiat,2015,uno", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2015, "model": "UNO"}}}
-{"node_type": "carcode", "href": "/en/catalog/fiat,2017,500,1.4l+l4,3434441", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2017, "model": "500"}}}

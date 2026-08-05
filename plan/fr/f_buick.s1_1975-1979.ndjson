@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1979,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1979, "model": "SKYLARK"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1978,regal,3.2l+196cid+v6,1019999", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1978, "model": "REGAL"}}}

@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/marauder,1950,model+a", "payload": {"nodetype": "model", "ctx": {"make": "MARAUDER", "year": 1950, "model": "MODEL A"}}}
-{"node_type": "model", "href": "/en/catalog/marauder,1951,model+a", "payload": {"nodetype": "model", "ctx": {"make": "MARAUDER", "year": 1951, "model": "MODEL A"}}}
-{"node_type": "model", "href": "/en/catalog/marauder,1952,model+a", "payload": {"nodetype": "model", "ctx": {"make": "MARAUDER", "year": 1952, "model": "MODEL A"}}}
-{"node_type": "model", "href": "/en/catalog/marauder,1950,model+100", "payload": {"nodetype": "model", "ctx": {"make": "MARAUDER", "year": 1950, "model": "MODEL 100"}}}
-{"node_type": "model", "href": "/en/catalog/marauder,1951,model+100", "payload": {"nodetype": "model", "ctx": {"make": "MARAUDER", "year": 1951, "model": "MODEL 100"}}}
-{"node_type": "model", "href": "/en/catalog/marauder,1952,model+100", "payload": {"nodetype": "model", "ctx": {"make": "MARAUDER", "year": 1952, "model": "MODEL 100"}}}

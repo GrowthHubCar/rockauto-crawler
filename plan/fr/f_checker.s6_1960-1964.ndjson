@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/checker,1963,aerobus", "payload": {"nodetype": "model", "ctx": {"make": "CHECKER", "year": 1963, "model": "AEROBUS"}}}
-{"node_type": "carcode", "href": "/en/catalog/checker,1960,taxicab,3.7l+226cid+l6,1489466", "payload": {"nodetype": "carcode", "ctx": {"make": "CHECKER", "year": 1960, "model": "TAXICAB"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/nissan,2026,pathfinder", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2026, "model": "PATHFINDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,2026,rogue,1.5l+l3+turbocharged,3459497", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2026, "model": "ROGUE"}}}

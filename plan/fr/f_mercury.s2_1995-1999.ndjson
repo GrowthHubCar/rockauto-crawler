@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercury,1999,cougar", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1999, "model": "COUGAR"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1997,mountaineer,5.0l+v8,1203231", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1997, "model": "MOUNTAINEER"}}}

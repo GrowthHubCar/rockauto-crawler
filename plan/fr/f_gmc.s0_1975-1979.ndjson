@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1976,p25/p2500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1976, "model": "P25/P2500 VAN"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1978,p35", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1978, "model": "P35"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1978,k25+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1978, "model": "K25 SUBURBAN"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1977,c25+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1977, "model": "C25 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1978,k35+pickup,5.7l+350cid+v8,1160806", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1978, "model": "K35 PICKUP"}}}

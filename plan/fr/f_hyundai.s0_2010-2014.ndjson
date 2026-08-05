@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2014,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "SONATA"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2011,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "ELANTRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2011,genesis,4.6l+v8,1447116", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "GENESIS"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2022,g500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "G500"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2022,gle53+amg+suv", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "GLE53 AMG SUV"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2020,amg+gt+c,4.0l+v8+turbocharged,3444952", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2020, "model": "AMG GT C"}}}

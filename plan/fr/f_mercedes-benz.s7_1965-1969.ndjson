@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1965,190c", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1965, "model": "190C"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1969,280se", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1969, "model": "280SE"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1968,250sec", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1968, "model": "250SEC"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/saturn,1996,sl+sedan", "payload": {"nodetype": "model", "ctx": {"make": "SATURN", "year": 1996, "model": "SL SEDAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/saturn,1999,sw+wagon,1.9l+l4+sohc,1357297", "payload": {"nodetype": "carcode", "ctx": {"make": "SATURN", "year": 1999, "model": "SW WAGON"}}}

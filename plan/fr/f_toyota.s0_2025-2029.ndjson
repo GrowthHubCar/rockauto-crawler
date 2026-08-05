@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2026,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2026, "model": "COROLLA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2026,hilux", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2026, "model": "HILUX"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2026,4runner,2.4l+l4+turbocharged,3458896", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2026, "model": "4RUNNER"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2026,yaris,1.5l+l4,3459777", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2026, "model": "YARIS"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2025,tundra,3.4l+v6+turbocharged,3458267", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2025, "model": "TUNDRA"}}}

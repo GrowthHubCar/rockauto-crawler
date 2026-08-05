@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/citroen,1972,ds21+pallas", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1972, "model": "DS21 PALLAS"}}}
-{"node_type": "model", "href": "/en/catalog/citroen,1972,ds21", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1972, "model": "DS21"}}}
-{"node_type": "model", "href": "/en/catalog/citroen,1971,d21", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1971, "model": "D21"}}}
-{"node_type": "model", "href": "/en/catalog/citroen,1972,d21", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1972, "model": "D21"}}}
-{"node_type": "model", "href": "/en/catalog/citroen,1970,d+special", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1970, "model": "D SPECIAL"}}}
-{"node_type": "model", "href": "/en/catalog/citroen,1971,d+special", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1971, "model": "D SPECIAL"}}}
-{"node_type": "model", "href": "/en/catalog/citroen,1972,d+special", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1972, "model": "D SPECIAL"}}}
-{"node_type": "model", "href": "/en/catalog/citroen,1972,sm", "payload": {"nodetype": "model", "ctx": {"make": "CITROEN", "year": 1972, "model": "SM"}}}

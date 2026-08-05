@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,cl600", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "CL600"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1995,e320,3.2l+l6,1195578", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1995, "model": "E320"}}}

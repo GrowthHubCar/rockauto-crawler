@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,camaro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "CAMARO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,k20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "K20 PICKUP"}}}

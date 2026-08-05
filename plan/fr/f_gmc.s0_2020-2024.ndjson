@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,2021,terrain", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2021, "model": "TERRAIN"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,2021,sierra+1500,3.0l+l6+diesel+turbocharged,3446623", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2021, "model": "SIERRA 1500"}}}

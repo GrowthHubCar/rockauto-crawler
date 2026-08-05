@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,1993,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1993, "model": "TRANSPORTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,1994,cabrio,2.0l+l4,3328888", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1994, "model": "CABRIO"}}}

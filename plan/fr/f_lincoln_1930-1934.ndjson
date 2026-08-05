@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lincoln,1930,model+l", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1930, "model": "MODEL L"}}}
-{"node_type": "model", "href": "/en/catalog/lincoln,1931,model+k", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1931, "model": "MODEL K"}}}
-{"node_type": "model", "href": "/en/catalog/lincoln,1932,model+kb", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1932, "model": "MODEL KB"}}}
-{"node_type": "model", "href": "/en/catalog/lincoln,1933,model+kb", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1933, "model": "MODEL KB"}}}
-{"node_type": "model", "href": "/en/catalog/lincoln,1932,model+ka", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1932, "model": "MODEL KA"}}}
-{"node_type": "model", "href": "/en/catalog/lincoln,1933,model+ka", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1933, "model": "MODEL KA"}}}

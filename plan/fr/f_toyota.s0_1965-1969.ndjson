@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,1966,land+cruiser", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1966, "model": "LAND CRUISER"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,1965,land+cruiser,3.9l+l6,1440436", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1965, "model": "LAND CRUISER"}}}

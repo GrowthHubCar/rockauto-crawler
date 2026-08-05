@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1966,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1966, "model": "THUNDERBIRD"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1965,ltd", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1965, "model": "LTD"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1968,gt40", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1968, "model": "GT40"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1969,country+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1969, "model": "COUNTRY SEDAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1965,p-350,3.6l+220cid+l4+diesel,1492366", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "P-350"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1965,mustang,4.7l+289cid+v8,1333381", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "MUSTANG"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1965,ltd,5.8l+352cid+v8,1440943", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "LTD"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1969,ranch+wagon,5.8l+351cid+v8,1137002", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "RANCH WAGON"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1966,fairlane,5.8l+352cid+v8,1492972", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "FAIRLANE"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chrysler,1967,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1967, "model": "TOWN & COUNTRY"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,1969,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1969, "model": "NEW YORKER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1967,new+yorker,7.2l+440cid+v8,1327104", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1967, "model": "NEW YORKER"}}}

@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hupmobile,1925,series+r", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1925, "model": "SERIES R"}}}
-{"node_type": "model", "href": "/en/catalog/hupmobile,1925,series+e", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1925, "model": "SERIES E"}}}
-{"node_type": "model", "href": "/en/catalog/hupmobile,1926,series+e", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1926, "model": "SERIES E"}}}
-{"node_type": "model", "href": "/en/catalog/hupmobile,1926,series+a", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1926, "model": "SERIES A"}}}
-{"node_type": "model", "href": "/en/catalog/hupmobile,1927,series+a", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1927, "model": "SERIES A"}}}
-{"node_type": "model", "href": "/en/catalog/hupmobile,1929,series+a", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1929, "model": "SERIES A"}}}
-{"node_type": "model", "href": "/en/catalog/hupmobile,1927,series+e-3", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1927, "model": "SERIES E-3"}}}
-{"node_type": "model", "href": "/en/catalog/hupmobile,1928,century", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1928, "model": "CENTURY"}}}
-{"node_type": "model", "href": "/en/catalog/hupmobile,1929,series+m", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1929, "model": "SERIES M"}}}

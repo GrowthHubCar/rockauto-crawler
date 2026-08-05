@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/international,1963,ab120", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 1963, "model": "AB120"}}}
-{"node_type": "model", "href": "/en/catalog/international,1961,c132", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 1961, "model": "C132"}}}
-{"node_type": "model", "href": "/en/catalog/international,1962,am120", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 1962, "model": "AM120"}}}
-{"node_type": "model", "href": "/en/catalog/international,1963,am150", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 1963, "model": "AM150"}}}
-{"node_type": "carcode", "href": "/en/catalog/international,1962,c120,4.3l+266cid+v8,1441374", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 1962, "model": "C120"}}}

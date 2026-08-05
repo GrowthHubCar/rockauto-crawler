@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/peterbilt,1965,282", "payload": {"nodetype": "model", "ctx": {"make": "PETERBILT", "year": 1965, "model": "282"}}}
-{"node_type": "model", "href": "/en/catalog/peterbilt,1966,282", "payload": {"nodetype": "model", "ctx": {"make": "PETERBILT", "year": 1966, "model": "282"}}}
-{"node_type": "model", "href": "/en/catalog/peterbilt,1967,282", "payload": {"nodetype": "model", "ctx": {"make": "PETERBILT", "year": 1967, "model": "282"}}}
-{"node_type": "model", "href": "/en/catalog/peterbilt,1968,282", "payload": {"nodetype": "model", "ctx": {"make": "PETERBILT", "year": 1968, "model": "282"}}}
-{"node_type": "model", "href": "/en/catalog/peterbilt,1969,282", "payload": {"nodetype": "model", "ctx": {"make": "PETERBILT", "year": 1969, "model": "282"}}}
-{"node_type": "carcode", "href": "/en/catalog/peterbilt,1965,282,14.0l+l6+diesel+turbocharged,3305619", "payload": {"nodetype": "carcode", "ctx": {"make": "PETERBILT", "year": 1965, "model": "282"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2026,m235i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2026, "model": "M235I"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2025,x3,3.0l+l6+turbocharged,3457777", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2025, "model": "X3"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2026,218i+gran+coupe,1.5l+l3+turbocharged,3459270", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2026, "model": "218I GRAN COUPE"}}}

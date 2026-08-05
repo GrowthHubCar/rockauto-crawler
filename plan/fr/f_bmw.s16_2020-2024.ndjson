@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2022,x6", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "X6"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2022,128ti", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "128TI"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2023,x6,4.4l+v8+turbocharged,3452733", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2023, "model": "X6"}}}

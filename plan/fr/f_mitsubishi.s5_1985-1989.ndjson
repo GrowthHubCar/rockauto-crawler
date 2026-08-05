@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mitsubishi,1985,mirage", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1985, "model": "MIRAGE"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1987,mirage,1.8l+l4,914798", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1987, "model": "MIRAGE"}}}

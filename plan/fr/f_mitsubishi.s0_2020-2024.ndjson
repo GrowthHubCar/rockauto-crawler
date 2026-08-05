@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2022,outlander", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2022, "model": "OUTLANDER"}}}
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2022,outlander+sport", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2022, "model": "OUTLANDER SPORT"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2023,montero+sport,3.0l+v6,3454900", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2023, "model": "MONTERO SPORT"}}}

@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2016,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2016, "model": "CAMRY"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2017,avalon", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2017, "model": "AVALON"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2018,mirai", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2018, "model": "MIRAI"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2018,hiace", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2018, "model": "HIACE"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2017,86", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2017, "model": "86"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2019,prius+prime,1.8l+l4+electric/gas,3452615", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2019, "model": "PRIUS PRIME"}}}

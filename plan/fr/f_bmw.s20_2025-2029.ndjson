@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2026,m850i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2026, "model": "M850I"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2025,m440i,3.0l+l6+turbocharged,3457770", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2025, "model": "M440I"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2026,430i,2.0l+l4+turbocharged,3458914", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2026, "model": "430I"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lincoln,2017,mkx", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2017, "model": "MKX"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,2015,mkc,2.0l+l4+turbocharged,3307649", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2015, "model": "MKC"}}}
-{"node_type": "carcode", "href": "/en/catalog/lincoln,2017,continental,3.0l+v6+turbocharged,3435293", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2017, "model": "CONTINENTAL"}}}

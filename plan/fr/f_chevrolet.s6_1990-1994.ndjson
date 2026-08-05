@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1991,s10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1991, "model": "S10 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1990,c3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1990, "model": "C3500 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1992,p30,7.4l+v8,1059544", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1992, "model": "P30"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1991,s10+pickup,4.3l+v6,1060928", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1991, "model": "S10 PICKUP"}}}

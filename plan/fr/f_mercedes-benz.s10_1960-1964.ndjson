@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1963,220se", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1963, "model": "220SE"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1960,300se,3.0l+l6,1343281", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1960, "model": "300SE"}}}

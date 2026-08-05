@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lexus,2018,gs+f", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2018, "model": "GS F"}}}
-{"node_type": "carcode", "href": "/en/catalog/lexus,2015,ct200h,1.8l+l4+electric/gas,3310022", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2015, "model": "CT200H"}}}

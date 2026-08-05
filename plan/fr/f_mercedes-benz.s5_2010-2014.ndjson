@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2011,sl63+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "SL63 AMG"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2010,s65+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2010, "model": "S65 AMG"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2011,sl550", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "SL550"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2014,g63+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2014, "model": "G63 AMG"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2014,ml350,3.5l+v6,3305924", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2014, "model": "ML350"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2011,sls+amg,6.3l+v8,1446403", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "SLS AMG"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2010,cl600,5.5l+v12+turbocharged,1445333", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2010, "model": "CL600"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2012,ml350,3.0l+v6+diesel+turbocharged,1503187", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2012, "model": "ML350"}}}

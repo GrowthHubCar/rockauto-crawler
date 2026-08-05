@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2019,sl450", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2019, "model": "SL450"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2015,s600,6.0l+v12+turbocharged,3308905", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2015, "model": "S600"}}}

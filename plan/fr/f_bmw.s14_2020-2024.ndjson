@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2022,550i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "550I"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2024,750e", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "750E"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2024,540i,3.0l+l6+turbocharged,3455217", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2024, "model": "540I"}}}

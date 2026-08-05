@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1967,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1967, "model": "RANCH WAGON"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1968,f-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1968, "model": "F-100"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1968,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1968, "model": "F-250"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1968,bronco", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1968, "model": "BRONCO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1965,falcon+sedan+delivery,3.3l+200cid+l6,1333482", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "FALCON SEDAN DELIVERY"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1965,falcon,3.3l+200cid+l6,1333314", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "FALCON"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1967,galaxie,5.8l+352cid+v8,1493673", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "GALAXIE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1966,ltd,6.4l+390cid+v8,1409543", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "LTD"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1967,galaxie,4.7l+289cid+v8,1435654", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "GALAXIE"}}}

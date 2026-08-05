@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volvo,2023,xc60", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2023, "model": "XC60"}}}
-{"node_type": "carcode", "href": "/en/catalog/volvo,2022,s60,2.0l+l4+turbocharged,3452663", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 2022, "model": "S60"}}}

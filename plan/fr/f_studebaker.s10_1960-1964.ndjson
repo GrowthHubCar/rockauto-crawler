@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/studebaker,1961,hawk", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1961, "model": "HAWK"}}}
-{"node_type": "model", "href": "/en/catalog/studebaker,1962,6e5", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1962, "model": "6E5"}}}
-{"node_type": "model", "href": "/en/catalog/studebaker,1961,5e13d", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1961, "model": "5E13D"}}}
-{"node_type": "carcode", "href": "/en/catalog/studebaker,1964,lark,4.7l+289cid+v8+supercharged,1492170", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1964, "model": "LARK"}}}

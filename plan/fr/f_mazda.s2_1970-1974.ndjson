@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mazda,1972,rx-3", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1972, "model": "RX-3"}}}
-{"node_type": "carcode", "href": "/en/catalog/mazda,1970,r100,1.1l+r2,1440542", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1970, "model": "R100"}}}

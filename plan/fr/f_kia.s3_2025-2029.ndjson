@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/kia,2026,sonet", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2026, "model": "SONET"}}}
-{"node_type": "carcode", "href": "/en/catalog/kia,2026,carnival,3.5l+v6,3458639", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2026, "model": "CARNIVAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/kia,2026,k4,2.0l+l4,3458645", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2026, "model": "K4"}}}

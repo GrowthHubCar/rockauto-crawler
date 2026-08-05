@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2025,f-650", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2025, "model": "F-650"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2026,bronco,2.3l+l4+turbocharged,3459711", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "BRONCO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2026,transit+150,3.5l+v6+turbocharged,3459367", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "TRANSIT 150"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2026,mustang,electric,3459866", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "MUSTANG"}}}

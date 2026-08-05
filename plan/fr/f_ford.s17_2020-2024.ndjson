@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2020,fusion", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2020, "model": "FUSION"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2024,mustang,electric,3455272", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2024, "model": "MUSTANG"}}}

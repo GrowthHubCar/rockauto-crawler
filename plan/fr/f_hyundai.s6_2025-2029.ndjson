@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2026,creta+grand", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "CRETA GRAND"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2026,kona,2.0l+l4,3458592", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "KONA"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2025,grand+i10,1.2l+l4,3457904", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2025, "model": "GRAND I10"}}}

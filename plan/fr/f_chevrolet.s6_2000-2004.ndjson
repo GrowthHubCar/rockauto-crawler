@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2004,tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2004, "model": "TILTMASTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,2004,silverado+2500,5.3l+v8,2002597", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2004, "model": "SILVERADO 2500"}}}

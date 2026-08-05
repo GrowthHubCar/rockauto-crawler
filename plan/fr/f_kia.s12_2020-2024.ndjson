@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/kia,2023,carnival", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2023, "model": "CARNIVAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/kia,2020,seltos,1.4l+l4+turbocharged,3446696", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2020, "model": "SELTOS"}}}

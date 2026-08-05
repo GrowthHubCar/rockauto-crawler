@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2019,silverado+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "SILVERADO 2500"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,2018,malibu,2.0l+l4+turbocharged,3437547", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2018, "model": "MALIBU"}}}

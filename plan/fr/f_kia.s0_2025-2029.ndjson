@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/kia,2026,seltos", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2026, "model": "SELTOS"}}}
-{"node_type": "carcode", "href": "/en/catalog/kia,2025,seltos,1.5l+l4,3458649", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2025, "model": "SELTOS"}}}
-{"node_type": "carcode", "href": "/en/catalog/kia,2025,sorento,1.6l+l4+electric/gas+turbocharged,3455829", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2025, "model": "SORENTO"}}}
-{"node_type": "carcode", "href": "/en/catalog/kia,2026,k5,2.5l+l4,3458646", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2026, "model": "K5"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2014,polo", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2014, "model": "POLO"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,passat+cc,3.6l+v6,3015762", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "PASSAT CC"}}}

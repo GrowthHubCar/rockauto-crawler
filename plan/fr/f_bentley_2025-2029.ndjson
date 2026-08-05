@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bentley,2026,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2026, "model": "CONTINENTAL"}}}
-{"node_type": "model", "href": "/en/catalog/bentley,2025,flying+spur", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2025, "model": "FLYING SPUR"}}}
-{"node_type": "model", "href": "/en/catalog/bentley,2026,flying+spur", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2026, "model": "FLYING SPUR"}}}
-{"node_type": "model", "href": "/en/catalog/bentley,2025,bentayga", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2025, "model": "BENTAYGA"}}}
-{"node_type": "model", "href": "/en/catalog/bentley,2026,bentayga", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2026, "model": "BENTAYGA"}}}
-{"node_type": "carcode", "href": "/en/catalog/bentley,2025,continental,4.0l+v8+electric/gas+turbocharged,3457745", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2025, "model": "CONTINENTAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/bentley,2026,bentayga,4.0l+v8+turbocharged,3459263", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2026, "model": "BENTAYGA"}}}

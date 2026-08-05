@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2016,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2016, "model": "4RUNNER"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2016,sienna", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2016, "model": "SIENNA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2018,hilux", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2018, "model": "HILUX"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2017,avanza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2017, "model": "AVANZA"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2019,hilux,2.8l+l4+diesel+turbocharged,3443904", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2019, "model": "HILUX"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2018,4runner,4.0l+v6,3441448", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2018, "model": "4RUNNER"}}}

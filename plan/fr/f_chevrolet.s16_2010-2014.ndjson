@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2010,malibu", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "MALIBU"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2010,cruze", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "CRUZE"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2010,avalanche", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "AVALANCHE"}}}

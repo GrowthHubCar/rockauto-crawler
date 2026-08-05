@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2022,rs7", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2022, "model": "RS7"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2021,q3,1.4l+l4+turbocharged,3447619", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "Q3"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2021,a7,3.0l+v6+turbocharged,3447138", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "A7"}}}

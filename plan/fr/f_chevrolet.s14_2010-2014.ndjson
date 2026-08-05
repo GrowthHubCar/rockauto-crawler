@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2012,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "IMPALA"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2011,express+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "EXPRESS 1500"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2010,aveo5", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "AVEO5"}}}

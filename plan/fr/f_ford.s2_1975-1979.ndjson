@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1976,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1976, "model": "RANCH WAGON"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1976,f-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1976, "model": "F-100"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1977,bronco", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1977, "model": "BRONCO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1977,f-250,7.5l+460cid+v8,1123096", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1977, "model": "F-250"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1975,granada,4.1l+250cid+l6,1129766", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1975, "model": "GRANADA"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1977,ranch+wagon,6.6l+400cid+v8,709", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1977, "model": "RANCH WAGON"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1975,p-400,6.6l+400cid+v8,1434222", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1975, "model": "P-400"}}}

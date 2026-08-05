@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,1969,2000gt", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1969, "model": "2000GT"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,1967,land+cruiser,3.9l+l6,1403569", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1967, "model": "LAND CRUISER"}}}

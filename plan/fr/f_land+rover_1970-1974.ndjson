@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/land+rover,1970,land+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 1970, "model": "LAND ROVER"}}}
-{"node_type": "carcode", "href": "/en/catalog/land+rover,1974,range+rover,3.5l+v8,1437013", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 1974, "model": "RANGE ROVER"}}}
-{"node_type": "carcode", "href": "/en/catalog/land+rover,1973,range+rover,3.5l+v8,1437014", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 1973, "model": "RANGE ROVER"}}}
-{"node_type": "carcode", "href": "/en/catalog/land+rover,1970,range+rover,3.5l+v8,1437017", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 1970, "model": "RANGE ROVER"}}}
-{"node_type": "carcode", "href": "/en/catalog/land+rover,1972,range+rover,3.5l+v8,1437015", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 1972, "model": "RANGE ROVER"}}}
-{"node_type": "carcode", "href": "/en/catalog/land+rover,1971,range+rover,3.5l+v8,1437016", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 1971, "model": "RANGE ROVER"}}}

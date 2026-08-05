@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2001,e430", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2001, "model": "E430"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2003,sl600,5.5l+v12+turbocharged,3018341", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2003, "model": "SL600"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2003,e55+amg,5.5l+v8+supercharged,1434366", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2003, "model": "E55 AMG"}}}

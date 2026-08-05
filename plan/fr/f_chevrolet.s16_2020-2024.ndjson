@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2024,silverado+5500+hd", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "SILVERADO 5500 HD"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2024,express+4500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "EXPRESS 4500"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2024,blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "BLAZER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,2020,silverado+3500,6.6l+v8+diesel+turbocharged,3444638", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2020, "model": "SILVERADO 3500"}}}

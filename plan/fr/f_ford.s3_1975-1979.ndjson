@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1976,ranchero", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1976, "model": "RANCHERO"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1979,f-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1979, "model": "F-100"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1975,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1975, "model": "E-150"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1975,granada,5.8l+351cid+v8,1129788", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1975, "model": "GRANADA"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1977,ranch+wagon,5.8l+351cid+v8,708", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1977, "model": "RANCH WAGON"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1975,mustang+ii,2.3l+140cid+l4,1134436", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1975, "model": "MUSTANG II"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1975,bronco,3.3l+200cid+l6,777", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1975, "model": "BRONCO"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2019,s450l", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2019, "model": "S450L"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2018,glc63", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2018, "model": "GLC63"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2016,s600,6.0l+v12+turbocharged,3342455", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2016, "model": "S600"}}}

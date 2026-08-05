@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chrysler,2001,sebring", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 2001, "model": "SEBRING"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2001,pt+cruiser,2.4l+l4,1398753", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2001, "model": "PT CRUISER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2002,sebring,2.7l+v6,1412491", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2002, "model": "SEBRING"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2002,sebring,3.0l+v6,1412503", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2002, "model": "SEBRING"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2001,concorde,3.2l+v6,1371686", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2001, "model": "CONCORDE"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2001,sebring,3.0l+v6,1384444", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2001, "model": "SEBRING"}}}

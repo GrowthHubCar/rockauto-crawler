@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1960,taunus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1960, "model": "TAUNUS"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1964,fairlane", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1964, "model": "FAIRLANE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1961,galaxie,3.6l+223cid+l6,1336058", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1961, "model": "GALAXIE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1962,victoria,3.6l+223cid+l6,1335765", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1962, "model": "VICTORIA"}}}

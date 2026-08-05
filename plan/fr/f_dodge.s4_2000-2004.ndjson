@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/dodge,2001,ram+3500+van", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2001, "model": "RAM 3500 VAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2003,ram+3500+pickup,8.0l+v10,1413571", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "RAM 3500 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+3500+pickup,5.9l+v8,1384804", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 3500 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2001,ram+1500+pickup,3.9l+v6,1366578", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "RAM 1500 PICKUP"}}}

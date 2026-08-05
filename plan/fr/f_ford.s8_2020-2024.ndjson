@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2021,transit+350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2021, "model": "TRANSIT 350"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2023,transit,999cc+l3+turbocharged,3454816", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2023, "model": "TRANSIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2021,f-350+super+duty,7.3l+v8,3447354", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2021, "model": "F-350 SUPER DUTY"}}}

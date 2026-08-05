@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volvo,1984,245", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 1984, "model": "245"}}}
-{"node_type": "carcode", "href": "/en/catalog/volvo,1984,242,2.3l+l4,1287299", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 1984, "model": "242"}}}

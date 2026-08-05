@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/acura,2025,integra", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2025, "model": "INTEGRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/acura,2026,rdx,2.0l+l4+turbocharged,3459256", "payload": {"nodetype": "carcode", "ctx": {"make": "ACURA", "year": 2026, "model": "RDX"}}}

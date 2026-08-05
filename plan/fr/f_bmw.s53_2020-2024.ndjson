@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2022,x2", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "X2"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2022,118i,1.5l+l3+turbocharged,3450424", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2022, "model": "118I"}}}

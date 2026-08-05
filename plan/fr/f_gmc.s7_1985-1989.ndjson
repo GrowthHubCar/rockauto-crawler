@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1989,s15+jimmy", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "S15 JIMMY"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1988,g2500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1988, "model": "G2500"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1987,v3500+pickup,5.7l+350cid+v8,1166172", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1987, "model": "V3500 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1988,topkick,5.7l+350cid+v8,3294494", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1988, "model": "TOPKICK"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1985,safari,4.3l+262cid+v6,1165025", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1985, "model": "SAFARI"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1989,p2500,5.7l+350cid+v8,1162460", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1989, "model": "P2500"}}}

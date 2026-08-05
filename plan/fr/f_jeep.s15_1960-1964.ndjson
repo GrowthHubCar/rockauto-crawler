@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jeep,1963,fc170hd", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1963, "model": "FC170HD"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1962,utility", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1962, "model": "UTILITY"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1964,j-210", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1964, "model": "J-210"}}}

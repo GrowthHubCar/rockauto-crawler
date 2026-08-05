@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2014,elantra+gt", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "ELANTRA GT"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2014,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "ELANTRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2011,equus,4.6l+v8,1447118", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "EQUUS"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,1968,2000c", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1968, "model": "2000C"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1969,2000cs", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1969, "model": "2000CS"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1968,2800cs", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1968, "model": "2800CS"}}}

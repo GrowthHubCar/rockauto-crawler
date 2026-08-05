@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,1986,635csi", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1986, "model": "635CSI"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,1987,m5,3.5l+l6,88", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 1987, "model": "M5"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,1989,535i,3.5l+l6,1012374", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 1989, "model": "535I"}}}

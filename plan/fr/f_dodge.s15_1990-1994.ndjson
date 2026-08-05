@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/dodge,1990,d150+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1990, "model": "D150 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1991,shadow,2.5l+l4+turbocharged,1097861", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1991, "model": "SHADOW"}}}

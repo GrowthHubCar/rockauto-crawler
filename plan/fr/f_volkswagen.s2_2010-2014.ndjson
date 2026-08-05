@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2012,tiguan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "TIGUAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2013,golf,1.4l+l4+turbocharged,3294309", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "GOLF"}}}

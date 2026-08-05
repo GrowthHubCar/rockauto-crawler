@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/rivian,2026,r1s", "payload": {"nodetype": "model", "ctx": {"make": "RIVIAN", "year": 2026, "model": "R1S"}}}
-{"node_type": "model", "href": "/en/catalog/rivian,2025,edv-700", "payload": {"nodetype": "model", "ctx": {"make": "RIVIAN", "year": 2025, "model": "EDV-700"}}}
-{"node_type": "model", "href": "/en/catalog/rivian,2025,edv-500", "payload": {"nodetype": "model", "ctx": {"make": "RIVIAN", "year": 2025, "model": "EDV-500"}}}
-{"node_type": "model", "href": "/en/catalog/rivian,2025,rcv-700", "payload": {"nodetype": "model", "ctx": {"make": "RIVIAN", "year": 2025, "model": "RCV-700"}}}
-{"node_type": "model", "href": "/en/catalog/rivian,2025,rcv-500", "payload": {"nodetype": "model", "ctx": {"make": "RIVIAN", "year": 2025, "model": "RCV-500"}}}
-{"node_type": "carcode", "href": "/en/catalog/rivian,2026,r1t,electric,3462030", "payload": {"nodetype": "carcode", "ctx": {"make": "RIVIAN", "year": 2026, "model": "R1T"}}}

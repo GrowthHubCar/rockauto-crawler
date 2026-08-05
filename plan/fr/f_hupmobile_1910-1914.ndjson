@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hupmobile,1910,model+20", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1910, "model": "MODEL 20"}}}
-{"node_type": "model", "href": "/en/catalog/hupmobile,1911,model+20", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1911, "model": "MODEL 20"}}}
-{"node_type": "model", "href": "/en/catalog/hupmobile,1912,model+20", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1912, "model": "MODEL 20"}}}
-{"node_type": "model", "href": "/en/catalog/hupmobile,1913,model+20", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1913, "model": "MODEL 20"}}}
-{"node_type": "model", "href": "/en/catalog/hupmobile,1912,model+32", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1912, "model": "MODEL 32"}}}
-{"node_type": "model", "href": "/en/catalog/hupmobile,1913,model+32", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1913, "model": "MODEL 32"}}}
-{"node_type": "model", "href": "/en/catalog/hupmobile,1914,model+32", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1914, "model": "MODEL 32"}}}
-{"node_type": "model", "href": "/en/catalog/hupmobile,1913,model+20-e", "payload": {"nodetype": "model", "ctx": {"make": "HUPMOBILE", "year": 1913, "model": "MODEL 20-E"}}}

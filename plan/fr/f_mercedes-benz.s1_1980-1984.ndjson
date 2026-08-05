@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1984,300", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1984, "model": "300"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1983,240d", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1983, "model": "240D"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1983,300sd,3.0l+l5+diesel+turbocharged,1194027", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1983, "model": "300SD"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1981,300td,3.0l+l5+diesel+turbocharged,1194308", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1981, "model": "300TD"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1983,380sl,3.8l+v8,1194599", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1983, "model": "380SL"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1981,380sel,3.8l+v8,1194544", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1981, "model": "380SEL"}}}

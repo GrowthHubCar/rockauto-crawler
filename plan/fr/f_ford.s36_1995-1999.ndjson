@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/ford,1998,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "EXPLORER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,windstar", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "WINDSTAR"}}}

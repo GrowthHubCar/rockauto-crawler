@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/porsche,2022,cayenne", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2022, "model": "CAYENNE"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,2021,911,3.7l+h6+turbocharged,3450253", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 2021, "model": "911"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2024,rs6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2024, "model": "RS6"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2022,q2", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2022, "model": "Q2"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2023,s7,2.9l+v6+turbocharged,3454064", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "S7"}}}

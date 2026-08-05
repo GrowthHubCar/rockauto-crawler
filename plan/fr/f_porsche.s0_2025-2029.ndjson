@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/porsche,2025,911", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2025, "model": "911"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,2026,cayenne,3.0l+v6+electric/gas+turbocharged,3458745", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 2026, "model": "CAYENNE"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,2025,911,4.0l+h6,3458203", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 2025, "model": "911"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,2026,macan,2.0l+l4+turbocharged,3459178", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 2026, "model": "MACAN"}}}

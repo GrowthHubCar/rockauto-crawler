@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1955,truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1955, "model": "TRUCK"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1956,truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1956, "model": "TRUCK"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1957,truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1957, "model": "TRUCK"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1958,truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1958, "model": "TRUCK"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1959,truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1959, "model": "TRUCK"}}}

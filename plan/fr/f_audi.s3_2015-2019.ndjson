@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2018,a8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2018, "model": "A8"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2016,a6,3.0l+v6+diesel+turbocharged,3329255", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2016, "model": "A6"}}}

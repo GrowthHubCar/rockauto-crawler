@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2014,slk55+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2014, "model": "SLK55 AMG"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2011,slk200", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "SLK200"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2012,gl550", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2012, "model": "GL550"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2013,glk350", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2013, "model": "GLK350"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2011,slk200,1.8l+l4+supercharged,3015646", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "SLK200"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2011,slk55+amg,5.5l+v8,1501550", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "SLK55 AMG"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2014,cls500,4.7l+v8+turbocharged,3307410", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2014, "model": "CLS500"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2011,ml550,5.5l+v8,1447298", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "ML550"}}}

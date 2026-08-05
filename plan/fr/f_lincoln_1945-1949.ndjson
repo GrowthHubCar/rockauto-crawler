@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lincoln,1946,continental", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1946, "model": "CONTINENTAL"}}}
-{"node_type": "model", "href": "/en/catalog/lincoln,1947,continental", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1947, "model": "CONTINENTAL"}}}
-{"node_type": "model", "href": "/en/catalog/lincoln,1948,continental", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1948, "model": "CONTINENTAL"}}}
-{"node_type": "model", "href": "/en/catalog/lincoln,1948,876h+series", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 1948, "model": "876H SERIES"}}}

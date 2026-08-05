@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1963,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1963, "model": "P-350"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1960,starliner", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1960, "model": "STARLINER"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1963,victoria,7.0l+427cid+v8,1491199", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1963, "model": "VICTORIA"}}}

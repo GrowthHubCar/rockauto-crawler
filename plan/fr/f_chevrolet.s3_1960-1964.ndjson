@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1964,malibu", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "MALIBU"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1960,p30+series", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "P30 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1964,k20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "K20 SUBURBAN"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1963,c20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "C20 SUBURBAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,chevy+ii,2.5l+153cid+l4,1323683", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "CHEVY II"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,g10,2.5l+153cid+l4,1323818", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "G10"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,suburban,6.7l+409cid+v8,1491091", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "SUBURBAN"}}}

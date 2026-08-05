@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1985,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1985, "model": "RANGER"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1986,f-200", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1986, "model": "F-200"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1988,p-350,5.8l+351cid+v8,3441892", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1988, "model": "P-350"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1988,ranger,2.3l+140cid+l4,1137596", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1988, "model": "RANGER"}}}

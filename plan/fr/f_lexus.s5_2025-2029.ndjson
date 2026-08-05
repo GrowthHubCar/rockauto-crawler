@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lexus,2025,is300", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2025, "model": "IS300"}}}
-{"node_type": "carcode", "href": "/en/catalog/lexus,2025,rc350,3.5l+v6,3458670", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2025, "model": "RC350"}}}
-{"node_type": "carcode", "href": "/en/catalog/lexus,2025,rc300,3.5l+v6,3458669", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2025, "model": "RC300"}}}

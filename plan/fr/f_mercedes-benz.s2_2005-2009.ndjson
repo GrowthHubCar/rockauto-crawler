@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2005,e320", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2005, "model": "E320"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2009,cl65+amg,6.0l+v12+turbocharged,1443248", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2009, "model": "CL65 AMG"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2008,c230,2.5l+v6,1446248", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2008, "model": "C230"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2009,sl500,5.5l+v8,3018346", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2009, "model": "SL500"}}}

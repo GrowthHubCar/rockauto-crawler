@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/desoto,1940,s-7", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1940, "model": "S-7"}}}
-{"node_type": "model", "href": "/en/catalog/desoto,1942,s-10", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1942, "model": "S-10"}}}
-{"node_type": "model", "href": "/en/catalog/desoto,1943,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1943, "model": "DELUXE"}}}
-{"node_type": "model", "href": "/en/catalog/desoto,1943,custom", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1943, "model": "CUSTOM"}}}
-{"node_type": "model", "href": "/en/catalog/desoto,1944,custom", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1944, "model": "CUSTOM"}}}

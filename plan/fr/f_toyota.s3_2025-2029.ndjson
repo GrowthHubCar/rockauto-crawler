@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2025,rav4", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2025, "model": "RAV4"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2026,avanza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2026, "model": "AVANZA"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2025,mirai,electric,3458793", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2025, "model": "MIRAI"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2026,sienna,2.5l+l4+electric/gas,3459776", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2026, "model": "SIENNA"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2026,tundra,3.4l+v6+turbocharged,3459533", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2026, "model": "TUNDRA"}}}

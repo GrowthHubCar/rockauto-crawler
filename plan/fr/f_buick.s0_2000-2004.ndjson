@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,2000,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 2000, "model": "REGAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,2000,park+avenue,3.8l+v6+supercharged,1358412", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 2000, "model": "PARK AVENUE"}}}

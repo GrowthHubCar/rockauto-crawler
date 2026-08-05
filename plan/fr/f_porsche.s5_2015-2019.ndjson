@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/porsche,2019,cayenne", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2019, "model": "CAYENNE"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,2017,911,3.8l+h6+turbocharged,3435430", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 2017, "model": "911"}}}

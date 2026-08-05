@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1978,p15/p1500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1978, "model": "P15/P1500 VAN"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1979,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1979, "model": "MEDIUM DUTY TRUCK"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1978,jimmy", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1978, "model": "JIMMY"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1975,c25+suburban,7.4l+454cid+v8,1306280", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1975, "model": "C25 SUBURBAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1978,p35,5.7l+350cid+v8,1162842", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1978, "model": "P35"}}}

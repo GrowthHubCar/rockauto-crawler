@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2026,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "ELANTRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2026,kona,1.6l+l4+turbocharged,3458591", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "KONA"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2026,elantra,2.0l+l4,3459393", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "ELANTRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2025,sonata,2.5l+l4+turbocharged,3457917", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2025, "model": "SONATA"}}}

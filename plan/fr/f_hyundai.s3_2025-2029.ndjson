@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2025,creta", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2025, "model": "CRETA"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2026,sonata,2.5l+l4,3459397", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "SONATA"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2026,grand+i10,1.2l+l4,3459394", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "GRAND I10"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2026,tucson,1.6l+l4+electric/gas+turbocharged,3458597", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "TUCSON"}}}

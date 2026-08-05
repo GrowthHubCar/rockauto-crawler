@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2020,540i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2020, "model": "540I"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2022,m550i+xdrive", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "M550I XDRIVE"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2024,x1,1.5l+l3+turbocharged,3455005", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2024, "model": "X1"}}}

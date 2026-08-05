@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1990,tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1990, "model": "TILTMASTER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1993,g30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1993, "model": "G30"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1993,lumina,3.4l+v6,1053997", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1993, "model": "LUMINA"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1994,lumina,3.4l+v6,1054033", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1994, "model": "LUMINA"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1992,c3500+pickup,7.4l+v8,1034468", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1992, "model": "C3500 PICKUP"}}}

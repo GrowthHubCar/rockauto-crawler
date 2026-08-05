@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,chevette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "CHEVETTE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,k5+blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "K5 BLAZER"}}}

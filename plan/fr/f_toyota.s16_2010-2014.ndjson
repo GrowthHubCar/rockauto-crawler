@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2010,rav4", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2010, "model": "RAV4"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2013,camry,2.5l+l4+electric/gas,1505487", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2013, "model": "CAMRY"}}}

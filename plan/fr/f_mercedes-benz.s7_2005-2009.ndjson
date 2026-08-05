@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2008,g55+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2008, "model": "G55 AMG"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2009,s65+amg,6.0l+v12+turbocharged,1443235", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2009, "model": "S65 AMG"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2006,e320,3.2l+l6+diesel+turbocharged,1432292", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2006, "model": "E320"}}}

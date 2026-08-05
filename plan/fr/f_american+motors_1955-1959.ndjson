@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/american+motors,1959,ambassador", "payload": {"nodetype": "model", "ctx": {"make": "AMERICAN MOTORS", "year": 1959, "model": "AMBASSADOR"}}}
-{"node_type": "model", "href": "/en/catalog/american+motors,1959,rambler", "payload": {"nodetype": "model", "ctx": {"make": "AMERICAN MOTORS", "year": 1959, "model": "RAMBLER"}}}
-{"node_type": "carcode", "href": "/en/catalog/american+motors,1959,rebel,4.1l+250cid+v8,1318744", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1959, "model": "REBEL"}}}
-{"node_type": "carcode", "href": "/en/catalog/american+motors,1958,american,3.2l+196cid+l6,1435450", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1958, "model": "AMERICAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/american+motors,1958,ambassador,5.4l+327cid+v8,1435730", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1958, "model": "AMBASSADOR"}}}
-{"node_type": "carcode", "href": "/en/catalog/american+motors,1958,rambler,3.2l+196cid+l6,1435445", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1958, "model": "RAMBLER"}}}
-{"node_type": "carcode", "href": "/en/catalog/american+motors,1958,rebel,4.1l+250cid+v8,1435597", "payload": {"nodetype": "carcode", "ctx": {"make": "AMERICAN MOTORS", "year": 1958, "model": "REBEL"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/ford,1999,e+250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "L SERIES TRUCK"}}}

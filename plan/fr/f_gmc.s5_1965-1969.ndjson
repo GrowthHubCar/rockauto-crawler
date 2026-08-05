@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1966,3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1966, "model": "3500"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1965,2500+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1965, "model": "2500 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1968,k15/k1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1968, "model": "K15/K1500 SUBURBAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1968,k15/k1500+pickup,3.8l+230cid+l6,1156733", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1968, "model": "K15/K1500 PICKUP"}}}

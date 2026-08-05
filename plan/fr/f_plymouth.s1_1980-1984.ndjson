@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/plymouth,1980,volare", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "VOLARE"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1983,colt", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1983, "model": "COLT"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1980,gran+fury", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "GRAN FURY"}}}
-{"node_type": "carcode", "href": "/en/catalog/plymouth,1984,reliant,2.2l+135cid+l4,1240142", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1984, "model": "RELIANT"}}}

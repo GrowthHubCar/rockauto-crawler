@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2021,320i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "320I"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2024,118i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "118I"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2024,x5,3.0l+l6+electric/gas+turbocharged,3454641", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2024, "model": "X5"}}}

@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1963,bel+air", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "BEL AIR"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1961,parkwood", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "PARKWOOD"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1962,k20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "K20 SUBURBAN"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1962,c20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "C20 SUBURBAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,medium+duty+truck,4.3l+261cid+l6,3438710", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "MEDIUM DUTY TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,k20+suburban,5.3l+327cid+v8,1491079", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "K20 SUBURBAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,p10+series,3.8l+230cid+l6,1324572", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "P10 SERIES"}}}

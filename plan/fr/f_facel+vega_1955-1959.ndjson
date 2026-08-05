@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/facel+vega,1958,excellence", "payload": {"nodetype": "model", "ctx": {"make": "FACEL VEGA", "year": 1958, "model": "EXCELLENCE"}}}
-{"node_type": "model", "href": "/en/catalog/facel+vega,1959,excellence", "payload": {"nodetype": "model", "ctx": {"make": "FACEL VEGA", "year": 1959, "model": "EXCELLENCE"}}}
-{"node_type": "model", "href": "/en/catalog/facel+vega,1955,fv", "payload": {"nodetype": "model", "ctx": {"make": "FACEL VEGA", "year": 1955, "model": "FV"}}}
-{"node_type": "model", "href": "/en/catalog/facel+vega,1956,fvs", "payload": {"nodetype": "model", "ctx": {"make": "FACEL VEGA", "year": 1956, "model": "FVS"}}}
-{"node_type": "model", "href": "/en/catalog/facel+vega,1957,fvs", "payload": {"nodetype": "model", "ctx": {"make": "FACEL VEGA", "year": 1957, "model": "FVS"}}}
-{"node_type": "model", "href": "/en/catalog/facel+vega,1958,fvs", "payload": {"nodetype": "model", "ctx": {"make": "FACEL VEGA", "year": 1958, "model": "FVS"}}}
-{"node_type": "model", "href": "/en/catalog/facel+vega,1959,hk500", "payload": {"nodetype": "model", "ctx": {"make": "FACEL VEGA", "year": 1959, "model": "HK500"}}}

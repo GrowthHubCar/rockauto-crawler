@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2026,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2026, "model": "4RUNNER"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2026,highlander", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2026, "model": "HIGHLANDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2026,tacoma,2.4l+l4+turbocharged,3458795", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2026, "model": "TACOMA"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2025,land+cruiser,2.4l+l4+electric/gas+turbocharged,3457694", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2025, "model": "LAND CRUISER"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2025,tacoma,2.4l+l4+turbocharged,3458265", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2025, "model": "TACOMA"}}}

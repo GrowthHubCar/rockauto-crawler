@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1988,milano", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1988, "model": "MILANO"}}}
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1989,milano", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1989, "model": "MILANO"}}}
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1985,gtv-6", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1985, "model": "GTV-6"}}}
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1987,spider", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1987, "model": "SPIDER"}}}
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1989,spider", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1989, "model": "SPIDER"}}}

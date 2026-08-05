@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2024,s7", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2024, "model": "S7"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2021,a8,3.0l+v6+electric/gas+turbocharged,3447232", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "A8"}}}

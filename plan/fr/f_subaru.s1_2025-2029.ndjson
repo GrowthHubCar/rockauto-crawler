@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/subaru,2025,legacy", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2025, "model": "LEGACY"}}}
-{"node_type": "carcode", "href": "/en/catalog/subaru,2026,solterra,electric,3459637", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2026, "model": "SOLTERRA"}}}

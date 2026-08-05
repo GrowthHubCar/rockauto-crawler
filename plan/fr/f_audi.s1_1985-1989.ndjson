@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,1986,5000", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1986, "model": "5000"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,1986,4000,1.6l+l4+diesel+turbocharged,3323191", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1986, "model": "4000"}}}

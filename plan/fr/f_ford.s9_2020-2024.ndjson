@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2023,transit+350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2023, "model": "TRANSIT 350"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2020,expedition,3.5l+v6+turbocharged,3444715", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2020, "model": "EXPEDITION"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2020,f-150,3.0l+v6+diesel+turbocharged,3445534", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2020, "model": "F-150"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2010,tundra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2010, "model": "TUNDRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2012,tundra,4.0l+v6,1502966", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2012, "model": "TUNDRA"}}}

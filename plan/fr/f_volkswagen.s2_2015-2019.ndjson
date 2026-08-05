@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2018,tiguan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2018, "model": "TIGUAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2015,golf,2.0l+l4+turbocharged,3308952", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2015, "model": "GOLF"}}}

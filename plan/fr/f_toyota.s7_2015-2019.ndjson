@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2015,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2015, "model": "4RUNNER"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2019,rav4", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2019, "model": "RAV4"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2016,hilux", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2016, "model": "HILUX"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2016,avanza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2016, "model": "AVANZA"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2018,highlander,2.7l+l4,3441452", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2018, "model": "HIGHLANDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2019,highlander,3.5l+v6+electric/gas,3443370", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2019, "model": "HIGHLANDER"}}}

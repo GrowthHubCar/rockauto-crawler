@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1975,p35", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1975, "model": "P35"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1976,k25+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1976, "model": "K25 SUBURBAN"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1977,c25+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1977, "model": "C25 SUBURBAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1975,sprint,4.1l+250cid+l6,1368514", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1975, "model": "SPRINT"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1976,k15+pickup,4.1l+250cid+l6,1406944", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1976, "model": "K15 PICKUP"}}}

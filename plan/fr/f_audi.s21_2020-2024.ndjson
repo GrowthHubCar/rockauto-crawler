@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2022,q7", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2022, "model": "Q7"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2024,a6+allroad", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2024, "model": "A6 ALLROAD"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2020,a8,4.0l+v8+turbocharged,3445504", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "A8"}}}

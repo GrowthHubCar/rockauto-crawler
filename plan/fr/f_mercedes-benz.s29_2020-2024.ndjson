@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2021,glc300", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2021, "model": "GLC300"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2022,eqs+450+", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "EQS 450+"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2024,gls450,3.0l+l6+turbocharged,3454884", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2024, "model": "GLS450"}}}

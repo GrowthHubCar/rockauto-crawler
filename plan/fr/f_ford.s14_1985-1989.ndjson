@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1989,f-700", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1989, "model": "F-700"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1988,ltd+crown+victoria,5.8l+351cid+v8,1438416", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1988, "model": "LTD CROWN VICTORIA"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1985,c+series+truck,12.1l+736cid+v8+diesel,3410934", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1985, "model": "C SERIES TRUCK"}}}

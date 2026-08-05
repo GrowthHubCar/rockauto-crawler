@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2012,express+pasajeros", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2012, "model": "EXPRESS PASAJEROS"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2010,camaro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "CAMARO"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,2014,matiz,995cc+l4,3307256", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2014, "model": "MATIZ"}}}

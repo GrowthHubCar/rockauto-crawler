@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chrysler,1935,imperial+custom+airflow+series+c-3", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1935, "model": "IMPERIAL CUSTOM AIRFLOW SERIES C-3"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,1935,imperial+airflow+series+c-2", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1935, "model": "IMPERIAL AIRFLOW SERIES C-2"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,1935,airstream+series+cz", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1935, "model": "AIRSTREAM SERIES CZ"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,1935,airflow+series+c-1", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1935, "model": "AIRFLOW SERIES C-1"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,1937,airflow", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1937, "model": "AIRFLOW"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,1937,royal", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1937, "model": "ROYAL"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,1935,imperial+custom+airflow+series+c-w", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1935, "model": "IMPERIAL CUSTOM AIRFLOW SERIES C-W"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,1935,airstream+series+c-6", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1935, "model": "AIRSTREAM SERIES C-6"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1937,imperial,4.5l+274cid+l8,124076", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1937, "model": "IMPERIAL"}}}

@@ -1,4 +1,0 @@
-{"node_type": "carcode", "href": "/en/catalog/lexus,1997,lx450,4.5l+l6,1187546", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 1997, "model": "LX450"}}}
-{"node_type": "carcode", "href": "/en/catalog/lexus,1998,ls400,4.0l+v8,1316123", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 1998, "model": "LS400"}}}
-{"node_type": "carcode", "href": "/en/catalog/lexus,1997,ls400,4.0l+v8,1187524", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 1997, "model": "LS400"}}}
-{"node_type": "carcode", "href": "/en/catalog/lexus,1999,es300,3.0l+v6,1387054", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 1999, "model": "ES300"}}}

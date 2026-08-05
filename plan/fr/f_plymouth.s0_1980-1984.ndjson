@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/plymouth,1984,voyager", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1984, "model": "VOYAGER"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1984,horizon", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1984, "model": "HORIZON"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1980,pb200", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "PB200"}}}
-{"node_type": "carcode", "href": "/en/catalog/plymouth,1983,pb250,5.2l+318cid+v8,1239397", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1983, "model": "PB250"}}}

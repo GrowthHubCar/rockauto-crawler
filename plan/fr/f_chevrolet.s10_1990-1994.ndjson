@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1994,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1994, "model": "P30"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1993,c1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1993, "model": "C1500 SUBURBAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1993,s10+blazer,4.3l+v6,1060579", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1993, "model": "S10 BLAZER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1992,stepvan,6.6l+l6+diesel+turbocharged,3434362", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1992, "model": "STEPVAN"}}}

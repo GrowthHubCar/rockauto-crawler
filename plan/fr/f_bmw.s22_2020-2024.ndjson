@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2021,m235i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "M235I"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2022,z4,3.0l+l6+turbocharged,3450495", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2022, "model": "Z4"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2018,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2018, "model": "PASSAT"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2017,jetta,1.8l+l4+turbocharged,3435572", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2017, "model": "JETTA"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2020,sprinter+1500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2020, "model": "SPRINTER 1500"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2024,eqs+450+suv", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2024, "model": "EQS 450 SUV"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2024,e200", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2024, "model": "E200"}}}

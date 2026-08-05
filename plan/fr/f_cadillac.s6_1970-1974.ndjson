@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/cadillac,1974,commercial+chassis", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1974, "model": "COMMERCIAL CHASSIS"}}}
-{"node_type": "carcode", "href": "/en/catalog/cadillac,1974,deville,8.2l+500cid+v8,1399495", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1974, "model": "DEVILLE"}}}
-{"node_type": "carcode", "href": "/en/catalog/cadillac,1973,calais,8.2l+500cid+v8,1498846", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1973, "model": "CALAIS"}}}

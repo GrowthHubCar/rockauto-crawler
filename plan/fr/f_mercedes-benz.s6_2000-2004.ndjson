@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2003,s430", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2003, "model": "S430"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2004,c230,1.8l+l4+supercharged,1426283", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2004, "model": "C230"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2001,g500,5.0l+v8,3318643", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2001, "model": "G500"}}}

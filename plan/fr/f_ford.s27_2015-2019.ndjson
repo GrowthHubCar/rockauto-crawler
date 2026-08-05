@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/ford,2016,f+150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2016, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2019,flex", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2019, "model": "FLEX"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2024,x6", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "X6"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2024,128ti", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "128TI"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2020,330i,2.0l+l4+turbocharged,3444483", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2020, "model": "330I"}}}

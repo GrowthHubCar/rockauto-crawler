@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jeep,1971,wagoneer", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1971, "model": "WAGONEER"}}}
-{"node_type": "carcode", "href": "/en/catalog/jeep,1970,j-3600,5.3l+327cid+v8,1496359", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1970, "model": "J-3600"}}}

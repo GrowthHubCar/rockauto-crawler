@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/rolls-royce,1993,silver+spur", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1993, "model": "SILVER SPUR"}}}
-{"node_type": "model", "href": "/en/catalog/rolls-royce,1993,silver+spirit", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1993, "model": "SILVER SPIRIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1990,silver+spirit,6.7l+v8,1265082", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1990, "model": "SILVER SPIRIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1992,silver+spirit,6.7l+v8,1401972", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1992, "model": "SILVER SPIRIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1994,silver+spirit,6.7l+v8,1265116", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1994, "model": "SILVER SPIRIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/rolls-royce,1991,silver+spirit,6.7l+v8,1265093", "payload": {"nodetype": "carcode", "ctx": {"make": "ROLLS-ROYCE", "year": 1991, "model": "SILVER SPIRIT"}}}

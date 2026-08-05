@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/ford,1999,crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "CROWN VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,f53", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "F53"}}}

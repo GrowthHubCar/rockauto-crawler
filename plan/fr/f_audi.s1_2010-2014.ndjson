@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2012,s3", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2012, "model": "S3"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2013,a4,1.8l+l4+turbocharged,3015121", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2013, "model": "A4"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2011,q7,3.0l+v6+diesel+turbocharged,1447205", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2011, "model": "Q7"}}}

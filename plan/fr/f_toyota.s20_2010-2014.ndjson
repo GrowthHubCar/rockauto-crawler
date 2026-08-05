@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2011,tundra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2011, "model": "TUNDRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2014,land+cruiser,5.7l+v8,3307075", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2014, "model": "LAND CRUISER"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1982,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1982, "model": "REGAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1982,regal,3.8l+231cid+v6+turbocharged,1020575", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1982, "model": "REGAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1984,lesabre,4.1l+252cid+v6,1019180", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1984, "model": "LESABRE"}}}

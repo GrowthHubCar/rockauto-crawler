@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2024,a8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2024, "model": "A8"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2024,a7", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2024, "model": "A7"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2020,a3,2.0l+l4+turbocharged,3445409", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "A3"}}}

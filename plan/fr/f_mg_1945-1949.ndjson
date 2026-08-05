@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mg,1947,tc", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1947, "model": "TC"}}}
-{"node_type": "model", "href": "/en/catalog/mg,1948,tc", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1948, "model": "TC"}}}
-{"node_type": "model", "href": "/en/catalog/mg,1949,tc", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1949, "model": "TC"}}}
-{"node_type": "model", "href": "/en/catalog/mg,1948,yt", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1948, "model": "YT"}}}
-{"node_type": "model", "href": "/en/catalog/mg,1949,yt", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1949, "model": "YT"}}}
-{"node_type": "model", "href": "/en/catalog/mg,1947,ya", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1947, "model": "YA"}}}
-{"node_type": "model", "href": "/en/catalog/mg,1948,ya", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1948, "model": "YA"}}}
-{"node_type": "model", "href": "/en/catalog/mg,1949,ya", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1949, "model": "YA"}}}
-{"node_type": "model", "href": "/en/catalog/mg,1949,td", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1949, "model": "TD"}}}

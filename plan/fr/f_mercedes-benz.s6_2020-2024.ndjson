@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2022,sl63+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "SL63 AMG"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2022,gls450", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "GLS450"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2023,sprinter+2500,2.0l+l4+turbocharged,3454510", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "SPRINTER 2500"}}}

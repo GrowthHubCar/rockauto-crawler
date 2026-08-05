@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mg,2024,mg4", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 2024, "model": "MG4"}}}
-{"node_type": "model", "href": "/en/catalog/mg,2024,mg+gt", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 2024, "model": "MG GT"}}}
-{"node_type": "model", "href": "/en/catalog/mg,2024,hs", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 2024, "model": "HS"}}}
-{"node_type": "carcode", "href": "/en/catalog/mg,2024,zs,electric,3455674", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 2024, "model": "ZS"}}}

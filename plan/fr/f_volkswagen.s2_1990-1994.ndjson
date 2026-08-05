@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,1994,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1994, "model": "PASSAT"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,1990,jetta,1.6l+l4+diesel+turbocharged,1446364", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1990, "model": "JETTA"}}}

@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2018,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2018, "model": "CAMRY"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2018,avalon", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2018, "model": "AVALON"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2019,mirai", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2019, "model": "MIRAI"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2019,hiace", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2019, "model": "HIACE"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2019,86", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2019, "model": "86"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2019,prius+c,1.5l+l4+electric/gas,3443174", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2019, "model": "PRIUS C"}}}

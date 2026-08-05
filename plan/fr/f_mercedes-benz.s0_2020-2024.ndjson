@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2022,sprinter+3500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "SPRINTER 3500"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2023,glb35+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "GLB35 AMG"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2024,eqe+350", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2024, "model": "EQE 350"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2009,525i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2009, "model": "525I"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2006,325i,3.0l+l6,1431851", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2006, "model": "325I"}}}

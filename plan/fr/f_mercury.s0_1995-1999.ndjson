@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercury,1998,mountaineer", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1998, "model": "MOUNTAINEER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1997,grand+marquis,4.6l+v8,1199617", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1997, "model": "GRAND MARQUIS"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1999,mountaineer,5.0l+v8,1356522", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1999, "model": "MOUNTAINEER"}}}

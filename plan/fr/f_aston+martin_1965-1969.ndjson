@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/aston+martin,1965,db5", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1965, "model": "DB5"}}}
-{"node_type": "model", "href": "/en/catalog/aston+martin,1965,db6", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1965, "model": "DB6"}}}
-{"node_type": "model", "href": "/en/catalog/aston+martin,1966,db6", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1966, "model": "DB6"}}}
-{"node_type": "model", "href": "/en/catalog/aston+martin,1967,db6", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1967, "model": "DB6"}}}
-{"node_type": "model", "href": "/en/catalog/aston+martin,1968,db6", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1968, "model": "DB6"}}}
-{"node_type": "model", "href": "/en/catalog/aston+martin,1969,db6", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1969, "model": "DB6"}}}
-{"node_type": "model", "href": "/en/catalog/aston+martin,1967,dbs", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1967, "model": "DBS"}}}
-{"node_type": "model", "href": "/en/catalog/aston+martin,1968,dbs", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1968, "model": "DBS"}}}
-{"node_type": "model", "href": "/en/catalog/aston+martin,1969,dbs", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1969, "model": "DBS"}}}

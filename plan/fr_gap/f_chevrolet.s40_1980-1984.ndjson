@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,citation", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "CITATION"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "MEDIUM DUTY TRUCK"}}}

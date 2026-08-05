@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2022,440i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "440I"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2021,x5,3.0l+l6+electric/gas+turbocharged,3446894", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2021, "model": "X5"}}}

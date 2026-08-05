@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/rolls-royce,1925,silver+ghost", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1925, "model": "SILVER GHOST"}}}
-{"node_type": "model", "href": "/en/catalog/rolls-royce,1926,silver+ghost", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1926, "model": "SILVER GHOST"}}}
-{"node_type": "model", "href": "/en/catalog/rolls-royce,1927,silver+ghost", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1927, "model": "SILVER GHOST"}}}
-{"node_type": "model", "href": "/en/catalog/rolls-royce,1927,phantom+i", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1927, "model": "PHANTOM I"}}}

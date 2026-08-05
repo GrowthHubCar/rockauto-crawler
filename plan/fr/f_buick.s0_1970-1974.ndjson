@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1973,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1973, "model": "CENTURY"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1970,sportwagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1970, "model": "SPORTWAGON"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1970,gs+455", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1970, "model": "GS 455"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1972,skylark,7.5l+455cid+v8,1023040", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1972, "model": "SKYLARK"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1970,lesabre,4.1l+250cid+l6,1495845", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1970, "model": "LESABRE"}}}

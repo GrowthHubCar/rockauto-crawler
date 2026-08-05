@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mg,1955,za", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1955, "model": "ZA"}}}
-{"node_type": "model", "href": "/en/catalog/mg,1956,za", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1956, "model": "ZA"}}}
-{"node_type": "model", "href": "/en/catalog/mg,1956,mga", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1956, "model": "MGA"}}}
-{"node_type": "model", "href": "/en/catalog/mg,1957,mga", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1957, "model": "MGA"}}}
-{"node_type": "model", "href": "/en/catalog/mg,1958,mga", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1958, "model": "MGA"}}}
-{"node_type": "model", "href": "/en/catalog/mg,1959,mga", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1959, "model": "MGA"}}}
-{"node_type": "model", "href": "/en/catalog/mg,1959,magnette", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1959, "model": "MAGNETTE"}}}
-{"node_type": "model", "href": "/en/catalog/mg,1958,zb", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1958, "model": "ZB"}}}
-{"node_type": "carcode", "href": "/en/catalog/mg,1955,tf,1.5l+l4,1395378", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1955, "model": "TF"}}}

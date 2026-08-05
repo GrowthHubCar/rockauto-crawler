@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,c20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "C20 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "IMPALA"}}}

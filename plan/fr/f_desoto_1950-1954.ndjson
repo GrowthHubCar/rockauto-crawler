@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/desoto,1952,s-15", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1952, "model": "S-15"}}}
-{"node_type": "model", "href": "/en/catalog/desoto,1952,firedome", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1952, "model": "FIREDOME"}}}
-{"node_type": "model", "href": "/en/catalog/desoto,1953,firedome", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1953, "model": "FIREDOME"}}}
-{"node_type": "model", "href": "/en/catalog/desoto,1950,s-14", "payload": {"nodetype": "model", "ctx": {"make": "DESOTO", "year": 1950, "model": "S-14"}}}

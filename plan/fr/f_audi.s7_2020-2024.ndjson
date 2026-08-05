@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2021,a8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2021, "model": "A8"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2020,a7", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2020, "model": "A7"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2020,s4,3.0l+v6+turbocharged,3445821", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "S4"}}}

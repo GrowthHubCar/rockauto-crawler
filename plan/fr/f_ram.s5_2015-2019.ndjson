@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ram,2016,4500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2016, "model": "4500"}}}
-{"node_type": "carcode", "href": "/en/catalog/ram,2016,4500,6.7l+l6+diesel+turbocharged,3353668", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2016, "model": "4500"}}}

@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/sunbeam,1953,alpine", "payload": {"nodetype": "model", "ctx": {"make": "SUNBEAM", "year": 1953, "model": "ALPINE"}}}
-{"node_type": "model", "href": "/en/catalog/sunbeam,1954,alpine", "payload": {"nodetype": "model", "ctx": {"make": "SUNBEAM", "year": 1954, "model": "ALPINE"}}}
-{"node_type": "model", "href": "/en/catalog/sunbeam,1950,sunbeam-talbot+90", "payload": {"nodetype": "model", "ctx": {"make": "SUNBEAM", "year": 1950, "model": "SUNBEAM-TALBOT 90"}}}
-{"node_type": "model", "href": "/en/catalog/sunbeam,1951,sunbeam-talbot+90", "payload": {"nodetype": "model", "ctx": {"make": "SUNBEAM", "year": 1951, "model": "SUNBEAM-TALBOT 90"}}}
-{"node_type": "model", "href": "/en/catalog/sunbeam,1952,sunbeam-talbot+90", "payload": {"nodetype": "model", "ctx": {"make": "SUNBEAM", "year": 1952, "model": "SUNBEAM-TALBOT 90"}}}
-{"node_type": "model", "href": "/en/catalog/sunbeam,1953,sunbeam-talbot+90", "payload": {"nodetype": "model", "ctx": {"make": "SUNBEAM", "year": 1953, "model": "SUNBEAM-TALBOT 90"}}}
-{"node_type": "model", "href": "/en/catalog/sunbeam,1954,sunbeam-talbot+90", "payload": {"nodetype": "model", "ctx": {"make": "SUNBEAM", "year": 1954, "model": "SUNBEAM-TALBOT 90"}}}
-{"node_type": "model", "href": "/en/catalog/sunbeam,1950,sunbeam-talbot+80", "payload": {"nodetype": "model", "ctx": {"make": "SUNBEAM", "year": 1950, "model": "SUNBEAM-TALBOT 80"}}}

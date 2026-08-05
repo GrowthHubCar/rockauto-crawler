@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/pontiac,2007,grand+prix", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 2007, "model": "GRAND PRIX"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,2005,montana,3.4l+v6,1431259", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 2005, "model": "MONTANA"}}}

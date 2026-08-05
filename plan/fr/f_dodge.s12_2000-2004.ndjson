@@ -1,4 +1,0 @@
-{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+1500+pickup,3.7l+v6,1384725", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 1500 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+3500+pickup,5.9l+l6+diesel+turbocharged,1441320", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 3500 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2003,ram+2500+pickup,8.0l+v10,1413492", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "RAM 2500 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2003,durango,5.9l+v8,1413122", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "DURANGO"}}}

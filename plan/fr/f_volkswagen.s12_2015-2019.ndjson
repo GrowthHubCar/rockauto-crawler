@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2018,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2018, "model": "JETTA"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2016,cc,3.6l+v6,3354155", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2016, "model": "CC"}}}

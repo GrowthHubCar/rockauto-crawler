@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/maxwell,1913,six", "payload": {"nodetype": "model", "ctx": {"make": "MAXWELL", "year": 1913, "model": "SIX"}}}
-{"node_type": "model", "href": "/en/catalog/maxwell,1913,model+40", "payload": {"nodetype": "model", "ctx": {"make": "MAXWELL", "year": 1913, "model": "MODEL 40"}}}
-{"node_type": "model", "href": "/en/catalog/maxwell,1913,model+30", "payload": {"nodetype": "model", "ctx": {"make": "MAXWELL", "year": 1913, "model": "MODEL 30"}}}
-{"node_type": "model", "href": "/en/catalog/maxwell,1913,model+22", "payload": {"nodetype": "model", "ctx": {"make": "MAXWELL", "year": 1913, "model": "MODEL 22"}}}
-{"node_type": "model", "href": "/en/catalog/maxwell,1914,model+50", "payload": {"nodetype": "model", "ctx": {"make": "MAXWELL", "year": 1914, "model": "MODEL 50"}}}
-{"node_type": "model", "href": "/en/catalog/maxwell,1914,model+35", "payload": {"nodetype": "model", "ctx": {"make": "MAXWELL", "year": 1914, "model": "MODEL 35"}}}
-{"node_type": "model", "href": "/en/catalog/maxwell,1914,model+25", "payload": {"nodetype": "model", "ctx": {"make": "MAXWELL", "year": 1914, "model": "MODEL 25"}}}

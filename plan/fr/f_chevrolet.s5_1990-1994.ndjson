@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1994,stepvan", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1994, "model": "STEPVAN"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1993,corsica", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1993, "model": "CORSICA"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1991,blazer,6.2l+v8+diesel,1061581", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1991, "model": "BLAZER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1993,c2500+pickup,5.7l+v8,1033108", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1993, "model": "C2500 PICKUP"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,1966,stout", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1966, "model": "STOUT"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,1966,pickup,1.9l+l4,1493478", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1966, "model": "PICKUP"}}}

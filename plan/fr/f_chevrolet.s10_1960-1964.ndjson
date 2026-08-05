@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1963,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "MEDIUM DUTY TRUCK"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1962,p10+series", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "P10 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1962,k10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "K10 PICKUP"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1963,c10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "C10 SUBURBAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,malibu,4.6l+283cid+v8,1323997", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "MALIBU"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,parkwood,4.6l+283cid+v8,1489513", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "PARKWOOD"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,impala,3.8l+235cid+l6,1434986", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "IMPALA"}}}

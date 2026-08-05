@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2021,h350", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "H350"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,elantra,2.0l+l4+turbocharged,3452018", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "ELANTRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2020,sonata,2.0l+l4+electric/gas,3446286", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "SONATA"}}}

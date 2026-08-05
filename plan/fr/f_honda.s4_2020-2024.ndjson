@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/honda,2023,city", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2023, "model": "CITY"}}}
-{"node_type": "carcode", "href": "/en/catalog/honda,2023,odyssey,3.5l+v6,3451432", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 2023, "model": "ODYSSEY"}}}

@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2012,vito", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2012, "model": "VITO"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2011,sl600", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "SL600"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2012,s63+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2012, "model": "S63 AMG"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2011,s350", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "S350"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2010,slk200,3.5l+v6,3015294", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2010, "model": "SLK200"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2010,gl550,5.5l+v8,1445338", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2010, "model": "GL550"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2012,glk300,3.0l+v6,3015322", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2012, "model": "GLK300"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2014,glk350,3.5l+v6,3305922", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2014, "model": "GLK350"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2014,cla250,2.0l+l4+turbocharged,3305908", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2014, "model": "CLA250"}}}

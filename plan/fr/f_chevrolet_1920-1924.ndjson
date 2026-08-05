@@ -1,8 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1921,truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1921, "model": "TRUCK"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1921,490", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1921, "model": "490"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1923,model+t", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1923, "model": "MODEL T"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1923,model+g", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1923, "model": "MODEL G"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1923,copper+cooled", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1923, "model": "COPPER COOLED"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1924,superior+f", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1924, "model": "SUPERIOR F"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1920,truck,all+engines,952001", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1920, "model": "TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1922,truck,all+engines,952041", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1922, "model": "TRUCK"}}}

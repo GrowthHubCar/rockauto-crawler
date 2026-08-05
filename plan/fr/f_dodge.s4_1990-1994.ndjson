@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/dodge,1992,spirit", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1992, "model": "SPIRIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1991,stealth,3.0l+v6+dohc,1098738", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1991, "model": "STEALTH"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,1990,spirit,2.5l+153cid+l4,1098198", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1990, "model": "SPIRIT"}}}

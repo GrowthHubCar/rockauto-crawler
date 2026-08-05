@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/porsche,2025,718", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2025, "model": "718"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,2025,panamera,4.0l+v8+turbocharged,3458750", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 2025, "model": "PANAMERA"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,2025,macan,electric,3458748", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 2025, "model": "MACAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,2025,911,3.7l+h6+turbocharged,3458202", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 2025, "model": "911"}}}

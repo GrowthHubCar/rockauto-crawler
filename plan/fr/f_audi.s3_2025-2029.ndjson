@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2026,a6", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2026, "model": "A6"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2025,a4+allroad", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2025, "model": "A4 ALLROAD"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2025,rs7,4.0l+v8+turbocharged,3455488", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2025, "model": "RS7"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2026,q5,2.0l+l4+turbocharged,3459665", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2026, "model": "Q5"}}}

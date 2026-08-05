@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jeep,1974,wagoneer", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1974, "model": "WAGONEER"}}}
-{"node_type": "carcode", "href": "/en/catalog/jeep,1971,cj5,4.2l+258cid+l6,1497272", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1971, "model": "CJ5"}}}

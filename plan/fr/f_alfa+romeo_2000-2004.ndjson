@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,2004,156", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 2004, "model": "156"}}}
-{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2003,spider,3.0l+v6,209414", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2003, "model": "SPIDER"}}}

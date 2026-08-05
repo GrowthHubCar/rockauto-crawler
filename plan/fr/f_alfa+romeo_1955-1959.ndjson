@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1956,giulietta", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1956, "model": "GIULIETTA"}}}
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1957,giulietta", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1957, "model": "GIULIETTA"}}}
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1958,giulietta", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1958, "model": "GIULIETTA"}}}
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1959,giulietta", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1959, "model": "GIULIETTA"}}}
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1956,1900", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1956, "model": "1900"}}}
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1957,1900", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1957, "model": "1900"}}}
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1958,1900", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1958, "model": "1900"}}}
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1958,2000", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1958, "model": "2000"}}}
-{"node_type": "model", "href": "/en/catalog/alfa+romeo,1959,2000", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 1959, "model": "2000"}}}

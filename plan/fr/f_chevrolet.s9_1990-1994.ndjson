@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1993,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1993, "model": "P30"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1993,c2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1993, "model": "C2500 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1994,blazer,6.5l+v8+diesel+turbocharged,1050736", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1994, "model": "BLAZER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1993,k1500+suburban,5.7l+v8,1302141", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1993, "model": "K1500 SUBURBAN"}}}

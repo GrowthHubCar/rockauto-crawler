@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1973,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1973, "model": "LESABRE"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1971,centurion", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1971, "model": "CENTURION"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1974,estate+wagon,7.5l+455cid+v8,1441338", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1974, "model": "ESTATE WAGON"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1972,centurion,5.7l+350cid+v8,1013522", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1972, "model": "CENTURION"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1974,estate+wagon,5.7l+350cid+v8,1499837", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1974, "model": "ESTATE WAGON"}}}

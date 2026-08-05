@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1987,f-700", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1987, "model": "F-700"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1986,e-150,4.9l+300cid+l6,1111363", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1986, "model": "E-150"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1986,f-800,7.8l+473cid+l6+diesel+turbocharged,3296481", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1986, "model": "F-800"}}}

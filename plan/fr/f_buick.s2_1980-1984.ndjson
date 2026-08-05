@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1983,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1983, "model": "CENTURY"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1982,electra", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1982, "model": "ELECTRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1982,regal,5.0l+305cid+v8,1020496", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1982, "model": "REGAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1982,century,2.5l+151cid+l4,1014916", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1982, "model": "CENTURY"}}}

@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2025,supra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2025, "model": "SUPRA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2025,hiace", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2025, "model": "HIACE"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2025,highlander,2.5l+l4+electric/gas,3458255", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2025, "model": "HIGHLANDER"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2025,corolla,1.8l+l4+electric/gas,3457692", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2025, "model": "COROLLA"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2026,tundra,3.4l+v6+electric/gas+turbocharged,3459532", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2026, "model": "TUNDRA"}}}

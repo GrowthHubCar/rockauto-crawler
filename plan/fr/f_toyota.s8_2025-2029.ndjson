@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2026,raize", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2026, "model": "RAIZE"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2026,gr+corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2026, "model": "GR COROLLA"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2026,crown,2.5l+l4+electric/gas,3459048", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2026, "model": "CROWN"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2025,camry,2.5l+l4+electric/gas,3455870", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2025, "model": "CAMRY"}}}

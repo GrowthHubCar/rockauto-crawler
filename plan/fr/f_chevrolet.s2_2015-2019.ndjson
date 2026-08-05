@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2019,tornado", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2019, "model": "TORNADO"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,2015,silverado+3500,6.0l+v8,3307625", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2015, "model": "SILVERADO 3500"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,1972,crown", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1972, "model": "CROWN"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,1971,carina,1.6l+l4,1497748", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 1971, "model": "CARINA"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2022,e300", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "E300"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2024,gle450+suv", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2024, "model": "GLE450 SUV"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2024,glc43+amg,2.0l+l4+turbocharged,3455663", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2024, "model": "GLC43 AMG"}}}

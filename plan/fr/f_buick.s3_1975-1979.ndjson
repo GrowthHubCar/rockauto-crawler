@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1977,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1977, "model": "CENTURY"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1978,century,5.7l+350cid+v8,1014185", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1978, "model": "CENTURY"}}}

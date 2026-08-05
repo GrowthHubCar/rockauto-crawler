@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/renault,1950,4cv", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1950, "model": "4CV"}}}
-{"node_type": "model", "href": "/en/catalog/renault,1951,4cv", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1951, "model": "4CV"}}}
-{"node_type": "model", "href": "/en/catalog/renault,1952,4cv", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1952, "model": "4CV"}}}
-{"node_type": "model", "href": "/en/catalog/renault,1953,4cv", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1953, "model": "4CV"}}}
-{"node_type": "model", "href": "/en/catalog/renault,1954,4cv", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1954, "model": "4CV"}}}
-{"node_type": "model", "href": "/en/catalog/renault,1953,fregate", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1953, "model": "FREGATE"}}}
-{"node_type": "model", "href": "/en/catalog/renault,1954,fregate", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1954, "model": "FREGATE"}}}

@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/subaru,1985,gl", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1985, "model": "GL"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,1989,gl", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1989, "model": "GL"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,1986,brat", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1986, "model": "BRAT"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,1987,xt", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1987, "model": "XT"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,1988,rx", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1988, "model": "RX"}}}
-{"node_type": "carcode", "href": "/en/catalog/subaru,1989,loyale,1.8l+h4,2467", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 1989, "model": "LOYALE"}}}

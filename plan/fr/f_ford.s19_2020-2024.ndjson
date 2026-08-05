@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2021,escape", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2021, "model": "ESCAPE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2024,mustang,5.0l+v8,3454814", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2024, "model": "MUSTANG"}}}

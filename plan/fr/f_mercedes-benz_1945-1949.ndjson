@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1946,170+v", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1946, "model": "170 V"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1947,170+v", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1947, "model": "170 V"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1948,170+v", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1948, "model": "170 V"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1949,170+v", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1949, "model": "170 V"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1949,170+d", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1949, "model": "170 D"}}}

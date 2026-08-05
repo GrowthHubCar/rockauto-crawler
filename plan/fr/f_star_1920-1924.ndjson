@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/star,1922,four", "payload": {"nodetype": "model", "ctx": {"make": "STAR", "year": 1922, "model": "FOUR"}}}
-{"node_type": "model", "href": "/en/catalog/star,1923,four", "payload": {"nodetype": "model", "ctx": {"make": "STAR", "year": 1923, "model": "FOUR"}}}
-{"node_type": "model", "href": "/en/catalog/star,1924,model+f", "payload": {"nodetype": "model", "ctx": {"make": "STAR", "year": 1924, "model": "MODEL F"}}}

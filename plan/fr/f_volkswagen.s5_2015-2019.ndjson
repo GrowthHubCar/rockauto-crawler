@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2017,saveiro", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2017, "model": "SAVEIRO"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2015,beetle,2.5l+l5,3310260", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2015, "model": "BEETLE"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2022,m850i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "M850I"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2023,320i,2.0l+l4+turbocharged,3453466", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2023, "model": "320I"}}}

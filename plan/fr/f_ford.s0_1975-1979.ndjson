@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1979,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1979, "model": "THUNDERBIRD"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1977,f-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1977, "model": "F-350"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1976,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1976, "model": "E-250"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1975,f-100,5.9l+360cid+v8,1120127", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1975, "model": "F-100"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1978,ranchero,6.6l+400cid+v8,1136797", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1978, "model": "RANCHERO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1978,fairmont,2.3l+140cid+l4,1127551", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1978, "model": "FAIRMONT"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1976,maverick,4.1l+250cid+l6,1132265", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1976, "model": "MAVERICK"}}}

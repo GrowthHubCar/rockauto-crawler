@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2016,sprinter", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2016, "model": "SPRINTER"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2019,s560l", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2019, "model": "S560L"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2015,e350,3.5l+v6,3310040", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2015, "model": "E350"}}}

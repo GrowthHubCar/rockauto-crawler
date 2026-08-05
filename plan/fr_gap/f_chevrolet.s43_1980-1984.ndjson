@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,corvette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "CORVETTE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,monte+carlo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "MONTE CARLO"}}}

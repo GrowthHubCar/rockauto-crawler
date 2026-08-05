@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1987,skyhawk", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1987, "model": "SKYHAWK"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1986,skyhawk,2.0l+122cid+l4,1022678", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1986, "model": "SKYHAWK"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1985,regal,5.7l+350cid+v8+diesel,1368345", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1985, "model": "REGAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1986,skyhawk,1.8l+112cid+l4+turbocharged,1022735", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1986, "model": "SKYHAWK"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chrysler,2008,cirrus", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 2008, "model": "CIRRUS"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2006,300,2.7l+v6,1431855", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2006, "model": "300"}}}

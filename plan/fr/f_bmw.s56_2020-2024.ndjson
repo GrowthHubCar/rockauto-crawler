@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2021,m8", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "M8"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2020,530i,2.0l+l4+turbocharged,3444486", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2020, "model": "530I"}}}

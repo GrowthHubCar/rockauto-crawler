@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1985,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1985, "model": "REGAL"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1986,lesabre,3.8l+231cid+v6,1434207", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1986, "model": "LESABRE"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1985,century,3.0l+181cid+v6,1015366", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1985, "model": "CENTURY"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1985,electra,3.0l+181cid+v6,1017201", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1985, "model": "ELECTRA"}}}

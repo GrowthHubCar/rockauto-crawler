@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jeep,1964,universal", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1964, "model": "UNIVERSAL"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1962,f4-134", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1962, "model": "F4-134"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1964,f-134", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1964, "model": "F-134"}}}

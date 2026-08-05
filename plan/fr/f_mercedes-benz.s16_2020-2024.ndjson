@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2022,maybach+s680", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "MAYBACH S680"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2022,eqb+300", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "EQB 300"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2023,eqs+580+suv,electric,3454882", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "EQS 580 SUV"}}}

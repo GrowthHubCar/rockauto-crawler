@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2023,m135i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2023, "model": "M135I"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2020,x5,4.4l+v8+turbocharged,3444502", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2020, "model": "X5"}}}

@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2006,suburban+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "SUBURBAN 1500"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2009,hhr", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "HHR"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,2007,suburban+1500,6.0l+v8,1440258", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2007, "model": "SUBURBAN 1500"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,ssr,6.0l+v8,1432206", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "SSR"}}}

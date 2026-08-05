@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2023,maybach+s680", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "MAYBACH S680"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2024,eqb+300", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2024, "model": "EQB 300"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2024,cle53+amg,3.0l+l6+turbocharged,3455848", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2024, "model": "CLE53 AMG"}}}

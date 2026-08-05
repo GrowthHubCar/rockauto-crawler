@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jeep,1973,jeepster", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1973, "model": "JEEPSTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/jeep,1972,jeepster,4.2l+258cid+l6,1183834", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1972, "model": "JEEPSTER"}}}

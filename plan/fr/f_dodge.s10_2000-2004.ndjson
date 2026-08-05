@@ -1,4 +1,0 @@
-{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+4000,5.7l+v8,951342", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 4000"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2001,dakota,4.7l+v8,1430082", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "DAKOTA"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2001,neon,2.0l+l4,1432876", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "NEON"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+1500+pickup,4.7l+v8,1384736", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 1500 PICKUP"}}}

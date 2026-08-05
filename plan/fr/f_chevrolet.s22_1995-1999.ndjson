@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,c3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "C3500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,k2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "K2500 PICKUP"}}}

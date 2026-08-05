@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1967,230", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1967, "model": "230"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1967,230sl", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1967, "model": "230SL"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1969,250", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1969, "model": "250"}}}

@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/du+pont,1920,model+a", "payload": {"nodetype": "model", "ctx": {"make": "DU PONT", "year": 1920, "model": "MODEL A"}}}
-{"node_type": "model", "href": "/en/catalog/du+pont,1921,model+b", "payload": {"nodetype": "model", "ctx": {"make": "DU PONT", "year": 1921, "model": "MODEL B"}}}
-{"node_type": "model", "href": "/en/catalog/du+pont,1922,model+b", "payload": {"nodetype": "model", "ctx": {"make": "DU PONT", "year": 1922, "model": "MODEL B"}}}
-{"node_type": "model", "href": "/en/catalog/du+pont,1923,model+b", "payload": {"nodetype": "model", "ctx": {"make": "DU PONT", "year": 1923, "model": "MODEL B"}}}
-{"node_type": "model", "href": "/en/catalog/du+pont,1924,model+d", "payload": {"nodetype": "model", "ctx": {"make": "DU PONT", "year": 1924, "model": "MODEL D"}}}
-{"node_type": "model", "href": "/en/catalog/du+pont,1924,model+c", "payload": {"nodetype": "model", "ctx": {"make": "DU PONT", "year": 1924, "model": "MODEL C"}}}

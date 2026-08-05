@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chrysler,2004,concorde", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 2004, "model": "CONCORDE"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2001,cirrus,2.7l+v6,951282", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2001, "model": "CIRRUS"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2000,town+&+country,3.3l+v6,1361674", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2000, "model": "TOWN & COUNTRY"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2000,sebring,2.5l+v6,1361663", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2000, "model": "SEBRING"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2001,lhs,3.5l+v6,1371710", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2001, "model": "LHS"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2003,sebring,2.4l+l4+dohc,1412525", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2003, "model": "SEBRING"}}}

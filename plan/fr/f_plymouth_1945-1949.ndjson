@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/plymouth,1949,deluxe", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1949, "model": "DELUXE"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1947,special+deluxe", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1947, "model": "SPECIAL DELUXE"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1948,special+deluxe", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1948, "model": "SPECIAL DELUXE"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1947,p15+deluxe", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1947, "model": "P15 DELUXE"}}}
-{"node_type": "model", "href": "/en/catalog/plymouth,1949,suburban", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1949, "model": "SUBURBAN"}}}

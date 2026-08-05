@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/ford,2000,expedition", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2000, "model": "EXPEDITION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2000,f53", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2000, "model": "F53"}}}

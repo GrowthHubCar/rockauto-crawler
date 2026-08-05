@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/sunbeam,1965,rapier", "payload": {"nodetype": "model", "ctx": {"make": "SUNBEAM", "year": 1965, "model": "RAPIER"}}}
-{"node_type": "model", "href": "/en/catalog/sunbeam,1966,rapier", "payload": {"nodetype": "model", "ctx": {"make": "SUNBEAM", "year": 1966, "model": "RAPIER"}}}
-{"node_type": "model", "href": "/en/catalog/sunbeam,1965,alpine", "payload": {"nodetype": "model", "ctx": {"make": "SUNBEAM", "year": 1965, "model": "ALPINE"}}}
-{"node_type": "model", "href": "/en/catalog/sunbeam,1966,imp", "payload": {"nodetype": "model", "ctx": {"make": "SUNBEAM", "year": 1966, "model": "IMP"}}}
-{"node_type": "carcode", "href": "/en/catalog/sunbeam,1966,alpine,1.6l+l4,565", "payload": {"nodetype": "carcode", "ctx": {"make": "SUNBEAM", "year": 1966, "model": "ALPINE"}}}

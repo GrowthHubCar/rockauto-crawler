@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2018,s4", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2018, "model": "S4"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2015,a3,2.0l+l4+diesel+turbocharged,3310271", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2015, "model": "A3"}}}

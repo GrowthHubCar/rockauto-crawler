@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,1972,fastback", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1972, "model": "FASTBACK"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1973,panel", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1973, "model": "PANEL"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,1974,brasilia", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1974, "model": "BRASILIA"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,1974,dasher,1.5l+l4,1280821", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1974, "model": "DASHER"}}}

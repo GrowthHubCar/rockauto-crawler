@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jeep,1967,j-3500", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1967, "model": "J-3500"}}}
-{"node_type": "carcode", "href": "/en/catalog/jeep,1966,dispatcher,2.2l+134cid+l4,1341537", "payload": {"nodetype": "carcode", "ctx": {"make": "JEEP", "year": 1966, "model": "DISPATCHER"}}}

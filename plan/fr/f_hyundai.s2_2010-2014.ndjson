@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2014,tucson", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "TUCSON"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2014,genesis+coupe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2014, "model": "GENESIS COUPE"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2011,azera,3.3l+v6,1446395", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2011, "model": "AZERA"}}}

@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1960,sunliner", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1960, "model": "SUNLINER"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1961,country+squire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1961, "model": "COUNTRY SQUIRE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1962,country+squire,3.6l+221cid+v8,1490532", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1962, "model": "COUNTRY SQUIRE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1961,sunliner,6.4l+390cid+v8,1490030", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1961, "model": "SUNLINER"}}}

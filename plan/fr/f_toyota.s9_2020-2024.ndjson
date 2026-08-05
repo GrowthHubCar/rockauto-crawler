@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2022,4runner", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2022, "model": "4RUNNER"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2020,prius+c", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "PRIUS C"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2022,sienna,2.5l+l4+electric/gas,3450325", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2022, "model": "SIENNA"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2024,supra,3.0l+l6+turbocharged,3455736", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2024, "model": "SUPRA"}}}

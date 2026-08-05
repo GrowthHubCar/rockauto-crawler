@@ -1,5 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2024,crown", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2024, "model": "CROWN"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2020,hiace", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "HIACE"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2022,hilux,2.7l+l4,3451303", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2022, "model": "HILUX"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2024,tacoma,2.4l+l4+turbocharged,3455738", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2024, "model": "TACOMA"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2020,supra,3.0l+l6+turbocharged,3445051", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2020, "model": "SUPRA"}}}

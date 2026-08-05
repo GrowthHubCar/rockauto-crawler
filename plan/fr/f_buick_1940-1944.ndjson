@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1940,limited+series+90", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1940, "model": "LIMITED SERIES 90"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1941,century+series+60", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1941, "model": "CENTURY SERIES 60"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1941,special+series+40", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1941, "model": "SPECIAL SERIES 40"}}}

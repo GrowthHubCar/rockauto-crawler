@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/honda,2026,civic", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2026, "model": "CIVIC"}}}
-{"node_type": "carcode", "href": "/en/catalog/honda,2026,prelude,2.0l+l4+electric/gas,3459722", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 2026, "model": "PRELUDE"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mazda,1993,mx-3", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1993, "model": "MX-3"}}}
-{"node_type": "carcode", "href": "/en/catalog/mazda,1994,b4000,4.0l+v6,1190708", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1994, "model": "B4000"}}}

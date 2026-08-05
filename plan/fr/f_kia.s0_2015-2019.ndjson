@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/kia,2016,k900", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2016, "model": "K900"}}}
-{"node_type": "carcode", "href": "/en/catalog/kia,2016,rondo,2.0l+l4,3353902", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2016, "model": "RONDO"}}}

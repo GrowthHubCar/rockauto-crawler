@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2024,nivus", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2024, "model": "NIVUS"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2022,transporter,2.0l+l4+diesel+turbocharged,3451328", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2022, "model": "TRANSPORTER"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2025,tracker", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2025, "model": "TRACKER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2026,express+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2026, "model": "EXPRESS 2500"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,2026,corvette,6.2l+v8+electric/gas,3458363", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2026, "model": "CORVETTE"}}}

@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1989,k3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "K3500"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1985,forward", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1985, "model": "FORWARD"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1987,topkick,5.7l+350cid+v8,3295567", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1987, "model": "TOPKICK"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1986,k1500+suburban,6.2l+379cid+v8+diesel,1307304", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1986, "model": "K1500 SUBURBAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1988,s15+pickup,2.5l+151cid+l4,1164912", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1988, "model": "S15 PICKUP"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1987,s15+pickup,2.5l+151cid+l4,1164899", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1987, "model": "S15 PICKUP"}}}

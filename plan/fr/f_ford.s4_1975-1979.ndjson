@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1979,ranchero", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1979, "model": "RANCHERO"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1976,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1976, "model": "F-250"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1975,gran+torino", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1975, "model": "GRAN TORINO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1976,mustang+ii,2.8l+171cid+v6,1134560", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1976, "model": "MUSTANG II"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1978,pinto,2.8l+171cid+v6,1135235", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1978, "model": "PINTO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1975,granada,5.0l+302cid+v8,1129777", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1975, "model": "GRANADA"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1977,ranch+wagon,7.5l+460cid+v8,711", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1977, "model": "RANCH WAGON"}}}

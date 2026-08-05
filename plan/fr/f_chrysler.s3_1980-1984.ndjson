@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chrysler,1980,valiant", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1980, "model": "VALIANT"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,1981,cordoba", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1981, "model": "CORDOBA"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1981,cordoba,5.9l+360cid+v8,3353495", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1981, "model": "CORDOBA"}}}

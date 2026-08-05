@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2020,camry", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "CAMRY"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2024,hiace", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2024, "model": "HIACE"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2024,crown,2.5l+l4+electric/gas,3455178", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2024, "model": "CROWN"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2024,tundra,3.4l+v6+electric/gas+turbocharged,3454936", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2024, "model": "TUNDRA"}}}

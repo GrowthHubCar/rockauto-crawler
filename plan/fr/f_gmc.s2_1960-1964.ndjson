@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1961,suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1961, "model": "SUBURBAN"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1964,1000+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1964, "model": "1000 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1964,1500+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1964, "model": "1500 SERIES"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,1962,1000+series,4.3l+261cid+l6,1490569", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1962, "model": "1000 SERIES"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/fiat,2025,argo", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2025, "model": "ARGO"}}}
-{"node_type": "model", "href": "/en/catalog/fiat,2025,fastback", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2025, "model": "FASTBACK"}}}
-{"node_type": "model", "href": "/en/catalog/fiat,2025,pulse", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2025, "model": "PULSE"}}}

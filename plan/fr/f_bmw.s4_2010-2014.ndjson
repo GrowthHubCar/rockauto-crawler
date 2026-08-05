@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2012,750li", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2012, "model": "750LI"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2013,325i,3.0l+l6+turbocharged,3015154", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2013, "model": "325I"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2024,a4", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2024, "model": "A4"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2024,q8", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2024, "model": "Q8"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2024,sq8,electric,3454980", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2024, "model": "SQ8"}}}

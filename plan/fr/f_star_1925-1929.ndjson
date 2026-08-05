@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/star,1926,four", "payload": {"nodetype": "model", "ctx": {"make": "STAR", "year": 1926, "model": "FOUR"}}}
-{"node_type": "model", "href": "/en/catalog/star,1927,four", "payload": {"nodetype": "model", "ctx": {"make": "STAR", "year": 1927, "model": "FOUR"}}}
-{"node_type": "model", "href": "/en/catalog/star,1928,four", "payload": {"nodetype": "model", "ctx": {"make": "STAR", "year": 1928, "model": "FOUR"}}}
-{"node_type": "model", "href": "/en/catalog/star,1925,model+f-25", "payload": {"nodetype": "model", "ctx": {"make": "STAR", "year": 1925, "model": "MODEL F-25"}}}
-{"node_type": "model", "href": "/en/catalog/star,1926,six", "payload": {"nodetype": "model", "ctx": {"make": "STAR", "year": 1926, "model": "SIX"}}}
-{"node_type": "model", "href": "/en/catalog/star,1927,six", "payload": {"nodetype": "model", "ctx": {"make": "STAR", "year": 1927, "model": "SIX"}}}

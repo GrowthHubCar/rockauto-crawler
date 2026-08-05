@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/honda,2021,br-v", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2021, "model": "BR-V"}}}
-{"node_type": "carcode", "href": "/en/catalog/honda,2021,city,1.5l+l4,3455083", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 2021, "model": "CITY"}}}

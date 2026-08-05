@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2021,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2021, "model": "JETTA"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2022,polo,1.6l+l4,3455460", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2022, "model": "POLO"}}}

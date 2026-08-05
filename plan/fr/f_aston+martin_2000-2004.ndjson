@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/aston+martin,2003,db7", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2003, "model": "DB7"}}}
-{"node_type": "model", "href": "/en/catalog/aston+martin,2004,db7", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2004, "model": "DB7"}}}
-{"node_type": "model", "href": "/en/catalog/aston+martin,2003,vanquish", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2003, "model": "VANQUISH"}}}
-{"node_type": "model", "href": "/en/catalog/aston+martin,2004,vanquish", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 2004, "model": "VANQUISH"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,2001,db7,3.2l+l6+supercharged,1370742", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2001, "model": "DB7"}}}
-{"node_type": "carcode", "href": "/en/catalog/aston+martin,2000,db7,3.2l+l6+supercharged,1361157", "payload": {"nodetype": "carcode", "ctx": {"make": "ASTON MARTIN", "year": 2000, "model": "DB7"}}}

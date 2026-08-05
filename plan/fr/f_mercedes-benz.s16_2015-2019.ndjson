@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2016,s600l", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2016, "model": "S600L"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2019,c300,2.0l+l4+turbocharged,3443757", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2019, "model": "C300"}}}

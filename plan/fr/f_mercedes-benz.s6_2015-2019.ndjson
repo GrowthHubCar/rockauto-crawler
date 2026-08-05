@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2015,sl500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2015, "model": "SL500"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2018,cls400", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2018, "model": "CLS400"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2017,c63+amg,4.0l+v8+turbocharged,3436934", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2017, "model": "C63 AMG"}}}

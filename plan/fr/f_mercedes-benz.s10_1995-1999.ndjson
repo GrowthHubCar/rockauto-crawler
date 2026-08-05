@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,1997,cl600", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "CL600"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1998,e420,4.2l+v8,3318640", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "E420"}}}

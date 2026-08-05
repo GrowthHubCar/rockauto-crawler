@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volvo,2013,xc90", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2013, "model": "XC90"}}}
-{"node_type": "carcode", "href": "/en/catalog/volvo,2012,s40,2.5l+l5+turbocharged,3015776", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 2012, "model": "S40"}}}

@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2025,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2025, "model": "RANGER"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2026,f-600+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2026, "model": "F-600 SUPER DUTY"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2025,f-350+super+duty,6.7l+v8+diesel+turbocharged,3457854", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "F-350 SUPER DUTY"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2026,police+suv,3.3l+v6+electric/gas,3458534", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "POLICE SUV"}}}

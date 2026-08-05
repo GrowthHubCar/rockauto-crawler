@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lexus,2020,gx460", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2020, "model": "GX460"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2024,rz300e", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2024, "model": "RZ300E"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2023,is300", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2023, "model": "IS300"}}}
-{"node_type": "carcode", "href": "/en/catalog/lexus,2023,is350,3.5l+v6,3451180", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2023, "model": "IS350"}}}

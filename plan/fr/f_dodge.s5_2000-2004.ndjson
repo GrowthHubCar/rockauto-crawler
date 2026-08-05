@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/dodge,2004,sprinter+2500", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2004, "model": "SPRINTER 2500"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2004,intrepid,2.7l+v6,1424540", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "INTREPID"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2004,neon,2.0l+l4,1424595", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "NEON"}}}
-{"node_type": "carcode", "href": "/en/catalog/dodge,2002,durango,4.7l+v8,1384624", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "DURANGO"}}}

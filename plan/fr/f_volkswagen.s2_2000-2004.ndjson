@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2000,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2000, "model": "JETTA"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2004,eurovan,2.5l+l5,951814", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2004, "model": "EUROVAN"}}}

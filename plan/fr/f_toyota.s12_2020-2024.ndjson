@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2020,avalon", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "AVALON"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2024,gr+supra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2024, "model": "GR SUPRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2020,hilux,2.7l+l4,3446185", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2020, "model": "HILUX"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2024,venza,2.5l+l4+electric/gas,3455453", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2024, "model": "VENZA"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2012,125i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2012, "model": "125I"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2011,535i+gt,3.0l+l6+turbocharged,1446968", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2011, "model": "535I GT"}}}

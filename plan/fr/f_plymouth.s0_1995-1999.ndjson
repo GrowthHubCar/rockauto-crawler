@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/plymouth,1999,voyager", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1999, "model": "VOYAGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/plymouth,1999,grand+voyager,3.3l+v6,1356982", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1999, "model": "GRAND VOYAGER"}}}

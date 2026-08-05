@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2022,s4", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2022, "model": "S4"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2022,a4+allroad", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2022, "model": "A4 ALLROAD"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2021,rs+q3,2.5l+l5+turbocharged,3449650", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "RS Q3"}}}

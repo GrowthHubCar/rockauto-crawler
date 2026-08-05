@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/plymouth,1965,fury", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1965, "model": "FURY"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1967,valiant", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1967, "model": "VALIANT"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2022,x7", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "X7"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2021,m5,4.4l+v8+turbocharged,3446990", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2021, "model": "M5"}}}

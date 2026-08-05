@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,1974,2002", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1974, "model": "2002"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1970,2000cs", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1970, "model": "2000CS"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1974,2800", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1974, "model": "2800"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1971,2000", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1971, "model": "2000"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1970,1602", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1970, "model": "1602"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1972,2002tii", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1972, "model": "2002TII"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,1974,3.0cs", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1974, "model": "3.0CS"}}}

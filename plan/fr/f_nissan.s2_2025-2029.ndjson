@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/nissan,2026,z", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2026, "model": "Z"}}}
-{"node_type": "carcode", "href": "/en/catalog/nissan,2026,frontier,2.5l+l4+diesel+turbocharged,3462002", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2026, "model": "FRONTIER"}}}

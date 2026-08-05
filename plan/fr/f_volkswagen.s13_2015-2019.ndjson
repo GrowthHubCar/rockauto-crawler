@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2015,golf", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2015, "model": "GOLF"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2017,golf,1.4l+l4+turbocharged,3435564", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2017, "model": "GOLF"}}}

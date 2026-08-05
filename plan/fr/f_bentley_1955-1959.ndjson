@@ -1,9 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bentley,1955,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1955, "model": "CONTINENTAL"}}}
-{"node_type": "model", "href": "/en/catalog/bentley,1956,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1956, "model": "CONTINENTAL"}}}
-{"node_type": "model", "href": "/en/catalog/bentley,1957,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1957, "model": "CONTINENTAL"}}}
-{"node_type": "model", "href": "/en/catalog/bentley,1958,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1958, "model": "CONTINENTAL"}}}
-{"node_type": "model", "href": "/en/catalog/bentley,1959,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1959, "model": "CONTINENTAL"}}}
-{"node_type": "model", "href": "/en/catalog/bentley,1956,s+series", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1956, "model": "S SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/bentley,1957,s+series", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1957, "model": "S SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/bentley,1958,s+series", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1958, "model": "S SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/bentley,1959,s+series", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1959, "model": "S SERIES"}}}

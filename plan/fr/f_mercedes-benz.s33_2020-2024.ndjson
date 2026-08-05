@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2021,cla200", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2021, "model": "CLA200"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2023,eqe+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "EQE AMG"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2023,e300,2.0l+l4+turbocharged,3454477", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "E300"}}}

@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/aston+martin,1985,lagonda", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1985, "model": "LAGONDA"}}}
-{"node_type": "model", "href": "/en/catalog/aston+martin,1986,lagonda", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1986, "model": "LAGONDA"}}}
-{"node_type": "model", "href": "/en/catalog/aston+martin,1988,lagonda", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1988, "model": "LAGONDA"}}}
-{"node_type": "model", "href": "/en/catalog/aston+martin,1985,v-8", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1985, "model": "V-8"}}}
-{"node_type": "model", "href": "/en/catalog/aston+martin,1986,v-8", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1986, "model": "V-8"}}}
-{"node_type": "model", "href": "/en/catalog/aston+martin,1988,v-8", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1988, "model": "V-8"}}}
-{"node_type": "model", "href": "/en/catalog/aston+martin,1988,zagato", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1988, "model": "ZAGATO"}}}

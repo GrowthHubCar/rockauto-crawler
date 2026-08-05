@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2019,gle500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2019, "model": "GLE500"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2018,gla200,1.6l+l4+turbocharged,3444405", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2018, "model": "GLA200"}}}

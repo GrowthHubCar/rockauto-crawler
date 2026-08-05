@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chrysler,2003,sebring", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 2003, "model": "SEBRING"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2002,pt+cruiser,2.4l+l4,1398764", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2002, "model": "PT CRUISER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2003,sebring,2.4l+l4+sohc,1431886", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2003, "model": "SEBRING"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2003,intrepid,2.7l+v6,1412413", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2003, "model": "INTREPID"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2000,intrepid,2.7l+v6,1361630", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2000, "model": "INTREPID"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2003,pt+cruiser,2.4l+l4,1410534", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2003, "model": "PT CRUISER"}}}

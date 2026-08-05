@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2025,320i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2025, "model": "320I"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2026,520i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2026, "model": "520I"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2025,530i,2.0l+l4+turbocharged,3455492", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2025, "model": "530I"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2026,xm,4.4l+v8+electric/gas+turbocharged,3459292", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2026, "model": "XM"}}}

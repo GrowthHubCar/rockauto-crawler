@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/subaru,1986,gl", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1986, "model": "GL"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,1987,dl", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1987, "model": "DL"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,1987,brat", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1987, "model": "BRAT"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,1987,gl-10", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1987, "model": "GL-10"}}}
-{"node_type": "model", "href": "/en/catalog/subaru,1988,1600+gl", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1988, "model": "1600 GL"}}}
-{"node_type": "carcode", "href": "/en/catalog/subaru,1989,brat,1.8l+h4,2469", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 1989, "model": "BRAT"}}}

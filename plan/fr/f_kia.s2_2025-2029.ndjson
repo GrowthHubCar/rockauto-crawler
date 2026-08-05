@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/kia,2025,sonet", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2025, "model": "SONET"}}}
-{"node_type": "carcode", "href": "/en/catalog/kia,2025,seltos,1.4l+l4+turbocharged,3458648", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2025, "model": "SELTOS"}}}
-{"node_type": "carcode", "href": "/en/catalog/kia,2026,ev9,electric,3458640", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2026, "model": "EV9"}}}

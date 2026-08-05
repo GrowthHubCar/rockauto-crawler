@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2025,hb20", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2025, "model": "HB20"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2025,elantra,2.0l+l4+turbocharged,3457902", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2025, "model": "ELANTRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2026,ioniq+5,electric,3459118", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "IONIQ 5"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2025,kona,electric,3455589", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2025, "model": "KONA"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2026,caravelle", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2026, "model": "CARAVELLE"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2025,taigun,1.6l+l4,3458905", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2025, "model": "TAIGUN"}}}

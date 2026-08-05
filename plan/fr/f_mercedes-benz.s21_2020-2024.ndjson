@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2021,g500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2021, "model": "G500"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2023,sl43+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "SL43 AMG"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2022,glc300,2.0l+l4+electric/gas+turbocharged,3454172", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "GLC300"}}}

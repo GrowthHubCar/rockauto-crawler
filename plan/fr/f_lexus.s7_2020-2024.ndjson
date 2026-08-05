@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lexus,2024,rc350", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2024, "model": "RC350"}}}
-{"node_type": "model", "href": "/en/catalog/lexus,2022,ls500", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2022, "model": "LS500"}}}
-{"node_type": "carcode", "href": "/en/catalog/lexus,2024,is300,2.0l+l4+turbocharged,3455361", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2024, "model": "IS300"}}}
-{"node_type": "carcode", "href": "/en/catalog/lexus,2020,es350,3.5l+v6,3445287", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2020, "model": "ES350"}}}

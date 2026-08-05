@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chrysler,2002,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 2002, "model": "TOWN & COUNTRY"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2003,voyager,2.4l+l4,1412671", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2003, "model": "VOYAGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2003,town+&+country,3.3l+v6,1431474", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2003, "model": "TOWN & COUNTRY"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2000,intrepid,3.5l+v6,1438499", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2000, "model": "INTREPID"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2000,town+&+country,3.8l+v6,1361696", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2000, "model": "TOWN & COUNTRY"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2002,cirrus,2.7l+v6,951283", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2002, "model": "CIRRUS"}}}

@@ -1,6 +1,0 @@
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2001,town+&+country,3.3l+v6,1440404", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2001, "model": "TOWN & COUNTRY"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2000,cirrus,2.4l+l4,1366523", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2000, "model": "CIRRUS"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2003,pt+cruiser,2.4l+l4+turbocharged,1412468", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2003, "model": "PT CRUISER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2002,sebring,2.4l+l4+sohc,1431888", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2002, "model": "SEBRING"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2001,voyager,3.3l+v6,1440580", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2001, "model": "VOYAGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,2000,lhs,3.5l+v6,1361652", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 2000, "model": "LHS"}}}

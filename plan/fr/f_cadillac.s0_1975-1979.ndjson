@@ -1,6 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/cadillac,1976,commercial+chassis", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1976, "model": "COMMERCIAL CHASSIS"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,1975,deville", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1975, "model": "DEVILLE"}}}
-{"node_type": "model", "href": "/en/catalog/cadillac,1977,eldorado", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1977, "model": "ELDORADO"}}}
-{"node_type": "carcode", "href": "/en/catalog/cadillac,1979,deville,7.0l+425cid+v8,1025491", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1979, "model": "DEVILLE"}}}
-{"node_type": "carcode", "href": "/en/catalog/cadillac,1976,calais,8.2l+500cid+v8,1409363", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1976, "model": "CALAIS"}}}
-{"node_type": "carcode", "href": "/en/catalog/cadillac,1977,eldorado,7.0l+425cid+v8,1025918", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1977, "model": "ELDORADO"}}}

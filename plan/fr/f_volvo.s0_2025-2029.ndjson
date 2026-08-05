@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volvo,2025,v90", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2025, "model": "V90"}}}
-{"node_type": "carcode", "href": "/en/catalog/volvo,2025,xc90,2.0l+l4+electric/gas+turbocharged,3457706", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 2025, "model": "XC90"}}}
-{"node_type": "carcode", "href": "/en/catalog/volvo,2025,xc60,2.0l+l4+turbocharged,3457703", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 2025, "model": "XC60"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mitsubishi,2002,eclipse", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2002, "model": "ECLIPSE"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2004,lancer,2.0l+l4+turbocharged,1423022", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2004, "model": "LANCER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2003,eclipse,3.0l+v6,1410859", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2003, "model": "ECLIPSE"}}}

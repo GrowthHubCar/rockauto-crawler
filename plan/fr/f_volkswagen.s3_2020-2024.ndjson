@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2024,virtus", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2024, "model": "VIRTUS"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2024,amarok", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2024, "model": "AMAROK"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2020,golf,2.0l+l4+turbocharged,3445945", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2020, "model": "GOLF"}}}

@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2020,figo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2020, "model": "FIGO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2022,f-550+super+duty,7.3l+v8,3450636", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2022, "model": "F-550 SUPER DUTY"}}}

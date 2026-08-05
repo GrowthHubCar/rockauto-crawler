@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2021,gla45+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2021, "model": "GLA45 AMG"}}}
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2023,eqs+450+", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "EQS 450+"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2024,sprinter+4500,2.0l+l4+diesel+turbocharged,3458164", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2024, "model": "SPRINTER 4500"}}}

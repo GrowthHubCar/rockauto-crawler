@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2009,g500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2009, "model": "G500"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2007,sl550,5.5l+v8,1433423", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2007, "model": "SL550"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2006,r500,5.0l+v8,1432302", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2006, "model": "R500"}}}

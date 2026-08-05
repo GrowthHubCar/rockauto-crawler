@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/pontiac,1961,parisienne", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1961, "model": "PARISIENNE"}}}
-{"node_type": "model", "href": "/en/catalog/pontiac,1962,laurentian", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1962, "model": "LAURENTIAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1962,grand+prix,6.4l+389cid+v8,1350807", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1962, "model": "GRAND PRIX"}}}
-{"node_type": "carcode", "href": "/en/catalog/pontiac,1964,gto,3.5l+215cid+l6,1350481", "payload": {"nodetype": "carcode", "ctx": {"make": "PONTIAC", "year": 1964, "model": "GTO"}}}

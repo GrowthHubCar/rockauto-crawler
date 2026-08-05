@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2022,grand+i10", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "GRAND I10"}}}
-{"node_type": "model", "href": "/en/catalog/hyundai,2023,creta+grand", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "CRETA GRAND"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,ioniq,1.6l+l4+electric/gas,3448966", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "IONIQ"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,accent,1.6l+l4,3446919", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "ACCENT"}}}

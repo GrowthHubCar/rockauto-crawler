@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2022,tiguan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2022, "model": "TIGUAN"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2023,amarok", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2023, "model": "AMAROK"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2022,vento,1.6l+l4,3451537", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2022, "model": "VENTO"}}}

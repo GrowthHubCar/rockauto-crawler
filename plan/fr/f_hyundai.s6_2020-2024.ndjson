@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/hyundai,2021,veloster+n", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "VELOSTER N"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,ioniq+5,electric,3450710", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "IONIQ 5"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2023,santa+fe,1.6l+l4+electric/gas+turbocharged,3451128", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2023, "model": "SANTA FE"}}}
-{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,grand+i10,1.2l+l4,3455088", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "GRAND I10"}}}

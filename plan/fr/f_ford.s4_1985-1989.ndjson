@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1989,topaz", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1989, "model": "TOPAZ"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1989,ranger,2.0l+122cid+l4,36116", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1989, "model": "RANGER"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1987,l+series+truck,10.4l+636cid+v8+diesel,3411034", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1987, "model": "L SERIES TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1989,b+series+bus,7.0l+429cid+v8,3296198", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1989, "model": "B SERIES BUS"}}}

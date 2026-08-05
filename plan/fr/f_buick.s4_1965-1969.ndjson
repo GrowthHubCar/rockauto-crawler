@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/buick,1966,riviera", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1966, "model": "RIVIERA"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1967,sportwagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1967, "model": "SPORTWAGON"}}}
-{"node_type": "model", "href": "/en/catalog/buick,1967,gran+sport", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1967, "model": "GRAN SPORT"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1967,lesabre,5.6l+340cid+v8,1319048", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1967, "model": "LESABRE"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1966,lesabre,5.6l+340cid+v8,1319172", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1966, "model": "LESABRE"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1965,skylark,3.7l+225cid+v6,1319341", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1965, "model": "SKYLARK"}}}
-{"node_type": "carcode", "href": "/en/catalog/buick,1967,skylark,5.6l+340cid+v8,1319082", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1967, "model": "SKYLARK"}}}

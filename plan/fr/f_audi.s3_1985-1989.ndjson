@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,1985,4000", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 1985, "model": "4000"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,1985,4000,1.6l+l4+diesel,3323188", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 1985, "model": "4000"}}}

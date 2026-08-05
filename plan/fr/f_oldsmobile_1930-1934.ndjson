@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/oldsmobile,1930,viking", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1930, "model": "VIKING"}}}
-{"node_type": "model", "href": "/en/catalog/oldsmobile,1931,model+f-31", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1931, "model": "MODEL F-31"}}}
-{"node_type": "model", "href": "/en/catalog/oldsmobile,1932,model+l-32", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1932, "model": "MODEL L-32"}}}
-{"node_type": "model", "href": "/en/catalog/oldsmobile,1932,model+f-32", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1932, "model": "MODEL F-32"}}}
-{"node_type": "model", "href": "/en/catalog/oldsmobile,1933,model+l-33", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1933, "model": "MODEL L-33"}}}
-{"node_type": "model", "href": "/en/catalog/oldsmobile,1933,model+f-33", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1933, "model": "MODEL F-33"}}}
-{"node_type": "model", "href": "/en/catalog/oldsmobile,1934,model+f-34", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1934, "model": "MODEL F-34"}}}

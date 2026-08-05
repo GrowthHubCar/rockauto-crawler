@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2007,tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2007, "model": "TILTMASTER"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,2008,avalanche", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "AVALANCHE"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,impala,3.5l+v6,1443258", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "IMPALA"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,kodiak,7.2l+l6+diesel+turbocharged,3294772", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "KODIAK"}}}

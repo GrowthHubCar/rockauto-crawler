@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/porsche,2023,macan", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2023, "model": "MACAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/porsche,2022,911,4.0l+h6,3451266", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 2022, "model": "911"}}}

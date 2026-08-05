@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2023,s4", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2023, "model": "S4"}}}
-{"node_type": "model", "href": "/en/catalog/audi,2024,a4+allroad", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2024, "model": "A4 ALLROAD"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2023,r8,5.2l+v10,3452712", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "R8"}}}

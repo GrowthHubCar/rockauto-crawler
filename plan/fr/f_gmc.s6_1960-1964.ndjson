@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,1961,3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1961, "model": "3500"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1963,pb2500+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1963, "model": "PB2500 SERIES"}}}
-{"node_type": "model", "href": "/en/catalog/gmc,1962,3000", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1962, "model": "3000"}}}

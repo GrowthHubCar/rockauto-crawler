@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2026,transporter", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2026, "model": "TRANSPORTER"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2026,e-crafter+van", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2026, "model": "E-CRAFTER VAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2025,jetta,1.4l+l4+turbocharged,3458275", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2025, "model": "JETTA"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/audi,2022,a5", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2022, "model": "A5"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2021,a8,3.0l+v6+turbocharged,3451589", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2021, "model": "A8"}}}
-{"node_type": "carcode", "href": "/en/catalog/audi,2020,a5,2.0l+l4+turbocharged,3445952", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2020, "model": "A5"}}}

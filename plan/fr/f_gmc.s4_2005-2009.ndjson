@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/gmc,2009,yukon", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2009, "model": "YUKON"}}}
-{"node_type": "carcode", "href": "/en/catalog/gmc,2009,yukon+xl+1500,5.3l+v8,1443013", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2009, "model": "YUKON XL 1500"}}}

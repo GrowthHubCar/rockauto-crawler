@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ram,2022,4500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2022, "model": "4500"}}}
-{"node_type": "model", "href": "/en/catalog/ram,2022,2500", "payload": {"nodetype": "model", "ctx": {"make": "RAM", "year": 2022, "model": "2500"}}}
-{"node_type": "carcode", "href": "/en/catalog/ram,2022,promaster+2500,3.6l+v6,3451275", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2022, "model": "PROMASTER 2500"}}}
-{"node_type": "carcode", "href": "/en/catalog/ram,2021,1500,5.7l+v8,3446813", "payload": {"nodetype": "carcode", "ctx": {"make": "RAM", "year": 2021, "model": "1500"}}}

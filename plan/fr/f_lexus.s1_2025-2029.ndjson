@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/lexus,2026,rx450h", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2026, "model": "RX450H"}}}
-{"node_type": "carcode", "href": "/en/catalog/lexus,2026,lc500,5.0l+v8,3459435", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2026, "model": "LC500"}}}
-{"node_type": "carcode", "href": "/en/catalog/lexus,2025,rx350,2.4l+l4+turbocharged,3455617", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2025, "model": "RX350"}}}

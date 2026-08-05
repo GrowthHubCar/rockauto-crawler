@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2024,police+suv", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2024, "model": "POLICE SUV"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2021,transit,999cc+l3+turbocharged,3455068", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2021, "model": "TRANSIT"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2024,mustang,2.3l+l4+turbocharged,3454813", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2024, "model": "MUSTANG"}}}

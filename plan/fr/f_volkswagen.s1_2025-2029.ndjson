@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2026,tiguan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2026, "model": "TIGUAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2026,jetta,2.0l+l4+turbocharged,3459204", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2026, "model": "JETTA"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2025,saveiro,1.6l+l4,3458278", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2025, "model": "SAVEIRO"}}}

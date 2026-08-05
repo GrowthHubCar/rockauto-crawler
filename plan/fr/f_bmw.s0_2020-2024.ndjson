@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2020,z4", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2020, "model": "Z4"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2024,m440i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "M440I"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2023,840i,3.0l+l6+turbocharged,3451020", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2023, "model": "840I"}}}

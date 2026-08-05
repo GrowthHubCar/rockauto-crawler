@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2009,gl320", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2009, "model": "GL320"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2006,e55+amg,5.5l+v8+supercharged,1432296", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2006, "model": "E55 AMG"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2007,slr+mclaren,5.5l+v8+supercharged,1441955", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2007, "model": "SLR MCLAREN"}}}

@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/cupra,2021,leon", "payload": {"nodetype": "model", "ctx": {"make": "CUPRA", "year": 2021, "model": "LEON"}}}
-{"node_type": "model", "href": "/en/catalog/cupra,2024,leon", "payload": {"nodetype": "model", "ctx": {"make": "CUPRA", "year": 2024, "model": "LEON"}}}
-{"node_type": "model", "href": "/en/catalog/cupra,2021,ateca", "payload": {"nodetype": "model", "ctx": {"make": "CUPRA", "year": 2021, "model": "ATECA"}}}
-{"node_type": "model", "href": "/en/catalog/cupra,2023,ateca", "payload": {"nodetype": "model", "ctx": {"make": "CUPRA", "year": 2023, "model": "ATECA"}}}
-{"node_type": "model", "href": "/en/catalog/cupra,2023,formentor", "payload": {"nodetype": "model", "ctx": {"make": "CUPRA", "year": 2023, "model": "FORMENTOR"}}}
-{"node_type": "model", "href": "/en/catalog/cupra,2024,formentor", "payload": {"nodetype": "model", "ctx": {"make": "CUPRA", "year": 2024, "model": "FORMENTOR"}}}
-{"node_type": "model", "href": "/en/catalog/cupra,2024,cupra", "payload": {"nodetype": "model", "ctx": {"make": "CUPRA", "year": 2024, "model": "CUPRA"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercury,1996,sable", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1996, "model": "SABLE"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1998,mountaineer,5.0l+v8,1305212", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1998, "model": "MOUNTAINEER"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercury,1996,mystique,2.5l+v6,1203297", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1996, "model": "MYSTIQUE"}}}

@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1964,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1964, "model": "P-350"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1961,starliner", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1961, "model": "STARLINER"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1962,fairlane,3.6l+223cid+l6,1335507", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1962, "model": "FAIRLANE"}}}

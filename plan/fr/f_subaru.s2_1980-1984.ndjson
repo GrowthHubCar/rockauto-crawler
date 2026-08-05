@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/subaru,1984,dl", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1984, "model": "DL"}}}
-{"node_type": "carcode", "href": "/en/catalog/subaru,1983,glf,1.6l+h4,1728", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 1983, "model": "GLF"}}}

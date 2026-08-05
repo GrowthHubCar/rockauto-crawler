@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2014,tiguan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2014, "model": "TIGUAN"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2011,touareg,3.0l+v6+electric/gas+supercharged,1447511", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2011, "model": "TOUAREG"}}}

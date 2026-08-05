@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/volkswagen,2022,teramont", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2022, "model": "TERAMONT"}}}
-{"node_type": "model", "href": "/en/catalog/volkswagen,2023,arteon", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2023, "model": "ARTEON"}}}
-{"node_type": "carcode", "href": "/en/catalog/volkswagen,2024,jetta,1.4l+l4+turbocharged,3455458", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2024, "model": "JETTA"}}}

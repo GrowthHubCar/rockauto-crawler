@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2020,x1", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2020, "model": "X1"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2020,m135i,2.0l+l4+turbocharged,3445837", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2020, "model": "M135I"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2022,x5,3.0l+l6+turbocharged,3450487", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2022, "model": "X5"}}}

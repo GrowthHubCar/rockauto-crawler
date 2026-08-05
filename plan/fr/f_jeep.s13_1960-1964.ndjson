@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jeep,1962,fj3a", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1962, "model": "FJ3A"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1963,cj3", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1963, "model": "CJ3"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1963,j-220", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1963, "model": "J-220"}}}

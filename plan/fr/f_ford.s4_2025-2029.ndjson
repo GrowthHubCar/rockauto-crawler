@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2025,transit+250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2025, "model": "TRANSIT 250"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2026,transit+350,3.5l+v6+turbocharged,3459371", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "TRANSIT 350"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2025,f-350+super+duty,7.3l+v8,3457856", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "F-350 SUPER DUTY"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2026,mustang,2.3l+l4+turbocharged,3459096", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "MUSTANG"}}}

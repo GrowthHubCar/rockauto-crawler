@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2024,228i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "228I"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2022,330e,2.0l+l4+electric/gas+turbocharged,3450429", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2022, "model": "330E"}}}

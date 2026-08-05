@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/mercedes-benz,2017,s600l", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2017, "model": "S600L"}}}
-{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2019,g500,4.0l+v8+turbocharged,3443772", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2019, "model": "G500"}}}

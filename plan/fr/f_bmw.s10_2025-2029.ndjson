@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2026,760i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2026, "model": "760I"}}}
-{"node_type": "model", "href": "/en/catalog/bmw,2026,118i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2026, "model": "118I"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2026,330e,2.0l+l4+electric/gas+turbocharged,3459274", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2026, "model": "330E"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2025,m2,3.0l+l6+turbocharged,3455880", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2025, "model": "M2"}}}

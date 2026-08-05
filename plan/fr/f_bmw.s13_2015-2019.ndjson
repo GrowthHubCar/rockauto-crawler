@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2015,750i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2015, "model": "750I"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2017,320i,2.0l+l4+turbocharged,3434214", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2017, "model": "320I"}}}

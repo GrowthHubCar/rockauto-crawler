@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2008,fiesta", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2008, "model": "FIESTA"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2005,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "EXPLORER"}}}
-{"node_type": "model", "href": "/en/catalog/ford,2006,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "E-150"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2006,focus,2.0l+l4,1432170", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2006, "model": "FOCUS"}}}

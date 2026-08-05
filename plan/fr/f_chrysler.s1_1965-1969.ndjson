@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chrysler,1969,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1969, "model": "TOWN & COUNTRY"}}}
-{"node_type": "model", "href": "/en/catalog/chrysler,1966,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1966, "model": "NEWPORT"}}}
-{"node_type": "carcode", "href": "/en/catalog/chrysler,1966,300,7.2l+440cid+v8,1327159", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1966, "model": "300"}}}

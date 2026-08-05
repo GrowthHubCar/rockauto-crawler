@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,2020,transit+250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2020, "model": "TRANSIT 250"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2021,lobo,3.5l+v6+turbocharged,3448653", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2021, "model": "LOBO"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,2021,transit+150,3.5l+v6+turbocharged,3448680", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2021, "model": "TRANSIT 150"}}}

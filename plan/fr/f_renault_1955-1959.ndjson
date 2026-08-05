@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/renault,1958,dauphine", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1958, "model": "DAUPHINE"}}}
-{"node_type": "model", "href": "/en/catalog/renault,1959,dauphine", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1959, "model": "DAUPHINE"}}}
-{"node_type": "model", "href": "/en/catalog/renault,1955,4cv", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1955, "model": "4CV"}}}
-{"node_type": "model", "href": "/en/catalog/renault,1956,4cv", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1956, "model": "4CV"}}}
-{"node_type": "model", "href": "/en/catalog/renault,1957,4cv", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1957, "model": "4CV"}}}
-{"node_type": "model", "href": "/en/catalog/renault,1958,4cv", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1958, "model": "4CV"}}}
-{"node_type": "model", "href": "/en/catalog/renault,1959,4cv", "payload": {"nodetype": "model", "ctx": {"make": "RENAULT", "year": 1959, "model": "4CV"}}}

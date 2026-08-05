@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2003,suburban+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2003, "model": "SUBURBAN 2500"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,2004,suburban+2500,6.0l+v8,1424214", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2004, "model": "SUBURBAN 2500"}}}

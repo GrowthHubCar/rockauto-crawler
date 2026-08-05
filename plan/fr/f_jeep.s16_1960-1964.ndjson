@@ -1,3 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/jeep,1964,fc170hd", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1964, "model": "FC170HD"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1961,fc150", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1961, "model": "FC150"}}}
-{"node_type": "model", "href": "/en/catalog/jeep,1964,j-200", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1964, "model": "J-200"}}}

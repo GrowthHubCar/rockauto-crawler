@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/toyota,2023,supra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2023, "model": "SUPRA"}}}
-{"node_type": "model", "href": "/en/catalog/toyota,2020,gr+supra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "GR SUPRA"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2024,sienna,2.5l+l4+electric/gas,3455452", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2024, "model": "SIENNA"}}}
-{"node_type": "carcode", "href": "/en/catalog/toyota,2023,yaris,1.5l+l4,3454599", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2023, "model": "YARIS"}}}

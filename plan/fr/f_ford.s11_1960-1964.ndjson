@@ -1,4 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/ford,1964,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1964, "model": "RANCH WAGON"}}}
-{"node_type": "model", "href": "/en/catalog/ford,1960,country+squire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1960, "model": "COUNTRY SQUIRE"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1962,ranch+wagon,2.4l+144cid+l6,1335608", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1962, "model": "RANCH WAGON"}}}
-{"node_type": "carcode", "href": "/en/catalog/ford,1962,galaxie,4.8l+292cid+v8,1435670", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1962, "model": "GALAXIE"}}}

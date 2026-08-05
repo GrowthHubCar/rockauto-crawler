@@ -1,7 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1935,standard", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1935, "model": "STANDARD"}}}
-{"node_type": "model", "href": "/en/catalog/chevrolet,1935,master", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1935, "model": "MASTER"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1937,truck,3.5l+217cid+l6,952828", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1937, "model": "TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1939,truck,3.5l+217cid+l6,952919", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1939, "model": "TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1938,truck,3.5l+217cid+l6,952872", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1938, "model": "TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1935,truck,3.4l+207cid+l6,1485648", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1935, "model": "TRUCK"}}}
-{"node_type": "carcode", "href": "/en/catalog/chevrolet,1936,truck,3.4l+207cid+l6,1485698", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1936, "model": "TRUCK"}}}

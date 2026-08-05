@@ -1,2 +1,0 @@
-{"node_type": "model", "href": "/en/catalog/bmw,2017,m5", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2017, "model": "M5"}}}
-{"node_type": "carcode", "href": "/en/catalog/bmw,2019,420i,2.0l+l4+turbocharged,3443596", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2019, "model": "420I"}}}
