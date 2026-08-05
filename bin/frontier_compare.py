@@ -49,12 +49,37 @@ print(f"    pending {prev['pending']:,} -> {cur['pending']:,}   change {-dp:+,}"
 print(f"    drained {prev['drained']:,} -> {cur['drained']:,}   change "
       f"{cur['drained'] - prev['drained']:+,}")
 
-if dp <= 0:
-    print("\n  NO DRAIN. Pending frontier is flat or GROWING: the crawl is still")
-    print("  discovering work faster than it finishes it. No finite ETA can be")
-    print("  derived yet — dividing by this would invent a number.")
+if hrs < 0.5:
+    print(f"\n  WINDOW TOO SHORT ({hrs:.2f} h). Per-run noise swamps the trend below")
+    print("  ~30 min — a 75-second window once implied a 0.2h ETA. Need >= 0.5 h.")
+    raise SystemExit(0)
+
+# RAW `pending` IS CONFOUNDED and must never drive the ETA on its own: it is the sum
+# over whatever lanes reported in that one run, and that count swings (1,318 -> 764
+# across two real readings). Pending then "falls" purely because fewer lanes reported.
+# Both metrics below are RATIOS, so sample size cancels out.
+def per_lane(d):
+    return d["pending"] / d["live"] if d["live"] else 0.0
+
+
+def frac(d):
+    return 100 * d["drained"] / max(d["drained"] + d["live"], 1)
+
+
+print(f"\n  pending per live lane : {per_lane(prev):.0f} -> {per_lane(cur):.0f}"
+      f"  ({per_lane(cur) - per_lane(prev):+.0f})")
+print(f"  units drained         : {frac(prev):.1f}% -> {frac(cur):.1f}%"
+      f"  ({frac(cur) - frac(prev):+.1f} pts)")
+
+d_frac = frac(cur) - frac(prev)
+if d_frac <= 0:
+    print("\n  NO DRAIN. The drained-unit fraction is flat or falling: the crawl is")
+    print("  still opening work as fast as it retires it. No finite ETA — dividing")
+    print("  by this would invent a number.")
 else:
-    rate = dp / hrs
-    print(f"\n  drain rate: {rate:,.0f} pending-nodes/hour")
-    print(f"  ETA at this rate: {cur['pending'] / rate:.1f} h")
-    print("  (assumes the drain rate holds; it accelerates as units near exhaustion)")
+    pts_per_h = d_frac / hrs
+    remaining_h = (100 - frac(cur)) / pts_per_h
+    print(f"\n  drain rate : {pts_per_h:.1f} percentage points/hour")
+    print(f"  ETA (floor): {remaining_h:.1f} h to 100% of units retired")
+    print("  FLOOR, not a point estimate — the last units are the fattest and the")
+    print("  curve flattens near the end, so treat this as the optimistic bound.")
