@@ -370,6 +370,19 @@ a.cl-name:hover{color:var(--m-red)}
   .footer-inner{grid-template-columns:1fr 1fr; gap:40px}
   .footer-inner .fbrand,.footer-inner .fnews{grid-column:span 2}
 }
+/* The 2-column footer never collapsed further, so on a 375px phone each column was
+   ~150px: "Quick Links" broke onto two lines and the contact address was cut mid-word
+   ("1212 Motorway Drive, Detrc"). One column below 560px. */
+@media (max-width:560px){
+  .footer-inner{grid-template-columns:1fr; gap:32px; padding:44px 20px 36px}
+  .footer-inner .fbrand,.footer-inner .fnews{grid-column:span 1}
+  .footer-inner h5{white-space:nowrap; margin-bottom:14px}
+  /* the address is the longest string down here; it must wrap rather than clip */
+  .footer-inner li,.footer-inner ul a,.footer-inner .fcontact span{overflow-wrap:anywhere}
+  .footer-inner .fbrand p{max-width:none}
+  .footer-base .wrap{padding:20px; gap:10px}
+  .footer-base .sp{flex:none; width:100%}
+}
 @media (max-width:900px){
   .cart-wrap{grid-template-columns:1fr}
   .cart-summary{position:static}
@@ -423,8 +436,27 @@ a.cl-name:hover{color:var(--m-red)}
 @media (max-width:640px){
   .phero-im{inset:auto 0 0 0; height:36%; clip-path:polygon(0 16%,100% 0,100% 100%,0 100%)}
   .phero-im::after{background:linear-gradient(0deg,rgba(10,10,10,.35) 0,#0a0a0a 100%)}
-  .phero-body{padding:26px 24px calc(36% + 20px)}
-  .phero-rail>div{padding:0 14px}
+  /* Percentage padding resolves against WIDTH, not height: `calc(36% + 20px)` was
+     reserving ~155px under the copy on a 375px screen, which read as a large empty
+     band. The photo is 36% of HEIGHT, so reserve in vh instead. */
+  .phero-body{padding:26px 20px; min-height:auto; gap:16px}
+  .phero-t{gap:12px}
+  /* The rail is a WRAPPING flex row: once the three figures wrapped to their own
+     lines they each kept `padding:0 20px` + `border-left`, so every number started at
+     a different x. That ragged stagger is what reads as broken. Grid them instead:
+     one per row, shared left edge, hairline above rather than beside. */
+  .phero-rail{display:grid; grid-template-columns:1fr; gap:0; margin-top:2px}
+  .phero-rail>div{padding:10px 0; border-left:0; border-top:1px solid #2b2b2b; justify-content:flex-start}
+  .phero-rail>div:first-child{border-top:0; padding-top:0}
+  .phero-rail dt{font-size:22px}
+  .phero-rail dd{font-size:12px; letter-spacing:1px}
+}
+/* Reserve for the photo band. It is 36% of the HERO's height, and the hero's height is
+   content + this padding, so P >= 0.36 * (content + P). With ~200px of copy that solves
+   to ~112px. A fixed 120px is predictable; 28vh measured 227px on an 812px screen,
+   which is worse than the calc(36%) it replaced. */
+@media (max-width:640px){
+  .phero-body{padding-bottom:120px}
 }
 
 /* ===== Shop drill-down bar ===== */

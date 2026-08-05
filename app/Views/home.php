@@ -177,9 +177,20 @@ select.control{appearance:none;background-image:url("data:image/svg+xml;utf8,<sv
 .mstep .mh .cv{transition:transform .3s var(--ease)}
 .mstep.open .mh .cv{transform:rotate(180deg)}
 .mstep .mb{max-height:0;overflow:hidden;transition:max-height .35s var(--ease)}
-.mstep.open .mb{max-height:340px;overflow-y:auto}
+/* 340px showed ~8 of 305 makes and read as "the list is cut off". Viewport-relative
+   so the open step uses the space a phone actually has, with -webkit-overflow-scrolling
+   for momentum on iOS. */
+.mstep.open .mb{max-height:min(62vh,460px);overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain}
 .mstep .mb .opt{margin:0 12px}
 .mstep[aria-disabled="true"]{opacity:.5}
+/* Filter pinned inside the scroll region so it stays reachable while scrolling a
+   long list. Injected by mRender() only when the step has more than 8 options. */
+.mstep .mfilt{position:sticky;top:0;z-index:2;background:var(--canvas);padding:10px 12px;border-bottom:1px solid var(--hairline)}
+.mstep .mfilt input{width:100%;height:44px;padding:0 14px;font:inherit;font-size:15px;color:var(--ink);
+  background:var(--surface-card);border:1px solid var(--hairline);border-radius:0;outline:0}
+.mstep .mfilt input::placeholder{color:var(--mute)}
+.mstep .mfilt input:focus{border-color:var(--ink)}
+.mstep .mb .opt[hidden]{display:none}
 
 /* ===== BRAND MARQUEE ===== */
 .brands{padding:var(--sec-pad) 0;background:var(--canvas);border-bottom:1px solid var(--hairline)}
@@ -342,17 +353,37 @@ select.control{appearance:none;background-image:url("data:image/svg+xml;utf8,<sv
   .trust .wrap{grid-template-columns:1fr 1fr}.trust .b:nth-child(2){border-right:0}.trust .b{border-bottom:1px solid var(--hairline)}
 }
 @media (max-width:560px){
-  .wrap{padding:0 24px}
-  .hero .wrap{padding:64px 24px 68px}
-  .hero-cta .btn{flex:1}
-  .hero-stats>div{padding:2px 20px}
+  .wrap{padding:0 20px}
+  .hero .wrap{padding:56px 20px 60px}
+  /* `flex:1` split the two CTAs into ~150px each, so "Browse the catalog" wrapped to
+     three lines with the arrow orphaned on its own row. Stack them full-width: one
+     tap target per row, label on one line. */
+  .hero-cta{flex-direction:column;align-items:stretch;gap:10px}
+  .hero-cta .btn{flex:none;width:100%;white-space:nowrap}
+  /* Stats were a ragged inline row with vertical rules that collapsed to nothing.
+     A 3-up grid keeps the numbers on a shared baseline instead of drifting left. */
+  .hero-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:0;text-align:left}
+  .hero-stats>div{padding:0 0 0 12px;border-left:1px solid rgba(255,255,255,.18)}
+  .hero-stats>div:first-child{padding-left:0;border-left:0}
   .grid2{grid-template-columns:1fr}
   .cats .sec-head{flex-direction:column;align-items:flex-start;gap:20px}
   .catgrid{grid-template-columns:1fr}.ccard.feat,.ccard.wide{grid-column:span 1}.ccard.wide{flex-direction:column}.ccard.wide .im{width:auto}
   .trust .wrap{grid-template-columns:1fr}.trust .b{border-right:0}
-  .hp-footer .ftop{grid-template-columns:1fr 1fr}.hp-footer .fbrand{grid-column:span 2}
+  .hp-footer .ftop{grid-template-columns:1fr 1fr;gap:32px 24px}.hp-footer .fbrand{grid-column:span 2}
   .news .row{flex-direction:column}.news .btn{width:100%}
   .totop{right:16px;bottom:16px}
+}
+/* Below ~430px two footer columns leave ~150px each: "Quick Links" breaks onto two
+   lines and the contact address is cut off mid-word ("Detrc..."). One column per row
+   is the only honest fit at this width. */
+@media (max-width:430px){
+  .hp-footer .ftop{grid-template-columns:1fr;gap:28px;padding:48px 0 36px}
+  .hp-footer .fbrand{grid-column:span 1}
+  .hp-footer .fcol h4{margin-bottom:12px;white-space:nowrap}
+  /* the address is the longest string in the footer and must wrap, not clip */
+  .hp-footer .fcol li,.hp-footer .fcol a,.hp-footer .fcol span{overflow-wrap:anywhere;word-break:normal}
+  .hero-stats{grid-template-columns:1fr;gap:10px}
+  .hero-stats>div{padding:0;border-left:0}
 }
 /* ===== LIGHT-THEME RECONCILIATION (BMW-M light) ===== */
 /* hero is the one dark photo band on the light page */
@@ -949,6 +980,29 @@ select.control{appearance:none;background-image:url("data:image/svg+xml;utf8,<sv
     var b=mBody(step);if(!b)return;
     if(!items.length){b.innerHTML='<div class="opt" style="color:var(--mute)">None found</div>';return}
     b.innerHTML='';
+    // Make is 305 options and Model runs to the hundreds. Scrolling a flat list on a
+    // phone to reach "VOLKSWAGEN" is not usable, so anything long gets a filter box
+    // pinned to the top of the scroll region. The desktop .col already has one
+    // (.filt); this is its mobile counterpart.
+    if(items.length>8){
+      var f=document.createElement('div');f.className='mfilt';
+      f.innerHTML='<input type="text" autocomplete="off" placeholder="Search '+esc(step==='cat'?'categories':step+'s')+'" aria-label="Filter '+esc(step)+' options">';
+      b.appendChild(f);
+      var inp=f.querySelector('input');
+      inp.addEventListener('input',function(){
+        var q=inp.value.trim().toLowerCase(),shown=0;
+        b.querySelectorAll('.opt').forEach(function(o){
+          var hit=!q||(o.dataset.t||'').toLowerCase().indexOf(q)>-1;
+          o.hidden=!hit;if(hit)shown++;
+        });
+        var none=b.querySelector('.mnone');
+        if(!shown){if(!none){none=document.createElement('div');none.className='opt mnone';none.style.color='var(--mute)';none.textContent='No match';b.appendChild(none)}none.hidden=false}
+        else if(none)none.hidden=true;
+      });
+      // typing must not bubble to the .mb keydown handler, which treats Enter/Space
+      // as "choose the focused option" and arrows as list navigation
+      inp.addEventListener('keydown',function(ev){ev.stopPropagation()});
+    }
     items.forEach(function(it){var o=document.createElement('div');o.className='opt';
       o.setAttribute('role','option');o.tabIndex=-1;o.dataset.v=valfn(it);o.dataset.t=txtfn(it);
       var n=countfn?countfn(it):null;
