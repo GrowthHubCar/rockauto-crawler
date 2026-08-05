@@ -385,6 +385,16 @@ select.control{appearance:none;background-image:url("data:image/svg+xml;utf8,<sv
   .hero-stats{grid-template-columns:1fr;gap:10px}
   .hero-stats>div{padding:0;border-left:0}
 }
+/* The findbar deliberately overlaps the hero by -96px on desktop, where the hero is
+   tall enough to absorb it. On a phone the hero is ~half that height, so the white
+   panel landed ON TOP of the stats row: "52K+ Vehicles" was physically covered by
+   .findbar. Verified by hit-testing each text node's centre with elementFromPoint,
+   which is the only way to see overlap; scrollWidth and computed styles cannot.
+   Below 900px the panel sits below the hero instead of biting into it. */
+@media (max-width:900px){
+  .findbar-wrap{margin-top:0}
+  .hero .wrap{padding-bottom:44px}
+}
 /* ===== LIGHT-THEME RECONCILIATION (BMW-M light) ===== */
 /* hero is the one dark photo band on the light page */
 .hero{background:#000}

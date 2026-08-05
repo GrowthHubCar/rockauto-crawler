@@ -1068,3 +1068,22 @@ a.pd2-brand:hover{color:var(--m-red)}
 .fnews-msg{margin:12px 0 0; font-size:14px; font-weight:300}
 .fnews-msg.is-ok{color:#7ee2a8}
 .fnews-msg.is-bad{color:#ff8a80}
+
+/* ===== Brands page search ===== */
+/* Matches the .drill/.filt search affordance used on the shop page so the two pages
+   read as one system. 44px tall so it is a valid touch target on phones. */
+.brandfilter{position:relative; display:flex; align-items:center; gap:10px; max-width:460px;
+  margin:0 0 10px; padding:0 14px; height:48px;
+  background:var(--surface-card); border:1px solid var(--hairline)}
+.brandfilter svg{color:var(--mute); flex:0 0 auto}
+.brandfilter input{flex:1; height:100%; min-width:0; border:0; outline:0; background:none;
+  font:inherit; font-size:15px; color:var(--ink); appearance:none}
+.brandfilter input::placeholder{color:var(--mute)}
+.brandfilter input::-webkit-search-cancel-button{display:none}
+.brandfilter:focus-within{border-color:var(--ink)}
+.brandfilter button{flex:0 0 auto; width:28px; height:28px; border:0; background:none; cursor:pointer;
+  color:var(--mute); font-size:20px; line-height:1; padding:0}
+.brandfilter button:hover{color:var(--ink)}
+.brandcount{margin:0 0 18px; font-size:14px; color:var(--mute); min-height:1.2em}
+.brandgrid .brandcard[hidden]{display:none}
+@media (max-width:560px){ .brandfilter{max-width:none} }
