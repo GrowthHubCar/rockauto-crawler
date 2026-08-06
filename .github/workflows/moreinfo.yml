@@ -48,11 +48,21 @@ jobs:
       - name: Preflight — is this runner's IP walled?
         id: pf
         run: |
+          # Use the SAME deep leaf URL crawl.yml probes, and the same content check.
+          # My first version probed the bare /en/catalog/ and every runner came back
+          # http=000000 (curl failed outright), so `ok` was never 1, every later step
+          # skipped, and 27 jobs reported SUCCESS having fetched nothing. A status-code
+          # check on the wrong URL is indistinguishable from a walled IP.
           UA='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36'
-          CODE=$(curl -s -o /dev/null -w '%{http_code}' --max-time 12 -A "$UA" \
-                 'https://www.rockauto.com/en/catalog/' || echo 000)
-          echo "http=$CODE"
-          if [ "$CODE" = "200" ]; then echo "ok=1" >> "$GITHUB_OUTPUT"; else echo "ok=0" >> "$GITHUB_OUTPUT"; fi
+          PROBE='https://www.rockauto.com/en/catalog/ac,1947,two-litre,2.0l+122cid+l6,1486554,cooling+system,coolant+/+antifreeze,11393'
+          live=0
+          for _ in 1 2; do   # twice: one dropped connection must not cost a whole job
+            curl -sS --compressed --max-time 10 -A "$UA" "$PROBE" \
+              | grep -q 'ranavnode\|navlabellink\|listing-\|nchildren' && { live=1; break; }
+            sleep 2
+          done
+          echo "ok=$live" >> "$GITHUB_OUTPUT"
+          [ "$live" = 1 ] || echo "[preflight] runner IP is walled — skipping the rest so the slot recycles"
 
       - uses: actions/checkout@v4
         if: steps.pf.outputs.ok == '1'
@@ -109,5 +119,6 @@ jobs:
         with:
           name: moreinfo-${{ matrix.index }}
           path: out/*.ndjson
-          if-no-files-found: ignore
+          # `ignore` is how the first canary hid 27 empty jobs. warn surfaces it.
+          if-no-files-found: warn
           retention-days: 30
