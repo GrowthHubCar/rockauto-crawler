@@ -85,7 +85,11 @@ DL_PACE = float(os.getenv("SP_SYNC_DL_PACE", "0.2"))
 # Parallel artifact downloads. Each artifact lands in its own -D subdir so workers
 # cannot collide; 6 keeps well inside the 5,000/h API budget (~1,000/h needed).
 DL_WORKERS = int(os.getenv("SP_SYNC_DL_WORKERS", "6"))
-GH = r"C:\Program Files\GitHub CLI\gh.exe"
+# Paths differ per host: XAMPP on the dev laptop, distro packages on the VPS that
+# runs ingest in production. Resolve rather than hardcode, so one file serves both.
+_WIN = os.name == "nt"
+GH = os.getenv("SP_GH_BIN") or (
+    r"C:\Program Files\GitHub CLI\gh.exe" if _WIN else (shutil.which("gh") or "/usr/bin/gh"))
 MYSQLD = r"C:\xampp\mysql\bin\mysqld.exe"
 MYSQL_INI = r"C:\xampp\mysql\bin\my.ini"
 PY = sys.executable  # same interpreter that launched us
@@ -105,10 +109,15 @@ def ensure_db() -> bool:
         return True
     log("MariaDB down — starting mysqld…")
     try:
-        # Detached so it keeps running after this script exits.
-        flags = 0x00000008 | 0x00000200  # DETACHED_PROCESS | CREATE_NEW_PROCESS_GROUP
-        subprocess.Popen([MYSQLD, f"--defaults-file={MYSQL_INI}", "--standalone"],
-                         creationflags=flags, close_fds=True)
+        if _WIN:
+            # Detached so it keeps running after this script exits.
+            flags = 0x00000008 | 0x00000200  # DETACHED_PROCESS | CREATE_NEW_PROCESS_GROUP
+            subprocess.Popen([MYSQLD, f"--defaults-file={MYSQL_INI}", "--standalone"],
+                             creationflags=flags, close_fds=True)
+        else:
+            # On the VPS mariadb is a systemd unit; launching mysqld by hand would
+            # fight the service manager and start a second server on the same datadir.
+            _run(["systemctl", "start", "mariadb"], capture_output=True, text=True)
     except Exception as exc:  # noqa: BLE001
         log(f"could not launch mysqld: {exc}")
         return False
@@ -375,7 +384,11 @@ def _acquire_lock() -> bool:
             # so after a reboot the recorded pid can belong to an unrelated python and
             # the pid check alone would refuse to ever run again (silent ingest death).
             try:
-                boot = time.time() - ctypes.windll.kernel32.GetTickCount64() / 1000.0
+                if _WIN:
+                    boot = time.time() - ctypes.windll.kernel32.GetTickCount64() / 1000.0
+                else:
+                    with open("/proc/uptime", encoding="utf-8") as fh:
+                        boot = time.time() - float(fh.read().split()[0])
                 if os.path.getmtime(LOCK_FILE) < boot:
                     log("clearing lock left by a pre-reboot run")
                     os.unlink(LOCK_FILE)
@@ -387,9 +400,21 @@ def _acquire_lock() -> bool:
                     pid = int((fh.read() or "0").strip() or 0)
             except (OSError, ValueError):
                 pid = 0
-            alive = pid > 0 and _run(
-                ["tasklist", "/FI", f"PID eq {pid}", "/NH"],
-                capture_output=True, text=True).stdout.strip().startswith("python")
+            if pid <= 0:
+                alive = False
+            elif _WIN:
+                alive = _run(["tasklist", "/FI", f"PID eq {pid}", "/NH"],
+                             capture_output=True, text=True
+                             ).stdout.strip().startswith("python")
+            else:
+                # signal 0 tests existence without delivering anything; then confirm
+                # it is OUR script, not a recycled pid owned by something unrelated.
+                try:
+                    os.kill(pid, 0)
+                    with open(f"/proc/{pid}/cmdline", "rb") as fh:
+                        alive = "auto_sync" in fh.read().decode(errors="replace")
+                except OSError:
+                    alive = False
             if alive:
                 log(f"another auto_sync is running (pid {pid}) — exiting")
                 return False
@@ -399,6 +424,62 @@ def _acquire_lock() -> bool:
             except OSError:
                 return False
     return False
+
+
+def prune_artifacts(done: set) -> None:
+    """Delete downloaded run directories that are already ingested.
+
+    Nothing ever removed these. On the VPS they reached 63 GB / 1,687 directories and
+    took the box from 101 GB free to 37 GB; the identical leak filled the dev laptop's
+    C: drive earlier the same day. A run dir is deleted ONLY when its id is in the
+    state file, i.e. proven loaded - never on age or size."""
+    import re as _re
+    removed = freed = 0
+    for path in glob.glob(os.path.join(DL_DIR, "*", "*")):
+        rid = os.path.basename(path)
+        if not (os.path.isdir(path) and _re.match(r"^\d{6,}$", rid)):
+            continue
+        if not any(k.endswith("#" + rid) or k == rid for k in done):
+            continue
+        sz = 0
+        for root, _dirs, files in os.walk(path):
+            for f in files:
+                try:
+                    sz += os.path.getsize(os.path.join(root, f))
+                except OSError:
+                    pass
+        shutil.rmtree(path, ignore_errors=True)
+        removed += 1
+        freed += sz
+    if removed:
+        log(f"pruned {removed} ingested run dir(s), freed {freed / 1024**3:.2f} GB")
+
+
+def drain_orphan_staging() -> None:
+    """Run the loader when stg_listings holds unprocessed rows we did not just stage.
+
+    process_run() invokes the loader only after IT stages a run. Rows staged by any
+    other path - a manual ingest_artifacts.py, a recovery script, a cycle killed
+    mid-flight - are never applied, because a sync that finds no new runs exits without
+    ever looking at staging. 1,973,865 rows sat stranded exactly this way."""
+    try:
+        conn = db.connect()
+        with conn.cursor() as cur:
+            cur.execute("SELECT COUNT(*) AS n FROM stg_listings WHERE processed=0")
+            row = cur.fetchone()
+            n = (row["n"] if isinstance(row, dict) else row[0]) or 0
+        conn.close()
+    except Exception as exc:  # noqa: BLE001
+        log(f"orphan-staging check skipped: {exc}")
+        return
+    if n <= 0:
+        return
+    log(f"{n:,} unprocessed staging rows with no new run — running the loader")
+    out = _run([PY, os.path.join("bin", "loader.py")],
+               capture_output=True, text=True, cwd=ROOT)
+    tail = (out.stdout or out.stderr or "").strip().splitlines()
+    if tail:
+        log("  loader: " + tail[-1][:200])
 
 
 def main() -> int:
@@ -462,6 +543,8 @@ def _main_locked() -> int:
     # maybe_dispatch may have left gh switched to a fork owner — restore the primary.
     _run([GH, "auth", "switch", "--user", REPO.split("/")[0]],
                    capture_output=True, text=True, cwd=ROOT)
+    prune_artifacts(done)
+    drain_orphan_staging()
     cleanup_staging()
     log("=== auto_sync done ===")
     return 0
