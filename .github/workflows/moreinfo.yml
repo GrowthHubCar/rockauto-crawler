@@ -1,0 +1,113 @@
+# Moreinfo backfill — fetch each part's detail page (description / specs / alternate
+# part numbers) and ship the result as NDJSON for the VPS loader to apply.
+#
+# WHY THIS IS A SEPARATE WORKFLOW FROM crawl.yml
+# The listing crawl walks a frontier and needs per-unit cache state. This walks a FLAT
+# key list (sku -> "pk,cc,pt") with no tree, no frontier, no resume cache. Modelling it
+# as a crawl unit would drag in machinery it does not need.
+#
+# WHY DIRECT AND NOT THE API GATEWAY
+# bin/crawl_moreinfo_jsonl.py was written for the EC2 fleet and defaults to AWS
+# API-Gateway IP rotation. Those accounts are suspended, and on Actions every runner is
+# already its own egress IP, so --direct fetches from the runner and the gateway import
+# never happens.
+#
+# RESUME MODEL
+# There is deliberately no cross-run cache. ingest_moreinfo_jsonl.py sets
+# parts.moreinfo_done=1, and plan/mi_keys.tsv.gz is regenerated from the DB between
+# rounds, so finished skus simply fall out of the next key file. Re-running a round is
+# harmless: the loader is idempotent.
+name: RockAuto Moreinfo Backfill
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_seconds:
+        description: Per-job crawl budget (seconds)
+        default: '900'
+
+# One round at a time per account, same as the crawl, so rounds cannot stack.
+concurrency:
+  group: moreinfo-${{ github.repository }}
+  cancel-in-progress: false
+
+jobs:
+  mi:
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        index: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+                20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      # Same preflight as crawl.yml: a large share of runners are born with an
+      # already-walled IP. Detect in ~10s and hand the slot back rather than pay
+      # checkout + pip + fetch setup for a runner that can never fetch anything.
+      - name: Preflight — is this runner's IP walled?
+        id: pf
+        run: |
+          UA='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36'
+          CODE=$(curl -s -o /dev/null -w '%{http_code}' --max-time 12 -A "$UA" \
+                 'https://www.rockauto.com/en/catalog/' || echo 000)
+          echo "http=$CODE"
+          if [ "$CODE" = "200" ]; then echo "ok=1" >> "$GITHUB_OUTPUT"; else echo "ok=0" >> "$GITHUB_OUTPUT"; fi
+
+      - uses: actions/checkout@v4
+        if: steps.pf.outputs.ok == '1'
+
+      - uses: actions/setup-python@v5
+        if: steps.pf.outputs.ok == '1'
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        if: steps.pf.outputs.ok == '1'
+        run: pip install --quiet requests beautifulsoup4 lxml brotli
+
+      - name: Fetch this shard's detail pages
+        if: steps.pf.outputs.ok == '1'
+        env:
+          # ACCOUNT_SLOT/ACCOUNT_COUNT already exist as repo variables for the crawl;
+          # reuse them so the 8 shards stay disjoint here too.
+          ACCOUNT_SLOT:  ${{ vars.ACCOUNT_SLOT  || '0' }}
+          ACCOUNT_COUNT: ${{ vars.ACCOUNT_COUNT || '1' }}
+          MATRIX_INDEX:  ${{ matrix.index }}
+          MATRIX_SIZE:   '35'
+          SP_MI_DIRECT:  '1'
+          SP_REQUEST_TIMEOUT: '8'
+          SP_CONNECT_TIMEOUT: '5'
+          SP_MAX_ATTEMPTS: '2'
+          SP_SOLVE_CAPTCHA: '0'
+        run: |
+          set -u
+          gunzip -c plan/mi_keys.tsv.gz > mi_keys.tsv
+          echo "[keys] $(wc -l < mi_keys.tsv) pending parts"
+
+          # Global shard id across the whole fleet: 8 accounts x 35 jobs = 280 disjoint
+          # slices. crawl_moreinfo_jsonl.py slices with `i % shard_total == shard_index`,
+          # so every key lands in exactly one job.
+          SHARD_TOTAL=$(( ACCOUNT_COUNT * MATRIX_SIZE ))
+          SHARD_INDEX=$(( ACCOUNT_SLOT * MATRIX_SIZE + MATRIX_INDEX ))
+          echo "[shard] $SHARD_INDEX of $SHARD_TOTAL"
+
+          mkdir -p out
+          python bin/crawl_moreinfo_jsonl.py \
+            --keys mi_keys.tsv \
+            --out "out/mi_${SHARD_INDEX}.ndjson" \
+            --shard-index "$SHARD_INDEX" \
+            --shard-total "$SHARD_TOTAL" \
+            --direct \
+            --max-seconds "${{ github.event.inputs.max_seconds || '900' }}" || true
+
+          echo "[out] $(wc -l < "out/mi_${SHARD_INDEX}.ndjson" 2>/dev/null || echo 0) rows"
+
+      - name: Upload
+        if: steps.pf.outputs.ok == '1'
+        uses: actions/upload-artifact@v4
+        with:
+          name: moreinfo-${{ matrix.index }}
+          path: out/*.ndjson
+          if-no-files-found: ignore
+          retention-days: 30
