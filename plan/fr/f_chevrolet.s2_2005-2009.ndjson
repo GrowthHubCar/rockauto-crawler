@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2008,suburban+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "SUBURBAN 2500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2009,silverado+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,tracker,2.0l+l4,951270", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "TRACKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2005,tracker,2.0l+l4,951267", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "TRACKER"}}}

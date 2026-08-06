@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/rivian,2022,r1t", "payload": {"nodetype": "model", "ctx": {"make": "RIVIAN", "year": 2022, "model": "R1T"}}}
+{"node_type": "model", "href": "/en/catalog/rivian,2022,r1s", "payload": {"nodetype": "model", "ctx": {"make": "RIVIAN", "year": 2022, "model": "R1S"}}}
+{"node_type": "model", "href": "/en/catalog/rivian,2024,r1s", "payload": {"nodetype": "model", "ctx": {"make": "RIVIAN", "year": 2024, "model": "R1S"}}}
+{"node_type": "model", "href": "/en/catalog/rivian,2024,rcv-700", "payload": {"nodetype": "model", "ctx": {"make": "RIVIAN", "year": 2024, "model": "RCV-700"}}}
+{"node_type": "model", "href": "/en/catalog/rivian,2023,rcv-500", "payload": {"nodetype": "model", "ctx": {"make": "RIVIAN", "year": 2023, "model": "RCV-500"}}}
+{"node_type": "model", "href": "/en/catalog/rivian,2024,rcv-500", "payload": {"nodetype": "model", "ctx": {"make": "RIVIAN", "year": 2024, "model": "RCV-500"}}}

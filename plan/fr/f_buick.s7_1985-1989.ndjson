@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/buick,1985,electra", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1985, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1988,century,2.8l+173cid+v6,1015704", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1988, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1985,electra,4.3l+260cid+v6+diesel,1017223", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1985, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1985,electra,3.8l+231cid+v6,1017212", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1985, "model": "ELECTRA"}}}

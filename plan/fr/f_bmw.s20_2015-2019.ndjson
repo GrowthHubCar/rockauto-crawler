@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2018,m760li", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2018, "model": "M760LI"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2018,x5,2.0l+l4+electric/gas+turbocharged,3440256", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2018, "model": "X5"}}}

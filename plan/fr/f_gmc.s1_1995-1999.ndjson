@@ -1,0 +1,24 @@
+{"node_type": "model", "href": "/en/catalog/gmc,1998,yukon", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1998, "model": "YUKON"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1995,topkick", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1995, "model": "TOPKICK"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1997,savana+3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1997, "model": "SAVANA 3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1998,k2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1998, "model": "K2500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1999,t+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1999, "model": "T SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1997,k1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1997, "model": "K1500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1995,k1500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1995, "model": "K1500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1995,c2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1995, "model": "C2500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1998,c2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1998, "model": "C2500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1998,savana+1500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1998, "model": "SAVANA 1500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1995,c1500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1995, "model": "C1500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1999,c2500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1999, "model": "C2500 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1996,c3500+pickup,6.5l+v8+diesel+turbocharged,1147980", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1996, "model": "C3500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1997,topkick,6.0l+v8,3294820", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1997, "model": "TOPKICK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1998,savana+3500,4.3l+v6,1401343", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1998, "model": "SAVANA 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1996,k1500+pickup,4.3l+v6,1158229", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1996, "model": "K1500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1996,k1500+pickup,5.0l+v8,1158230", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1996, "model": "K1500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1996,k2500+pickup,6.5l+v8+diesel+turbocharged,1440817", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1996, "model": "K2500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1998,forward,3.9l+l4+diesel+turbocharged,3445656", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1998, "model": "FORWARD"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1999,sierra+1500,4.3l+v6,1355453", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1999, "model": "SIERRA 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1996,sonoma,2.2l+l4,1164372", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1996, "model": "SONOMA"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1998,topkick,6.0l+v8,3296060", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1998, "model": "TOPKICK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1995,p3500,6.5l+v8+diesel,1163551", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1995, "model": "P3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1998,savana+3500,7.4l+v8,1315303", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1998, "model": "SAVANA 3500"}}}

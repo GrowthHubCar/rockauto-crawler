@@ -1,0 +1,16 @@
+{"node_type": "model", "href": "/en/catalog/studebaker,1932,president+model+91", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1932, "model": "PRESIDENT MODEL 91"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1930,dictator", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1930, "model": "DICTATOR"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1931,dictator", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1931, "model": "DICTATOR"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1930,commander", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1930, "model": "COMMANDER"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1934,commander", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1934, "model": "COMMANDER"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1933,president", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1933, "model": "PRESIDENT"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1934,president", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1934, "model": "PRESIDENT"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1930,model+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1930, "model": "MODEL SIX"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1931,model+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1931, "model": "MODEL SIX"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1932,six+model+55", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1932, "model": "SIX MODEL 55"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1932,dictator+model+62", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1932, "model": "DICTATOR MODEL 62"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1932,commander+model+71", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1932, "model": "COMMANDER MODEL 71"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1933,commander+model+73", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1933, "model": "COMMANDER MODEL 73"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1931,commander,4.1l+250cid+l8,1485501", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1931, "model": "COMMANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1930,commander,4.1l+250cid+l8,1485467", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1930, "model": "COMMANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/studebaker,1930,president,5.5l+337cid+l8,1485470", "payload": {"nodetype": "carcode", "ctx": {"make": "STUDEBAKER", "year": 1930, "model": "PRESIDENT"}}}

@@ -1,0 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/singer,1950,sm1500", "payload": {"nodetype": "model", "ctx": {"make": "SINGER", "year": 1950, "model": "SM1500"}}}
+{"node_type": "model", "href": "/en/catalog/singer,1951,sm1500", "payload": {"nodetype": "model", "ctx": {"make": "SINGER", "year": 1951, "model": "SM1500"}}}
+{"node_type": "model", "href": "/en/catalog/singer,1952,sm1500", "payload": {"nodetype": "model", "ctx": {"make": "SINGER", "year": 1952, "model": "SM1500"}}}
+{"node_type": "model", "href": "/en/catalog/singer,1953,sm1500", "payload": {"nodetype": "model", "ctx": {"make": "SINGER", "year": 1953, "model": "SM1500"}}}
+{"node_type": "model", "href": "/en/catalog/singer,1954,sm1500", "payload": {"nodetype": "model", "ctx": {"make": "SINGER", "year": 1954, "model": "SM1500"}}}
+{"node_type": "model", "href": "/en/catalog/singer,1950,nine", "payload": {"nodetype": "model", "ctx": {"make": "SINGER", "year": 1950, "model": "NINE"}}}
+{"node_type": "model", "href": "/en/catalog/singer,1951,nine", "payload": {"nodetype": "model", "ctx": {"make": "SINGER", "year": 1951, "model": "NINE"}}}
+{"node_type": "model", "href": "/en/catalog/singer,1952,nine", "payload": {"nodetype": "model", "ctx": {"make": "SINGER", "year": 1952, "model": "NINE"}}}
+{"node_type": "model", "href": "/en/catalog/singer,1953,nine", "payload": {"nodetype": "model", "ctx": {"make": "SINGER", "year": 1953, "model": "NINE"}}}
+{"node_type": "model", "href": "/en/catalog/singer,1954,nine", "payload": {"nodetype": "model", "ctx": {"make": "SINGER", "year": 1954, "model": "NINE"}}}

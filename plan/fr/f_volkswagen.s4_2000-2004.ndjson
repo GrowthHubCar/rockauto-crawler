@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2000,panel", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2000, "model": "PANEL"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2004,passat,4.0l+w8,1427217", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2004, "model": "PASSAT"}}}

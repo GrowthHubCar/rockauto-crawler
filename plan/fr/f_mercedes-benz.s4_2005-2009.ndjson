@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2007,sl600", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2007, "model": "SL600"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2006,sl500,5.0l+v8,1432303", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2006, "model": "SL500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2009,clk500,5.5l+v8,3017939", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2009, "model": "CLK500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2007,clk500,5.5l+v8,3006994", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2007, "model": "CLK500"}}}

@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1993,metro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1993, "model": "METRO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1991,c35", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1991, "model": "C35"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1994,stepvan,6.0l+v8,3434369", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1994, "model": "STEPVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1993,k2500+pickup,6.2l+v8+diesel,1052491", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1993, "model": "K2500 PICKUP"}}}

@@ -1,0 +1,19 @@
+{"node_type": "model", "href": "/en/catalog/ferrari,1975,365+gt4", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1975, "model": "365 GT4"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1977,dino+308+gt4", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1977, "model": "DINO 308 GT4"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1978,dino+308+gt4", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1978, "model": "DINO 308 GT4"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1979,dino+308+gt4", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1979, "model": "DINO 308 GT4"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1975,308+gtb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1975, "model": "308 GTB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1978,308+gtb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1978, "model": "308 GTB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1979,308+gtb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1979, "model": "308 GTB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1977,512+bb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1977, "model": "512 BB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1978,512+bb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1978, "model": "512 BB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1979,512+bb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1979, "model": "512 BB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1977,308+gts", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1977, "model": "308 GTS"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1978,308+gts", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1978, "model": "308 GTS"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1979,308+gts", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1979, "model": "308 GTS"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1977,400+a", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1977, "model": "400 A"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1978,400+a", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1978, "model": "400 A"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1979,400+a", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1979, "model": "400 A"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1977,400+gt", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1977, "model": "400 GT"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1978,400+gt", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1978, "model": "400 GT"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,1979,400+gt", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 1979, "model": "400 GT"}}}

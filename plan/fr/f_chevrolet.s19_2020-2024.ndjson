@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2023,corvette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "CORVETTE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2024,express+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "EXPRESS 2500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2023,s10+max", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "S10 MAX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2024,tracker,1.2l+l3+turbocharged,3455036", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "TRACKER"}}}

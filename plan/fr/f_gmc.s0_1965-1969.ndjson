@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/gmc,1965,suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1965, "model": "SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1966,li3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1966, "model": "LI3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1967,l3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1967, "model": "L3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1968,c25/c2500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1968, "model": "C25/C2500 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1967,suburban,3.8l+230cid+l6,1340367", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1967, "model": "SUBURBAN"}}}

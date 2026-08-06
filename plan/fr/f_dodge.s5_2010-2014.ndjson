@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/dodge,2011,avenger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2011, "model": "AVENGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2010,caliber,2.4l+l4,1445001", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2010, "model": "CALIBER"}}}

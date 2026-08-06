@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/buick,1966,skylark", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1966, "model": "SKYLARK"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1965,wildcat", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1965, "model": "WILDCAT"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1967,electra", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1967, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1966,skylark,7.0l+425cid+v8,1492833", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1966, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1968,riviera,7.0l+430cid+v8,1021420", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1968, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1969,lesabre,7.0l+430cid+v8,1494911", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1969, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1969,skylark,6.6l+400cid+v8,1494914", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1969, "model": "SKYLARK"}}}

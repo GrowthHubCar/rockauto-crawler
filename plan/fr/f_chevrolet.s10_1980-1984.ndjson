@@ -1,2 +1,15 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1981,c10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "C10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "P30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,p20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "P20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,k10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "K10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,k20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "K20 PICKUP"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1981,g30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "G30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,g10", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "G10"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1980,chevette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1980, "model": "CHEVETTE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,camaro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "CAMARO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1983,c20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1983, "model": "C20 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1982,bus", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "BUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,p20,6.2l+379cid+v8+diesel,1058284", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "P20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1984,k30+pickup,4.8l+292cid+l6,1053009", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1984, "model": "K30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1981,k10+pickup,5.0l+305cid+v8,1298415", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "K10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1982,p30,4.8l+292cid+l6,1059061", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1982, "model": "P30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1981,c10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1981, "model": "C10 SUBURBAN"}}}

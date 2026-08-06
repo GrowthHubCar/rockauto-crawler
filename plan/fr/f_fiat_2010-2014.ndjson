@@ -1,0 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/fiat,2011,palio", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2011, "model": "PALIO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2011,panda", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2011, "model": "PANDA"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2011,strada", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2011, "model": "STRADA"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2012,strada", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2012, "model": "STRADA"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2013,uno", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2013, "model": "UNO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2011,ducato", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2011, "model": "DUCATO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2012,ducato", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2012, "model": "DUCATO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2011,albea", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2011, "model": "ALBEA"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2010,500,1.4l+l4,2002734", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2010, "model": "500"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2011,500,1.4l+l4,3015216", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2011, "model": "500"}}}

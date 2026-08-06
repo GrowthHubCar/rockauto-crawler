@@ -1,2 +1,6 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,2023,captiva", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "CAPTIVA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2023,tornado+van", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "TORNADO VAN"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,2023,express+pasajeros", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "EXPRESS PASAJEROS"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2023,cheyenne", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "CHEYENNE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2021,bolt,electric,3447287", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2021, "model": "BOLT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2022,cavalier,1.3l+l3+turbocharged,3450513", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2022, "model": "CAVALIER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2023,captiva", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "CAPTIVA"}}}

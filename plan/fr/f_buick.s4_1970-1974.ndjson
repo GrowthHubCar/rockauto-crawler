@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/buick,1974,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1974, "model": "LESABRE"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1973,centurion", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1973, "model": "CENTURION"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1974,riviera,7.5l+455cid+v8,1021486", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1974, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1972,electra,7.5l+455cid+v8,1016312", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1972, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1971,sportwagon,7.5l+455cid+v8,1496823", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1971, "model": "SPORTWAGON"}}}

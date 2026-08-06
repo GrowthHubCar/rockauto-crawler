@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/mazda,1989,mpv", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1989, "model": "MPV"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1988,b2200", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1988, "model": "B2200"}}}
+{"node_type": "model", "href": "/en/catalog/mazda,1989,323", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1989, "model": "323"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1989,mpv,2.6l+l4,1191068", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1989, "model": "MPV"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1989,929,3.0l+v6,1190214", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1989, "model": "929"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1989,626,2.2l+l4+turbocharged,1189807", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1989, "model": "626"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1989,626,2.2l+l4,1189795", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1989, "model": "626"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1989,b2200,2.2l+l4,1190506", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1989, "model": "B2200"}}}

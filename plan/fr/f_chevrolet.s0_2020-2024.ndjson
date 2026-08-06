@@ -1,2 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2020,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2020, "model": "SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2022,lcf", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2022, "model": "LCF"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2022,camaro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2022, "model": "CAMARO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2024,equinox", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "EQUINOX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2020,silverado+1500,5.3l+v8,3444633", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2020, "model": "SILVERADO 1500"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,2024,aveo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "AVEO"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,2023,express+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "EXPRESS 2500"}}}

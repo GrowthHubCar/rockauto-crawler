@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/borgward,1949,hansa+2400", "payload": {"nodetype": "model", "ctx": {"make": "BORGWARD", "year": 1949, "model": "HANSA 2400"}}}
+{"node_type": "model", "href": "/en/catalog/borgward,1949,hansa+1800", "payload": {"nodetype": "model", "ctx": {"make": "BORGWARD", "year": 1949, "model": "HANSA 1800"}}}
+{"node_type": "model", "href": "/en/catalog/borgward,1949,hansa+1500", "payload": {"nodetype": "model", "ctx": {"make": "BORGWARD", "year": 1949, "model": "HANSA 1500"}}}

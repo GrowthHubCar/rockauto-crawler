@@ -1,2 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/ford,2006,fusion", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "FUSION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,f-750", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "F-750"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,ecosport", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "ECOSPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,ranger,2.3l+l4,1431241", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,ranger,3.0l+v6,1431247", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "RANGER"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2006,crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "CROWN VICTORIA"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2006,escape", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "ESCAPE"}}}

@@ -1,1 +1,18 @@
+{"node_type": "model", "href": "/en/catalog/mercury,1981,grand+marquis", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1981, "model": "GRAND MARQUIS"}}}
+{"node_type": "model", "href": "/en/catalog/mercury,1982,cougar", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1982, "model": "COUGAR"}}}
+{"node_type": "model", "href": "/en/catalog/mercury,1983,cougar", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1983, "model": "COUGAR"}}}
+{"node_type": "model", "href": "/en/catalog/mercury,1984,marquis", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1984, "model": "MARQUIS"}}}
+{"node_type": "model", "href": "/en/catalog/mercury,1981,zephyr", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1981, "model": "ZEPHYR"}}}
+{"node_type": "model", "href": "/en/catalog/mercury,1982,zephyr", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1982, "model": "ZEPHYR"}}}
+{"node_type": "model", "href": "/en/catalog/mercury,1983,zephyr", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1983, "model": "ZEPHYR"}}}
 {"node_type": "model", "href": "/en/catalog/mercury,1983,lynx", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1983, "model": "LYNX"}}}
+{"node_type": "model", "href": "/en/catalog/mercury,1982,ln7", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1982, "model": "LN7"}}}
+{"node_type": "model", "href": "/en/catalog/mercury,1980,capri", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1980, "model": "CAPRI"}}}
+{"node_type": "model", "href": "/en/catalog/mercury,1981,capri", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1981, "model": "CAPRI"}}}
+{"node_type": "model", "href": "/en/catalog/mercury,1983,capri", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1983, "model": "CAPRI"}}}
+{"node_type": "model", "href": "/en/catalog/mercury,1984,capri", "payload": {"nodetype": "model", "ctx": {"make": "MERCURY", "year": 1984, "model": "CAPRI"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1984,topaz,2.0l+122cid+l4+diesel,1203736", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1984, "model": "TOPAZ"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1980,capri,2.3l+140cid+l4,1196333", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1980, "model": "CAPRI"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1983,zephyr,2.3l+140cid+l4,1204591", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1983, "model": "ZEPHYR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1982,marquis,5.8l+351cid+v8,1200777", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1982, "model": "MARQUIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercury,1984,topaz,2.3l+140cid+l4,1203747", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCURY", "year": 1984, "model": "TOPAZ"}}}

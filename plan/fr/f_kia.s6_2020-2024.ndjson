@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/kia,2023,forte", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2023, "model": "FORTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/kia,2020,soul,electric,3444105", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2020, "model": "SOUL"}}}

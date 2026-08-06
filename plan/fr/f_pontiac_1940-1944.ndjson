@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/pontiac,1940,special+series+25", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1940, "model": "SPECIAL SERIES 25"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1940,deluxe+series+28", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1940, "model": "DELUXE SERIES 28"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1942,streamliner", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1942, "model": "STREAMLINER"}}}

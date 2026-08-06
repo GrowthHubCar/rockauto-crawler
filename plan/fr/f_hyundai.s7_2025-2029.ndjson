@@ -1,0 +1,3 @@
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2025,santa+fe,1.6l+l4+electric/gas+turbocharged,3455932", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2025, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2025,elantra,1.6l+l4+turbocharged,3457901", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2025, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2026,palisade,2.5l+l4+electric/gas+turbocharged,3459601", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2026, "model": "PALISADE"}}}

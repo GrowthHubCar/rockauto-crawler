@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/plymouth,1980,horizon", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1980, "model": "HORIZON"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1981,pb150", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1981, "model": "PB150"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1984,caravelle", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1984, "model": "CARAVELLE"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/honda,2020,city", "payload": {"nodetype": "model", "ctx": {"make": "HONDA", "year": 2020, "model": "CITY"}}}
+{"node_type": "carcode", "href": "/en/catalog/honda,2024,cr-v,2.0l+l4+electric/gas,3454376", "payload": {"nodetype": "carcode", "ctx": {"make": "HONDA", "year": 2024, "model": "CR-V"}}}

@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/fiat,1980,strada", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1980, "model": "STRADA"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1983,124", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1983, "model": "124"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1980,x-1/9", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1980, "model": "X-1/9"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1981,x-1/9", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1981, "model": "X-1/9"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1980,brava", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1980, "model": "BRAVA"}}}

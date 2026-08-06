@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/buick,1952,special", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1952, "model": "SPECIAL"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1951,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1951, "model": "CENTURY"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1952,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1952, "model": "CENTURY"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1953,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1953, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1954,skylark,5.3l+322cid+v8,1320051", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1954, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1950,super,4.3l+263cid+l8,1435612", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1950, "model": "SUPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1950,special,4.1l+248cid+l8,1440575", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1950, "model": "SPECIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1950,roadmaster,5.2l+320cid+l8,1440576", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1950, "model": "ROADMASTER"}}}

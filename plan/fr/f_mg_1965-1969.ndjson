@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/mg,1965,midget", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1965, "model": "MIDGET"}}}
+{"node_type": "model", "href": "/en/catalog/mg,1966,midget", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1966, "model": "MIDGET"}}}
+{"node_type": "model", "href": "/en/catalog/mg,1965,magnette", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1965, "model": "MAGNETTE"}}}
+{"node_type": "model", "href": "/en/catalog/mg,1966,magnette", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1966, "model": "MAGNETTE"}}}
+{"node_type": "model", "href": "/en/catalog/mg,1967,magnette", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1967, "model": "MAGNETTE"}}}
+{"node_type": "model", "href": "/en/catalog/mg,1969,mgc", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1969, "model": "MGC"}}}
+{"node_type": "model", "href": "/en/catalog/mg,1969,1300", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1969, "model": "1300"}}}
+{"node_type": "model", "href": "/en/catalog/mg,1969,mgb", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1969, "model": "MGB"}}}
+{"node_type": "model", "href": "/en/catalog/mg,1965,1100", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1965, "model": "1100"}}}
+{"node_type": "model", "href": "/en/catalog/mg,1966,1100", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1966, "model": "1100"}}}
+{"node_type": "model", "href": "/en/catalog/mg,1967,1100", "payload": {"nodetype": "model", "ctx": {"make": "MG", "year": 1967, "model": "1100"}}}
+{"node_type": "carcode", "href": "/en/catalog/mg,1968,magnette,1.6l+l4,1494683", "payload": {"nodetype": "carcode", "ctx": {"make": "MG", "year": 1968, "model": "MAGNETTE"}}}

@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ford,2026,police+suv", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2026, "model": "POLICE SUV"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2026,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2026, "model": "EXPLORER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2025,escape,2.0l+l4+turbocharged,3457843", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2025, "model": "ESCAPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,f-550+super+duty,7.3l+v8,3459595", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "F-550 SUPER DUTY"}}}

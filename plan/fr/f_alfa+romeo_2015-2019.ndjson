@@ -1,0 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/alfa+romeo,2015,giulietta", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 2015, "model": "GIULIETTA"}}}
+{"node_type": "model", "href": "/en/catalog/alfa+romeo,2016,giulietta", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 2016, "model": "GIULIETTA"}}}
+{"node_type": "model", "href": "/en/catalog/alfa+romeo,2017,giulietta", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 2017, "model": "GIULIETTA"}}}
+{"node_type": "model", "href": "/en/catalog/alfa+romeo,2018,giulietta", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 2018, "model": "GIULIETTA"}}}
+{"node_type": "model", "href": "/en/catalog/alfa+romeo,2019,giulietta", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 2019, "model": "GIULIETTA"}}}
+{"node_type": "model", "href": "/en/catalog/alfa+romeo,2015,mito", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 2015, "model": "MITO"}}}
+{"node_type": "model", "href": "/en/catalog/alfa+romeo,2016,mito", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 2016, "model": "MITO"}}}
+{"node_type": "model", "href": "/en/catalog/alfa+romeo,2018,mito", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 2018, "model": "MITO"}}}
+{"node_type": "model", "href": "/en/catalog/alfa+romeo,2019,4c", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 2019, "model": "4C"}}}
+{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2017,stelvio,2.0l+l4+turbocharged,3438665", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2017, "model": "STELVIO"}}}

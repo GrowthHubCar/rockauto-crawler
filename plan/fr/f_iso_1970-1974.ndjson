@@ -1,0 +1,13 @@
+{"node_type": "model", "href": "/en/catalog/iso,1970,rivolta", "payload": {"nodetype": "model", "ctx": {"make": "ISO", "year": 1970, "model": "RIVOLTA"}}}
+{"node_type": "model", "href": "/en/catalog/iso,1970,grifo", "payload": {"nodetype": "model", "ctx": {"make": "ISO", "year": 1970, "model": "GRIFO"}}}
+{"node_type": "model", "href": "/en/catalog/iso,1971,grifo", "payload": {"nodetype": "model", "ctx": {"make": "ISO", "year": 1971, "model": "GRIFO"}}}
+{"node_type": "model", "href": "/en/catalog/iso,1973,grifo", "payload": {"nodetype": "model", "ctx": {"make": "ISO", "year": 1973, "model": "GRIFO"}}}
+{"node_type": "model", "href": "/en/catalog/iso,1974,grifo", "payload": {"nodetype": "model", "ctx": {"make": "ISO", "year": 1974, "model": "GRIFO"}}}
+{"node_type": "model", "href": "/en/catalog/iso,1970,s4+fidia", "payload": {"nodetype": "model", "ctx": {"make": "ISO", "year": 1970, "model": "S4 FIDIA"}}}
+{"node_type": "model", "href": "/en/catalog/iso,1971,s4+fidia", "payload": {"nodetype": "model", "ctx": {"make": "ISO", "year": 1971, "model": "S4 FIDIA"}}}
+{"node_type": "model", "href": "/en/catalog/iso,1973,s4+fidia", "payload": {"nodetype": "model", "ctx": {"make": "ISO", "year": 1973, "model": "S4 FIDIA"}}}
+{"node_type": "model", "href": "/en/catalog/iso,1974,s4+fidia", "payload": {"nodetype": "model", "ctx": {"make": "ISO", "year": 1974, "model": "S4 FIDIA"}}}
+{"node_type": "model", "href": "/en/catalog/iso,1970,lele", "payload": {"nodetype": "model", "ctx": {"make": "ISO", "year": 1970, "model": "LELE"}}}
+{"node_type": "model", "href": "/en/catalog/iso,1971,lele", "payload": {"nodetype": "model", "ctx": {"make": "ISO", "year": 1971, "model": "LELE"}}}
+{"node_type": "model", "href": "/en/catalog/iso,1973,lele", "payload": {"nodetype": "model", "ctx": {"make": "ISO", "year": 1973, "model": "LELE"}}}
+{"node_type": "model", "href": "/en/catalog/iso,1974,lele", "payload": {"nodetype": "model", "ctx": {"make": "ISO", "year": 1974, "model": "LELE"}}}

@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/fiat,1947,500", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1947, "model": "500"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1948,500", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1948, "model": "500"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1949,500", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1949, "model": "500"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1947,1100", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1947, "model": "1100"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1948,1100", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1948, "model": "1100"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1949,1100", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1949, "model": "1100"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1948,1500", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1948, "model": "1500"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,1949,1500", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1949, "model": "1500"}}}

@@ -1,0 +1,13 @@
+{"node_type": "model", "href": "/en/catalog/bentley,1986,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1986, "model": "CONTINENTAL"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,1987,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1987, "model": "CONTINENTAL"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,1988,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1988, "model": "CONTINENTAL"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,1989,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1989, "model": "CONTINENTAL"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,1987,mulsanne", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1987, "model": "MULSANNE"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,1988,mulsanne", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1988, "model": "MULSANNE"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,1989,mulsanne", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1989, "model": "MULSANNE"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,1988,turbo+r", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1988, "model": "TURBO R"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,1989,turbo+r", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1989, "model": "TURBO R"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,1986,eight", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1986, "model": "EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,1987,eight", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1987, "model": "EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,1988,eight", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1988, "model": "EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,1989,eight", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 1989, "model": "EIGHT"}}}

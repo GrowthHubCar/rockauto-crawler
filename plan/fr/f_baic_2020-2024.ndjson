@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/baic,2020,x25", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2020, "model": "X25"}}}
+{"node_type": "model", "href": "/en/catalog/baic,2020,d20", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2020, "model": "D20"}}}
+{"node_type": "model", "href": "/en/catalog/baic,2020,x65", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2020, "model": "X65"}}}
+{"node_type": "model", "href": "/en/catalog/baic,2022,bj40", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2022, "model": "BJ40"}}}
+{"node_type": "model", "href": "/en/catalog/baic,2023,bj40", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2023, "model": "BJ40"}}}
+{"node_type": "model", "href": "/en/catalog/baic,2022,x35", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2022, "model": "X35"}}}
+{"node_type": "model", "href": "/en/catalog/baic,2023,x35", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2023, "model": "X35"}}}
+{"node_type": "model", "href": "/en/catalog/baic,2024,x35", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2024, "model": "X35"}}}
+{"node_type": "model", "href": "/en/catalog/baic,2020,x30", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2020, "model": "X30"}}}
+{"node_type": "model", "href": "/en/catalog/baic,2020,m50s", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2020, "model": "M50S"}}}
+{"node_type": "model", "href": "/en/catalog/baic,2021,m50s", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2021, "model": "M50S"}}}
+{"node_type": "model", "href": "/en/catalog/baic,2023,x55", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2023, "model": "X55"}}}
+{"node_type": "model", "href": "/en/catalog/baic,2024,x55", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2024, "model": "X55"}}}
+{"node_type": "model", "href": "/en/catalog/baic,2024,u5+plus", "payload": {"nodetype": "model", "ctx": {"make": "BAIC", "year": 2024, "model": "U5 PLUS"}}}

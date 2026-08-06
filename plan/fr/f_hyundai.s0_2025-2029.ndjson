@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2025,sonata", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2025, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2025,tucson,1.6l+l4+electric/gas+turbocharged,3457919", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2025, "model": "TUCSON"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2025,elantra,1.6l+l4+electric/gas,3457900", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2025, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2025,tucson,2.5l+l4,3457920", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2025, "model": "TUCSON"}}}

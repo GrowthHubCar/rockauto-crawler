@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/case,1925,model+x", "payload": {"nodetype": "model", "ctx": {"make": "CASE", "year": 1925, "model": "MODEL X"}}}
+{"node_type": "model", "href": "/en/catalog/case,1925,model+y", "payload": {"nodetype": "model", "ctx": {"make": "CASE", "year": 1925, "model": "MODEL Y"}}}
+{"node_type": "model", "href": "/en/catalog/case,1926,model+y", "payload": {"nodetype": "model", "ctx": {"make": "CASE", "year": 1926, "model": "MODEL Y"}}}
+{"node_type": "model", "href": "/en/catalog/case,1927,model+y", "payload": {"nodetype": "model", "ctx": {"make": "CASE", "year": 1927, "model": "MODEL Y"}}}
+{"node_type": "model", "href": "/en/catalog/case,1925,jay-eye-see", "payload": {"nodetype": "model", "ctx": {"make": "CASE", "year": 1925, "model": "JAY-EYE-SEE"}}}
+{"node_type": "model", "href": "/en/catalog/case,1926,jay-eye-see", "payload": {"nodetype": "model", "ctx": {"make": "CASE", "year": 1926, "model": "JAY-EYE-SEE"}}}
+{"node_type": "model", "href": "/en/catalog/case,1927,jay-eye-see", "payload": {"nodetype": "model", "ctx": {"make": "CASE", "year": 1927, "model": "JAY-EYE-SEE"}}}

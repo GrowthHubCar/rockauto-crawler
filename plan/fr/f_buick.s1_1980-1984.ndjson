@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/buick,1981,century", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1981, "model": "CENTURY"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1981,electra", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1981, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1982,century,2.8l+173cid+v6,1438494", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1982, "model": "CENTURY"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1980,lesabre,4.9l+301cid+v8,1018651", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1980, "model": "LESABRE"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2023,saveiro", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2023, "model": "SAVEIRO"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2024,jetta,1.5l+l4+turbocharged,3454610", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2024, "model": "JETTA"}}}

@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/ford,1967,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1967, "model": "P-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1967,p-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1967, "model": "P-100"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1967,country+squire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1967, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,f-100,4.9l+300cid+l6,1493670", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "F-100"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1966,ranchero,6.4l+390cid+v8,923", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1966, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,ranchero,5.0l+302cid+v8,1127270", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "RANCHERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,falcon,4.7l+289cid+v8,1332245", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "FALCON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1965,f-350,3.9l+240cid+l6,1333235", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1965, "model": "F-350"}}}

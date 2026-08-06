@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mazda,1994,protege", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1994, "model": "PROTEGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1991,626,2.2l+l4+turbocharged,1189908", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1991, "model": "626"}}}

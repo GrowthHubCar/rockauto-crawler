@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2006,g500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2006, "model": "G500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2007,g55+amg,5.5l+v8+supercharged,1440044", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2007, "model": "G55 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2007,slk200,1.8l+l4+supercharged,3018391", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2007, "model": "SLK200"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2007,ml500,5.0l+v8,1434592", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2007, "model": "ML500"}}}

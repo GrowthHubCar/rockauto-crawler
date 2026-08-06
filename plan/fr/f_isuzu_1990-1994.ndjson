@@ -1,1 +1,39 @@
+{"node_type": "model", "href": "/en/catalog/isuzu,1990,pickup", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1990, "model": "PICKUP"}}}
 {"node_type": "model", "href": "/en/catalog/isuzu,1991,pickup", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1991, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,1992,impulse", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1992, "model": "IMPULSE"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,1990,trooper", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1990, "model": "TROOPER"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,1993,trooper", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1993, "model": "TROOPER"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,1993,npr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1993, "model": "NPR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,1990,f+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1990, "model": "F SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,1992,f+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1992, "model": "F SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,1990,nrr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1990, "model": "NRR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,1991,nrr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1991, "model": "NRR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,1993,amigo", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 1993, "model": "AMIGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1994,trooper,3.2l+v6+dohc,1177130", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1994, "model": "TROOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1990,impulse,1.6l+l4,1176162", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1990, "model": "IMPULSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1994,pickup,2.3l+l4,1176779", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1994, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1994,pickup,2.6l+l4,1176780", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1994, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1993,trooper,3.2l+v6+sohc,1177129", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1993, "model": "TROOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1993,pickup,3.1l+v6,1176768", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1993, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1991,trooper,2.6l+l4,1177062", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1991, "model": "TROOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1991,amigo,2.3l+l4,1175734", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1991, "model": "AMIGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1991,stylus,1.6l+l4+dohc,1177006", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1991, "model": "STYLUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1992,impulse,1.8l+l4,1176207", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1992, "model": "IMPULSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1992,amigo,2.3l+l4,1175756", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1992, "model": "AMIGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1991,f+series+truck,5.8l+l6+diesel+turbocharged,3295429", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1991, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1990,f+series+truck,8.4l+l6+diesel+turbocharged,3295437", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1990, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1991,impulse,1.6l+l4,1176184", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1991, "model": "IMPULSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1994,npr,3.9l+l4+diesel+turbocharged,3444369", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1994, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1991,rodeo,3.1l+v6,1176869", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1991, "model": "RODEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1993,pickup,2.3l+l4,1176724", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1993, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1990,npr,3.9l+l4+diesel+turbocharged,3296993", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1990, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1990,amigo,2.6l+l4,1175723", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1990, "model": "AMIGO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1994,npr,3.9l+l4+diesel,3296995", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1994, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1993,rodeo,2.6l+l4,1176892", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1993, "model": "RODEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1990,f+series+truck,6.5l+l6+diesel+turbocharged,3295438", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1990, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1991,pickup,3.1l+v6,1176656", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1991, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1991,rodeo,2.6l+l4,1176858", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1991, "model": "RODEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1993,npr,5.7l+v8,3298337", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1993, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1992,rodeo,2.6l+l4,1176870", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1992, "model": "RODEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1993,pickup,2.6l+l4,1176735", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1993, "model": "PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,1991,impulse,1.6l+l4+turbocharged,1176173", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 1991, "model": "IMPULSE"}}}

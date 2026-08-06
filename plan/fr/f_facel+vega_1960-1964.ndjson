@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/facel+vega,1961,excellence", "payload": {"nodetype": "model", "ctx": {"make": "FACEL VEGA", "year": 1961, "model": "EXCELLENCE"}}}
+{"node_type": "model", "href": "/en/catalog/facel+vega,1963,excellence", "payload": {"nodetype": "model", "ctx": {"make": "FACEL VEGA", "year": 1963, "model": "EXCELLENCE"}}}
+{"node_type": "model", "href": "/en/catalog/facel+vega,1961,facellia", "payload": {"nodetype": "model", "ctx": {"make": "FACEL VEGA", "year": 1961, "model": "FACELLIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/facel+vega,1964,facel+iii,2.9l+l6,1491706", "payload": {"nodetype": "carcode", "ctx": {"make": "FACEL VEGA", "year": 1964, "model": "FACEL III"}}}
+{"node_type": "carcode", "href": "/en/catalog/facel+vega,1963,facel+iii,2.9l+l6,1491104", "payload": {"nodetype": "carcode", "ctx": {"make": "FACEL VEGA", "year": 1963, "model": "FACEL III"}}}

@@ -1,0 +1,11 @@
+{"node_type": "model", "href": "/en/catalog/lancia,1970,2000", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1970, "model": "2000"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1971,2000", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1971, "model": "2000"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1972,2000", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1972, "model": "2000"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1973,2000", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1973, "model": "2000"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1974,2000", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1974, "model": "2000"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1970,fulvia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1970, "model": "FULVIA"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1971,fulvia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1971, "model": "FULVIA"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1972,fulvia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1972, "model": "FULVIA"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1973,fulvia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1973, "model": "FULVIA"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1974,fulvia", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1974, "model": "FULVIA"}}}
+{"node_type": "model", "href": "/en/catalog/lancia,1974,stratos", "payload": {"nodetype": "model", "ctx": {"make": "LANCIA", "year": 1974, "model": "STRATOS"}}}

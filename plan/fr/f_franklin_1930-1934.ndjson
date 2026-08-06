@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/franklin,1933,airman", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1933, "model": "AIRMAN"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1934,airman", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1934, "model": "AIRMAN"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1930,model+147", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1930, "model": "MODEL 147"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1930,model+145", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1930, "model": "MODEL 145"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1931,series+15+deluxe", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1931, "model": "SERIES 15 DELUXE"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1933,olympic", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1933, "model": "OLYMPIC"}}}
+{"node_type": "model", "href": "/en/catalog/franklin,1934,olympic", "payload": {"nodetype": "model", "ctx": {"make": "FRANKLIN", "year": 1934, "model": "OLYMPIC"}}}

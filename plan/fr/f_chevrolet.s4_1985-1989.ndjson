@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1988,stepvan", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1988, "model": "STEPVAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1985,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1985, "model": "IMPALA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1987,v20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1987, "model": "V20 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1988,bus", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1988, "model": "BUS"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1986,c35", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1986, "model": "C35"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1988,r20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1988, "model": "R20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1986,nova,1.6l+98cid+l4,1057542", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1986, "model": "NOVA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1986,s10+blazer,2.5l+151cid+l4,1060434", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1986, "model": "S10 BLAZER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1989,celebrity,2.8l+173cid+v6,1038620", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1989, "model": "CELEBRITY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1986,stepvan,8.2l+501cid+v8+diesel,3434342", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1986, "model": "STEPVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1989,v2500+suburban,7.4l+454cid+v8,1408766", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1989, "model": "V2500 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1988,camaro,2.8l+173cid+v6,1035649", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1988, "model": "CAMARO"}}}

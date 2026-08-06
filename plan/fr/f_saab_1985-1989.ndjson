@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/saab,1987,900", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1987, "model": "900"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1988,900", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1988, "model": "900"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1988,9000", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1988, "model": "9000"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1989,9000,2.0l+l4,1266016", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1989, "model": "9000"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1986,9000,2.0l+l4+turbocharged,1265925", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1986, "model": "9000"}}}

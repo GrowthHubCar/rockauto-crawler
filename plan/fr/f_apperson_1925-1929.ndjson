@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/apperson,1926,six", "payload": {"nodetype": "model", "ctx": {"make": "APPERSON", "year": 1926, "model": "SIX"}}}
+{"node_type": "model", "href": "/en/catalog/apperson,1925,eight", "payload": {"nodetype": "model", "ctx": {"make": "APPERSON", "year": 1925, "model": "EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/apperson,1926,eight", "payload": {"nodetype": "model", "ctx": {"make": "APPERSON", "year": 1926, "model": "EIGHT"}}}

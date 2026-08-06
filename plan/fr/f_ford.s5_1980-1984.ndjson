@@ -1,2 +1,15 @@
+{"node_type": "model", "href": "/en/catalog/ford,1983,thunderbird", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1983, "model": "THUNDERBIRD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1984,f-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1984, "model": "F-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1983,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1983, "model": "L SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1982,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1982, "model": "F-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1980,e-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1980, "model": "E-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1982,f-600", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1982, "model": "F-600"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1982,e-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1982, "model": "E-100"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1984,c+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1984, "model": "C SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1981,escort", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1981, "model": "ESCORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1984,f-350,7.5l+460cid+v8,1126257", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1984, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1984,tempo,2.3l+140cid+l4,1139105", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1984, "model": "TEMPO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1984,l+series+truck,14.0l+855cid+l6+diesel+turbocharged,3411322", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1984, "model": "L SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1983,ranger,2.2l+134cid+l4+diesel,1137349", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1983, "model": "RANGER"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1981,bronco", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1981, "model": "BRONCO"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1980,f+150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1980, "model": "F-150"}}}

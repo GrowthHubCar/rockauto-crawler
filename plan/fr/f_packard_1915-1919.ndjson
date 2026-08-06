@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/packard,1916,twin+six", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1916, "model": "TWIN SIX"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1917,twin+six", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1917, "model": "TWIN SIX"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1918,twin+six", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1918, "model": "TWIN SIX"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1919,twin+six", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1919, "model": "TWIN SIX"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1915,model+5-48", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1915, "model": "MODEL 5-48"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1915,model+3-38", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1915, "model": "MODEL 3-38"}}}

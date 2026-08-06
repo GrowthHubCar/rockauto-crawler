@@ -1,0 +1,3 @@
+{"node_type": "carcode", "href": "/en/catalog/kia,2011,forte,2.0l+l4,1447833", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2011, "model": "FORTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/kia,2012,soul,2.0l+l4,1502883", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2012, "model": "SOUL"}}}
+{"node_type": "carcode", "href": "/en/catalog/kia,2012,sedona,3.5l+v6,1501651", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2012, "model": "SEDONA"}}}

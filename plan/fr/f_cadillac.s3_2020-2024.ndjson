@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,2021,ct4", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2021, "model": "CT4"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,2024,lyriq,electric,3454277", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 2024, "model": "LYRIQ"}}}

@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,2011,cts", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2011, "model": "CTS"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,2010,dts,4.6l+v8,1444451", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 2010, "model": "DTS"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,2011,cts,3.6l+v6,1446543", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 2011, "model": "CTS"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,2010,escalade,6.0l+v8+electric/gas,3034094", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 2010, "model": "ESCALADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,2010,srx,3.0l+v6,1444598", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 2010, "model": "SRX"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,2014,ats,2.5l+l4,3298514", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 2014, "model": "ATS"}}}

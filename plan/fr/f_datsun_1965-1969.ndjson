@@ -1,0 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/datsun,1965,station+wagon", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1965, "model": "STATION WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/datsun,1966,station+wagon", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1966, "model": "STATION WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/datsun,1967,station+wagon", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1967, "model": "STATION WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/datsun,1968,station+wagon", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1968, "model": "STATION WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/datsun,1969,station+wagon", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1969, "model": "STATION WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/datsun,1965,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1965, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/datsun,1966,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1966, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/datsun,1967,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1967, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/datsun,1968,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1968, "model": "PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/datsun,1969,pickup", "payload": {"nodetype": "model", "ctx": {"make": "DATSUN", "year": 1969, "model": "PICKUP"}}}

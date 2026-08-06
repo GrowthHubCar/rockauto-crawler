@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/lincoln,2020,mkz", "payload": {"nodetype": "model", "ctx": {"make": "LINCOLN", "year": 2020, "model": "MKZ"}}}
+{"node_type": "carcode", "href": "/en/catalog/lincoln,2021,aviator,3.0l+v6+electric/gas+turbocharged,3446718", "payload": {"nodetype": "carcode", "ctx": {"make": "LINCOLN", "year": 2021, "model": "AVIATOR"}}}

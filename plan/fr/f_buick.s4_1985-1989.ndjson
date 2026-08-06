@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/buick,1986,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1986, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1987,riviera,3.8l+231cid+v6,1021947", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1987, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1986,regal,5.0l+307cid+v8,1020902", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1986, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1988,skylark,3.0l+181cid+v6,1024085", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1988, "model": "SKYLARK"}}}

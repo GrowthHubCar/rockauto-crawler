@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/international,1962,ab120", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 1962, "model": "AB120"}}}
+{"node_type": "model", "href": "/en/catalog/international,1964,m+series+van", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 1964, "model": "M SERIES VAN"}}}
+{"node_type": "model", "href": "/en/catalog/international,1960,am120", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 1960, "model": "AM120"}}}
+{"node_type": "model", "href": "/en/catalog/international,1962,am150", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 1962, "model": "AM150"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,1962,c110,3.9l+240cid+l6,1490641", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 1962, "model": "C110"}}}

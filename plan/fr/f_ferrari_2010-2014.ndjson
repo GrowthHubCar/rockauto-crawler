@@ -1,0 +1,20 @@
+{"node_type": "model", "href": "/en/catalog/ferrari,2010,612+scaglietti", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2010, "model": "612 SCAGLIETTI"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,2011,612+scaglietti", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2011, "model": "612 SCAGLIETTI"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,2010,599+gtb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2010, "model": "599 GTB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,2011,599+gtb", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2011, "model": "599 GTB"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,2010,california", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2010, "model": "CALIFORNIA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,2011,california", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2011, "model": "CALIFORNIA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,2012,california", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2012, "model": "CALIFORNIA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,2013,california", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2013, "model": "CALIFORNIA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,2014,california", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2014, "model": "CALIFORNIA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,2010,458", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2010, "model": "458"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,2011,458", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2011, "model": "458"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,2014,458", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2014, "model": "458"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,2014,laferrari", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2014, "model": "LAFERRARI"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,2011,ff", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2011, "model": "FF"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,2012,ff", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2012, "model": "FF"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,2013,ff", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2013, "model": "FF"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,2014,ff", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2014, "model": "FF"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,2013,f12+berlinetta", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2013, "model": "F12 BERLINETTA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,2014,f12+berlinetta", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2014, "model": "F12 BERLINETTA"}}}
+{"node_type": "model", "href": "/en/catalog/ferrari,2011,599+gto", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2011, "model": "599 GTO"}}}

@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/rover,1965,3-litre", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1965, "model": "3-LITRE"}}}
+{"node_type": "model", "href": "/en/catalog/rover,1966,3-litre", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1966, "model": "3-LITRE"}}}
+{"node_type": "model", "href": "/en/catalog/rover,1967,3-litre", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1967, "model": "3-LITRE"}}}
+{"node_type": "model", "href": "/en/catalog/rover,1968,3-litre", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1968, "model": "3-LITRE"}}}
+{"node_type": "model", "href": "/en/catalog/rover,1965,2000", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1965, "model": "2000"}}}
+{"node_type": "model", "href": "/en/catalog/rover,1966,2000", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1966, "model": "2000"}}}
+{"node_type": "model", "href": "/en/catalog/rover,1967,2000", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1967, "model": "2000"}}}
+{"node_type": "model", "href": "/en/catalog/rover,1969,2000", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1969, "model": "2000"}}}

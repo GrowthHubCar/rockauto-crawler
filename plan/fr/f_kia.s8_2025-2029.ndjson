@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/kia,2026,carnival", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2026, "model": "CARNIVAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/kia,2025,niro,electric,3455602", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2025, "model": "NIRO"}}}
+{"node_type": "carcode", "href": "/en/catalog/kia,2025,sportage,2.5l+l4,3455607", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2025, "model": "SPORTAGE"}}}

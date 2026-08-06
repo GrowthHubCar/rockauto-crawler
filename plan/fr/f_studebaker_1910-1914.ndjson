@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/studebaker,1913,model+e", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1913, "model": "MODEL E"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1910,model+m", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1910, "model": "MODEL M"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1910,model+g-7", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1910, "model": "MODEL G-7"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1911,model+g-8", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1911, "model": "MODEL G-8"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1911,model+g-10", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1911, "model": "MODEL G-10"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1913,model+sa-25", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1913, "model": "MODEL SA-25"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1913,model+aa-35", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1913, "model": "MODEL AA-35"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1914,light+six", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1914, "model": "LIGHT SIX"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1914,four", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1914, "model": "FOUR"}}}

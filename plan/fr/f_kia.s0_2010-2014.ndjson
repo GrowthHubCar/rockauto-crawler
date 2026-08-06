@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/kia,2013,forte", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2013, "model": "FORTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/kia,2012,sportage,2.0l+l4+turbocharged,1502238", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2012, "model": "SPORTAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/kia,2012,soul,1.6l+l4,1502885", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2012, "model": "SOUL"}}}
+{"node_type": "carcode", "href": "/en/catalog/kia,2012,sportage,2.4l+l4,1502237", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2012, "model": "SPORTAGE"}}}

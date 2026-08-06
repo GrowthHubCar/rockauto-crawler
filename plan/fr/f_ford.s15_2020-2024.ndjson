@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/ford,2022,lobo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2022, "model": "LOBO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2024,f-550+super+duty,6.7l+v8+diesel+turbocharged,3455268", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2024, "model": "F-550 SUPER DUTY"}}}

@@ -1,2 +1,16 @@
+{"node_type": "model", "href": "/en/catalog/ford,2015,taurus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2015, "model": "TAURUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2016,transit+350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2016, "model": "TRANSIT 350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2018,police+sedan", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2018, "model": "POLICE SEDAN"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2017,f53", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "F53"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2018,escape", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2018, "model": "ESCAPE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2019,fiesta", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2019, "model": "FIESTA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2017,figo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "FIGO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2017,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "EXPLORER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2016,e-450", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2016, "model": "E-450"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2016,lobo,5.0l+v8,3434805", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2016, "model": "LOBO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2018,police+sedan,2.0l+l4+turbocharged,3441594", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2018, "model": "POLICE SEDAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2015,f59,6.8l+v10,3356577", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2015, "model": "F59"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2019,transit+connect,1.5l+l4+diesel+turbocharged,3443693", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2019, "model": "TRANSIT CONNECT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2019,fusion,2.7l+v6+turbocharged,3442756", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2019, "model": "FUSION"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2018,c+max", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2018, "model": "C-MAX"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2018,f+550+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2018, "model": "F-550 SUPER DUTY"}}}

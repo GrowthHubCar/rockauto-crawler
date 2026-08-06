@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/auburn,1905,model+b", "payload": {"nodetype": "model", "ctx": {"make": "AUBURN", "year": 1905, "model": "MODEL B"}}}
+{"node_type": "model", "href": "/en/catalog/auburn,1909,model+b", "payload": {"nodetype": "model", "ctx": {"make": "AUBURN", "year": 1909, "model": "MODEL B"}}}
+{"node_type": "model", "href": "/en/catalog/auburn,1906,model+c", "payload": {"nodetype": "model", "ctx": {"make": "AUBURN", "year": 1906, "model": "MODEL C"}}}
+{"node_type": "model", "href": "/en/catalog/auburn,1909,model+c", "payload": {"nodetype": "model", "ctx": {"make": "AUBURN", "year": 1909, "model": "MODEL C"}}}
+{"node_type": "model", "href": "/en/catalog/auburn,1907,model+d", "payload": {"nodetype": "model", "ctx": {"make": "AUBURN", "year": 1907, "model": "MODEL D"}}}
+{"node_type": "model", "href": "/en/catalog/auburn,1909,model+d", "payload": {"nodetype": "model", "ctx": {"make": "AUBURN", "year": 1909, "model": "MODEL D"}}}
+{"node_type": "model", "href": "/en/catalog/auburn,1908,model+k", "payload": {"nodetype": "model", "ctx": {"make": "AUBURN", "year": 1908, "model": "MODEL K"}}}
+{"node_type": "model", "href": "/en/catalog/auburn,1909,model+k", "payload": {"nodetype": "model", "ctx": {"make": "AUBURN", "year": 1909, "model": "MODEL K"}}}
+{"node_type": "model", "href": "/en/catalog/auburn,1908,model+h", "payload": {"nodetype": "model", "ctx": {"make": "AUBURN", "year": 1908, "model": "MODEL H"}}}
+{"node_type": "model", "href": "/en/catalog/auburn,1909,model+h", "payload": {"nodetype": "model", "ctx": {"make": "AUBURN", "year": 1909, "model": "MODEL H"}}}
+{"node_type": "model", "href": "/en/catalog/auburn,1908,model+g", "payload": {"nodetype": "model", "ctx": {"make": "AUBURN", "year": 1908, "model": "MODEL G"}}}
+{"node_type": "model", "href": "/en/catalog/auburn,1909,model+g", "payload": {"nodetype": "model", "ctx": {"make": "AUBURN", "year": 1909, "model": "MODEL G"}}}

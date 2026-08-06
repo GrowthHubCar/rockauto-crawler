@@ -1,2 +1,11 @@
+{"node_type": "model", "href": "/en/catalog/ford,2014,taurus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2014, "model": "TAURUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,f-450+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,f-750", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "F-750"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,f-250+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "F-250 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2012,ecosport", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "ECOSPORT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2012,courier", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "COURIER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2012,ranger,2.3l+l4,3015260", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2012, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2014,fusion,1.6l+l4+turbocharged,3300432", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2014, "model": "FUSION"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2014,fiesta,1.6l+l4+sohc,3307132", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2014, "model": "FIESTA"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2011,courier", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "COURIER"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2012,edge", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "EDGE"}}}

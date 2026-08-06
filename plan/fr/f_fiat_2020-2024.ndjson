@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/fiat,2020,palio", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2020, "model": "PALIO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2020,uno", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2020, "model": "UNO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2020,ducato", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2020, "model": "DUCATO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2021,ducato", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2021, "model": "DUCATO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2021,mobi", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2021, "model": "MOBI"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2023,mobi", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2023, "model": "MOBI"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2024,mobi", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2024, "model": "MOBI"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2023,argo", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2023, "model": "ARGO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2024,argo", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2024, "model": "ARGO"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2024,fastback", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2024, "model": "FASTBACK"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2023,pulse", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2023, "model": "PULSE"}}}
+{"node_type": "model", "href": "/en/catalog/fiat,2024,pulse", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 2024, "model": "PULSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2023,ducato,2.2l+l4+diesel+turbocharged,3454683", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2023, "model": "DUCATO"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,2022,ducato,2.3l+l4+diesel+turbocharged,3450588", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 2022, "model": "DUCATO"}}}

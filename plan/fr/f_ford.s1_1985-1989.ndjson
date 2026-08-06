@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ford,1986,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1986, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1989,f59,7.3l+445cid+v8+diesel,1367423", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1989, "model": "F59"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1985,ranger,2.3l+140cid+l4,1137439", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1985, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1989,thunderbird,3.8l+232cid+v6+supercharged,1430181", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1989, "model": "THUNDERBIRD"}}}

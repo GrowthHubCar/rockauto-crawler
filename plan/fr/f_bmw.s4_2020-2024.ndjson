@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2020,740i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2020, "model": "740I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2024,xm", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2024, "model": "XM"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2022,alpina+b7,4.4l+v8+turbocharged,3450455", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2022, "model": "ALPINA B7"}}}

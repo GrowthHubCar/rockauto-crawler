@@ -1,2 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/ford,2000,taurus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2000, "model": "TAURUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2000,f-650", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2000, "model": "F-650"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2004,f-550+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2004, "model": "F-550 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2003,f-750", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2003, "model": "F-750"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2003,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2003, "model": "EXPLORER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2004,explorer+sport+trac", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2004, "model": "EXPLORER SPORT TRAC"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2003,e-550", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2003, "model": "E-550"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2003,lobo,4.6l+v8,3068102", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2003, "model": "LOBO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2002,lobo,5.4l+v8,951457", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2002, "model": "LOBO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2004,focus,2.0l+l4+sohc,1424922", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2004, "model": "FOCUS"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2003,courier", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2003, "model": "COURIER"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2003,f+150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2003, "model": "F-150"}}}

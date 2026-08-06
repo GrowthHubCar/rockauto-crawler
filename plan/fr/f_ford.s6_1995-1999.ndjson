@@ -1,2 +1,16 @@
+{"node_type": "model", "href": "/en/catalog/ford,1998,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "P-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "L SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,fiesta", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "FIESTA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "EXPLORER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,f+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "F SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "E-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,contour", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "CONTOUR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,econoline+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "ECONOLINE SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1997,e-250,4.6l+v8,1400803", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1997, "model": "E-250"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1995,l+series+truck,14.6l+l6+diesel+turbocharged,3411129", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1995, "model": "L SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1998,l+series+truck,14.6l+l6+diesel+turbocharged,3440824", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1998, "model": "L SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1999,fiesta,1.4l+l4,200221", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1999, "model": "FIESTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1999,mustang,4.6l+v8+sohc,1354744", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1999, "model": "MUSTANG"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1998,b+series+bus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "B SERIES BUS"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1995,f+250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "F-250"}}}

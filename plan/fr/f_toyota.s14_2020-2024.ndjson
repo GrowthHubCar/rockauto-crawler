@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2020,rav4", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "RAV4"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2024,grand+highlander", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2024, "model": "GRAND HIGHLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2022,tundra,3.5l+v6+turbocharged,3451310", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2022, "model": "TUNDRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2023,prius,1.8l+l4+electric/gas,3455730", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2023, "model": "PRIUS"}}}

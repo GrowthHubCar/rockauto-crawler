@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,1970,fastback", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1970, "model": "FASTBACK"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1974,thing", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1974, "model": "THING"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1973,safari", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1973, "model": "SAFARI"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1974,412,1.7l+h4,1280135", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1974, "model": "412"}}}

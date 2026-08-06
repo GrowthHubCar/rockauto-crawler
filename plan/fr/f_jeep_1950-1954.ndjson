@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/jeep,1950,willys", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1950, "model": "WILLYS"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1951,willys", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1951, "model": "WILLYS"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1953,willys", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1953, "model": "WILLYS"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1954,willys", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1954, "model": "WILLYS"}}}

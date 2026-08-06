@@ -1,0 +1,30 @@
+{"node_type": "model", "href": "/en/catalog/studebaker,1955,commander", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1955, "model": "COMMANDER"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1956,commander", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1956, "model": "COMMANDER"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1957,commander", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1957, "model": "COMMANDER"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1958,commander", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1958, "model": "COMMANDER"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1955,president", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1955, "model": "PRESIDENT"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1956,president", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1956, "model": "PRESIDENT"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1958,president", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1958, "model": "PRESIDENT"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1956,champion", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1956, "model": "CHAMPION"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1958,champion", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1958, "model": "CHAMPION"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1955,taxi", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1955, "model": "TAXI"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1956,taxi", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1956, "model": "TAXI"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1957,taxi", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1957, "model": "TAXI"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1958,taxi", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1958, "model": "TAXI"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1959,taxi", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1959, "model": "TAXI"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1956,truck", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1956, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1957,truck", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1957, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1958,truck", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1958, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1959,truck", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1959, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1955,police+car", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1955, "model": "POLICE CAR"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1956,police+car", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1956, "model": "POLICE CAR"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1956,power+hawk", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1956, "model": "POWER HAWK"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1957,golden+hawk", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1957, "model": "GOLDEN HAWK"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1958,golden+hawk", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1958, "model": "GOLDEN HAWK"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1956,flight+hawk", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1956, "model": "FLIGHT HAWK"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1957,silver+hawk", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1957, "model": "SILVER HAWK"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1958,silver+hawk", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1958, "model": "SILVER HAWK"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1959,silver+hawk", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1959, "model": "SILVER HAWK"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1957,scotsman", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1957, "model": "SCOTSMAN"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1958,scotsman", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1958, "model": "SCOTSMAN"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1959,lark", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1959, "model": "LARK"}}}

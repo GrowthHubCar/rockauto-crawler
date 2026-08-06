@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/rickenbacker,1925,eight", "payload": {"nodetype": "model", "ctx": {"make": "RICKENBACKER", "year": 1925, "model": "EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/rickenbacker,1926,eight", "payload": {"nodetype": "model", "ctx": {"make": "RICKENBACKER", "year": 1926, "model": "EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/rickenbacker,1927,model+8-90", "payload": {"nodetype": "model", "ctx": {"make": "RICKENBACKER", "year": 1927, "model": "MODEL 8-90"}}}
+{"node_type": "model", "href": "/en/catalog/rickenbacker,1927,model+8-80", "payload": {"nodetype": "model", "ctx": {"make": "RICKENBACKER", "year": 1927, "model": "MODEL 8-80"}}}
+{"node_type": "model", "href": "/en/catalog/rickenbacker,1927,model+6-70", "payload": {"nodetype": "model", "ctx": {"make": "RICKENBACKER", "year": 1927, "model": "MODEL 6-70"}}}
+{"node_type": "model", "href": "/en/catalog/rickenbacker,1926,six", "payload": {"nodetype": "model", "ctx": {"make": "RICKENBACKER", "year": 1926, "model": "SIX"}}}
+{"node_type": "model", "href": "/en/catalog/rickenbacker,1925,model+c", "payload": {"nodetype": "model", "ctx": {"make": "RICKENBACKER", "year": 1925, "model": "MODEL C"}}}

@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/gwm,2025,tank+300", "payload": {"nodetype": "model", "ctx": {"make": "GWM", "year": 2025, "model": "TANK 300"}}}
+{"node_type": "model", "href": "/en/catalog/gwm,2025,poer", "payload": {"nodetype": "model", "ctx": {"make": "GWM", "year": 2025, "model": "POER"}}}
+{"node_type": "model", "href": "/en/catalog/gwm,2025,haval+h6", "payload": {"nodetype": "model", "ctx": {"make": "GWM", "year": 2025, "model": "HAVAL H6"}}}
+{"node_type": "model", "href": "/en/catalog/gwm,2026,haval+h6", "payload": {"nodetype": "model", "ctx": {"make": "GWM", "year": 2026, "model": "HAVAL H6"}}}

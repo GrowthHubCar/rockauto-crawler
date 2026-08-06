@@ -1,0 +1,11 @@
+{"node_type": "model", "href": "/en/catalog/lada,1990,niva", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1990, "model": "NIVA"}}}
+{"node_type": "model", "href": "/en/catalog/lada,1992,niva", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1992, "model": "NIVA"}}}
+{"node_type": "model", "href": "/en/catalog/lada,1990,signet", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1990, "model": "SIGNET"}}}
+{"node_type": "model", "href": "/en/catalog/lada,1992,signet", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1992, "model": "SIGNET"}}}
+{"node_type": "model", "href": "/en/catalog/lada,1993,signet", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1993, "model": "SIGNET"}}}
+{"node_type": "model", "href": "/en/catalog/lada,1990,samara", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1990, "model": "SAMARA"}}}
+{"node_type": "model", "href": "/en/catalog/lada,1992,samara", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1992, "model": "SAMARA"}}}
+{"node_type": "model", "href": "/en/catalog/lada,1993,samara", "payload": {"nodetype": "model", "ctx": {"make": "LADA", "year": 1993, "model": "SAMARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lada,1994,samara,1.5l+l4,1186488", "payload": {"nodetype": "carcode", "ctx": {"make": "LADA", "year": 1994, "model": "SAMARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lada,1994,samara,1.3l+l4,1186466", "payload": {"nodetype": "carcode", "ctx": {"make": "LADA", "year": 1994, "model": "SAMARA"}}}
+{"node_type": "carcode", "href": "/en/catalog/lada,1994,niva,1.6l+l4,923986", "payload": {"nodetype": "carcode", "ctx": {"make": "LADA", "year": 1994, "model": "NIVA"}}}

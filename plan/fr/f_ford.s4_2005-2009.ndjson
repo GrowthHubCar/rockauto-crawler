@@ -1,2 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/ford,2008,fusion", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2008, "model": "FUSION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,f-750", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "F-750"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2006,ecosport", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "ECOSPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2005,explorer,4.6l+v8,1430690", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2005, "model": "EXPLORER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2009,f-750,6.7l+l6+diesel+turbocharged,3296607", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2009, "model": "F-750"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2005,e+150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "E-150"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2006,expedition", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "EXPEDITION"}}}

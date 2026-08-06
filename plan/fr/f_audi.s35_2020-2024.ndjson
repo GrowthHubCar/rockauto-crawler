@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/audi,2022,s7", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2022, "model": "S7"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2023,s6,2.9l+v6+turbocharged,3454063", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2023, "model": "S6"}}}

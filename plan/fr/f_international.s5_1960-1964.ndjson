@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/international,1964,am130", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 1964, "model": "AM130"}}}
+{"node_type": "model", "href": "/en/catalog/international,1963,cm80", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 1963, "model": "CM80"}}}
+{"node_type": "model", "href": "/en/catalog/international,1962,c112", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 1962, "model": "C112"}}}
+{"node_type": "model", "href": "/en/catalog/international,1960,ab140", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 1960, "model": "AB140"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,1964,scout,2.5l+152cid+l4,1341234", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 1964, "model": "SCOUT"}}}

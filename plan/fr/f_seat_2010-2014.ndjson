@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/seat,2013,toledo", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2013, "model": "TOLEDO"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2010,leon", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2010, "model": "LEON"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2013,leon", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2013, "model": "LEON"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2010,ibiza", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2010, "model": "IBIZA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2012,ibiza", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2012, "model": "IBIZA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2013,ibiza", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2013, "model": "IBIZA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2012,altea", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2012, "model": "ALTEA"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2010,altea+xl", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2010, "model": "ALTEA XL"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2011,altea+xl", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2011, "model": "ALTEA XL"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2012,freetrack", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2012, "model": "FREETRACK"}}}
+{"node_type": "model", "href": "/en/catalog/seat,2013,freetrack", "payload": {"nodetype": "model", "ctx": {"make": "SEAT", "year": 2013, "model": "FREETRACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2013,altea+xl,1.8l+l4+turbocharged,3294425", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2013, "model": "ALTEA XL"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2014,ibiza,1.6l+l4,3307192", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2014, "model": "IBIZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/seat,2014,altea+xl,1.8l+l4+turbocharged,3307442", "payload": {"nodetype": "carcode", "ctx": {"make": "SEAT", "year": 2014, "model": "ALTEA XL"}}}

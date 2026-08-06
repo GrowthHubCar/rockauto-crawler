@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2026,caddy", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2026, "model": "CADDY"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2026,atlas,2.0l+l4+turbocharged,3459199", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2026, "model": "ATLAS"}}}

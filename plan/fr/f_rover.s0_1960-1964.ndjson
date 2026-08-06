@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/rover,1960,80", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1960, "model": "80"}}}
+{"node_type": "model", "href": "/en/catalog/rover,1962,100", "payload": {"nodetype": "model", "ctx": {"make": "ROVER", "year": 1962, "model": "100"}}}

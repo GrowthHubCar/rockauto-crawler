@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/chrysler,1986,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1986, "model": "TOWN & COUNTRY"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1987,lebaron", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1987, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1986,lebaron,2.2l+135cid+l4+turbocharged,1064821", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1986, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1987,lebaron,2.2l+135cid+l4,1064876", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1987, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1986,laser,2.2l+135cid+l4,1063897", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1986, "model": "LASER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1986,laser,2.2l+135cid+l4+turbocharged,1063909", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1986, "model": "LASER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1987,conquest,2.6l+156cid+l4+turbocharged,1062458", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1987, "model": "CONQUEST"}}}

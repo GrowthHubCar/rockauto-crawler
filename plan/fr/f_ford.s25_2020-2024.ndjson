@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/ford,2023,e-transit", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2023, "model": "E-TRANSIT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2024,f-650,6.7l+v8+diesel+turbocharged,3455059", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2024, "model": "F-650"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/ford,2023,territory", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2023, "model": "TERRITORY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2023,lobo,5.0l+v8,3454337", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2023, "model": "LOBO"}}}

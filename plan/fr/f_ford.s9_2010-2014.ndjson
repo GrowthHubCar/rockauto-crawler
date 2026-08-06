@@ -1,2 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/ford,2011,f-650", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "F-650"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,ikon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "IKON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2012,edge", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "EDGE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2012,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2012, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "CROWN VICTORIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2011,fusion,3.0l+v6,3015243", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2011, "model": "FUSION"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2013,ranger,2.5l+l4,3300342", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2013, "model": "RANGER"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2010,e+450", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "E-450"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2010,f+150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "F-150"}}}

@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/aston+martin,1961,lagonda+rapide", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1961, "model": "LAGONDA RAPIDE"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,1962,lagonda+rapide", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1962, "model": "LAGONDA RAPIDE"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,1960,db4", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1960, "model": "DB4"}}}
+{"node_type": "model", "href": "/en/catalog/aston+martin,1961,db4", "payload": {"nodetype": "model", "ctx": {"make": "ASTON MARTIN", "year": 1961, "model": "DB4"}}}

@@ -1,0 +1,20 @@
+{"node_type": "model", "href": "/en/catalog/bentley,2020,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2020, "model": "CONTINENTAL"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2021,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2021, "model": "CONTINENTAL"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2022,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2022, "model": "CONTINENTAL"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2023,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2023, "model": "CONTINENTAL"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2024,continental", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2024, "model": "CONTINENTAL"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2020,mulsanne", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2020, "model": "MULSANNE"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2020,flying+spur", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2020, "model": "FLYING SPUR"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2021,flying+spur", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2021, "model": "FLYING SPUR"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2022,flying+spur", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2022, "model": "FLYING SPUR"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2023,flying+spur", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2023, "model": "FLYING SPUR"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2024,flying+spur", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2024, "model": "FLYING SPUR"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2020,bentayga", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2020, "model": "BENTAYGA"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2021,bentayga", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2021, "model": "BENTAYGA"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2022,bentayga", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2022, "model": "BENTAYGA"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2023,bentayga", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2023, "model": "BENTAYGA"}}}
+{"node_type": "model", "href": "/en/catalog/bentley,2024,bentayga", "payload": {"nodetype": "model", "ctx": {"make": "BENTLEY", "year": 2024, "model": "BENTAYGA"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2020,continental,4.0l+v8+turbocharged,3447629", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2020, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2024,continental,6.0l+w12+turbocharged,3454985", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2024, "model": "CONTINENTAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2024,flying+spur,2.9l+v6+electric/gas+turbocharged,3454986", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2024, "model": "FLYING SPUR"}}}
+{"node_type": "carcode", "href": "/en/catalog/bentley,2024,flying+spur,6.0l+w12+turbocharged,3454988", "payload": {"nodetype": "carcode", "ctx": {"make": "BENTLEY", "year": 2024, "model": "FLYING SPUR"}}}

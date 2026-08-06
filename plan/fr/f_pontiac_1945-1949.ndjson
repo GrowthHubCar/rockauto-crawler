@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/pontiac,1946,torpedo", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1946, "model": "TORPEDO"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1948,torpedo", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1948, "model": "TORPEDO"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1946,streamliner", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1946, "model": "STREAMLINER"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1947,streamliner", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1947, "model": "STREAMLINER"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1948,streamliner", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1948, "model": "STREAMLINER"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1949,streamliner", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1949, "model": "STREAMLINER"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1948,silver+streak", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1948, "model": "SILVER STREAK"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1949,silver+streak", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1949, "model": "SILVER STREAK"}}}
+{"node_type": "model", "href": "/en/catalog/pontiac,1949,chieftain", "payload": {"nodetype": "model", "ctx": {"make": "PONTIAC", "year": 1949, "model": "CHIEFTAIN"}}}

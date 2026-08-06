@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/ford,2020,lobo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2020, "model": "LOBO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2023,bronco,2.0l+l4+turbocharged,3451078", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2023, "model": "BRONCO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2023,f-250+super+duty,6.8l+v8,3454330", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2023, "model": "F-250 SUPER DUTY"}}}

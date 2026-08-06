@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2020,saveiro", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2020, "model": "SAVEIRO"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2023,transporter,2.0l+l4+diesel+turbocharged,3455191", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2023, "model": "TRANSPORTER"}}}

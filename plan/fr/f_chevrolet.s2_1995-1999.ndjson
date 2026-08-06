@@ -1,2 +1,7 @@
-{"node_type": "model", "href": "/en/catalog/chevrolet,1996,beretta", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "BERETTA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,stepvan", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "STEPVAN"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1997,corvette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "CORVETTE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,g30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "G30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,bus", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "BUS"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,c1500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "C1500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1997,express+2500,6.5l+v8+diesel+turbocharged,1044605", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "EXPRESS 2500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,beretta", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "BERETTA"}}}

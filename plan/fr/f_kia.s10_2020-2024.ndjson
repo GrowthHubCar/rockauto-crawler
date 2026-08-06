@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/kia,2024,seltos", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2024, "model": "SELTOS"}}}
+{"node_type": "carcode", "href": "/en/catalog/kia,2021,soul,electric,3450075", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2021, "model": "SOUL"}}}

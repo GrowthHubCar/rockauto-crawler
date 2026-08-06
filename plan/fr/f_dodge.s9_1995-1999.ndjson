@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/dodge,1996,b3500", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1996, "model": "B3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1998,ram+1500+pickup,3.9l+v6,1314553", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1998, "model": "RAM 1500 PICKUP"}}}

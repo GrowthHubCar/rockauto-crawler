@@ -1,2 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,lumina", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "LUMINA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,kodiak", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "KODIAK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,g20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "G20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,cavalier", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "CAVALIER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,c1500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "C1500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1995,k1500+suburban,5.7l+v8,1302589", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1995, "model": "K1500 SUBURBAN"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1997,blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "BLAZER"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1997,express+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "EXPRESS 1500"}}}

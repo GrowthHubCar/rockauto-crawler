@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2020,montero+sport", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2020, "model": "MONTERO SPORT"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,2020,mirage", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 2020, "model": "MIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2024,rvr,2.4l+l4,3455142", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2024, "model": "RVR"}}}

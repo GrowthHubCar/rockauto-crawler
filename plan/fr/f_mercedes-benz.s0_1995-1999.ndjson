@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1998,sl320", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1998, "model": "SL320"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1999,clk430,4.3l+v8,1356342", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "CLK430"}}}

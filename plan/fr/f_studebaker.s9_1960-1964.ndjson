@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/studebaker,1960,hawk", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1960, "model": "HAWK"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1961,6e7", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1961, "model": "6E7"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1962,5e5", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1962, "model": "5E5"}}}
+{"node_type": "model", "href": "/en/catalog/studebaker,1962,7e10", "payload": {"nodetype": "model", "ctx": {"make": "STUDEBAKER", "year": 1962, "model": "7E10"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,g500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "G500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1997,e300,3.0l+l6+diesel+turbocharged,3007983", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1997, "model": "E300"}}}

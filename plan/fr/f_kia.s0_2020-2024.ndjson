@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/kia,2021,sportage", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2021, "model": "SPORTAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/kia,2022,sorento,1.6l+l4+electric/gas+turbocharged,3450783", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2022, "model": "SORENTO"}}}

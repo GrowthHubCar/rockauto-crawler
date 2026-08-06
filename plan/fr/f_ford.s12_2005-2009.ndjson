@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/ford,2006,f-550+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2006, "model": "F-550 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,f-250+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "F-250 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2005,econoline", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2005, "model": "ECONOLINE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2008,focus,2.0l+l4,1441219", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2008, "model": "FOCUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2007,f-450+super+duty,6.0l+v8+diesel+turbocharged,1434840", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2007, "model": "F-450 SUPER DUTY"}}}

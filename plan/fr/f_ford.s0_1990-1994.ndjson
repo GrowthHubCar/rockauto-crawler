@@ -1,0 +1,38 @@
+{"node_type": "model", "href": "/en/catalog/ford,1991,taurus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1991, "model": "TAURUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1994,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1994, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1994,topaz", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1994, "model": "TOPAZ"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1994,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1994, "model": "P-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1992,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1992, "model": "L SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1994,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1994, "model": "L SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1994,f-600", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1994, "model": "F-600"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1992,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1992, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1991,c+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1991, "model": "C SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1993,b+series+bus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1993, "model": "B SERIES BUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1993,ghia", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1993, "model": "GHIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1994,probe,2.0l+l4,1135426", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1994, "model": "PROBE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1992,f-600,5.9l+l6+diesel+turbocharged,3410977", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1992, "model": "F-600"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1994,ranger,3.0l+v6,1137978", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1994, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1992,f-600,7.0l+v8,3296119", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1992, "model": "F-600"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1994,e-350,7.3l+v8+diesel,1117886", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1994, "model": "E-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1993,ranger,2.3l+l4,1137901", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1993, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1991,probe,2.2l+l4+turbocharged,1135347", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1991, "model": "PROBE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1993,f-600,5.9l+l6+diesel+turbocharged,3294894", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1993, "model": "F-600"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1992,c+series+truck,7.8l+l6+diesel+turbocharged,3296102", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1992, "model": "C SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1991,mustang,5.0l+v8,1134010", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1991, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1992,e-250,5.0l+v8,1408946", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1992, "model": "E-250"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1994,f-700,5.9l+l6+diesel+turbocharged,3294907", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1994, "model": "F-700"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1994,c+series+truck,8.3l+l6+diesel+turbocharged,3296434", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1994, "model": "C SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1990,ranger,2.3l+140cid+l4,1137686", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1990, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1994,tempo,2.3l+l4,1139745", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1994, "model": "TEMPO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1990,ranger,2.9l+177cid+v6,1137697", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1990, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1994,taurus,3.8l+v6,1138834", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1994, "model": "TAURUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1992,e-250,7.5l+v8,945", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1992, "model": "E-250"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1990,probe,3.0l+182cid+v6,1135325", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1990, "model": "PROBE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1993,taurus,3.2l+v6,1138801", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1993, "model": "TAURUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1990,f+super+duty,7.3l+445cid+v8+diesel,1367142", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1990, "model": "F SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1992,f-700,6.6l+l6+diesel+turbocharged,3296137", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1992, "model": "F-700"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1991,f-350,4.9l+v8,3078044", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1991, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1990,f-800,7.0l+429cid+v8,3296148", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1990, "model": "F-800"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1993,tempo,2.3l+l4,1139701", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1993, "model": "TEMPO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1992,mustang,5.0l+v8,1134043", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1992, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1991,f-800,7.8l+l6+diesel+turbocharged,3297777", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1991, "model": "F-800"}}}

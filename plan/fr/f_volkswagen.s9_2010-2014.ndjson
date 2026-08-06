@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2013,crossfox", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2013, "model": "CROSSFOX"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2012,golf,2.0l+l4+diesel+turbocharged,1502694", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2012, "model": "GOLF"}}}

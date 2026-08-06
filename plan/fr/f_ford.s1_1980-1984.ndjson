@@ -1,2 +1,16 @@
+{"node_type": "model", "href": "/en/catalog/ford,1983,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1983, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1983,ltd", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1983, "model": "LTD"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1983,ltd+crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1983, "model": "LTD CROWN VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1983,f-800", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1983, "model": "F-800"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1981,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1981, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1982,f-700", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1982, "model": "F-700"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1983,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1983, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1980,c+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1980, "model": "C SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1981,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1981, "model": "E-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1980,b-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1980, "model": "B-100"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1982,thunderbird,4.2l+255cid+v8,1140073", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1982, "model": "THUNDERBIRD"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1983,fairmont,4.9l+302cid+v8,3078550", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1983, "model": "FAIRMONT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1983,fairmont,3.3l+200cid+l6,1127810", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1983, "model": "FAIRMONT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1983,mustang,2.3l+140cid+l4+turbocharged,1133592", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1983, "model": "MUSTANG"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1983,b+series+bus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1983, "model": "B SERIES BUS"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1984,exp", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1984, "model": "EXP"}}}

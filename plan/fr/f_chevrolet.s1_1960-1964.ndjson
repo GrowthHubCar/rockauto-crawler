@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1963,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1961,nomad", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "NOMAD"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1961,k20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "K20 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1960,c20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "C20 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1961,c10+panel", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1961, "model": "C10 PANEL"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,c30+pickup,6.7l+409cid+v8,1324820", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "C30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1962,medium+duty+truck,7.8l+478cid+v6+diesel,3438942", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,k20+suburban,5.7l+348cid+v8,1491080", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "K20 SUBURBAN"}}}

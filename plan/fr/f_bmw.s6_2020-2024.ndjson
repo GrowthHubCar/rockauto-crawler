@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2021,530i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2021, "model": "530I"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2023,alpina+b8", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2023, "model": "ALPINA B8"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2023,m4,3.0l+l6+turbocharged,3451028", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2023, "model": "M4"}}}

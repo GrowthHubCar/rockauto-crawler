@@ -1,0 +1,13 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1948,truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1948, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1949,truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1949, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1947,fleetmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1947, "model": "FLEETMASTER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1948,fleetmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1948, "model": "FLEETMASTER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1947,fleetline", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1947, "model": "FLEETLINE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1948,fleetline", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1948, "model": "FLEETLINE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1949,fleetline", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1949, "model": "FLEETLINE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1947,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1947, "model": "SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1948,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1948, "model": "SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1949,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1949, "model": "SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1947,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1947, "model": "SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1948,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1948, "model": "SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1949,sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1949, "model": "SEDAN DELIVERY"}}}

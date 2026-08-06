@@ -1,2 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1999,malibu", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1999, "model": "MALIBU"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1995,k1500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1995, "model": "K1500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,camaro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "CAMARO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1997,c2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "C2500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1999,s10+pickup,2.2l+l4,1353620", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1999, "model": "S10 PICKUP"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1996,c3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "C3500 PICKUP"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1997,k1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "K1500 SUBURBAN"}}}

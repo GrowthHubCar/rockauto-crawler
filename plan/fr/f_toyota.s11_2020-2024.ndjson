@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2021,tacoma", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2021, "model": "TACOMA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2023,gr+supra", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2023, "model": "GR SUPRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2022,camry,2.5l+l4+electric/gas,3450951", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2022, "model": "CAMRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2023,gr+supra,3.0l+l6+turbocharged,3452565", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2023, "model": "GR SUPRA"}}}

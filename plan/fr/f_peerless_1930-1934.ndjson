@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/peerless,1930,standard+8", "payload": {"nodetype": "model", "ctx": {"make": "PEERLESS", "year": 1930, "model": "STANDARD 8"}}}
+{"node_type": "model", "href": "/en/catalog/peerless,1931,standard+8", "payload": {"nodetype": "model", "ctx": {"make": "PEERLESS", "year": 1931, "model": "STANDARD 8"}}}
+{"node_type": "model", "href": "/en/catalog/peerless,1930,master+8", "payload": {"nodetype": "model", "ctx": {"make": "PEERLESS", "year": 1930, "model": "MASTER 8"}}}
+{"node_type": "model", "href": "/en/catalog/peerless,1931,master+8", "payload": {"nodetype": "model", "ctx": {"make": "PEERLESS", "year": 1931, "model": "MASTER 8"}}}
+{"node_type": "model", "href": "/en/catalog/peerless,1930,custom+8", "payload": {"nodetype": "model", "ctx": {"make": "PEERLESS", "year": 1930, "model": "CUSTOM 8"}}}
+{"node_type": "model", "href": "/en/catalog/peerless,1931,custom+8", "payload": {"nodetype": "model", "ctx": {"make": "PEERLESS", "year": 1931, "model": "CUSTOM 8"}}}

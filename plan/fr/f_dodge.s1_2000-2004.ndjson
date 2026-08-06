@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/dodge,2000,ramcharger", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2000, "model": "RAMCHARGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,stratus,2.0l+l4,3038770", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,ram+2500+van,5.9l+v8,1362046", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "RAM 2500 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2001,grand+caravan,3.3l+v6,1434720", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2001, "model": "GRAND CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,ram+3500+van,5.2l+v8,1362091", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "RAM 3500 VAN"}}}

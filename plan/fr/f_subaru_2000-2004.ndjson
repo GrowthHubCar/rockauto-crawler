@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/subaru,2003,outback", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2003, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2002,outback,2.5l+h4,1378795", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2002, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2003,impreza,2.5l+h4,1418127", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2003, "model": "IMPREZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2003,impreza,2.0l+h4+turbocharged,1418149", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2003, "model": "IMPREZA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2003,baja,2.5l+h4,1411030", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2003, "model": "BAJA"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2002,outback,3.0l+h6,1378807", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2002, "model": "OUTBACK"}}}

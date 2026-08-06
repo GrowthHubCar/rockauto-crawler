@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1952,501", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1952, "model": "501"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1953,501", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1953, "model": "501"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1954,501", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1954, "model": "501"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1954,502", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1954, "model": "502"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1954,501b", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1954, "model": "501B"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1954,501a", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1954, "model": "501A"}}}

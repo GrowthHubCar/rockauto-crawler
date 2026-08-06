@@ -1,0 +1,50 @@
+{"node_type": "model", "href": "/en/catalog/international,2010,workstar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2010, "model": "WORKSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2011,workstar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2011, "model": "WORKSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2012,workstar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2012, "model": "WORKSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2013,workstar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2013, "model": "WORKSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2010,transtar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2010, "model": "TRANSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2011,transtar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2011, "model": "TRANSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2012,transtar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2012, "model": "TRANSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2013,transtar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2013, "model": "TRANSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2014,transtar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2014, "model": "TRANSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2013,terrastar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2013, "model": "TERRASTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2010,prostar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2010, "model": "PROSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2011,prostar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2011, "model": "PROSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2012,prostar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2012, "model": "PROSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2013,prostar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2013, "model": "PROSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2014,prostar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2014, "model": "PROSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2011,paystar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2011, "model": "PAYSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2012,paystar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2012, "model": "PAYSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2014,paystar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2014, "model": "PAYSTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2013,lonestar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2013, "model": "LONESTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2011,durastar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2011, "model": "DURASTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2012,durastar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2012, "model": "DURASTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2013,durastar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2013, "model": "DURASTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2014,durastar", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2014, "model": "DURASTAR"}}}
+{"node_type": "model", "href": "/en/catalog/international,2010,9000+series", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2010, "model": "9000 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/international,2011,9000+series", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2011, "model": "9000 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/international,2010,1652sc", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2010, "model": "1652SC"}}}
+{"node_type": "model", "href": "/en/catalog/international,2011,1652sc", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2011, "model": "1652SC"}}}
+{"node_type": "model", "href": "/en/catalog/international,2011,3300", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2011, "model": "3300"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2014,paystar,14.9l+l6+diesel+turbocharged,3456376", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2014, "model": "PAYSTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2011,durastar,9.3l+l6+diesel+turbocharged,3456124", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2011, "model": "DURASTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2011,9000+series,14.9l+l6+diesel+turbocharged,3456791", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2011, "model": "9000 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2011,durastar,6.0l+v8+diesel+turbocharged,3297151", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2011, "model": "DURASTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2010,durastar,7.6l+l6+diesel+turbocharged,3295216", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2010, "model": "DURASTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2010,paystar,10.8l+l6+diesel+turbocharged,3305206", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2010, "model": "PAYSTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2010,3300,6.0l+v8+diesel+turbocharged,3298041", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2010, "model": "3300"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2010,9000+series,15.2l+l6+diesel+turbocharged,3456790", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2010, "model": "9000 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2010,prostar,10.8l+l6+diesel+turbocharged,3305593", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2010, "model": "PROSTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2010,3200,6.0l+v8+diesel+turbocharged,3296732", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2010, "model": "3200"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2014,durastar,6.4l+v8+diesel+turbocharged,3456091", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2014, "model": "DURASTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2010,durastar,9.3l+l6+diesel+turbocharged,3456123", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2010, "model": "DURASTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2011,prostar,12.4l+l6+diesel+turbocharged,3457197", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2011, "model": "PROSTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2011,transtar,10.8l+l6+diesel+turbocharged,3305316", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2011, "model": "TRANSTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2010,paystar,8.9l+l6+diesel+turbocharged,3305205", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2010, "model": "PAYSTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2010,lonestar,10.8l+l6+diesel+turbocharged,3305590", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2010, "model": "LONESTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2011,durastar,7.6l+l6+diesel+turbocharged,3295217", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2011, "model": "DURASTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2010,prostar,10.5l+l6+diesel+turbocharged,3457191", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2010, "model": "PROSTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2010,prostar,15.2l+l6+diesel+turbocharged,3457190", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2010, "model": "PROSTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2011,prostar,14.9l+l6+diesel+turbocharged,3457194", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2011, "model": "PROSTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2014,9000+series,14.9l+l6+diesel+turbocharged,3456795", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2014, "model": "9000 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2010,prostar,12.4l+l6+diesel+turbocharged,3457192", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2010, "model": "PROSTAR"}}}

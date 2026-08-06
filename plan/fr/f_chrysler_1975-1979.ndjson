@@ -1,0 +1,31 @@
+{"node_type": "model", "href": "/en/catalog/chrysler,1975,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1975, "model": "TOWN & COUNTRY"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1976,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1976, "model": "TOWN & COUNTRY"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1975,imperial", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1975, "model": "IMPERIAL"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1975,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1975, "model": "NEW YORKER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1977,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1977, "model": "NEW YORKER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1978,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1978, "model": "NEW YORKER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1979,new+yorker", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1979, "model": "NEW YORKER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1975,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1975, "model": "NEWPORT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1976,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1976, "model": "NEWPORT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1977,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1977, "model": "NEWPORT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1977,valiant", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1977, "model": "VALIANT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1979,valiant", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1979, "model": "VALIANT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1979,lebaron", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1979, "model": "LEBARON"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1976,cordoba", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1976, "model": "CORDOBA"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1977,cordoba", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1977, "model": "CORDOBA"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1978,cordoba", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1978, "model": "CORDOBA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1978,lebaron,3.7l+225cid+l6,1063976", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1978, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1979,newport,5.9l+360cid+v8,1066867", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1979, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1978,lebaron,5.2l+318cid+v8,1063987", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1978, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1978,town+&+country,5.2l+318cid+v8,1067475", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1978, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1975,newport,7.2l+440cid+v8,1066597", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1975, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1977,cordoba,5.9l+360cid+v8,1062627", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1977, "model": "CORDOBA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1977,newport,6.6l+400cid+v8,1066777", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1977, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1979,cordoba,5.9l+360cid+v8,1062740", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1979, "model": "CORDOBA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1977,newport,7.2l+440cid+v8,1066788", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1977, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1979,lebaron,3.7l+225cid+l6,1064146", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1979, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1976,newport,5.9l+360cid+v8,1066665", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1976, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1977,lebaron,5.2l+318cid+v8,1063943", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1977, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1979,newport,3.7l+225cid+l6,1066834", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1979, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1976,town+&+country,6.6l+400cid+v8,1067408", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1976, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1978,newport,5.9l+360cid+v8,1066799", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1978, "model": "NEWPORT"}}}

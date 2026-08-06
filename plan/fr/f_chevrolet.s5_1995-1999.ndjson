@@ -1,2 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,lumina", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "LUMINA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1997,kodiak", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "KODIAK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1997,g20", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "G20"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "BLAZER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,beretta", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "BERETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1996,p30,7.4l+v8,1059735", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "P30"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1998,blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "BLAZER"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1998,express+1500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "EXPRESS 1500"}}}

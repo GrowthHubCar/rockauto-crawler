@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,1981,fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1981, "model": "FLEETWOOD"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1981,deville,4.1l+252cid+v6,1025547", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1981, "model": "DEVILLE"}}}

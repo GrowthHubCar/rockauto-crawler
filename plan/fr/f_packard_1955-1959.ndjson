@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/packard,1955,clipper", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1955, "model": "CLIPPER"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1956,clipper", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1956, "model": "CLIPPER"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1958,henney+chassis", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1958, "model": "HENNEY CHASSIS"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1956,four-hundred", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1956, "model": "FOUR-HUNDRED"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1956,caribbean", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1956, "model": "CARIBBEAN"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1956,executive", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1956, "model": "EXECUTIVE"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1958,hawk", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1958, "model": "HAWK"}}}

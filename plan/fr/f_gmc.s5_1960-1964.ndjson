@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/gmc,1964,suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1964, "model": "SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1963,g1000+series", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1963, "model": "G1000 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1961,3000", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1961, "model": "3000"}}}

@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1970,phantom", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1970, "model": "PHANTOM"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1970,silver+shadow", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1970, "model": "SILVER SHADOW"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1972,silver+shadow", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1972, "model": "SILVER SHADOW"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1973,silver+shadow", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1973, "model": "SILVER SHADOW"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1974,silver+shadow", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1974, "model": "SILVER SHADOW"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1971,corniche", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1971, "model": "CORNICHE"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1972,corniche", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1972, "model": "CORNICHE"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1973,corniche", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1973, "model": "CORNICHE"}}}
+{"node_type": "model", "href": "/en/catalog/rolls-royce,1974,corniche", "payload": {"nodetype": "model", "ctx": {"make": "ROLLS-ROYCE", "year": 1974, "model": "CORNICHE"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,1982,fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1982, "model": "FLEETWOOD"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1980,eldorado,6.0l+368cid+v8,1025985", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1980, "model": "ELDORADO"}}}

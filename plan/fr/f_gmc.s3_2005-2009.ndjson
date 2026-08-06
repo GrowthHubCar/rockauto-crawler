@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/gmc,2008,yukon", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 2008, "model": "YUKON"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,2008,topkick,6.6l+v8+diesel+turbocharged,3294755", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 2008, "model": "TOPKICK"}}}

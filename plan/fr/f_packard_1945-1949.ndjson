@@ -1,0 +1,12 @@
+{"node_type": "model", "href": "/en/catalog/packard,1948,standard+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1948, "model": "STANDARD EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1949,standard+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1949, "model": "STANDARD EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1948,deluxe+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1948, "model": "DELUXE EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1949,deluxe+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1949, "model": "DELUXE EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1949,custom+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1949, "model": "CUSTOM EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1949,super+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1949, "model": "SUPER EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1946,clipper+super+8", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1946, "model": "CLIPPER SUPER 8"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1947,clipper+super+8", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1947, "model": "CLIPPER SUPER 8"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1946,clipper+8", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1946, "model": "CLIPPER 8"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1946,clipper+6", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1946, "model": "CLIPPER 6"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1947,clipper+6", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1947, "model": "CLIPPER 6"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1949,super+deluxe+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1949, "model": "SUPER DELUXE EIGHT"}}}

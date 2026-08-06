@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mazda,1972,1200", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1972, "model": "1200"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1971,1200,1.6l+l4,1189346", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1971, "model": "1200"}}}

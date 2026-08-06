@@ -1,2 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/oldsmobile,1981,cutlass+supreme", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1981, "model": "CUTLASS SUPREME"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1984,98", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1984, "model": "98"}}}
 {"node_type": "model", "href": "/en/catalog/oldsmobile,1984,cutlass+ciera", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 1984, "model": "CUTLASS CIERA"}}}

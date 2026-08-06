@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2004,sl55+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2004, "model": "SL55 AMG"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2004,g55+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2004, "model": "G55 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2004,c320,3.2l+v6,1426339", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2004, "model": "C320"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2003,s500,5.0l+v8,1440110", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2003, "model": "S500"}}}

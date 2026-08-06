@@ -1,0 +1,20 @@
+{"node_type": "model", "href": "/en/catalog/peugeot,2011,rcz", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2011, "model": "RCZ"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2011,partner", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2011, "model": "PARTNER"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2012,manager", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2012, "model": "MANAGER"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2013,manager", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2013, "model": "MANAGER"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2012,508", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2012, "model": "508"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2013,508", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2013, "model": "508"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2011,308", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2011, "model": "308"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2013,308", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2013, "model": "308"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2013,301", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2013, "model": "301"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2011,3008", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2011, "model": "3008"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2013,3008", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2013, "model": "3008"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2010,207", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2010, "model": "207"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2011,207", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2011, "model": "207"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2013,207", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2013, "model": "207"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2010,307", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2010, "model": "307"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2010,207+compact", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2010, "model": "207 COMPACT"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2011,207+compact", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2011, "model": "207 COMPACT"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2014,2008,1.6l+l4,3307771", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2014, "model": "2008"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2011,grand+raid,1.6l+4cyl+diesel+turbocharged,3189198", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2011, "model": "GRAND RAID"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2010,manager,2.2l+l4+diesel+turbocharged,3186161", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2010, "model": "MANAGER"}}}

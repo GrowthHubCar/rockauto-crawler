@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/kia,2023,k5", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2023, "model": "K5"}}}
+{"node_type": "carcode", "href": "/en/catalog/kia,2022,seltos,1.6l+l4,3450782", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2022, "model": "SELTOS"}}}

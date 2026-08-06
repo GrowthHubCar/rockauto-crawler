@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/ford,1987,b+series+bus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1987, "model": "B SERIES BUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1986,b+series+bus,6.1l+370cid+v8,3297814", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1986, "model": "B SERIES BUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1987,e-350,6.9l+420cid+v8+diesel,1116931", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1987, "model": "E-350"}}}

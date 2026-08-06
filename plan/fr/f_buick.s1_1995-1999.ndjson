@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/buick,1998,park+avenue", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1998, "model": "PARK AVENUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1996,century,3.1l+v6,1016165", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1996, "model": "CENTURY"}}}

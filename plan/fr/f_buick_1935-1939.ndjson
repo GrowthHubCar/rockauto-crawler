@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/buick,1935,series+40", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1935, "model": "SERIES 40"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1935,series+60", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1935, "model": "SERIES 60"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1935,series+90", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1935, "model": "SERIES 90"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1936,special+40", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1936, "model": "SPECIAL 40"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1936,limited+series+90", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1936, "model": "LIMITED SERIES 90"}}}

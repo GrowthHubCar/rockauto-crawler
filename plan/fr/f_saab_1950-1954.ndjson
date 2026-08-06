@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/saab,1950,92", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1950, "model": "92"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1951,92", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1951, "model": "92"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1952,92", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1952, "model": "92"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1953,92b", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1953, "model": "92B"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1954,92b", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1954, "model": "92B"}}}

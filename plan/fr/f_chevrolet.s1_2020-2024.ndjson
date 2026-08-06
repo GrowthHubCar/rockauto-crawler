@@ -1,2 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2021,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2021, "model": "SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2023,lcf", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "LCF"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2023,camaro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "CAMARO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2022,onix", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2022, "model": "ONIX"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2020,silverado+5500+hd,6.6l+v8+diesel+turbocharged,3446021", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2020, "model": "SILVERADO 5500 HD"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,2023,blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2023, "model": "BLAZER"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,2024,express+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2024, "model": "EXPRESS 2500"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/nissan,1962,bluebird", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1962, "model": "BLUEBIRD"}}}
+{"node_type": "model", "href": "/en/catalog/nissan,1962,1500", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 1962, "model": "1500"}}}

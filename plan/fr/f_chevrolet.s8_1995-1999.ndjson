@@ -1,2 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1997,t+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "T SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1997,k3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "K3500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,express+3500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "EXPRESS 3500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,corsica", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "CORSICA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1997,cargo+van", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "CARGO VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1995,g10,5.0l+v8,1044515", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1995, "model": "G10"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1998,bus", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "BUS"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1996,express+3500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "EXPRESS 3500"}}}

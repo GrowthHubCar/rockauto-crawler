@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2000,s55+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2000, "model": "S55 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2002,cl500,5.0l+v8,1387526", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2002, "model": "CL500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2000,slk320,3.2l+v6,3018383", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2000, "model": "SLK320"}}}

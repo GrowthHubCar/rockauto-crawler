@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2008,tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "TILTMASTER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2005,astra", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "ASTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,malibu,2.4l+l4+electric/gas,1442126", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "MALIBU"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2006,tiltmaster,5.2l+l4+diesel+turbocharged,3294719", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2006, "model": "TILTMASTER"}}}

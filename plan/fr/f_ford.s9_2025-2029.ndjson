@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ford,2026,f-550+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2026, "model": "F-550 SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,mustang,5.2l+v8+supercharged,3459364", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,ranger,2.0l+l4+diesel+turbocharged,3459867", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2026,transit+150,3.5l+v6,3459366", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2026, "model": "TRANSIT 150"}}}

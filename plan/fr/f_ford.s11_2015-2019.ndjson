@@ -1,2 +1,16 @@
+{"node_type": "model", "href": "/en/catalog/ford,2017,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2019,transit+150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2019, "model": "TRANSIT 150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2017,fusion", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "FUSION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2019,f-450+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2019, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2016,fiesta", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2016, "model": "FIESTA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2018,flex", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2018, "model": "FLEX"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2016,f-250+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2016, "model": "F-250 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2017,ecosport", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "ECOSPORT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2017,c-max", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "C-MAX"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2019,police+sedan,3.7l+v6,3442766", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2019, "model": "POLICE SEDAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2015,ecosport,2.0l+l4,3063507", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2015, "model": "ECOSPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2017,flex,3.5l+v6,3436084", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2017, "model": "FLEX"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2017,focus,2.3l+l4+turbocharged,3436090", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2017, "model": "FOCUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2017,fusion,2.0l+l4+turbocharged,3393801", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2017, "model": "FUSION"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2016,ecosport", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2016, "model": "ECOSPORT"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2017,f53", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "F53"}}}

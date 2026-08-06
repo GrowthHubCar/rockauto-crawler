@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1932,3/20", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1932, "model": "3/20"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1933,3/20", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1933, "model": "3/20"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1934,3/20", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1934, "model": "3/20"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1934,315", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1934, "model": "315"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2020,g500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2020, "model": "G500"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2022,gle580", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "GLE580"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2024,cle450,3.0l+l6+turbocharged,3455644", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2024, "model": "CLE450"}}}

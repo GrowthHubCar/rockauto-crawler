@@ -1,0 +1,13 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,1947,series+62", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1947, "model": "SERIES 62"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1949,series+61", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1949, "model": "SERIES 61"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1948,series+75+fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1948, "model": "SERIES 75 FLEETWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1947,series+60+special+fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1947, "model": "SERIES 60 SPECIAL FLEETWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1949,series+60+special+fleetwood", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1949, "model": "SERIES 60 SPECIAL FLEETWOOD"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1946,commercial+chassis", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1946, "model": "COMMERCIAL CHASSIS"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1947,commercial+chassis", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1947, "model": "COMMERCIAL CHASSIS"}}}
+{"node_type": "model", "href": "/en/catalog/cadillac,1949,commercial+chassis", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 1949, "model": "COMMERCIAL CHASSIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1947,series+75+fleetwood,5.7l+346cid+v8,1486571", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1947, "model": "SERIES 75 FLEETWOOD"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1946,series+75+fleetwood,5.7l+346cid+v8,1486439", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1946, "model": "SERIES 75 FLEETWOOD"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1946,series+62,5.7l+346cid+v8,1486438", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1946, "model": "SERIES 62"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1948,commercial+chassis,5.7l+346cid+v8,1486735", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1948, "model": "COMMERCIAL CHASSIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,1948,series+62,5.7l+346cid+v8,1486738", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 1948, "model": "SERIES 62"}}}

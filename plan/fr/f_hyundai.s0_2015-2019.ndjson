@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2017,ioniq", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2017, "model": "IONIQ"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2018,accent,1.6l+l4,3441252", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2018, "model": "ACCENT"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2003,g500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2003, "model": "G500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2001,c240,2.6l+v6,1374106", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2001, "model": "C240"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2003,ml320,3.2l+v6,1433204", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2003, "model": "ML320"}}}

@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2010,sprinter+3500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2010, "model": "SPRINTER 3500"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2011,ml500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "ML500"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2013,s63+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2013, "model": "S63 AMG"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2011,s400", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2011, "model": "S400"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2010,sl63+amg,6.3l+v8,1501186", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2010, "model": "SL63 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2010,s63+amg,6.3l+v8,1444328", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2010, "model": "S63 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2014,sl500,4.7l+v8+turbocharged,3307418", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2014, "model": "SL500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2014,s500,4.7l+v8+turbocharged,3119497", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2014, "model": "S500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2012,ml350,3.5l+v6,1503186", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2012, "model": "ML350"}}}

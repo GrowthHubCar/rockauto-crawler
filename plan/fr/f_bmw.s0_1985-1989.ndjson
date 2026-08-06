@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/bmw,1988,325is", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1988, "model": "325IS"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,1986,325e", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 1986, "model": "325E"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,1989,m3,2.3l+l4,1013195", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 1989, "model": "M3"}}}

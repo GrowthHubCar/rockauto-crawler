@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/peugeot,2025,partner", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2025, "model": "PARTNER"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2026,partner", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2026, "model": "PARTNER"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2025,manager", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2025, "model": "MANAGER"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2025,rifter", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2025, "model": "RIFTER"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2026,rifter", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2026, "model": "RIFTER"}}}
+{"node_type": "model", "href": "/en/catalog/peugeot,2025,expert", "payload": {"nodetype": "model", "ctx": {"make": "PEUGEOT", "year": 2025, "model": "EXPERT"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2026,rifter,1.6l+l4+diesel+turbocharged,3459501", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2026, "model": "RIFTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/peugeot,2025,2008,1.2l+l3+turbocharged,3458739", "payload": {"nodetype": "carcode", "ctx": {"make": "PEUGEOT", "year": 2025, "model": "2008"}}}

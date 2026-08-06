@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/dodge,1996,ram+2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1996, "model": "RAM 2500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1999,avenger,2.0l+l4,1353912", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1999, "model": "AVENGER"}}}

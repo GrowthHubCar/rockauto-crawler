@@ -1,0 +1,13 @@
+{"node_type": "model", "href": "/en/catalog/saab,1970,95", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1970, "model": "95"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1971,95", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1971, "model": "95"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1972,95", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1972, "model": "95"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1973,95", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1973, "model": "95"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1970,96", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1970, "model": "96"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1971,96", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1971, "model": "96"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1972,96", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1972, "model": "96"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1973,96", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1973, "model": "96"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1970,sonett", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1970, "model": "SONETT"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1971,sonett", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1971, "model": "SONETT"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1971,99", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1971, "model": "99"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1972,99", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1972, "model": "99"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1973,99", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1973, "model": "99"}}}

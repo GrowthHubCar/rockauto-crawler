@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1963,300sl", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1963, "model": "300SL"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1962,300sl,3.0l+l6,1343078", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1962, "model": "300SL"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2018,sl65+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2018, "model": "SL65 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2016,s500,4.7l+v8+turbocharged,3450869", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2016, "model": "S500"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2016,s550,3.0l+v6+electric/gas+turbocharged,3353932", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2016, "model": "S550"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/audi,2014,q3", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2014, "model": "Q3"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2014,a4,3.0l+v6+supercharged,3307108", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2014, "model": "A4"}}}

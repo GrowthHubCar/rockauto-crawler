@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2004,cl500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2004, "model": "CL500"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2003,cl55+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2003, "model": "CL55 AMG"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2000,s600,5.8l+v12,3018147", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2000, "model": "S600"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2000,g500,5.0l+v8,3318642", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2000, "model": "G500"}}}

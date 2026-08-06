@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/cole,1920,aero+eight", "payload": {"nodetype": "model", "ctx": {"make": "COLE", "year": 1920, "model": "AERO EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/cole,1921,aero+eight", "payload": {"nodetype": "model", "ctx": {"make": "COLE", "year": 1921, "model": "AERO EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/cole,1922,aero+eight", "payload": {"nodetype": "model", "ctx": {"make": "COLE", "year": 1922, "model": "AERO EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/cole,1923,series+890", "payload": {"nodetype": "model", "ctx": {"make": "COLE", "year": 1923, "model": "SERIES 890"}}}
+{"node_type": "model", "href": "/en/catalog/cole,1924,series+890", "payload": {"nodetype": "model", "ctx": {"make": "COLE", "year": 1924, "model": "SERIES 890"}}}

@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/gmc,1988,v3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1988, "model": "V3500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1989,v1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1989, "model": "V1500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1988,r1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1988, "model": "R1500 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1988,topkick,7.0l+427cid+v8,3295581", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1988, "model": "TOPKICK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1987,topkick,8.2l+501cid+v8+diesel,3295565", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1987, "model": "TOPKICK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1989,g3500,4.3l+262cid+v6,1155619", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1989, "model": "G3500"}}}

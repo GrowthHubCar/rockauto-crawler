@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mazda,1991,mpv", "payload": {"nodetype": "model", "ctx": {"make": "MAZDA", "year": 1991, "model": "MPV"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,1994,323,1.8l+l4,1438512", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 1994, "model": "323"}}}

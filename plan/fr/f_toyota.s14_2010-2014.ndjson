@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2012,avalon", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2012, "model": "AVALON"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2010,rav4,3.5l+v6,1444569", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2010, "model": "RAV4"}}}

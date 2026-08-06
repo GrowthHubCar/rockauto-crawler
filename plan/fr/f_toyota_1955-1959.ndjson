@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/toyota,1958,crown", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1958, "model": "CROWN"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1959,crown", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1959, "model": "CROWN"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1958,toyopet+crown", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1958, "model": "TOYOPET CROWN"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,1959,toyopet+crown", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 1959, "model": "TOYOPET CROWN"}}}

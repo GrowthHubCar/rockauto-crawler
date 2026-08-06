@@ -1,0 +1,16 @@
+{"node_type": "model", "href": "/en/catalog/packard,1932,twin+six", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1932, "model": "TWIN SIX"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1933,eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1933, "model": "EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1934,eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1934, "model": "EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1932,standard+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1932, "model": "STANDARD EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1930,speedster", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1930, "model": "SPEEDSTER"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1930,deluxe+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1930, "model": "DELUXE EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1932,deluxe+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1932, "model": "DELUXE EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1930,custom+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1930, "model": "CUSTOM EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1932,custom+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1932, "model": "CUSTOM EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1931,model+840", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1931, "model": "MODEL 840"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1931,model+833", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1931, "model": "MODEL 833"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1931,model+826", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1931, "model": "MODEL 826"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1932,light+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1932, "model": "LIGHT EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1933,super+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1933, "model": "SUPER EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1933,model+1006", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1933, "model": "MODEL 1006"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1933,custom+twelve", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1933, "model": "CUSTOM TWELVE"}}}

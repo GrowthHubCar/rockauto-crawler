@@ -1,0 +1,18 @@
+{"node_type": "model", "href": "/en/catalog/saab,1965,95", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1965, "model": "95"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1966,95", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1966, "model": "95"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1967,95", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1967, "model": "95"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1968,95", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1968, "model": "95"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1969,95", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1969, "model": "95"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1965,96+sport", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1965, "model": "96 SPORT"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1965,96+gt", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1965, "model": "96 GT"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1966,96", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1966, "model": "96"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1967,96", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1967, "model": "96"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1969,96", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1969, "model": "96"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1966,monte+carlo", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1966, "model": "MONTE CARLO"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1967,monte+carlo", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1967, "model": "MONTE CARLO"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1968,sonett", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1968, "model": "SONETT"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1969,sonett", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1969, "model": "SONETT"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1967,shrike", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1967, "model": "SHRIKE"}}}
+{"node_type": "model", "href": "/en/catalog/saab,1968,shrike", "payload": {"nodetype": "model", "ctx": {"make": "SAAB", "year": 1968, "model": "SHRIKE"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1968,sonett,841cc+l3,1494876", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1968, "model": "SONETT"}}}
+{"node_type": "carcode", "href": "/en/catalog/saab,1967,sonett,841cc+l3,1378694", "payload": {"nodetype": "carcode", "ctx": {"make": "SAAB", "year": 1967, "model": "SONETT"}}}

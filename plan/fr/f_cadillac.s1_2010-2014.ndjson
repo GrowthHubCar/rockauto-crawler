@@ -1,0 +1,5 @@
+{"node_type": "carcode", "href": "/en/catalog/cadillac,2010,sts,3.6l+v6,1444456", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 2010, "model": "STS"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,2014,cts,3.0l+v6,3305705", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 2014, "model": "CTS"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,2014,xts,3.6l+v6,3298517", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 2014, "model": "XTS"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,2012,cts,3.6l+v6,3015543", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 2012, "model": "CTS"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,2014,cts,2.0l+l4+turbocharged,3298586", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 2014, "model": "CTS"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2020,tiguan", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2020, "model": "TIGUAN"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,2022,amarok", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2022, "model": "AMAROK"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2020,transporter,2.0l+l4+diesel+turbocharged,3446198", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2020, "model": "TRANSPORTER"}}}

@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/dodge,2004,stratus", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 2004, "model": "STRATUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2004,ram+1500+pickup,8.3l+v10,1431797", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2004, "model": "RAM 1500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2003,ram+3500+pickup,5.9l+v8,1413593", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2003, "model": "RAM 3500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2002,ram+2500+van,5.9l+v8,1391419", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2002, "model": "RAM 2500 VAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,2000,stratus,2.4l+l4,1362136", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 2000, "model": "STRATUS"}}}

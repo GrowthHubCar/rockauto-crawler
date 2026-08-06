@@ -1,2 +1,16 @@
+{"node_type": "model", "href": "/en/catalog/ford,1997,lobo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1997, "model": "LOBO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,f-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "F-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "L SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,f59", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "F59"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,explorer", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "EXPLORER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,f+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "F SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "CROWN VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,club+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "CLUB WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,econoline+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "ECONOLINE SUPER DUTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1995,grand+marquis,4.6l+v8,951433", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1995, "model": "GRAND MARQUIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1995,taurus,3.2l+v6,1138968", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1995, "model": "TAURUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1996,taurus,3.4l+v8,1139026", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1996, "model": "TAURUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1995,taurus,3.0l+v6+dohc,1138957", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1995, "model": "TAURUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1998,l+series+truck,10.8l+l6+diesel+turbocharged,3411152", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1998, "model": "L SERIES TRUCK"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1995,bronco", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "BRONCO"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1996,f+250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "F-250"}}}

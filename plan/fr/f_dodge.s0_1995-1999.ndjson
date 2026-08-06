@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/dodge,1995,grand+caravan", "payload": {"nodetype": "model", "ctx": {"make": "DODGE", "year": 1995, "model": "GRAND CARAVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/dodge,1996,b2500,5.9l+v8,1074024", "payload": {"nodetype": "carcode", "ctx": {"make": "DODGE", "year": 1996, "model": "B2500"}}}

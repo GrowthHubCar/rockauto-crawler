@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/subaru,1980,dl", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1980, "model": "DL"}}}
+{"node_type": "model", "href": "/en/catalog/subaru,1980,glf", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 1980, "model": "GLF"}}}

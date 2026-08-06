@@ -1,2 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,w4500+tiltmaster", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "W4500 TILTMASTER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,k3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "K3500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1997,express+3500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "EXPRESS 3500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,blazer", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "BLAZER"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,astro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "ASTRO"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1996,lumina,3.1l+v6,1054088", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "LUMINA"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1997,bus", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "BUS"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1998,express+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "EXPRESS 2500"}}}

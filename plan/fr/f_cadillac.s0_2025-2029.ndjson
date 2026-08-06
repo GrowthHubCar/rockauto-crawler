@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,2025,escalade", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2025, "model": "ESCALADE"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,2026,escalade,electric,3459294", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 2026, "model": "ESCALADE"}}}

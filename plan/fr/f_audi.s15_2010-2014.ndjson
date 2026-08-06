@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/audi,2014,rs7", "payload": {"nodetype": "model", "ctx": {"make": "AUDI", "year": 2014, "model": "RS7"}}}
+{"node_type": "carcode", "href": "/en/catalog/audi,2012,a3,1.4l+l4+turbocharged,3001402", "payload": {"nodetype": "carcode", "ctx": {"make": "AUDI", "year": 2012, "model": "A3"}}}

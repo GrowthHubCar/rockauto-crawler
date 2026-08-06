@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ford,1986,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1986, "model": "P-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1985,mustang,2.3l+140cid+l4+turbocharged,1133806", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1985, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1989,p-350,5.0l+302cid+v8,3441004", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1989, "model": "P-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1987,l+series+truck,10.4l+636cid+v8+diesel+turbocharged,3411307", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1987, "model": "L SERIES TRUCK"}}}

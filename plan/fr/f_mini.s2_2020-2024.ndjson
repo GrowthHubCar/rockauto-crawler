@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mini,2021,cooper+countryman", "payload": {"nodetype": "model", "ctx": {"make": "MINI", "year": 2021, "model": "COOPER COUNTRYMAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/mini,2022,cooper,1.5l+l3+turbocharged,3449281", "payload": {"nodetype": "carcode", "ctx": {"make": "MINI", "year": 2022, "model": "COOPER"}}}

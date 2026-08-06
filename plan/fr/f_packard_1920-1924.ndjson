@@ -1,0 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/packard,1921,twin+six", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1921, "model": "TWIN SIX"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1922,twin+six", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1922, "model": "TWIN SIX"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1923,twin+six", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1923, "model": "TWIN SIX"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1921,single+six", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1921, "model": "SINGLE SIX"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1923,single+six", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1923, "model": "SINGLE SIX"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1924,single+six", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1924, "model": "SINGLE SIX"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1921,single+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1921, "model": "SINGLE EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1922,single+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1922, "model": "SINGLE EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1923,single+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1923, "model": "SINGLE EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/packard,1924,single+eight", "payload": {"nodetype": "model", "ctx": {"make": "PACKARD", "year": 1924, "model": "SINGLE EIGHT"}}}

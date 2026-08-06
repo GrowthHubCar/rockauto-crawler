@@ -1,2 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,metro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "METRO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,k1500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "K1500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,camaro", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "CAMARO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1996,c1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "C1500 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1997,express+3500,5.7l+v8,1046944", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "EXPRESS 3500"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1997,c3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "C3500 PICKUP"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1997,k2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "K2500 PICKUP"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/buick,1983,regal", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1983, "model": "REGAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1983,riviera,4.1l+252cid+v6,1021790", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1983, "model": "RIVIERA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1984,skyhawk,1.8l+112cid+l4,1022511", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1984, "model": "SKYHAWK"}}}

@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2023,venza", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2023, "model": "VENZA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2020,c-hr", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "C-HR"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2023,rav4,2.5l+l4,3452877", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2023, "model": "RAV4"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2022,supra,3.0l+l6+turbocharged,3451309", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2022, "model": "SUPRA"}}}

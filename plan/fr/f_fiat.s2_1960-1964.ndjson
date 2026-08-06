@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/fiat,1961,1100", "payload": {"nodetype": "model", "ctx": {"make": "FIAT", "year": 1961, "model": "1100"}}}
+{"node_type": "carcode", "href": "/en/catalog/fiat,1960,500,499cc+l2,1392410", "payload": {"nodetype": "carcode", "ctx": {"make": "FIAT", "year": 1960, "model": "500"}}}

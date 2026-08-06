@@ -1,2 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2013,tahoe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2013, "model": "TAHOE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,express+cargo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "EXPRESS CARGO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2010,aveo", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "AVEO"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,2011,aveo5", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "AVEO5"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,2011,cruze", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "CRUZE"}}}

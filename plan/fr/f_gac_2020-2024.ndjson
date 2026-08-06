@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/gac,2024,gn8", "payload": {"nodetype": "model", "ctx": {"make": "GAC", "year": 2024, "model": "GN8"}}}
+{"node_type": "model", "href": "/en/catalog/gac,2024,emzoom", "payload": {"nodetype": "model", "ctx": {"make": "GAC", "year": 2024, "model": "EMZOOM"}}}
+{"node_type": "model", "href": "/en/catalog/gac,2024,emkoo", "payload": {"nodetype": "model", "ctx": {"make": "GAC", "year": 2024, "model": "EMKOO"}}}
+{"node_type": "model", "href": "/en/catalog/gac,2024,aion+y", "payload": {"nodetype": "model", "ctx": {"make": "GAC", "year": 2024, "model": "AION Y"}}}

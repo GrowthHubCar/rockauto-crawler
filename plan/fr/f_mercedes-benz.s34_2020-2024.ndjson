@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2021,amg+gt+63", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2021, "model": "AMG GT 63"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2024,eqe+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2024, "model": "EQE AMG"}}}

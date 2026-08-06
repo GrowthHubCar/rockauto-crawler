@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/essex,1930,challenger", "payload": {"nodetype": "model", "ctx": {"make": "ESSEX", "year": 1930, "model": "CHALLENGER"}}}
+{"node_type": "model", "href": "/en/catalog/essex,1931,standard", "payload": {"nodetype": "model", "ctx": {"make": "ESSEX", "year": 1931, "model": "STANDARD"}}}
+{"node_type": "model", "href": "/en/catalog/essex,1932,standard", "payload": {"nodetype": "model", "ctx": {"make": "ESSEX", "year": 1932, "model": "STANDARD"}}}
+{"node_type": "model", "href": "/en/catalog/essex,1933,terraplane", "payload": {"nodetype": "model", "ctx": {"make": "ESSEX", "year": 1933, "model": "TERRAPLANE"}}}
+{"node_type": "model", "href": "/en/catalog/essex,1932,pacemaker", "payload": {"nodetype": "model", "ctx": {"make": "ESSEX", "year": 1932, "model": "PACEMAKER"}}}

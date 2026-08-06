@@ -1,0 +1,15 @@
+{"node_type": "model", "href": "/en/catalog/international,2025,rh", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2025, "model": "RH"}}}
+{"node_type": "model", "href": "/en/catalog/international,2025,mv", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2025, "model": "MV"}}}
+{"node_type": "model", "href": "/en/catalog/international,2026,mv", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2026, "model": "MV"}}}
+{"node_type": "model", "href": "/en/catalog/international,2025,lt", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2025, "model": "LT"}}}
+{"node_type": "model", "href": "/en/catalog/international,2026,lt", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2026, "model": "LT"}}}
+{"node_type": "model", "href": "/en/catalog/international,2025,hx", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2025, "model": "HX"}}}
+{"node_type": "model", "href": "/en/catalog/international,2026,hx", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2026, "model": "HX"}}}
+{"node_type": "model", "href": "/en/catalog/international,2025,hv", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2025, "model": "HV"}}}
+{"node_type": "model", "href": "/en/catalog/international,2026,hv", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2026, "model": "HV"}}}
+{"node_type": "model", "href": "/en/catalog/international,2025,cv", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 2025, "model": "CV"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2025,hv,6.7l+l6+diesel+turbocharged,3457040", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2025, "model": "HV"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2026,hx,12.7l+l6+diesel+turbocharged,3459130", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2026, "model": "HX"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2025,lt,14.9l+l6+diesel+turbocharged,3457150", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2025, "model": "LT"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2026,hx,12.4l+l6+diesel+turbocharged,3459399", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2026, "model": "HX"}}}
+{"node_type": "carcode", "href": "/en/catalog/international,2025,mv,8.9l+l6+diesel+turbocharged,3459133", "payload": {"nodetype": "carcode", "ctx": {"make": "INTERNATIONAL", "year": 2025, "model": "MV"}}}

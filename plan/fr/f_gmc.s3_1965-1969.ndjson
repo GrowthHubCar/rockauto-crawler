@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/gmc,1968,p25/p2500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1968, "model": "P25/P2500 VAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1966,p1000", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1966, "model": "P1000"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1966,i3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1966, "model": "I3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1966,suburban,5.3l+327cid+v8,1493100", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1966, "model": "SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1965,3500,5.0l+305cid+v6,1492391", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1965, "model": "3500"}}}

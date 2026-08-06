@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/international,1960,b110", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 1960, "model": "B110"}}}
+{"node_type": "model", "href": "/en/catalog/international,1962,cm75", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 1962, "model": "CM75"}}}
+{"node_type": "model", "href": "/en/catalog/international,1962,c110", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 1962, "model": "C110"}}}
+{"node_type": "model", "href": "/en/catalog/international,1964,ab140", "payload": {"nodetype": "model", "ctx": {"make": "INTERNATIONAL", "year": 1964, "model": "AB140"}}}

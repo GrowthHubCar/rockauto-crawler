@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/panhard,1960,pl-17", "payload": {"nodetype": "model", "ctx": {"make": "PANHARD", "year": 1960, "model": "PL-17"}}}
+{"node_type": "model", "href": "/en/catalog/panhard,1961,pl-17", "payload": {"nodetype": "model", "ctx": {"make": "PANHARD", "year": 1961, "model": "PL-17"}}}
+{"node_type": "model", "href": "/en/catalog/panhard,1962,pl-17", "payload": {"nodetype": "model", "ctx": {"make": "PANHARD", "year": 1962, "model": "PL-17"}}}

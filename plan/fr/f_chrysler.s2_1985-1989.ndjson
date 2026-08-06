@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/chrysler,1988,volare", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1988, "model": "VOLARE"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1989,shadow", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1989, "model": "SHADOW"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1989,tc+maserati,2.2l+135cid+l4+turbocharged+dohc,1067183", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1989, "model": "TC MASERATI"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1987,new+yorker,2.2l+135cid+l4+turbocharged,1065888", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1987, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1989,dynasty,2.5l+153cid+l4,1360561", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1989, "model": "DYNASTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1988,conquest,2.6l+l4,1408722", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1988, "model": "CONQUEST"}}}

@@ -1,0 +1,26 @@
+{"node_type": "model", "href": "/en/catalog/gmc,1980,p25/p2500+van", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1980, "model": "P25/P2500 VAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1984,p3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1984, "model": "P3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1983,s15+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1983, "model": "S15 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1981,k25/k2500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1981, "model": "K25/K2500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1981,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1981, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1984,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1984, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1980,k3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1980, "model": "K3500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1984,k2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1984, "model": "K2500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1984,k2500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1984, "model": "K2500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1980,k1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1980, "model": "K1500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1982,k1500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1982, "model": "K1500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1982,c2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1982, "model": "C2500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1980,g1500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1980, "model": "G1500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1982,g2500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1982, "model": "G2500"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1981,c3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1981, "model": "C3500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/gmc,1980,g3500", "payload": {"nodetype": "model", "ctx": {"make": "GMC", "year": 1980, "model": "G3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1982,medium+duty+truck,6.1l+374cid+l6+diesel+turbocharged,3297479", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1982, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1983,p3500,6.2l+379cid+v8+diesel,1163012", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1983, "model": "P3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1983,medium+duty+truck,6.0l+366cid+v8,3294472", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1983, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1983,p3500,7.4l+454cid+v8,1163023", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1983, "model": "P3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1981,medium+duty+truck,8.2l+501cid+v8+diesel+turbocharged,3295532", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1981, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1983,p2500,6.2l+379cid+v8+diesel,1162303", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1983, "model": "P2500"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1984,k1500+suburban,5.0l+305cid+v8,1408261", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1984, "model": "K1500 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1981,caballero,5.7l+350cid+v8,11358", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1981, "model": "CABALLERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1983,c3500+pickup,7.4l+454cid+v8,1147362", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1983, "model": "C3500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/gmc,1983,c2500+pickup,4.1l+250cid+l6,1145124", "payload": {"nodetype": "carcode", "ctx": {"make": "GMC", "year": 1983, "model": "C2500 PICKUP"}}}

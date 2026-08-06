@@ -1,2 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1999,silverado+2500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1999, "model": "SILVERADO 2500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1997,k2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1997, "model": "K2500 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,luv", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "LUV"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1998,c3500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "C3500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1998,kodiak,7.2l+l6+diesel+turbocharged,3409487", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "KODIAK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1998,k1500+pickup,6.5l+v8+diesel+turbocharged,1303625", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1998, "model": "K1500 PICKUP"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1996,c2500+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "C2500 PICKUP"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,1996,impala", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1996, "model": "IMPALA"}}}

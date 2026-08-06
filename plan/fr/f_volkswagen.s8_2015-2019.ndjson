@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2017,passat", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2017, "model": "PASSAT"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2016,passat,1.8l+l4+turbocharged,3366823", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2016, "model": "PASSAT"}}}

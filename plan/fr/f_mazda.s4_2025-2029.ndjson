@@ -1,0 +1,3 @@
+{"node_type": "carcode", "href": "/en/catalog/mazda,2026,cx-5,2.5l+l4,3461961", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2026, "model": "CX-5"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2026,2,1.5l+l4,3459446", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2026, "model": "2"}}}
+{"node_type": "carcode", "href": "/en/catalog/mazda,2026,cx-70,3.3l+l6+turbocharged,3458690", "payload": {"nodetype": "carcode", "ctx": {"make": "MAZDA", "year": 2026, "model": "CX-70"}}}

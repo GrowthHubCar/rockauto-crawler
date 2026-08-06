@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,1984,jetta", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1984, "model": "JETTA"}}}
+{"node_type": "model", "href": "/en/catalog/volkswagen,1984,rabbit", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 1984, "model": "RABBIT"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1984,rabbit+pickup,1.6l+l4+diesel,1367827", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1984, "model": "RABBIT PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,1981,panel,1.6l+h4,3310557", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 1981, "model": "PANEL"}}}

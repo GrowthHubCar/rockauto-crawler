@@ -1,0 +1,11 @@
+{"node_type": "model", "href": "/en/catalog/fargo,1936,fd1+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1936, "model": "FD1 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1937,fe2+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1937, "model": "FE2 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1937,fe1+sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1937, "model": "FE1 SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1937,fe1+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1937, "model": "FE1 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1937,fe1+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1937, "model": "FE1 PANEL DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1938,fg2+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1938, "model": "FG2 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1938,fg1+sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1938, "model": "FG1 SEDAN DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1938,fg1+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1938, "model": "FG1 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1938,fg1+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1938, "model": "FG1 PANEL DELIVERY"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1939,fh1+pickup", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1939, "model": "FH1 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/fargo,1939,fh1+panel+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FARGO", "year": 1939, "model": "FH1 PANEL DELIVERY"}}}

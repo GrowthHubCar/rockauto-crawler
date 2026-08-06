@@ -1,1 +1,2 @@
 {"node_type": "model", "href": "/en/catalog/plymouth,1994,sundance", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1994, "model": "SUNDANCE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1990,laser,2.0l+122cid+l4+turbocharged,1238239", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1990, "model": "LASER"}}}

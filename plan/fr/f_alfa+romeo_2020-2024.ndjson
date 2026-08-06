@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/alfa+romeo,2021,giulietta", "payload": {"nodetype": "model", "ctx": {"make": "ALFA ROMEO", "year": 2021, "model": "GIULIETTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2020,4c,1.7l+l4+turbocharged,3445805", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2020, "model": "4C"}}}
+{"node_type": "carcode", "href": "/en/catalog/alfa+romeo,2020,giulietta,1.7l+l4+turbocharged,3446872", "payload": {"nodetype": "carcode", "ctx": {"make": "ALFA ROMEO", "year": 2020, "model": "GIULIETTA"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volvo,2022,v60", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2022, "model": "V60"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,2024,s60,2.0l+l4+turbocharged,3455192", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 2024, "model": "S60"}}}

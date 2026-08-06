@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2026,suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2026, "model": "SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2026,express+4500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2026, "model": "EXPRESS 4500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2026,silverado+3500,6.6l+v8,3459077", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2026, "model": "SILVERADO 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2025,silverado+5500+hd,6.6l+v8+diesel+turbocharged,3458818", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2025, "model": "SILVERADO 5500 HD"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2019,s560", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2019, "model": "S560"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2015,c350,3.5l+v6,3310321", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2015, "model": "C350"}}}

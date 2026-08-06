@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2022,santa+fe", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,santa+fe,2.5l+l4,3449987", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,santa+fe,1.6l+l4+electric/gas+turbocharged,3449985", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,elantra,2.0l+l4+turbocharged,3454827", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "ELANTRA"}}}

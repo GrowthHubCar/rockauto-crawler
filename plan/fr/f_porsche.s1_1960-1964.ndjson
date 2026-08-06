@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/porsche,1961,carrera", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1961, "model": "CARRERA"}}}
+{"node_type": "model", "href": "/en/catalog/porsche,1961,356b", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 1961, "model": "356B"}}}

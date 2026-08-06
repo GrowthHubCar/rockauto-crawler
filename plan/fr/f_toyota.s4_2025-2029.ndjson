@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2025,yaris", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2025, "model": "YARIS"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2026,gr86", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2026, "model": "GR86"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2026,yaris,1.5l+l4+electric/gas,3459778", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2026, "model": "YARIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2025,prius,1.8l+l4+electric/gas,3458901", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2025, "model": "PRIUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2025,tacoma,2.4l+l4+electric/gas+turbocharged,3458264", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2025, "model": "TACOMA"}}}

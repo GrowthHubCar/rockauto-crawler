@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/kia,2008,rio", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2008, "model": "RIO"}}}
+{"node_type": "carcode", "href": "/en/catalog/kia,2009,sorento,3.3l+v6,1443483", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2009, "model": "SORENTO"}}}
+{"node_type": "carcode", "href": "/en/catalog/kia,2009,rio5,1.6l+l4,1444126", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2009, "model": "RIO5"}}}
+{"node_type": "carcode", "href": "/en/catalog/kia,2009,spectra5,2.0l+l4,1443473", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2009, "model": "SPECTRA5"}}}

@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2020,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2022,hiace", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2022, "model": "HIACE"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2021,highlander,2.5l+l4+electric/gas,3446849", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2021, "model": "HIGHLANDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2021,yaris,1.5l+l4,3449419", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2021, "model": "YARIS"}}}

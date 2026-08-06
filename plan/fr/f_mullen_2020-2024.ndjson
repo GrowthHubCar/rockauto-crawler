@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/mullen,2023,one", "payload": {"nodetype": "model", "ctx": {"make": "MULLEN", "year": 2023, "model": "ONE"}}}
+{"node_type": "model", "href": "/en/catalog/mullen,2024,one", "payload": {"nodetype": "model", "ctx": {"make": "MULLEN", "year": 2024, "model": "ONE"}}}
+{"node_type": "model", "href": "/en/catalog/mullen,2023,campus", "payload": {"nodetype": "model", "ctx": {"make": "MULLEN", "year": 2023, "model": "CAMPUS"}}}
+{"node_type": "model", "href": "/en/catalog/mullen,2024,campus", "payload": {"nodetype": "model", "ctx": {"make": "MULLEN", "year": 2024, "model": "CAMPUS"}}}
+{"node_type": "model", "href": "/en/catalog/mullen,2024,three", "payload": {"nodetype": "model", "ctx": {"make": "MULLEN", "year": 2024, "model": "THREE"}}}

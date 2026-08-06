@@ -1,0 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/maserati,2003,quattroporte", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2003, "model": "QUATTROPORTE"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2003,spyder", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2003, "model": "SPYDER"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2003,3200+gt", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2003, "model": "3200 GT"}}}
+{"node_type": "model", "href": "/en/catalog/maserati,2003,coupe", "payload": {"nodetype": "model", "ctx": {"make": "MASERATI", "year": 2003, "model": "COUPE"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,2002,quattroporte,3.2l+v8+turbocharged,208110", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 2002, "model": "QUATTROPORTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,2004,spyder,4.2l+v8,1426205", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 2004, "model": "SPYDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,2002,spyder,4.2l+v8,1387245", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 2002, "model": "SPYDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,2001,quattroporte,3.2l+v8+turbocharged,205768", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 2001, "model": "QUATTROPORTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,2004,quattroporte,3.2l+v8+turbocharged,951499", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 2004, "model": "QUATTROPORTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/maserati,2000,quattroporte,3.2l+v8+turbocharged,203290", "payload": {"nodetype": "carcode", "ctx": {"make": "MASERATI", "year": 2000, "model": "QUATTROPORTE"}}}

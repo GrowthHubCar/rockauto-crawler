@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1999,e430", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1999, "model": "E430"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,1996,cl500,5.0l+v8,3442437", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 1996, "model": "CL500"}}}

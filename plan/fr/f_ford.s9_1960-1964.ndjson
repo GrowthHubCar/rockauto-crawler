@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ford,1962,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1962, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1962,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1962, "model": "F-250"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1960,p-350,4.8l+292cid+v8,1489611", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1960, "model": "P-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1963,f-250,4.8l+292cid+v8,1334674", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1963, "model": "F-250"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1933,eagle", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1933, "model": "EAGLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1934,master,3.4l+207cid+l6,952643", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1934, "model": "MASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1933,truck,207cid+l6,952566", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1933, "model": "TRUCK"}}}

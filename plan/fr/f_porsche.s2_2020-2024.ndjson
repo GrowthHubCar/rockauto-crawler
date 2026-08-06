@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/porsche,2021,cayenne", "payload": {"nodetype": "model", "ctx": {"make": "PORSCHE", "year": 2021, "model": "CAYENNE"}}}
+{"node_type": "carcode", "href": "/en/catalog/porsche,2024,cayenne,4.0l+v8+electric/gas+turbocharged,3455692", "payload": {"nodetype": "carcode", "ctx": {"make": "PORSCHE", "year": 2024, "model": "CAYENNE"}}}

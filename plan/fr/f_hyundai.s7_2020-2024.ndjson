@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2021,elantra", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "ELANTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,sonata,2.5l+l4,3455299", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,sonata,2.0l+l4+electric/gas,3446644", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "SONATA"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2022,elantra,2.0l+l4,3449976", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "ELANTRA"}}}

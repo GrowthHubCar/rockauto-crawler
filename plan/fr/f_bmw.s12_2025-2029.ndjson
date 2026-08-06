@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2026,x6", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2026, "model": "X6"}}}
+{"node_type": "model", "href": "/en/catalog/bmw,2025,220i", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2025, "model": "220I"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2026,x3,2.0l+l4+turbocharged,3458327", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2026, "model": "X3"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2025,x6,4.4l+v8+turbocharged,3455503", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2025, "model": "X6"}}}

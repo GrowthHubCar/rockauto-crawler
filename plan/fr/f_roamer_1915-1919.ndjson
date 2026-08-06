@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/roamer,1916,six", "payload": {"nodetype": "model", "ctx": {"make": "ROAMER", "year": 1916, "model": "SIX"}}}
+{"node_type": "model", "href": "/en/catalog/roamer,1917,six", "payload": {"nodetype": "model", "ctx": {"make": "ROAMER", "year": 1917, "model": "SIX"}}}
+{"node_type": "model", "href": "/en/catalog/roamer,1918,model+d-4-75", "payload": {"nodetype": "model", "ctx": {"make": "ROAMER", "year": 1918, "model": "MODEL D-4-75"}}}
+{"node_type": "model", "href": "/en/catalog/roamer,1919,model+d-4-75", "payload": {"nodetype": "model", "ctx": {"make": "ROAMER", "year": 1919, "model": "MODEL D-4-75"}}}
+{"node_type": "model", "href": "/en/catalog/roamer,1918,model+c-6-54", "payload": {"nodetype": "model", "ctx": {"make": "ROAMER", "year": 1918, "model": "MODEL C-6-54"}}}
+{"node_type": "model", "href": "/en/catalog/roamer,1919,model+c-6-54", "payload": {"nodetype": "model", "ctx": {"make": "ROAMER", "year": 1919, "model": "MODEL C-6-54"}}}

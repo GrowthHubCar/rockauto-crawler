@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ford,1988,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1988, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1989,ranger,2.3l+140cid+l4,1137631", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1989, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1985,c+series+truck,8.2l+501cid+v8+diesel+turbocharged,3294864", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1985, "model": "C SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1989,f-800,6.1l+370cid+v8,3296475", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1989, "model": "F-800"}}}

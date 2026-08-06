@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/subaru,2025,outback", "payload": {"nodetype": "model", "ctx": {"make": "SUBARU", "year": 2025, "model": "OUTBACK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2026,crosstrek,2.5l+h4+electric/gas,3459767", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2026, "model": "CROSSTREK"}}}
+{"node_type": "carcode", "href": "/en/catalog/subaru,2025,wrx,2.4l+h4+turbocharged,3458238", "payload": {"nodetype": "carcode", "ctx": {"make": "SUBARU", "year": 2025, "model": "WRX"}}}

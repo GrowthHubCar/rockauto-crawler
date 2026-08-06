@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/ford,1965,anglia", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1965, "model": "ANGLIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1965,ranchero", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1965, "model": "RANCHERO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1969,galaxie", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1969, "model": "GALAXIE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1969,country+squire", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1969, "model": "COUNTRY SQUIRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,torino,6.4l+390cid+v8,1140657", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "TORINO"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,ltd,5.0l+302cid+v8,1130128", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "LTD"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,f-350,6.4l+390cid+v8,1495116", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,p-100,3.9l+240cid+l6,1495150", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "P-100"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,f-100,3.9l+240cid+l6,1119721", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "F-100"}}}

@@ -1,0 +1,38 @@
+{"node_type": "model", "href": "/en/catalog/chrysler,1994,intrepid", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1994, "model": "INTREPID"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1991,grand+voyager", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1991, "model": "GRAND VOYAGER"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1992,phantom", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1992, "model": "PHANTOM"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1993,phantom", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1993, "model": "PHANTOM"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1994,phantom", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1994, "model": "PHANTOM"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1990,dynasty", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1990, "model": "DYNASTY"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1991,spirit", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1991, "model": "SPIRIT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1993,spirit", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1993, "model": "SPIRIT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1994,spirit", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1994, "model": "SPIRIT"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1993,lebaron", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1993, "model": "LEBARON"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1990,tc+maserati", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1990, "model": "TC MASERATI"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1990,shadow", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1990, "model": "SHADOW"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1991,shadow", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1991, "model": "SHADOW"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1993,shadow", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1993, "model": "SHADOW"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1994,shadow", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1994, "model": "SHADOW"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1991,imperial,3.8l+v6,1063707", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1991, "model": "IMPERIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1991,dynasty,3.3l+v6,1360460", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1991, "model": "DYNASTY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1994,new+yorker,3.5l+v6+turbocharged,3353505", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1994, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1990,new+yorker,3.0l+181cid+v6,1065967", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1990, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1994,new+yorker,3.5l+v6,1066092", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1994, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1993,grand+voyager,3.3l+v6,185228", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1993, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1990,town+&+country,3.0l+181cid+v6,1430534", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1990, "model": "TOWN & COUNTRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1992,grand+voyager,3.3l+v6,182912", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1992, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1993,concorde,3.5l+v6,1062335", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1993, "model": "CONCORDE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1994,lebaron,2.5l+l4,3030748", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1994, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1992,imperial,3.8l+v6,1063718", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1992, "model": "IMPERIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1994,grand+voyager,3.8l+v6,3438978", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1994, "model": "GRAND VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1991,new+yorker,3.3l+v6,1066003", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1991, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1990,shadow,2.5l+153cid+l4+turbocharged,3310492", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1990, "model": "SHADOW"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1991,phantom,2.5l+l4+turbocharged,3030795", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1991, "model": "PHANTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1990,new+yorker,3.3l+201cid+v6,1065956", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1990, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1991,new+yorker,3.8l+v6,1066014", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1991, "model": "NEW YORKER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1993,imperial,3.8l+v6,1063729", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1993, "model": "IMPERIAL"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1994,lhs,3.5l+v6,1065372", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1994, "model": "LHS"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1992,lebaron,3.0l+v6,1065181", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1992, "model": "LEBARON"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1993,concorde,3.3l+v6,1062324", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1993, "model": "CONCORDE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1994,voyager,3.3l+v6,187634", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1994, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1990,spirit,2.5l+153cid+l4,3310494", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1990, "model": "SPIRIT"}}}

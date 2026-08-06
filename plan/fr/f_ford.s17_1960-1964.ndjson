@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/ford,1960,p-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1960, "model": "P-350"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1962,falcon+sedan+delivery", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1962, "model": "FALCON SEDAN DELIVERY"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1962,galaxie,6.6l+406cid+v8,1440940", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1962, "model": "GALAXIE"}}}

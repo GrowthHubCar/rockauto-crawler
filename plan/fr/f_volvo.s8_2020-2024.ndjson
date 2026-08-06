@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volvo,2024,v90", "payload": {"nodetype": "model", "ctx": {"make": "VOLVO", "year": 2024, "model": "V90"}}}
+{"node_type": "carcode", "href": "/en/catalog/volvo,2021,xc40,electric,3454223", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLVO", "year": 2021, "model": "XC40"}}}

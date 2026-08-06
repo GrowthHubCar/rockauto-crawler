@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2023,hilux", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2023, "model": "HILUX"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2021,hilux,2.7l+l4,3449411", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2021, "model": "HILUX"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2020,camry,3.5l+v6,3445374", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2020, "model": "CAMRY"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2022,yaris,1.5l+l4,3451313", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2022, "model": "YARIS"}}}

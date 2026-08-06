@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/buick,1967,special", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1967, "model": "SPECIAL"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1966,sportwagon", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1966, "model": "SPORTWAGON"}}}
+{"node_type": "model", "href": "/en/catalog/buick,1966,gran+sport", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1966, "model": "GRAN SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1968,electra,7.0l+430cid+v8,1016233", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1968, "model": "ELECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1966,skylark,4.9l+300cid+v8,1319206", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1966, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1965,skylark,4.9l+300cid+v8,1319352", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1965, "model": "SKYLARK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1967,skylark,6.6l+400cid+v8,1434251", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1967, "model": "SKYLARK"}}}

@@ -1,0 +1,14 @@
+{"node_type": "model", "href": "/en/catalog/marmon,1930,roosevelt", "payload": {"nodetype": "model", "ctx": {"make": "MARMON", "year": 1930, "model": "ROOSEVELT"}}}
+{"node_type": "model", "href": "/en/catalog/marmon,1931,roosevelt", "payload": {"nodetype": "model", "ctx": {"make": "MARMON", "year": 1931, "model": "ROOSEVELT"}}}
+{"node_type": "model", "href": "/en/catalog/marmon,1930,model+8-79", "payload": {"nodetype": "model", "ctx": {"make": "MARMON", "year": 1930, "model": "MODEL 8-79"}}}
+{"node_type": "model", "href": "/en/catalog/marmon,1931,model+8-79", "payload": {"nodetype": "model", "ctx": {"make": "MARMON", "year": 1931, "model": "MODEL 8-79"}}}
+{"node_type": "model", "href": "/en/catalog/marmon,1930,model+8-69", "payload": {"nodetype": "model", "ctx": {"make": "MARMON", "year": 1930, "model": "MODEL 8-69"}}}
+{"node_type": "model", "href": "/en/catalog/marmon,1931,model+8-69", "payload": {"nodetype": "model", "ctx": {"make": "MARMON", "year": 1931, "model": "MODEL 8-69"}}}
+{"node_type": "model", "href": "/en/catalog/marmon,1930,big+eight", "payload": {"nodetype": "model", "ctx": {"make": "MARMON", "year": 1930, "model": "BIG EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/marmon,1931,big+eight", "payload": {"nodetype": "model", "ctx": {"make": "MARMON", "year": 1931, "model": "BIG EIGHT"}}}
+{"node_type": "model", "href": "/en/catalog/marmon,1932,series+16", "payload": {"nodetype": "model", "ctx": {"make": "MARMON", "year": 1932, "model": "SERIES 16"}}}
+{"node_type": "model", "href": "/en/catalog/marmon,1933,series+16", "payload": {"nodetype": "model", "ctx": {"make": "MARMON", "year": 1933, "model": "SERIES 16"}}}
+{"node_type": "model", "href": "/en/catalog/marmon,1931,model+88", "payload": {"nodetype": "model", "ctx": {"make": "MARMON", "year": 1931, "model": "MODEL 88"}}}
+{"node_type": "model", "href": "/en/catalog/marmon,1931,model+70", "payload": {"nodetype": "model", "ctx": {"make": "MARMON", "year": 1931, "model": "MODEL 70"}}}
+{"node_type": "model", "href": "/en/catalog/marmon,1932,series+70", "payload": {"nodetype": "model", "ctx": {"make": "MARMON", "year": 1932, "model": "SERIES 70"}}}
+{"node_type": "model", "href": "/en/catalog/marmon,1932,series+125", "payload": {"nodetype": "model", "ctx": {"make": "MARMON", "year": 1932, "model": "SERIES 125"}}}

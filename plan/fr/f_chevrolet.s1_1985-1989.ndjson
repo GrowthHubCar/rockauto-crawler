@@ -1,0 +1,13 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1985,stepvan", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1985, "model": "STEPVAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1989,v1500+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1989, "model": "V1500 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1988,spectrum", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1988, "model": "SPECTRUM"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1985,el+camino", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1985, "model": "EL CAMINO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1987,v20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1987, "model": "V20 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1987,v10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1987, "model": "V10 SUBURBAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1987,r30+pickup,5.7l+350cid+v8,1060142", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1987, "model": "R30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1989,v3500+pickup,7.4l+454cid+v8,1061929", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1989, "model": "V3500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1986,tiltmaster,10.4l+636cid+v8+diesel,3450564", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1986, "model": "TILTMASTER"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1989,c2500+pickup,5.7l+350cid+v8,1032871", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1989, "model": "C2500 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1987,stepvan,8.2l+501cid+v8+diesel,3434346", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1987, "model": "STEPVAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1987,v20+pickup,7.4l+454cid+v8,155", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1987, "model": "V20 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1988,stepvan,4.3l+262cid+v6,3296693", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1988, "model": "STEPVAN"}}}

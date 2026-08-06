@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/chrysler,1963,town+&+country", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1963, "model": "TOWN & COUNTRY"}}}
+{"node_type": "model", "href": "/en/catalog/chrysler,1963,newport", "payload": {"nodetype": "model", "ctx": {"make": "CHRYSLER", "year": 1963, "model": "NEWPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/chrysler,1964,300,6.8l+413cid+v8,1327283", "payload": {"nodetype": "carcode", "ctx": {"make": "CHRYSLER", "year": 1964, "model": "300"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/kia,2020,k900", "payload": {"nodetype": "model", "ctx": {"make": "KIA", "year": 2020, "model": "K900"}}}
+{"node_type": "carcode", "href": "/en/catalog/kia,2020,forte,1.6l+l4+turbocharged,3444884", "payload": {"nodetype": "carcode", "ctx": {"make": "KIA", "year": 2020, "model": "FORTE"}}}

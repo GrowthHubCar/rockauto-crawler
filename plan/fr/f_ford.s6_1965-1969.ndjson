@@ -1,0 +1,9 @@
+{"node_type": "model", "href": "/en/catalog/ford,1969,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1969, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1966,fairlane", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1966, "model": "FAIRLANE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1967,custom", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1967, "model": "CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1966,cortina", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1966, "model": "CORTINA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,mustang,6.4l+390cid+v8,1132355", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1968,fairlane,7.0l+427cid+v8,1494311", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1968, "model": "FAIRLANE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1967,galaxie,7.0l+428cid+v8,1403312", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1967, "model": "GALAXIE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,ranch+wagon,3.3l+200cid+l6,1495159", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "RANCH WAGON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1969,fairlane,3.3l+200cid+l6,1495117", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1969, "model": "FAIRLANE"}}}

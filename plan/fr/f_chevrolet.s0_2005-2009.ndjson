@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2005,tahoe", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2005, "model": "TAHOE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2007,vectra", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2007, "model": "VECTRA"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2009,silverado+3500,6.6l+v8+diesel+turbocharged,1442807", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2009, "model": "SILVERADO 3500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2008,kodiak,7.2l+l6+diesel+turbocharged,3294769", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2008, "model": "KODIAK"}}}

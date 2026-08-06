@@ -1,0 +1,7 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1964,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1964,p10+series", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "P10 SERIES"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1963,k10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "K10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1962,c10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1962, "model": "C10 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1964,p20+series,6.7l+409cid+v8,1324101", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1964, "model": "P20 SERIES"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1963,medium+duty+truck,4.8l+292cid+l6,3438723", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1963, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1960,k20+suburban,4.6l+283cid+v8,1489501", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1960, "model": "K20 SUBURBAN"}}}

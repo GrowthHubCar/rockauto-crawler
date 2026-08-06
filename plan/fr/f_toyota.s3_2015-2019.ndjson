@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2019,corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2019, "model": "COROLLA"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2016,avalon", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2016, "model": "AVALON"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2016,mirai", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2016, "model": "MIRAI"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2016,hiace", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2016, "model": "HIACE"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2019,c-hr", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2019, "model": "C-HR"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2016,venza,2.7l+l4,3353690", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2016, "model": "VENZA"}}}

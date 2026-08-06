@@ -1,0 +1,8 @@
+{"node_type": "model", "href": "/en/catalog/jeep,1955,willys", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1955, "model": "WILLYS"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1956,willys", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1956, "model": "WILLYS"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1957,willys", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1957, "model": "WILLYS"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1958,willys", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1958, "model": "WILLYS"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1956,truck", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1956, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1957,truck", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1957, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1958,truck", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1958, "model": "TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1959,truck", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1959, "model": "TRUCK"}}}

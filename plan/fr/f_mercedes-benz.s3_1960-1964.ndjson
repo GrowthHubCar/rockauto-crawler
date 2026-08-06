@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1961,220", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1961, "model": "220"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1963,300sel", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1963, "model": "300SEL"}}}

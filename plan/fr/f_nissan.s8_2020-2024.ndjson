@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/nissan,2021,murano", "payload": {"nodetype": "model", "ctx": {"make": "NISSAN", "year": 2021, "model": "MURANO"}}}
+{"node_type": "carcode", "href": "/en/catalog/nissan,2023,pathfinder,3.5l+v6,3451259", "payload": {"nodetype": "carcode", "ctx": {"make": "NISSAN", "year": 2023, "model": "PATHFINDER"}}}

@@ -1,0 +1,17 @@
+{"node_type": "model", "href": "/en/catalog/oldsmobile,2001,silhouette", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 2001, "model": "SILHOUETTE"}}}
+{"node_type": "model", "href": "/en/catalog/oldsmobile,2002,silhouette", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 2002, "model": "SILHOUETTE"}}}
+{"node_type": "model", "href": "/en/catalog/oldsmobile,2000,bravada", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 2000, "model": "BRAVADA"}}}
+{"node_type": "model", "href": "/en/catalog/oldsmobile,2002,bravada", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 2002, "model": "BRAVADA"}}}
+{"node_type": "model", "href": "/en/catalog/oldsmobile,2003,bravada", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 2003, "model": "BRAVADA"}}}
+{"node_type": "model", "href": "/en/catalog/oldsmobile,2000,alero", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 2000, "model": "ALERO"}}}
+{"node_type": "model", "href": "/en/catalog/oldsmobile,2001,alero", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 2001, "model": "ALERO"}}}
+{"node_type": "model", "href": "/en/catalog/oldsmobile,2002,alero", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 2002, "model": "ALERO"}}}
+{"node_type": "model", "href": "/en/catalog/oldsmobile,2003,alero", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 2003, "model": "ALERO"}}}
+{"node_type": "model", "href": "/en/catalog/oldsmobile,2002,aurora", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 2002, "model": "AURORA"}}}
+{"node_type": "model", "href": "/en/catalog/oldsmobile,2003,aurora", "payload": {"nodetype": "model", "ctx": {"make": "OLDSMOBILE", "year": 2003, "model": "AURORA"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,2004,silhouette,3.4l+v6,1426654", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 2004, "model": "SILHOUETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,2004,bravada,4.2l+l6,1426643", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 2004, "model": "BRAVADA"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,2001,intrigue,3.5l+v6,1374623", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 2001, "model": "INTRIGUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,2004,alero,2.2l+l4,1431626", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 2004, "model": "ALERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,2003,silhouette,3.4l+v6,1410938", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 2003, "model": "SILHOUETTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/oldsmobile,2000,silhouette,3.4l+v6,1359266", "payload": {"nodetype": "carcode", "ctx": {"make": "OLDSMOBILE", "year": 2000, "model": "SILHOUETTE"}}}

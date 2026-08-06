@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/ferrari,2003,360", "payload": {"nodetype": "model", "ctx": {"make": "FERRARI", "year": 2003, "model": "360"}}}
+{"node_type": "carcode", "href": "/en/catalog/ferrari,2003,550+maranello,5.5l+v12,951366", "payload": {"nodetype": "carcode", "ctx": {"make": "FERRARI", "year": 2003, "model": "550 MARANELLO"}}}

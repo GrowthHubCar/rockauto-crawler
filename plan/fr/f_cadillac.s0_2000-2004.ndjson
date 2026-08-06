@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/cadillac,2000,eldorado", "payload": {"nodetype": "model", "ctx": {"make": "CADILLAC", "year": 2000, "model": "ELDORADO"}}}
+{"node_type": "carcode", "href": "/en/catalog/cadillac,2003,deville,4.6l+v8,1411793", "payload": {"nodetype": "carcode", "ctx": {"make": "CADILLAC", "year": 2003, "model": "DEVILLE"}}}

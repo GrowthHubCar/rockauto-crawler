@@ -1,0 +1,28 @@
+{"node_type": "model", "href": "/en/catalog/plymouth,1985,voyager", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1985, "model": "VOYAGER"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1986,voyager", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1986, "model": "VOYAGER"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1987,voyager", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1987, "model": "VOYAGER"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1988,voyager", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1988, "model": "VOYAGER"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1987,grand+voyager", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1987, "model": "GRAND VOYAGER"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1988,grand+voyager", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1988, "model": "GRAND VOYAGER"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1986,turismo", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1986, "model": "TURISMO"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1988,sundance", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1988, "model": "SUNDANCE"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1986,horizon", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1986, "model": "HORIZON"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1988,expo", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1988, "model": "EXPO"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1986,reliant", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1986, "model": "RELIANT"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1987,reliant", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1987, "model": "RELIANT"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1988,reliant", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1988, "model": "RELIANT"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1987,gran+fury", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1987, "model": "GRAN FURY"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1988,gran+fury", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1988, "model": "GRAN FURY"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1987,caravelle", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1987, "model": "CARAVELLE"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1988,caravelle", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1988, "model": "CARAVELLE"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1988,colt+premier", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1988, "model": "COLT PREMIER"}}}
+{"node_type": "model", "href": "/en/catalog/plymouth,1988,colt+dl", "payload": {"nodetype": "model", "ctx": {"make": "PLYMOUTH", "year": 1988, "model": "COLT DL"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1985,caravelle,2.2l+135cid+l4+turbocharged,1229767", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1985, "model": "CARAVELLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1987,voyager,3.0l+181cid+v6,1243842", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1987, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1988,sundance,2.2l+135cid+l4,1242098", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1988, "model": "SUNDANCE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1989,caravelle,5.2l+318cid+v8,1230118", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1989, "model": "CARAVELLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1987,voyager,2.2l+135cid+l4,1243785", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1987, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1989,voyager,2.5l+153cid+l4,1243954", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1989, "model": "VOYAGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1987,horizon,2.2l+135cid+l4,1238150", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1987, "model": "HORIZON"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1989,sundance,2.2l+135cid+l4,1242122", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1989, "model": "SUNDANCE"}}}
+{"node_type": "carcode", "href": "/en/catalog/plymouth,1987,reliant,2.5l+153cid+l4,1240401", "payload": {"nodetype": "carcode", "ctx": {"make": "PLYMOUTH", "year": 1987, "model": "RELIANT"}}}

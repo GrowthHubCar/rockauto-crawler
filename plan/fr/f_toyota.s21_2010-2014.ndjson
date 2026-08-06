@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2010,sequoia", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2010, "model": "SEQUOIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2014,prius+c,1.5l+l4+electric/gas,3307206", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2014, "model": "PRIUS C"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2026,gti", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2026, "model": "GTI"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2025,virtus,999cc+l3+turbocharged,3458906", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2025, "model": "VIRTUS"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/ford,1961,ranchero", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1961, "model": "RANCHERO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1963,cortina", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1963, "model": "CORTINA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1962,sunliner,3.6l+223cid+l6,1490554", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1962, "model": "SUNLINER"}}}

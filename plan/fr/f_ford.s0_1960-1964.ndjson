@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ford,1960,anglia", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1960, "model": "ANGLIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1961,f-350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1961, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1963,falcon,3.3l+200cid+l6,1334775", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1963, "model": "FALCON"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1963,falcon,2.4l+144cid+l6,1334753", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1963, "model": "FALCON"}}}

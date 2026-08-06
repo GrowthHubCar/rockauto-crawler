@@ -1,2 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2014,tornado", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2014, "model": "TORNADO"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2013,express+3500", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2013, "model": "EXPRESS 3500"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,2011,cheyenne", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "CHEYENNE"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,2011,avalanche", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2011, "model": "AVALANCHE"}}}
 {"node_type": "model", "href": "/en/catalog/chevrolet,2010,corvette", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2010, "model": "CORVETTE"}}}

@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2021,sprinter+1500", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2021, "model": "SPRINTER 1500"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2022,maybach+gls600", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "MAYBACH GLS600"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2022,cls350", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2022, "model": "CLS350"}}}

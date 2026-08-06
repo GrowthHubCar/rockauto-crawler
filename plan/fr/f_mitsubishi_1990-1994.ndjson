@@ -1,0 +1,37 @@
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1993,montero", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1993, "model": "MONTERO"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1990,mighty+max", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1990, "model": "MIGHTY MAX"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1994,mighty+max", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1994, "model": "MIGHTY MAX"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1990,galant", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1990, "model": "GALANT"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1991,galant", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1991, "model": "GALANT"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1991,mirage", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1991, "model": "MIRAGE"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1993,mirage", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1993, "model": "MIRAGE"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1994,mirage", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1994, "model": "MIRAGE"}}}
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1993,diamante", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1993, "model": "DIAMANTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1991,mirage,1.6l+l4,1207279", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1991, "model": "MIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1991,eclipse,1.8l+l4,1205547", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1991, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1992,montero,3.0l+v6,1207718", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1992, "model": "MONTERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1993,mirage,1.5l+l4,1207347", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1993, "model": "MIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1990,mirage,1.5l+l4,1207224", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1990, "model": "MIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1990,precis,1.5l+l4,1208001", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1990, "model": "PRECIS"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1994,expo+lrv,2.4l+l4,1206010", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1994, "model": "EXPO LRV"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1991,mirage,1.5l+l4,1207268", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1991, "model": "MIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1990,eclipse,1.8l+l4,1205491", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1990, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1994,montero,3.5l+v6,1207820", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1994, "model": "MONTERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1991,mighty+max,3.0l+v6,1430283", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1991, "model": "MIGHTY MAX"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1992,mirage,1.6l+l4,1207314", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1992, "model": "MIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1992,eclipse,1.8l+l4,1205592", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1992, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1992,diamante,3.0l+v6+dohc,1433927", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1992, "model": "DIAMANTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1993,eclipse,2.0l+l4+turbocharged,1205671", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1993, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1990,montero,3.0l+v6,1207651", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1990, "model": "MONTERO"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1990,galant,2.0l+l4+dohc,1206133", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1990, "model": "GALANT"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1993,mighty+max,2.4l+l4,1206942", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1993, "model": "MIGHTY MAX"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1991,mighty+max,2.4l+l4,1206863", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1991, "model": "MIGHTY MAX"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1993,mighty+max,3.0l+v6,1430281", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1993, "model": "MIGHTY MAX"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1993,mirage,1.6l+l4,922752", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1993, "model": "MIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1992,mirage,1.5l+l4,1207303", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1992, "model": "MIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1993,eclipse,2.0l+l4,1205660", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1993, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1992,eclipse,2.0l+l4,1205615", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1992, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1992,diamante,3.0l+v6+sohc,1433926", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1992, "model": "DIAMANTE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1992,eclipse,2.0l+l4+turbocharged,1205626", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1992, "model": "ECLIPSE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1990,mirage,1.3l+l4,918656", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1990, "model": "MIRAGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1994,mirage,1.8l+l4,1207404", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1994, "model": "MIRAGE"}}}

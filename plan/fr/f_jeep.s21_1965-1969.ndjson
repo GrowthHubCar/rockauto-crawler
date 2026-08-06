@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/jeep,1965,dispatcher", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1965, "model": "DISPATCHER"}}}
+{"node_type": "model", "href": "/en/catalog/jeep,1967,j-2600", "payload": {"nodetype": "model", "ctx": {"make": "JEEP", "year": 1967, "model": "J-2600"}}}

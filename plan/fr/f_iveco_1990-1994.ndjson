@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/iveco,1990,euroturbo+450t", "payload": {"nodetype": "model", "ctx": {"make": "IVECO", "year": 1990, "model": "EUROTURBO 450T"}}}
+{"node_type": "model", "href": "/en/catalog/iveco,1990,euroturbo+435t", "payload": {"nodetype": "model", "ctx": {"make": "IVECO", "year": 1990, "model": "EUROTURBO 435T"}}}
+{"node_type": "model", "href": "/en/catalog/iveco,1990,euroturbo+340t", "payload": {"nodetype": "model", "ctx": {"make": "IVECO", "year": 1990, "model": "EUROTURBO 340T"}}}
+{"node_type": "model", "href": "/en/catalog/iveco,1990,euroturbo+335t", "payload": {"nodetype": "model", "ctx": {"make": "IVECO", "year": 1990, "model": "EUROTURBO 335T"}}}

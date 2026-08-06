@@ -1,2 +1,10 @@
+{"node_type": "model", "href": "/en/catalog/ford,2011,f53", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "F53"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2013,fiesta", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2013, "model": "FIESTA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2011,edge", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2011, "model": "EDGE"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2010,crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "CROWN VICTORIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2011,explorer,3.5l+v6,1447248", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2011, "model": "EXPLORER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2012,f-250+super+duty,6.2l+v8,1501959", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2012, "model": "F-250 SUPER DUTY"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2010,e+350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "E-350"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2010,explorer+sport+trac", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2010, "model": "EXPLORER SPORT TRAC"}}}

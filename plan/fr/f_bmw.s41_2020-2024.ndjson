@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2020,m760li", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2020, "model": "M760LI"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2020,m340i,3.0l+l6+turbocharged,3443949", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2020, "model": "M340I"}}}

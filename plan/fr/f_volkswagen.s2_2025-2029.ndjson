@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/volkswagen,2026,teramont", "payload": {"nodetype": "model", "ctx": {"make": "VOLKSWAGEN", "year": 2026, "model": "TERAMONT"}}}
+{"node_type": "carcode", "href": "/en/catalog/volkswagen,2025,polo,1.6l+l4,3458903", "payload": {"nodetype": "carcode", "ctx": {"make": "VOLKSWAGEN", "year": 2025, "model": "POLO"}}}

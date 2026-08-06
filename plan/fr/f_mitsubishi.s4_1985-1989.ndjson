@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mitsubishi,1988,cordia", "payload": {"nodetype": "model", "ctx": {"make": "MITSUBISHI", "year": 1988, "model": "CORDIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,1985,mirage,1.8l+l4+diesel,169044", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 1985, "model": "MIRAGE"}}}

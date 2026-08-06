@@ -1,2 +1,16 @@
+{"node_type": "model", "href": "/en/catalog/ford,1996,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,f-450+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,l+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "L SERIES TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,f-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "F-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,f-250+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "F-250 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,f-700", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "F-700"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,e-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "E-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,contour", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "CONTOUR"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1995,aerostar", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "AEROSTAR"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1997,taurus,3.0l+v6+dohc,1139071", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1997, "model": "TAURUS"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1996,f53,7.5l+v8,1367401", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1996, "model": "F53"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1999,mustang,3.8l+v6,1354722", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1999, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1998,f-350,5.0l+v8,951428", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1998, "model": "F-350"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1996,taurus,3.0l+v6+ohv,1138979", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1996, "model": "TAURUS"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1995,b+series+bus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "B SERIES BUS"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1998,f+150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "F-150"}}}

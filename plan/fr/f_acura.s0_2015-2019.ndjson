@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/acura,2019,mdx", "payload": {"nodetype": "model", "ctx": {"make": "ACURA", "year": 2019, "model": "MDX"}}}
+{"node_type": "carcode", "href": "/en/catalog/acura,2017,nsx,3.5l+v6+turbocharged,3435611", "payload": {"nodetype": "carcode", "ctx": {"make": "ACURA", "year": 2017, "model": "NSX"}}}

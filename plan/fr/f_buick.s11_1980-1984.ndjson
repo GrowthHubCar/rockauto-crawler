@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/buick,1983,lesabre", "payload": {"nodetype": "model", "ctx": {"make": "BUICK", "year": 1983, "model": "LESABRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1984,skyhawk,2.0l+122cid+l4,1022544", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1984, "model": "SKYHAWK"}}}
+{"node_type": "carcode", "href": "/en/catalog/buick,1983,regal,3.8l+231cid+v6+turbocharged,1020722", "payload": {"nodetype": "carcode", "ctx": {"make": "BUICK", "year": 1983, "model": "REGAL"}}}

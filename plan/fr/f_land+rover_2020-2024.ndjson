@@ -1,0 +1,33 @@
+{"node_type": "model", "href": "/en/catalog/land+rover,2020,range+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2020, "model": "RANGE ROVER"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2021,range+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2021, "model": "RANGE ROVER"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2022,range+rover", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2022, "model": "RANGE ROVER"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2020,defender+110", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2020, "model": "DEFENDER 110"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2021,defender+110", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2021, "model": "DEFENDER 110"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2023,defender+110", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2023, "model": "DEFENDER 110"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2024,defender+110", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2024, "model": "DEFENDER 110"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2020,discovery", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2020, "model": "DISCOVERY"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2021,discovery", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2021, "model": "DISCOVERY"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2021,defender+90", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2021, "model": "DEFENDER 90"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2023,defender+90", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2023, "model": "DEFENDER 90"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2022,range+rover+sport", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2022, "model": "RANGE ROVER SPORT"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2023,range+rover+sport", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2023, "model": "RANGE ROVER SPORT"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2022,range+rover+evoque", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2022, "model": "RANGE ROVER EVOQUE"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2021,range+rover+velar", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2021, "model": "RANGE ROVER VELAR"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2023,range+rover+velar", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2023, "model": "RANGE ROVER VELAR"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2022,discovery+sport", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2022, "model": "DISCOVERY SPORT"}}}
+{"node_type": "model", "href": "/en/catalog/land+rover,2024,defender+130", "payload": {"nodetype": "model", "ctx": {"make": "LAND ROVER", "year": 2024, "model": "DEFENDER 130"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,2024,range+rover,4.4l+v8+turbocharged,3454421", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2024, "model": "RANGE ROVER"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,2023,range+rover,3.0l+l6+turbocharged,3454147", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2023, "model": "RANGE ROVER"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,2023,range+rover,3.0l+l6+electric/gas+turbocharged,3454146", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2023, "model": "RANGE ROVER"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,2022,range+rover,4.4l+v8+turbocharged,3451176", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2022, "model": "RANGE ROVER"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,2022,range+rover+evoque,1.5l+l3+electric/gas+turbocharged,3450797", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2022, "model": "RANGE ROVER EVOQUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,2024,range+rover+sport,4.4l+v8+turbocharged,3455358", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2024, "model": "RANGE ROVER SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,2024,range+rover,3.0l+l6+turbocharged,3454420", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2024, "model": "RANGE ROVER"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,2022,range+rover+sport,2.0l+l4+electric/gas+turbocharged,3450799", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2022, "model": "RANGE ROVER SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,2023,range+rover+sport,3.0l+l6+electric/gas+turbocharged,3454148", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2023, "model": "RANGE ROVER SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,2024,range+rover,3.0l+l6+electric/gas+turbocharged,3454419", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2024, "model": "RANGE ROVER"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,2023,range+rover,4.4l+v8+turbocharged,3452188", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2023, "model": "RANGE ROVER"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,2024,range+rover+sport,3.0l+l6+turbocharged,3454423", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2024, "model": "RANGE ROVER SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,2020,defender+90,2.0l+l4+turbocharged,3445880", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2020, "model": "DEFENDER 90"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,2024,range+rover+sport,3.0l+l6+electric/gas+turbocharged,3454422", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2024, "model": "RANGE ROVER SPORT"}}}
+{"node_type": "carcode", "href": "/en/catalog/land+rover,2021,range+rover,3.0l+v6+diesel+turbocharged,3447075", "payload": {"nodetype": "carcode", "ctx": {"make": "LAND ROVER", "year": 2021, "model": "RANGE ROVER"}}}

@@ -1,2 +1,16 @@
+{"node_type": "model", "href": "/en/catalog/ford,2016,ranger", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2016, "model": "RANGER"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2016,transit+250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2016, "model": "TRANSIT 250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2018,lobo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2018, "model": "LOBO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2017,f-650", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "F-650"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2017,focus", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "FOCUS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2019,f59", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2019, "model": "F59"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2016,f-350+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2016, "model": "F-350 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2018,expedition", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2018, "model": "EXPEDITION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2019,e-450", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2019, "model": "E-450"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2015,fusion,2.5l+l4,3308878", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2015, "model": "FUSION"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2018,transit,2.2l+l4+diesel+turbocharged,3442185", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2018, "model": "TRANSIT"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2017,f-750,6.8l+v10,3436073", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2017, "model": "F-750"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2015,fiesta,1.6l+l4,3308781", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2015, "model": "FIESTA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2015,taurus,2.0l+l4+turbocharged,3308787", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2015, "model": "TAURUS"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2018,e+350", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2018, "model": "E-350"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2018,f+650", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2018, "model": "F-650"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/abarth,1960,750", "payload": {"nodetype": "model", "ctx": {"make": "ABARTH", "year": 1960, "model": "750"}}}
+{"node_type": "model", "href": "/en/catalog/abarth,1964,simca", "payload": {"nodetype": "model", "ctx": {"make": "ABARTH", "year": 1964, "model": "SIMCA"}}}

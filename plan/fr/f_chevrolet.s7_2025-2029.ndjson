@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,2026,groove", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 2026, "model": "GROOVE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2025,silverado+1500,2.7l+l4+turbocharged,3455900", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2025, "model": "SILVERADO 1500"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,2025,silverado+3500,6.6l+v8,3455526", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 2025, "model": "SILVERADO 3500"}}}

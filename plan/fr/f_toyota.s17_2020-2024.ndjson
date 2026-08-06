@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/toyota,2020,prius", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2020, "model": "PRIUS"}}}
+{"node_type": "model", "href": "/en/catalog/toyota,2023,gr+corolla", "payload": {"nodetype": "model", "ctx": {"make": "TOYOTA", "year": 2023, "model": "GR COROLLA"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2024,land+cruiser,2.4l+l4+electric/gas+turbocharged,3455729", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2024, "model": "LAND CRUISER"}}}
+{"node_type": "carcode", "href": "/en/catalog/toyota,2022,yaris,1.6l+l3+turbocharged,3451314", "payload": {"nodetype": "carcode", "ctx": {"make": "TOYOTA", "year": 2022, "model": "YARIS"}}}

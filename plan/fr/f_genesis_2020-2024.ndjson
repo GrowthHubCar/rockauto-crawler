@@ -1,0 +1,21 @@
+{"node_type": "model", "href": "/en/catalog/genesis,2022,g80", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2022, "model": "G80"}}}
+{"node_type": "model", "href": "/en/catalog/genesis,2023,g80", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2023, "model": "G80"}}}
+{"node_type": "model", "href": "/en/catalog/genesis,2020,g90", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2020, "model": "G90"}}}
+{"node_type": "model", "href": "/en/catalog/genesis,2021,g90", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2021, "model": "G90"}}}
+{"node_type": "model", "href": "/en/catalog/genesis,2023,g90", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2023, "model": "G90"}}}
+{"node_type": "model", "href": "/en/catalog/genesis,2023,gv80", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2023, "model": "GV80"}}}
+{"node_type": "model", "href": "/en/catalog/genesis,2024,gv80", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2024, "model": "GV80"}}}
+{"node_type": "model", "href": "/en/catalog/genesis,2021,g70", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2021, "model": "G70"}}}
+{"node_type": "model", "href": "/en/catalog/genesis,2022,g70", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2022, "model": "G70"}}}
+{"node_type": "model", "href": "/en/catalog/genesis,2023,g70", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2023, "model": "G70"}}}
+{"node_type": "model", "href": "/en/catalog/genesis,2023,gv70", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2023, "model": "GV70"}}}
+{"node_type": "model", "href": "/en/catalog/genesis,2024,electrified+g80", "payload": {"nodetype": "model", "ctx": {"make": "GENESIS", "year": 2024, "model": "ELECTRIFIED G80"}}}
+{"node_type": "carcode", "href": "/en/catalog/genesis,2024,gv70,electric,3457883", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2024, "model": "GV70"}}}
+{"node_type": "carcode", "href": "/en/catalog/genesis,2023,g80,electric,3457879", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2023, "model": "G80"}}}
+{"node_type": "carcode", "href": "/en/catalog/genesis,2024,g80,electric,3457880", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2024, "model": "G80"}}}
+{"node_type": "carcode", "href": "/en/catalog/genesis,2024,g80,3.5l+v6+turbocharged,3455289", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2024, "model": "G80"}}}
+{"node_type": "carcode", "href": "/en/catalog/genesis,2021,g80,3.5l+v6+turbocharged,3446615", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2021, "model": "G80"}}}
+{"node_type": "carcode", "href": "/en/catalog/genesis,2023,g80,3.5l+v6+turbocharged,3451102", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2023, "model": "G80"}}}
+{"node_type": "carcode", "href": "/en/catalog/genesis,2024,g80,2.5l+l4+turbocharged,3455288", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2024, "model": "G80"}}}
+{"node_type": "carcode", "href": "/en/catalog/genesis,2024,g90,3.5l+v6+turbocharged,3454348", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2024, "model": "G90"}}}
+{"node_type": "carcode", "href": "/en/catalog/genesis,2024,g70,2.5l+l4+turbocharged,3455286", "payload": {"nodetype": "carcode", "ctx": {"make": "GENESIS", "year": 2024, "model": "G70"}}}

@@ -1,0 +1,17 @@
+{"node_type": "model", "href": "/en/catalog/isuzu,2001,trooper", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2001, "model": "TROOPER"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2000,npr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2000, "model": "NPR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2003,npr", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2003, "model": "NPR"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2000,hombre", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2000, "model": "HOMBRE"}}}
+{"node_type": "model", "href": "/en/catalog/isuzu,2001,vehicross", "payload": {"nodetype": "model", "ctx": {"make": "ISUZU", "year": 2001, "model": "VEHICROSS"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2004,npr,6.0l+v8,3295456", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2004, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2002,rodeo,2.2l+l4,1386626", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2002, "model": "RODEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2002,rodeo,3.2l+v6,1386637", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2002, "model": "RODEO"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2003,f+series+truck,7.8l+l6+diesel+turbocharged,3296980", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2003, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2002,nqr,4.8l+l4+diesel+turbocharged,3295450", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2002, "model": "NQR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2002,npr,4.8l+l4+diesel+turbocharged,3298348", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2002, "model": "NPR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2000,nqr,4.8l+l4+diesel+turbocharged,3297404", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2000, "model": "NQR"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2000,trooper,3.5l+v6,1363272", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2000, "model": "TROOPER"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2000,hombre,4.3l+v6,1440166", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2000, "model": "HOMBRE"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2003,ascender,4.2l+l6,1415933", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2003, "model": "ASCENDER"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2002,f+series+truck,7.8l+l6+diesel+turbocharged,3296976", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2002, "model": "F SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/isuzu,2002,rodeo+sport,2.2l+l4,1386648", "payload": {"nodetype": "carcode", "ctx": {"make": "ISUZU", "year": 2002, "model": "RODEO SPORT"}}}

@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2022,m4", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2022, "model": "M4"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2020,alpina+b7,4.4l+v8+turbocharged,3444492", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2020, "model": "ALPINA B7"}}}

@@ -1,2 +1,15 @@
+{"node_type": "model", "href": "/en/catalog/ford,1999,lobo", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "LOBO"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,f-100", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "F-100"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,f-800", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "F-800"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,grand+marquis", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "GRAND MARQUIS"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1999,expedition", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "EXPEDITION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,e-250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "E-250"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,crown+victoria", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "CROWN VICTORIA"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1998,club+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1998, "model": "CLUB WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1996,a+series+truck", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1996, "model": "A SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1998,l+series+truck,12.7l+l6+diesel+turbocharged,3434684", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1998, "model": "L SERIES TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1999,f-250,5.4l+v8,1414820", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1999, "model": "F-250"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1996,mystique,2.5l+v6,951472", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1996, "model": "MYSTIQUE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1997,e-250,4.2l+v6,1115053", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1997, "model": "E-250"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1995,club+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1995, "model": "CLUB WAGON"}}}
 {"node_type": "model", "href": "/en/catalog/ford,1999,f+250", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1999, "model": "F-250"}}}

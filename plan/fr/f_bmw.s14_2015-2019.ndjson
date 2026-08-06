@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/bmw,2016,x6", "payload": {"nodetype": "model", "ctx": {"make": "BMW", "year": 2016, "model": "X6"}}}
+{"node_type": "carcode", "href": "/en/catalog/bmw,2015,535d,3.0l+l6+diesel+turbocharged,3309706", "payload": {"nodetype": "carcode", "ctx": {"make": "BMW", "year": 2015, "model": "535D"}}}

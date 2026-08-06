@@ -1,0 +1,6 @@
+{"node_type": "model", "href": "/en/catalog/ford,1977,p-500", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1977, "model": "P-500"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1976,custom", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1976, "model": "CUSTOM"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1976,elite", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1976, "model": "ELITE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1977,granada,5.0l+302cid+v8,1129913", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1977, "model": "GRANADA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1975,p-500,5.0l+302cid+v8,1434216", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1975, "model": "P-500"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1975,gran+torino,6.6l+400cid+v8,1129542", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1975, "model": "GRAN TORINO"}}}

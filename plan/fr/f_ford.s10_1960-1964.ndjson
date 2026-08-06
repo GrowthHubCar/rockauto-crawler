@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/ford,1963,ranch+wagon", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1963, "model": "RANCH WAGON"}}}
+{"node_type": "model", "href": "/en/catalog/ford,1960,custom", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 1960, "model": "CUSTOM"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1963,victoria,6.4l+390cid+v8,1491193", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1963, "model": "VICTORIA"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,1964,galaxie,4.7l+289cid+v8,1435660", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 1964, "model": "GALAXIE"}}}

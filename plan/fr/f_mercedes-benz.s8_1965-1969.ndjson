@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1965,300se", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1965, "model": "300SE"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1969,280s", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1969, "model": "280S"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,1969,280sec", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 1969, "model": "280SEC"}}}

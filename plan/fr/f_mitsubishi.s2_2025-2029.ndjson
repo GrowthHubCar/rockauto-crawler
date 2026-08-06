@@ -1,0 +1,3 @@
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2025,rvr,2.4l+l4,3458729", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2025, "model": "RVR"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2025,mirage+g4,1.2l+l3,3458724", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2025, "model": "MIRAGE G4"}}}
+{"node_type": "carcode", "href": "/en/catalog/mitsubishi,2025,outlander+sport,2.4l+l4,3458727", "payload": {"nodetype": "carcode", "ctx": {"make": "MITSUBISHI", "year": 2025, "model": "OUTLANDER SPORT"}}}

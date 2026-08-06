@@ -1,0 +1,5 @@
+{"node_type": "model", "href": "/en/catalog/workhorse,2010,w42", "payload": {"nodetype": "model", "ctx": {"make": "WORKHORSE", "year": 2010, "model": "W42"}}}
+{"node_type": "model", "href": "/en/catalog/workhorse,2011,w42", "payload": {"nodetype": "model", "ctx": {"make": "WORKHORSE", "year": 2011, "model": "W42"}}}
+{"node_type": "model", "href": "/en/catalog/workhorse,2010,lf72", "payload": {"nodetype": "model", "ctx": {"make": "WORKHORSE", "year": 2010, "model": "LF72"}}}
+{"node_type": "model", "href": "/en/catalog/workhorse,2011,lf72", "payload": {"nodetype": "model", "ctx": {"make": "WORKHORSE", "year": 2011, "model": "LF72"}}}
+{"node_type": "model", "href": "/en/catalog/workhorse,2010,w62", "payload": {"nodetype": "model", "ctx": {"make": "WORKHORSE", "year": 2010, "model": "W62"}}}

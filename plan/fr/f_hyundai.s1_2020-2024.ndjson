@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/hyundai,2020,kona", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2020, "model": "KONA"}}}
+{"node_type": "model", "href": "/en/catalog/hyundai,2022,creta+grand", "payload": {"nodetype": "model", "ctx": {"make": "HYUNDAI", "year": 2022, "model": "CRETA GRAND"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2024,santa+fe,2.5l+l4+turbocharged,3455593", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2024, "model": "SANTA FE"}}}
+{"node_type": "carcode", "href": "/en/catalog/hyundai,2021,ioniq,electric,3448965", "payload": {"nodetype": "carcode", "ctx": {"make": "HYUNDAI", "year": 2021, "model": "IONIQ"}}}

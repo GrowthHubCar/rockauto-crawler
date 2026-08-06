@@ -1,0 +1,3 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2023,sl55+amg", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "SL55 AMG"}}}
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2021,g550", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2021, "model": "G550"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2023,amg+gt+53,3.0l+l6+turbocharged,3454464", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2023, "model": "AMG GT 53"}}}

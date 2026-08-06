@@ -1,0 +1,4 @@
+{"node_type": "model", "href": "/en/catalog/lexus,2022,rc350", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2022, "model": "RC350"}}}
+{"node_type": "model", "href": "/en/catalog/lexus,2024,rc300", "payload": {"nodetype": "model", "ctx": {"make": "LEXUS", "year": 2024, "model": "RC300"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2024,es300h,2.5l+l4+electric/gas,3455112", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2024, "model": "ES300H"}}}
+{"node_type": "carcode", "href": "/en/catalog/lexus,2023,es350,3.5l+v6,3453672", "payload": {"nodetype": "carcode", "ctx": {"make": "LEXUS", "year": 2023, "model": "ES350"}}}

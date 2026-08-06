@@ -1,0 +1,2 @@
+{"node_type": "model", "href": "/en/catalog/mercedes-benz,2019,gle450", "payload": {"nodetype": "model", "ctx": {"make": "MERCEDES-BENZ", "year": 2019, "model": "GLE450"}}}
+{"node_type": "carcode", "href": "/en/catalog/mercedes-benz,2018,sl500,4.7l+v8+turbocharged,3442444", "payload": {"nodetype": "carcode", "ctx": {"make": "MERCEDES-BENZ", "year": 2018, "model": "SL500"}}}

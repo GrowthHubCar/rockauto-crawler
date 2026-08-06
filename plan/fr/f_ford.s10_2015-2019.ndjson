@@ -1,2 +1,16 @@
+{"node_type": "model", "href": "/en/catalog/ford,2016,mustang", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2016, "model": "MUSTANG"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2018,transit+150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2018, "model": "TRANSIT 150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2016,fusion", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2016, "model": "FUSION"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2018,f-450+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2018, "model": "F-450 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2019,f-550+super+duty", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2019, "model": "F-550 SUPER DUTY"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2017,flex", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2017, "model": "FLEX"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2019,f-150", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2019, "model": "F-150"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2016,ecosport", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2016, "model": "ECOSPORT"}}}
+{"node_type": "model", "href": "/en/catalog/ford,2016,c-max", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2016, "model": "C-MAX"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2016,mustang,3.7l+v6,3340758", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2016, "model": "MUSTANG"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2017,ranger,3.2l+l5+diesel+turbocharged,3435069", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2017, "model": "RANGER"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2016,edge,3.5l+v6,3330848", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2016, "model": "EDGE"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2017,police+sedan,3.5l+v6+turbocharged,3436576", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2017, "model": "POLICE SEDAN"}}}
+{"node_type": "carcode", "href": "/en/catalog/ford,2016,f-150,2.7l+v6+turbocharged,3353760", "payload": {"nodetype": "carcode", "ctx": {"make": "FORD", "year": 2016, "model": "F-150"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2019,e+450", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2019, "model": "E-450"}}}
 {"node_type": "model", "href": "/en/catalog/ford,2016,f53", "payload": {"nodetype": "model", "ctx": {"make": "FORD", "year": 2016, "model": "F53"}}}

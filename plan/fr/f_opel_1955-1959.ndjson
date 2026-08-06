@@ -1,0 +1,13 @@
+{"node_type": "model", "href": "/en/catalog/opel,1955,kapitan", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1955, "model": "KAPITAN"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1956,kapitan", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1956, "model": "KAPITAN"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1957,kapitan", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1957, "model": "KAPITAN"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1955,olympia+rekord", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1955, "model": "OLYMPIA REKORD"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1956,olympia+rekord", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1956, "model": "OLYMPIA REKORD"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1957,olympia+rekord", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1957, "model": "OLYMPIA REKORD"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1958,olympia+rekord", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1958, "model": "OLYMPIA REKORD"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1959,olympia+rekord", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1959, "model": "OLYMPIA REKORD"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1955,caravan", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1955, "model": "CARAVAN"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1956,caravan", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1956, "model": "CARAVAN"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1957,caravan", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1957, "model": "CARAVAN"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1958,caravan", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1958, "model": "CARAVAN"}}}
+{"node_type": "model", "href": "/en/catalog/opel,1959,caravan", "payload": {"nodetype": "model", "ctx": {"make": "OPEL", "year": 1959, "model": "CARAVAN"}}}

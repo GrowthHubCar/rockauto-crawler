@@ -1,0 +1,18 @@
+{"node_type": "model", "href": "/en/catalog/chevrolet,1972,p30", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1972, "model": "P30"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1973,malibu", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1973, "model": "MALIBU"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1970,townsman", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1970, "model": "TOWNSMAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1974,medium+duty+truck", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1974, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1974,k10+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1974, "model": "K10 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1971,k20+suburban", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1971, "model": "K20 SUBURBAN"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1974,laguna", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1974, "model": "LAGUNA"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1973,k10+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1973, "model": "K10 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1974,g10", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1974, "model": "G10"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1972,caprice", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1972, "model": "CAPRICE"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1973,c20+pickup", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1973, "model": "C20 PICKUP"}}}
+{"node_type": "model", "href": "/en/catalog/chevrolet,1973,chevelle", "payload": {"nodetype": "model", "ctx": {"make": "CHEVROLET", "year": 1973, "model": "CHEVELLE"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1974,k30+pickup,5.7l+350cid+v8,1294343", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1974, "model": "K30 PICKUP"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1971,g10,5.7l+350cid+v8,1291733", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1971, "model": "G10"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1971,g20,4.8l+292cid+l6,1405167", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1971, "model": "G20"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1973,medium+duty+truck,5.0l+305cid+v6,3442637", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1973, "model": "MEDIUM DUTY TRUCK"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1973,g30,5.7l+350cid+v8,1047068", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1973, "model": "G30"}}}
+{"node_type": "carcode", "href": "/en/catalog/chevrolet,1974,k10+pickup,7.4l+454cid+v8,1399732", "payload": {"nodetype": "carcode", "ctx": {"make": "CHEVROLET", "year": 1974, "model": "K10 PICKUP"}}}
