@@ -20,6 +20,15 @@
 name: RockAuto Moreinfo Backfill
 
 on:
+  # A runner's egress IP is fixed for its lifetime, so a walled runner stays walled -
+  # retrying inside the job is pointless. Two one-shot dispatches of 35 jobs each drew
+  # 54 runners and every one was walled (curl 28, TCP blackhole), while crawl.yml on the
+  # same accounts at the same moment ran ~23% live. crawl.yml wins because it dispatches
+  # CONTINUOUSLY and therefore samples many runner subnets over time; a single burst
+  # samples roughly one. This schedule buys the same effect: keep sampling until live
+  # blocks come up. The concurrency group below stops rounds from stacking.
+  schedule:
+    - cron: '*/20 * * * *'
   workflow_dispatch:
     inputs:
       max_seconds:
