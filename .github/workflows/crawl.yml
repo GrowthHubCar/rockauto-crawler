@@ -134,13 +134,22 @@ jobs:
           # any job that goes live on a non-first address is one the old probe condemned
           # wrongly. Logging the egress IP lets us test whether the block ever expires.
           EIP=$(curl -s --max-time 3 https://api.ipify.org 2>/dev/null || echo '?')
-          live=0; hit=''
-          for A in 135.135.84.147 135.135.84.150 69.174.175.195 69.174.175.196; do
-            curl -sS --compressed --connect-timeout 2 --max-time 8 -A "$UA" \
-              --resolve "www.rockauto.com:443:$A" "$PROBE" 2>/dev/null \
-              | grep -q 'ranavnode\|navlabellink\|listing-\|nchildren' && { live=1; hit=$A; break; }
+          # REVERTED 2026-08-07 21:35Z, restoring the original probe. The four-A-record
+          # --resolve version above was MEASURED at 0 live jobs of 129 across all six
+          # shards against a 19-of-210 (9%) baseline on this logic. Cause not isolated:
+          # --connect-timeout 2 is 74x the 27ms a clean host actually needs (measured from
+          # the VPS), so the timeout is not obviously the fault, and the runs were a
+          # synchronised burst right after a mass-cancel, which this project's own notes
+          # warn samples roughly ONE runner subnet. Production wins over a clean
+          # experiment: 0% means the crawl has stopped. Re-test only as an A/B on half the
+          # fleet, never fleet-wide again.
+          live=0
+          for _ in 1 2; do   # twice: one dropped connection must not cost a whole job
+            curl -sS --compressed --max-time 10 -A "$UA" "$PROBE" \
+              | grep -q 'ranavnode\|navlabellink\|listing-\|nchildren' && { live=1; break; }
+            sleep 2
           done
-          echo "[preflight] egress=$EIP live=$live via=$hit"
+          echo "[preflight] egress=$EIP live=$live"
           echo "live=$live" >> "$GITHUB_OUTPUT"
           [ "$live" = 1 ] || echo "[preflight] runner IP is walled — skipping the rest so the slot recycles"
 
