@@ -30,8 +30,14 @@ on:
         description: "Requests per job. 1800 aims at the measured wall band (1,111-1,998) instead of stopping short of it. A job that walls early still uploads what it got, so overshooting costs nothing."
         default: "1800"
       max_seconds:
-        description: "Max runtime per job (s). Must exceed budget/rate or the budget is never reached; SP_MAX_BLOCKED=3 already aborts a walled job in seconds."
-        default: "300"
+        description: "Max runtime per job (s). Blank = fall through to vars.MAX_SECONDS (then 300). Must exceed budget/rate or the budget is never reached."
+        # DEFAULT DELIBERATELY BLANK. A declared default is substituted by GitHub on EVERY
+        # dispatch, including the self-relaunch which passes no inputs. So line 367's
+        # `github.event.inputs.max_seconds || vars.MAX_SECONDS || '300'` always saw a
+        # truthy "300" and vars.MAX_SECONDS was DEAD — setting it to 900 on all 8 repos
+        # on 2026-08-07 changed nothing at all. Blank is falsy, so the variable now wins
+        # and the ceiling is A/B-able per shard without a code push, as intended.
+        default: ""
       priority_makes:
         description: "Optional comma-separated makes to crawl first (passed as PRIORITY_MAKES)"
         default: ""
@@ -119,12 +125,22 @@ jobs:
         run: |
           UA='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36'
           PROBE='https://www.rockauto.com/en/catalog/ac,1947,two-litre,2.0l+122cid+l6,1486554,cooling+system,coolant+/+antifreeze,11393'
-          live=0
-          for _ in 1 2; do   # twice: one dropped connection must not cost a whole job
-            curl -sS --compressed --max-time 10 -A "$UA" "$PROBE" \
-              | grep -q 'ranavnode\|navlabellink\|listing-\|nchildren' && { live=1; break; }
-            sleep 2
+          # Try each of RockAuto's four front-end A records explicitly, 2s connect budget
+          # each. WHY: the old loop was two attempts at --max-time 10 against whatever DNS
+          # returned, so a runner whose SYN is blackholed burned ~22s to learn one thing.
+          # Worst case here is 4x2s=8s, and it also answers a question we could not
+          # otherwise ask — whether a "walled" runner is blocked at ALL four front-ends or
+          # only the one DNS happened to hand it. `via=` in the log makes that measurable:
+          # any job that goes live on a non-first address is one the old probe condemned
+          # wrongly. Logging the egress IP lets us test whether the block ever expires.
+          EIP=$(curl -s --max-time 3 https://api.ipify.org 2>/dev/null || echo '?')
+          live=0; hit=''
+          for A in 135.135.84.147 135.135.84.150 69.174.175.195 69.174.175.196; do
+            curl -sS --compressed --connect-timeout 2 --max-time 8 -A "$UA" \
+              --resolve "www.rockauto.com:443:$A" "$PROBE" 2>/dev/null \
+              | grep -q 'ranavnode\|navlabellink\|listing-\|nchildren' && { live=1; hit=$A; break; }
           done
+          echo "[preflight] egress=$EIP live=$live via=$hit"
           echo "live=$live" >> "$GITHUB_OUTPUT"
           [ "$live" = 1 ] || echo "[preflight] runner IP is walled — skipping the rest so the slot recycles"
 
